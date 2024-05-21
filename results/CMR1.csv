@@ -1,0 +1,2 @@
+Text1,Text2,Same Causal Variable,Variable Name,Explanation,Model
+Vacant Buildings,Antiquity of the Building,False,,"While both texts pertain to buildings, they describe different aspects. 'Vacant Buildings' refers to the occupancy status of buildings, whereas 'Antiquity of the Building' refers to the age or historical significance of the building. These are related but distinct variables.",gpt-4o
