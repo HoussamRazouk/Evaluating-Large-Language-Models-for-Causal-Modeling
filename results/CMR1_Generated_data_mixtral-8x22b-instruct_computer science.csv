@@ -1,0 +1,11 @@
+variable definition,values
+Programming Language,"['Python', 'Java', 'C++', 'JavaScript', 'Ruby', 'Swift', 'Go', 'Rust', 'PHP', 'Kotlin']"
+Operating System,"['Windows', 'Linux', 'MacOS', 'Android', 'iOS', 'Chrome OS', 'FreeBSD', 'Solaris', 'Unix', 'DOS']"
+Database Management System,"['MySQL', 'PostgreSQL', 'Oracle', 'SQLite', 'MongoDB', 'Cassandra', 'Redis', 'MariaDB', 'SQL Server', 'DB2']"
+Web Framework,"['Django', 'Flask', 'Express.js', 'Ruby on Rails', 'AngularJS', 'Vue.js', 'React', 'Laravel', 'Spring', 'ASP.NET']"
+Version Control System,"['Git', 'Subversion', 'Mercurial', 'Perforce', 'Bazaar', 'CVS', 'TFS', 'Fossil', 'Darcs', 'Monotone']"
+Cloud Service Provider,"['AWS', 'Google Cloud', 'Microsoft Azure', 'IBM Cloud', 'Oracle Cloud', 'Alibaba Cloud', 'Salesforce', 'SAP Cloud', 'VMware Cloud', 'Rackspace']"
+Containerization Platform,"['Docker', 'Kubernetes', 'Apache Mesos', 'CoreOS', 'OpenShift', 'HashiCorp Nomad', 'Rancher', 'LXC', 'LXD', 'CRI-O']"
+DevOps Tool,"['Jenkins', 'Ansible', 'Chef', 'Puppet', 'Terraform', 'Vagrant', 'Packer', 'SaltStack', 'Nagios', 'ELK Stack']"
+Big Data Processing Framework,"['Hadoop', 'Spark', 'Flink', 'Storm', 'Samza', 'Kafka', 'Cassandra', 'HBase', 'Zookeeper', 'Pig']"
+Machine Learning Library,"['TensorFlow', 'PyTorch', 'Scikit-learn', 'Keras', 'Caffe', 'MXNet', 'Theano', 'CNTK', 'LightGBM', 'XGBoost']"

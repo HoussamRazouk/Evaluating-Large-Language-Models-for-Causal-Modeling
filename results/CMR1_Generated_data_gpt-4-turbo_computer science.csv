@@ -1,0 +1,11 @@
+variable definition,values
+Operating System,"['Windows family', 'MacOS series', 'Linux distributions', 'Android versions', 'iOS releases']"
+Programming Language,"['Object-oriented languages', 'Functional programming languages', 'Scripting languages', 'Procedural languages', 'Logic programming languages']"
+Data Structure,"['Linked lists', 'Binary trees', 'Hash tables', 'Graph structures', 'Queues and stacks']"
+Algorithm Type,"['Sorting algorithms', 'Search algorithms', 'Graph algorithms', 'Dynamic programming algorithms', 'Greedy algorithms']"
+Network Protocol,"['Transmission Control Protocol', 'Internet Protocol', 'HyperText Transfer Protocol', 'Simple Mail Transfer Protocol', 'File Transfer Protocol']"
+Database System,"['Relational databases', 'NoSQL databases', 'NewSQL databases', 'Time-series databases', 'Graph databases']"
+Cloud Service Model,"['Infrastructure as a Service', 'Platform as a Service', 'Software as a Service', 'Function as a Service', 'Database as a Service']"
+Machine Learning Technique,"['Supervised learning methods', 'Unsupervised learning methods', 'Reinforcement learning methods', 'Deep learning architectures', 'Ensemble methods']"
+Cybersecurity Threat,"['Ransomware attacks', 'Phishing scams', 'Denial of Service attacks', 'Man-in-the-middle attacks', 'SQL injection attacks']"
+Software Development Methodology,"['Agile practices', 'Waterfall model', 'Scrum framework', 'Lean principles', 'DevOps strategies']"

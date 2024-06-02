@@ -1,0 +1,11 @@
+variable definition,values
+Type of family structure,"['nuclear family', 'single-parent family', 'extended family', 'childless family', 'stepfamily']"
+Educational attainment,"['no formal education', 'primary education completed', 'secondary education completed', 'university degree obtained', 'postgraduate degree obtained']"
+Employment status,"['full-time employed', 'part-time employed', 'self-employed', 'unemployed', 'retired']"
+Urban or rural residence,"['urban city center', 'suburban area', 'rural village', 'rural isolated', 'town']"
+Religious affiliation,"['Christianity', 'Islam', 'Hinduism', 'Buddhism', 'atheist']"
+Political orientation,"['conservative', 'liberal', 'moderate', 'socialist', 'libertarian']"
+Marital status,"['never married', 'married', 'divorced', 'widowed', 'separated']"
+Type of housing,"['detached house', 'apartment', 'townhouse', 'mobile home', 'farmhouse']"
+Social class perception,"['working class', 'middle class', 'upper middle class', 'elite', 'underclass']"
+Ethnic background,"['Caucasian', 'African descent', 'Hispanic', 'Asian', 'Mixed race']"

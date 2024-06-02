@@ -1,0 +1,11 @@
+variable definition,values
+Occupation,"['Doctor', 'Lawyer', 'Teacher', 'Engineer', 'Artist', 'Musician', 'Chef', 'Athlete', 'Politician', 'Entrepreneur']"
+Family Structure,"['Nuclear Family', 'Single Parent', 'Extended Family', 'Blended Family', 'Communal Living', 'Foster Care', 'Adoptive Family', 'Multigenerational Household']"
+Religious Affiliation,"['Catholic', 'Protestant', 'Jewish', 'Muslim', 'Hindu', 'Buddhist', 'Atheist', 'Agnostic', 'Spiritual but not Religious']"
+Neighborhood Type,"['Urban Slum', 'Suburban Development', 'Rural Town', 'Coastal Resort', 'Mountain Retreat', 'Desert Oasis', 'College Town', 'Retirement Community']"
+Leisure Activity,"['Hiking', 'Reading', 'Gaming', 'Watching Sports', 'Attending Concerts', 'Cooking', 'Yoga', 'Traveling', 'Volunteering']"
+Education Level,"['High School Diploma', 'Some College', ""Bachelor's Degree"", ""Master's Degree"", 'Doctoral Degree', 'Vocational Training', 'Online Certification']"
+Cultural Identity,"['African American', 'Latinx', 'Asian American', 'Native American', 'White American', 'Middle Eastern', 'South Asian', 'East Asian']"
+Economic Status,"['Upper Class', 'Upper Middle Class', 'Middle Class', 'Working Class', 'Lower Middle Class', 'Working Poor', 'Extreme Poverty']"
+Living Arrangement,"['Homeowner', 'Renter', 'Shared Housing', 'Dormitory', 'Homeless Shelter', 'Group Home', 'Retirement Home', 'Nursing Home']"
+Transportation Mode,"['Car Owner', 'Public Transportation', 'Bicycle', 'Walking', 'Skateboarding', 'Motorcycle', 'Electric Scooter', 'Ride-Sharing']"

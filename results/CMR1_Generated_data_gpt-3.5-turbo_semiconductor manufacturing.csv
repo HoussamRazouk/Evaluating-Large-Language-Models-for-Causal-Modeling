@@ -1,0 +1,11 @@
+variable definition,values
+Type of semiconductor material,"['Silicon', 'Gallium arsenide', 'Indium phosphide', 'Germanium', 'Silicon carbide']"
+Semiconductor fabrication process,"['Etching', 'Lithography', 'Deposition', 'Implantation', 'Annealing']"
+Type of semiconductor device,"['Transistor', 'Diode', 'MOSFET', 'LED', 'MEMS']"
+Cleanroom classification,"['ISO Class 1', 'ISO Class 5', 'ISO Class 7', 'ISO Class 9', 'ISO Class 10']"
+Wafer size,"['200mm', '300mm', '450mm', '150mm', '100mm']"
+Doping concentration,"['Heavy doping', 'Light doping', 'Moderate doping', 'Ultra-low doping', 'Intrinsic']"
+Etching method,"['Wet etching', 'Dry etching', 'Plasma etching', 'Reactive ion etching', 'Chemical mechanical polishing']"
+Dielectric material,"['Silicon dioxide', 'Silicon nitride', 'Polyimide', 'Boron nitride', 'Aluminum oxide']"
+Mask type,"['Photomask', 'Etch mask', 'Implant mask', 'Lift-off mask', 'Contact mask']"
+Annealing technique,"['Rapid thermal annealing', 'Furnace annealing', 'Laser annealing', 'Flash annealing', 'Millisecond annealing']"

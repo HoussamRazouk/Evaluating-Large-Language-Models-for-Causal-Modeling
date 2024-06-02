@@ -1,0 +1,12 @@
+variable definition,values
+Land Use Pattern,"['Residential Areas', 'Commercial Hubs', 'Industrial Estates', 'Recreational Spaces', 'Agricultural Lands']"
+Transportation Infrastructure,"['High-Speed Rail Networks', 'Bus Rapid Transit Systems', 'Freeway Interchanges', 'Bicycle-Friendly Roads', 'Pedestrianized Zones']"
+Urban Density,"['Skyscraper Districts', 'Mid-Rise Neighborhoods', 'Low-Rise Suburbs', 'Rural Villages', 'Coastal Towns']"
+Green Space Allocation,"['Urban Forests', 'Community Gardens', 'Rooftop Parks', 'Riverfront Promenades', 'Mountain Preserves']"
+Socio-Economic Profile,"['Affluent Neighborhoods', 'Middle-Class Suburbs', 'Low-Income Housing Projects', 'Gentrified Areas', 'University Towns']"
+Cultural Heritage,"['Historic Landmarks', 'Museum Districts', 'Artisan Quarters', 'Ethnic Enclaves', 'Folkloric Villages']"
+Disaster Resilience,"['Flood-Prone Areas', 'Earthquake-Resistant Zones', 'Hurricane-Proof Buildings', 'Wildfire-Prone Regions', 'Tsunami Evacuation Routes']"
+Public Health Infrastructure,"['Teaching Hospitals', 'Community Clinics', 'Mental Health Facilities', 'Rehabilitation Centers', 'Public Health Laboratories']"
+Waste Management Systems,"['Recycling Facilities', 'Composting Plants', 'Landfills', 'Incinerators', 'Waste-To-Energy Converters']"
+Energy Efficiency,"['Solar-Powered Neighborhoods', 'Wind Farms', 'Geothermal Districts', 'Energy-Efficient Buildings', 'Smart Grids']"
+Public Safety Measures,"['Police Patrol Routes', 'Emergency Response Systems', 'Fire Stations', 'Surveillance Camera Networks', 'Neighborhood Watch Programs']"

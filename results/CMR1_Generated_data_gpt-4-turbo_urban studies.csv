@@ -1,0 +1,11 @@
+variable definition,values
+Types of public transportation available,"['bus routes', 'subway lines', 'tram networks', 'bike-sharing stations', 'taxi stands']"
+Predominant housing types,"['single-family homes', 'high-rise apartments', 'townhouses', 'multi-family complexes', 'loft conversions']"
+Common recreational facilities,"['public parks', 'sports complexes', 'community centers', 'public swimming pools', 'hiking trails']"
+Primary economic activities,"['technology hubs', 'manufacturing plants', 'retail districts', 'financial centers', 'tourism attractions']"
+Dominant architectural styles,"['Victorian buildings', 'modern skyscrapers', 'colonial houses', 'art deco structures', 'brutalist constructions']"
+Main types of local governance,"['city council', 'mayoral system', 'town meeting', 'commission government', 'manager-council']"
+Prevalent forms of pollution,"['air emissions', 'water contamination', 'noise disturbances', 'light pollution', 'waste accumulation']"
+Common modes of commuting,"['walking', 'cycling', 'driving personal vehicles', 'using public transit', 'carpooling']"
+Typical urban flora and fauna,"['street trees', 'urban gardens', 'city squirrels', 'pigeons', 'public green spaces']"
+Frequent community events,"['farmers markets', 'music festivals', 'street fairs', 'art exhibitions', 'sporting events']"

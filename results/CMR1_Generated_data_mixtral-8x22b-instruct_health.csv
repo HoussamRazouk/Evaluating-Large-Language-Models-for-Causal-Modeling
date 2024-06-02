@@ -1,0 +1,11 @@
+variable definition,values
+Body Mass Index,"['Underweight', 'Normal weight', 'Overweight', 'Obesity Class 1', 'Obesity Class 2', 'Obesity Class 3']"
+Blood Pressure,"['Hypotension', 'Normal', 'Prehypertension', 'Stage 1 Hypertension', 'Stage 2 Hypertension']"
+Blood Glucose Level,"['Hypoglycemia', 'Normal', 'Prediabetes', 'Diabetes Type 1', 'Diabetes Type 2']"
+Cholesterol Level,"['Low', 'Normal', 'Borderline High', 'High', 'Very High']"
+Heart Rate,"['Bradycardia', 'Normal', 'Tachycardia', 'Sinus Tachycardia', 'Atrial Fibrillation']"
+Respiratory Rate,"['Bradypnea', 'Normal', 'Tachypnea', 'Hyperpnea', 'Hyperventilation']"
+Oxygen Saturation,"['Hypoxemia', 'Normal', 'Mild Hypoxemia', 'Moderate Hypoxemia', 'Severe Hypoxemia']"
+Body Temperature,"['Hypothermia', 'Normal', 'Fever', 'High Fever', 'Hyperthermia']"
+Pain Level,"['No Pain', 'Mild Pain', 'Moderate Pain', 'Severe Pain', 'Excruciating Pain']"
+Sleep Quality,"['Insomnia', 'Poor Sleep', 'Fair Sleep', 'Good Sleep', 'Excellent Sleep']"

@@ -1,0 +1,11 @@
+variable definition,values
+Extraversion,"['gregariousness', 'assertiveness', 'enthusiasm', 'excitement-seeking', 'activity level']"
+Agreeableness,"['trust', 'morality', 'altruism', 'cooperation', 'modesty']"
+Conscientiousness,"['self-discipline', 'dutifulness', 'organization', 'responsibility', 'productivity']"
+Neuroticism,"['anxiety', 'depression', 'moodiness', 'emotional instability', 'vulnerability']"
+Openness to Experience,"['imagination', 'insight', 'intellectual curiosity', 'creativity', 'aesthetic sensitivity']"
+Self-esteem,"['self-confidence', 'self-worth', 'self-respect', 'self-assurance', 'self-regard']"
+Locus of Control,"['internal control', 'external control', 'chance control', 'fatalism', 'powerful others']"
+Empathy,"['emotional understanding', 'perspective-taking', 'compassion', 'emotional contagion', 'prosocial behavior']"
+Motivation,"['intrinsic motivation', 'extrinsic motivation', 'achievement motivation', 'affiliation motivation', 'power motivation']"
+Cognitive Ability,"['reasoning', 'problem-solving', 'memory', 'attention', 'processing speed']"
