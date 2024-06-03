@@ -1,0 +1,561 @@
+Text1,Text2,Same Causal Variable,Variable Name,model Name,domain
+Smart Grids,Wind Farms,True,Energy Efficiency,llama3-70b,urban studies
+Low-Income Housing Projects,Affluent Neighborhoods,True,Socio-Economic Profile,llama3-70b,urban studies
+Solar-Powered Neighborhoods,Wind Farms,True,Energy Efficiency,llama3-70b,urban studies
+Landfills,Composting Plants,True,Waste Management Systems,llama3-70b,urban studies
+Ethnic Enclaves,Historic Landmarks,True,Cultural Heritage,llama3-70b,urban studies
+Bus Rapid Transit Systems,Freeway Interchanges,True,Transportation Infrastructure,llama3-70b,urban studies
+Incinerators,Recycling Facilities,True,Waste Management Systems,llama3-70b,urban studies
+Rural Villages,Low-Rise Suburbs,True,Urban Density,llama3-70b,urban studies
+Wildfire-Prone Regions,Tsunami Evacuation Routes,True,Disaster Resilience,llama3-70b,urban studies
+Low-Rise Suburbs,Skyscraper Districts,True,Urban Density,llama3-70b,urban studies
+Middle-Class Suburbs,Wind Farms,False,,llama3-70b,urban studies
+Energy-Efficient Buildings,Affluent Neighborhoods,False,,llama3-70b,urban studies
+Hurricane-Proof Buildings,Wind Farms,False,,llama3-70b,urban studies
+Rural Villages,Composting Plants,False,,llama3-70b,urban studies
+Middle-Class Suburbs,Historic Landmarks,False,,llama3-70b,urban studies
+Emergency Response Systems,Freeway Interchanges,False,,llama3-70b,urban studies
+Smart Grids,Mountain Preserves,False,,llama3-70b,urban studies
+Public Health Laboratories,Low-Income Housing Projects,False,,llama3-70b,urban studies
+Historic Landmarks,Recycling Facilities,False,,llama3-70b,urban studies
+Agricultural Lands,Bus Rapid Transit Systems,False,,llama3-70b,urban studies
+Fission Reaction,Radioactive Decay,True,Nuclear Reaction,llama3-70b,physics
+Collider,Synchrotron,True,Particle Accelerator,llama3-70b,physics
+Gamma Rays,Alpha Particles,True,Type of Radiation,llama3-70b,physics
+Cyclotron,Collider,True,Particle Accelerator,llama3-70b,physics
+Black Hole,Terrestrial Planet,True,Celestial Body,llama3-70b,physics
+Isochoric Cooling,Adiabatic Compression,True,Thermodynamic Process,llama3-70b,physics
+Collider,Storage Ring,True,Particle Accelerator,llama3-70b,physics
+Liquid Water,Bose-Einstein Condensate,True,State of Matter,llama3-70b,physics
+Fusion Reaction,Neutron-Induced Reaction,True,Nuclear Reaction,llama3-70b,physics
+Comet Impact,Lunar Eclipse,True,Astronomical Event,llama3-70b,physics
+Strong Nuclear Force,Plasma State,False,,llama3-70b,physics
+Isochoric Cooling,Radioactive Decay,False,,llama3-70b,physics
+Synchrotron,Interference Fringes,False,,llama3-70b,physics
+Neutron Beams,Synchrotron,False,,llama3-70b,physics
+Linear Accelerator,Alpha Particles,False,,llama3-70b,physics
+Cyclotron,Terrestrial Planet,False,,llama3-70b,physics
+Proton-Induced Reaction,Adiabatic Compression,False,,llama3-70b,physics
+Interference Fringes,Storage Ring,False,,llama3-70b,physics
+Quantum Harmonic Oscillator,Bose-Einstein Condensate,False,,llama3-70b,physics
+Radioactive Decay,Beta Particles,False,,llama3-70b,physics
+Marathon Runner,Casual Walker,True,Physical Activity Level,llama3-70b,health
+Light Drinker,Teetotaler,True,Alcohol Consumption,llama3-70b,health
+Marathon Runner,Couch Potato,True,Physical Activity Level,llama3-70b,health
+Underweight,Overweight,True,Body Mass Index,llama3-70b,health
+Underweight,Obesity,True,Body Mass Index,llama3-70b,health
+Restless Leg Syndrome,Good Sleep,True,Sleep Quality,llama3-70b,health
+Vegan,Omnivore,True,Dietary Habits,llama3-70b,health
+Vegetarian,Vegan,True,Dietary Habits,llama3-70b,health
+Vegan,Junk Food Addict,True,Dietary Habits,llama3-70b,health
+Depression,Mental Wellness,True,Mental Health Status,llama3-70b,health
+Hypotension,Teetotaler,False,,llama3-70b,health
+Underweight,Couch Potato,False,,llama3-70b,health
+Heavy Lifting,Overweight,False,,llama3-70b,health
+Cancer,Obesity,False,,llama3-70b,health
+Sedentary Job,Good Sleep,False,,llama3-70b,health
+Good Sleep,Social Smoker,False,,llama3-70b,health
+Light Drinker,Omnivore,False,,llama3-70b,health
+Marathon Runner,Vegan,False,,llama3-70b,health
+Hypotension,Cancer,False,,llama3-70b,health
+Overweight,Junk Food Addict,False,,llama3-70b,health
+14nm FinFET,7nm FinFET,True,Fabrication Node,llama3-70b,semiconductor manufacturing
+SC1 Cleaning,HF Last Cleaning,True,Wafer Cleaning Method,llama3-70b,semiconductor manufacturing
+7nm FinFET,10nm FinFET,True,Fabrication Node,llama3-70b,semiconductor manufacturing
+Land Grid Array Package,Ball Grid Array Package,True,Packaging Type,llama3-70b,semiconductor manufacturing
+Ball Grid Array Package,Chip Scale Package,True,Packaging Type,llama3-70b,semiconductor manufacturing
+Antimony Dopant,Arsenic Dopant,True,Doping Material,llama3-70b,semiconductor manufacturing
+Functional Testing,Built-In Self-Test,True,Testing Method,llama3-70b,semiconductor manufacturing
+Piranha Cleaning,SC1 Cleaning,True,Wafer Cleaning Method,llama3-70b,semiconductor manufacturing
+Inductively Coupled Plasma Etching,Wet Etching,True,Etching Method,llama3-70b,semiconductor manufacturing
+Land Grid Array Package,Chip Scale Package,True,Packaging Type,llama3-70b,semiconductor manufacturing
+Wet Etching,7nm FinFET,False,,llama3-70b,semiconductor manufacturing
+Gallium Arsenide Wafer,HF Last Cleaning,False,,llama3-70b,semiconductor manufacturing
+Copper Interconnect,Silicon Wafer,False,,llama3-70b,semiconductor manufacturing
+7nm FinFET,Ball Grid Array Package,False,,llama3-70b,semiconductor manufacturing
+Germanium Wafer,Chip Scale Package,False,,llama3-70b,semiconductor manufacturing
+Hafnium Oxide,SC1 Cleaning,False,,llama3-70b,semiconductor manufacturing
+40nm LP,Land Grid Array Package,False,,llama3-70b,semiconductor manufacturing
+Wet Etching,Boron Dopant,False,,llama3-70b,semiconductor manufacturing
+Silicon Carbide Wafer,Arsenic Dopant,False,,llama3-70b,semiconductor manufacturing
+Parametric Testing,Phosphorus Dopant,False,,llama3-70b,semiconductor manufacturing
+Graph Vertex,Stack Frame,True,Data Structure,llama3-70b,computer science
+Python Syntax,PHP Parser,True,Programming Language,llama3-70b,computer science
+Kanban Board,Agile Development,True,Software Development Methodology,llama3-70b,computer science
+Rapid Application Development,Test-Driven Development,True,Software Development Methodology,llama3-70b,computer science
+Command-Line Interface,Haptic Feedback System,True,Human-Computer Interaction,llama3-70b,computer science
+Queue Buffer,Hash Table Bucket,True,Data Structure,llama3-70b,computer science
+Principal Component Analysis,Neural Network,True,Machine Learning Model,llama3-70b,computer science
+Feature-Driven Development,Test-Driven Development,True,Software Development Methodology,llama3-70b,computer science
+Support Vector Machine,Principal Component Analysis,True,Machine Learning Model,llama3-70b,computer science
+Graph Database,NoSQL Document,True,Database System,llama3-70b,computer science
+Lean Software Development,Stack Frame,False,,llama3-70b,computer science
+Linked List Node,PHP Parser,False,,llama3-70b,computer science
+Graph Vertex,Agile Development,False,,llama3-70b,computer science
+SSL Certificate,Test-Driven Development,False,,llama3-70b,computer science
+Image Generation,Haptic Feedback System,False,,llama3-70b,computer science
+SMTP Server,Hash Table Bucket,False,,llama3-70b,computer science
+Command-Line Interface,Neural Network,False,,llama3-70b,computer science
+Diffie-Hellman Key Exchange,Test-Driven Development,False,,llama3-70b,computer science
+Asymmetric Cryptography,Principal Component Analysis,False,,llama3-70b,computer science
+Scrum Framework,NoSQL Document,False,,llama3-70b,computer science
+Some College,Doctoral Degree,True,Education Level,llama3-70b,sociology
+East Asian,Latinx,True,Cultural Identity,llama3-70b,sociology
+Gaming,Traveling,True,Leisure Activity,llama3-70b,sociology
+Attending Concerts,Yoga,True,Leisure Activity,llama3-70b,sociology
+Bachelor's Degree,Vocational Training,True,Education Level,llama3-70b,sociology
+Skateboarding,Motorcycle,True,Transportation Mode,llama3-70b,sociology
+Nursing Home,Shared Housing,True,Living Arrangement,llama3-70b,sociology
+White American,Middle Eastern,True,Cultural Identity,llama3-70b,sociology
+Mountain Retreat,Retirement Community,True,Neighborhood Type,llama3-70b,sociology
+Latinx,African American,True,Cultural Identity,llama3-70b,sociology
+Working Poor,Doctoral Degree,False,,llama3-70b,sociology
+East Asian,Traveling,False,,llama3-70b,sociology
+Spiritual but not Religious,Yoga,False,,llama3-70b,sociology
+Retirement Community,Vocational Training,False,,llama3-70b,sociology
+Artist,Motorcycle,False,,llama3-70b,sociology
+Middle Class,Shared Housing,False,,llama3-70b,sociology
+Master's Degree,Middle Eastern,False,,llama3-70b,sociology
+Shared Housing,Retirement Community,False,,llama3-70b,sociology
+Blended Family,African American,False,,llama3-70b,sociology
+Mountain Retreat,Nuclear Family,False,,llama3-70b,sociology
+Avoider,Rationalizer,True,Coping Mechanism,llama3-70b,psychology
+Trauma Survivor,Optimistic Fighter,True,Resilience,llama3-70b,psychology
+Spontaneous Adventurer,Anxious Procrastinator,True,Impulsivity,llama3-70b,psychology
+Impulsive Risk-Taker,Cautious Planner,True,Impulsivity,llama3-70b,psychology
+Trauma Survivor,Emotionally Vulnerable,True,Resilience,llama3-70b,psychology
+Avoidant Distancer,Empathetic Listener,True,Emotional Regulation,llama3-70b,psychology
+Optimistic Fighter,Emotionally Vulnerable,True,Resilience,llama3-70b,psychology
+Innovative Thinker,Analytical Problem-Solver,True,Creativity,llama3-70b,psychology
+Achievement-Oriented,Fear-Driven,True,Motivation Style,llama3-70b,psychology
+Auditory Processor,Visual Learner,True,Learning Style,llama3-70b,psychology
+Insecure Person,Rationalizer,False,,llama3-70b,psychology
+Shy Observer,Optimistic Fighter,False,,llama3-70b,psychology
+Spontaneous Free Spirit,Anxious Procrastinator,False,,llama3-70b,psychology
+Introverted Thinker,Cautious Planner,False,,llama3-70b,psychology
+Confronter,Emotionally Vulnerable,False,,llama3-70b,psychology
+Overachiever,Empathetic Listener,False,,llama3-70b,psychology
+Spontaneous Free Spirit,Outgoing Socialite,False,,llama3-70b,psychology
+Reflective Thinker,Emotionally Vulnerable,False,,llama3-70b,psychology
+Empathetic Listener,Analytical Problem-Solver,False,,llama3-70b,psychology
+Emotional Responder,Imaginative Dreamer,False,,llama3-70b,psychology
+luxury condos,loft conversions,True,Housing types,mixtral-8x22b-instruct,urban studies
+creative districts,historic landmarks,True,Cultural amenities,mixtral-8x22b-instruct,urban studies
+riverfront promenades,greenbelts,True,Green spaces,mixtral-8x22b-instruct,urban studies
+smart city initiatives,transit-oriented development,True,Governance and planning,mixtral-8x22b-instruct,urban studies
+light rail network,intercity train station,True,Transportation infrastructure,mixtral-8x22b-instruct,urban studies
+professional class neighborhoods,student populations,True,Social diversity,mixtral-8x22b-instruct,urban studies
+manufacturing center,tourism destination,True,Economic base,mixtral-8x22b-instruct,urban studies
+creative districts,world-class museums,True,Cultural amenities,mixtral-8x22b-instruct,urban studies
+sparse suburban,rural countryside,True,Population density,mixtral-8x22b-instruct,urban studies
+green roofs,greenbelts,True,Green spaces,mixtral-8x22b-instruct,urban studies
+urban heat island mitigation,loft conversions,False,,mixtral-8x22b-instruct,urban studies
+carbon-neutral developments,historic landmarks,False,,mixtral-8x22b-instruct,urban studies
+climate adaptation strategies,greenbelts,False,,mixtral-8x22b-instruct,urban studies
+dense urban,transit-oriented development,False,,mixtral-8x22b-instruct,urban studies
+immigrant communities,intercity train station,False,,mixtral-8x22b-instruct,urban studies
+walkability,student populations,False,,mixtral-8x22b-instruct,urban studies
+quality education,tourism destination,False,,mixtral-8x22b-instruct,urban studies
+limited bus network,world-class museums,False,,mixtral-8x22b-instruct,urban studies
+walkability,inclusive zoning policies,False,,mixtral-8x22b-instruct,urban studies
+transit-oriented development,sustainable transportation options,False,,mixtral-8x22b-instruct,urban studies
+pressure at sea level,pressure at the center of the sun,True,pressure,mixtral-8x22b-instruct,physics
+energy in a AA battery,energy in a hurricane,True,energy,mixtral-8x22b-instruct,physics
+force of a tornado,force of a supernova,True,force,mixtral-8x22b-instruct,physics
+elephant weight,blue whale weight,True,mass of an object,mixtral-8x22b-instruct,physics
+density of water,density of air,True,density,mixtral-8x22b-instruct,physics
+pressure at sea level,pressure at the center of the Earth,True,pressure,mixtral-8x22b-instruct,physics
+lifespan of a mayfly,length of a movie,True,time,mixtral-8x22b-instruct,physics
+age of the universe,length of a movie,True,time,mixtral-8x22b-instruct,physics
+light speed,sound barrier,True,speed of an object,mixtral-8x22b-instruct,physics
+energy in a AA battery,energy in a lightning bolt,True,energy,mixtral-8x22b-instruct,physics
+density of gold,pressure at the center of the sun,False,,mixtral-8x22b-instruct,physics
+room temperature,pressure at sea level,False,,mixtral-8x22b-instruct,physics
+density of gold,blue whale weight,False,,mixtral-8x22b-instruct,physics
+bullet train speed,density of air,False,,mixtral-8x22b-instruct,physics
+energy in a lightning bolt,pressure at the center of the sun,False,,mixtral-8x22b-instruct,physics
+density of air,pressure at the center of the Earth,False,,mixtral-8x22b-instruct,physics
+density of a neutron star,length of a movie,False,,mixtral-8x22b-instruct,physics
+energy in a AA battery,length of a movie,False,,mixtral-8x22b-instruct,physics
+density of gold,sound barrier,False,,mixtral-8x22b-instruct,physics
+pressure at sea level,energy in a lightning bolt,False,,mixtral-8x22b-instruct,physics
+Good Sleep,Fair Sleep,True,Sleep Quality,mixtral-8x22b-instruct,health
+Diabetes Type 1,Normal,True,Blood Glucose Level,mixtral-8x22b-instruct,health
+Hyperthermia,High Fever,True,Body Temperature,mixtral-8x22b-instruct,health
+Diabetes Type 1,Hypoglycemia,True,Blood Glucose Level,mixtral-8x22b-instruct,health
+Severe Hypoxemia,Mild Hypoxemia,True,Oxygen Saturation,mixtral-8x22b-instruct,health
+Normal,Severe Hypoxemia,True,Oxygen Saturation,mixtral-8x22b-instruct,health
+Prediabetes,Normal,True,Blood Glucose Level,mixtral-8x22b-instruct,health
+Atrial Fibrillation,Normal,True,Heart Rate,mixtral-8x22b-instruct,health
+Hypotension,Normal,True,Blood Pressure,mixtral-8x22b-instruct,health
+Normal,Bradycardia,True,Heart Rate,mixtral-8x22b-instruct,health
+Mild Pain,Fair Sleep,False,,mixtral-8x22b-instruct,health
+Stage 2 Hypertension,Normal,False,,mixtral-8x22b-instruct,health
+Moderate Hypoxemia,Underweight,False,,mixtral-8x22b-instruct,health
+Overweight,Hyperthermia,False,,mixtral-8x22b-instruct,health
+Obesity Class 1,Mild Hypoxemia,False,,mixtral-8x22b-instruct,health
+Obesity Class 1,Severe Hypoxemia,False,,mixtral-8x22b-instruct,health
+Obesity Class 3,Normal,False,,mixtral-8x22b-instruct,health
+Fair Sleep,Normal,False,,mixtral-8x22b-instruct,health
+Normal,Fair Sleep,False,,mixtral-8x22b-instruct,health
+Moderate Hypoxemia,Normal,False,,mixtral-8x22b-instruct,health
+300mm,200mm,True,Wafer size,mixtral-8x22b-instruct,semiconductor manufacturing
+physical vapor deposition,atomic layer deposition,True,Deposition technique,mixtral-8x22b-instruct,semiconductor manufacturing
+300mm,450mm,True,Wafer size,mixtral-8x22b-instruct,semiconductor manufacturing
+thin,thick,True,Epitaxial layer thickness,mixtral-8x22b-instruct,semiconductor manufacturing
+low energy,high energy,True,Ion implantation energy,mixtral-8x22b-instruct,semiconductor manufacturing
+wet etching,dry etching,True,Etching method,mixtral-8x22b-instruct,semiconductor manufacturing
+medium resolution,high resolution,True,Lithography resolution,mixtral-8x22b-instruct,semiconductor manufacturing
+high energy,medium energy,True,Ion implantation energy,mixtral-8x22b-instruct,semiconductor manufacturing
+medium energy,low energy,True,Ion implantation energy,mixtral-8x22b-instruct,semiconductor manufacturing
+plasma etching,dry etching,True,Etching method,mixtral-8x22b-instruct,semiconductor manufacturing
+indium phosphide,200mm,False,,mixtral-8x22b-instruct,semiconductor manufacturing
+300mm,thick,False,,mixtral-8x22b-instruct,semiconductor manufacturing
+wet etching,high temperature,False,,mixtral-8x22b-instruct,semiconductor manufacturing
+medium energy,450mm,False,,mixtral-8x22b-instruct,semiconductor manufacturing
+low resolution,thick,False,,mixtral-8x22b-instruct,semiconductor manufacturing
+wet etching,300mm,False,,mixtral-8x22b-instruct,semiconductor manufacturing
+gallium arsenide,high energy,False,,mixtral-8x22b-instruct,semiconductor manufacturing
+medium,dry etching,False,,mixtral-8x22b-instruct,semiconductor manufacturing
+p-type,high resolution,False,,mixtral-8x22b-instruct,semiconductor manufacturing
+high resolution,low energy,False,,mixtral-8x22b-instruct,semiconductor manufacturing
+React,Laravel,True,Web Framework,mixtral-8x22b-instruct,computer science
+Cassandra,Spark,True,Big Data Processing Framework,mixtral-8x22b-instruct,computer science
+SAP Cloud,VMware Cloud,True,Cloud Service Provider,mixtral-8x22b-instruct,computer science
+Go,Java,True,Programming Language,mixtral-8x22b-instruct,computer science
+Zookeeper,Pig,True,Big Data Processing Framework,mixtral-8x22b-instruct,computer science
+Scikit-learn,Keras,True,Machine Learning Library,mixtral-8x22b-instruct,computer science
+Darcs,Fossil,True,Version Control System,mixtral-8x22b-instruct,computer science
+Ruby on Rails,Spring,True,Web Framework,mixtral-8x22b-instruct,computer science
+Windows,Android,True,Operating System,mixtral-8x22b-instruct,computer science
+SaltStack,Chef,True,DevOps Tool,mixtral-8x22b-instruct,computer science
+Monotone,Laravel,False,,mixtral-8x22b-instruct,computer science
+Oracle Cloud,Spark,False,,mixtral-8x22b-instruct,computer science
+SAP Cloud,AngularJS,False,,mixtral-8x22b-instruct,computer science
+Mercurial,VMware Cloud,False,,mixtral-8x22b-instruct,computer science
+Linux,Java,False,,mixtral-8x22b-instruct,computer science
+C++,Keras,False,,mixtral-8x22b-instruct,computer science
+C++,Fossil,False,,mixtral-8x22b-instruct,computer science
+C++,Spring,False,,mixtral-8x22b-instruct,computer science
+MariaDB,Android,False,,mixtral-8x22b-instruct,computer science
+LXC,Go,False,,mixtral-8x22b-instruct,computer science
+Urban,Coastal,True,Geographic location,mixtral-8x22b-instruct,sociology
+Christian,Hindu,True,Religion,mixtral-8x22b-instruct,sociology
+Green Party,Republican,True,Political affiliation,mixtral-8x22b-instruct,sociology
+Caucasian,Native American,True,Ethnicity,mixtral-8x22b-instruct,sociology
+Libertarian,Green Party,True,Political affiliation,mixtral-8x22b-instruct,sociology
+Engineer,Doctor,True,Occupation,mixtral-8x22b-instruct,sociology
+Atheist,Muslim,True,Religion,mixtral-8x22b-instruct,sociology
+Separated,Single,True,Marital status,mixtral-8x22b-instruct,sociology
+Underclass,Lower class,True,Social class,mixtral-8x22b-instruct,sociology
+Doctoral degree holder,High school graduate,True,Level of education,mixtral-8x22b-instruct,sociology
+Adolescent,Coastal,False,,mixtral-8x22b-instruct,sociology
+Young adult,Hindu,False,,mixtral-8x22b-instruct,sociology
+Coastal,Republican,False,,mixtral-8x22b-instruct,sociology
+Female,Native American,False,,mixtral-8x22b-instruct,sociology
+Working class,Green Party,False,,mixtral-8x22b-instruct,sociology
+Asian,Doctor,False,,mixtral-8x22b-instruct,sociology
+Primary school graduate,Divorced,False,,mixtral-8x22b-instruct,sociology
+Child,Female,False,,mixtral-8x22b-instruct,sociology
+Doctor,Muslim,False,,mixtral-8x22b-instruct,sociology
+Native American,Hindu,False,,mixtral-8x22b-instruct,sociology
+problem-solving,reasoning,True,Cognitive Ability,mixtral-8x22b-instruct,psychology
+anxiety,vulnerability,True,Neuroticism,mixtral-8x22b-instruct,psychology
+modesty,altruism,True,Agreeableness,mixtral-8x22b-instruct,psychology
+memory,problem-solving,True,Cognitive Ability,mixtral-8x22b-instruct,psychology
+excitement-seeking,enthusiasm,True,Extraversion,mixtral-8x22b-instruct,psychology
+self-regard,self-confidence,True,Self-esteem,mixtral-8x22b-instruct,psychology
+activity level,gregariousness,True,Extraversion,mixtral-8x22b-instruct,psychology
+dutifulness,productivity,True,Conscientiousness,mixtral-8x22b-instruct,psychology
+self-respect,self-assurance,True,Self-esteem,mixtral-8x22b-instruct,psychology
+self-discipline,dutifulness,True,Conscientiousness,mixtral-8x22b-instruct,psychology
+internal control,reasoning,False,,mixtral-8x22b-instruct,psychology
+excitement-seeking,vulnerability,False,,mixtral-8x22b-instruct,psychology
+self-assurance,altruism,False,,mixtral-8x22b-instruct,psychology
+gregariousness,problem-solving,False,,mixtral-8x22b-instruct,psychology
+self-assurance,enthusiasm,False,,mixtral-8x22b-instruct,psychology
+extrinsic motivation,reasoning,False,,mixtral-8x22b-instruct,psychology
+morality,self-confidence,False,,mixtral-8x22b-instruct,psychology
+self-worth,gregariousness,False,,mixtral-8x22b-instruct,psychology
+creativity,productivity,False,,mixtral-8x22b-instruct,psychology
+reasoning,self-assurance,False,,mixtral-8x22b-instruct,psychology
+Museums and art galleries,Music festivals and cultural events,True,Cultural institutions,gpt-3.5-turbo,urban studies
+Green infrastructure for climate adaptation,Earthquake-resistant buildings,True,Urban infrastructure resilience,gpt-3.5-turbo,urban studies
+Senior living facilities,Ethnic neighborhoods with cultural festivals,True,Social diversity,gpt-3.5-turbo,urban studies
+Luxury condominiums,Affordable housing complexes,True,Housing affordability,gpt-3.5-turbo,urban studies
+Industrial warehouses,Green spaces and parks,True,Population density,gpt-3.5-turbo,urban studies
+Flood barriers and stormwater management systems,Backup power generators,True,Urban infrastructure resilience,gpt-3.5-turbo,urban studies
+Backup power generators,Green infrastructure for climate adaptation,True,Urban infrastructure resilience,gpt-3.5-turbo,urban studies
+Ethnic neighborhoods with cultural festivals,Religious institutions of various faiths,True,Social diversity,gpt-3.5-turbo,urban studies
+Police precinct stations,Emergency call boxes,True,Public safety measures,gpt-3.5-turbo,urban studies
+Local town hall meetings,Youth mentorship programs,True,Community engagement,gpt-3.5-turbo,urban studies
+Industrial warehouses,Earthquake-resistant buildings,False,,gpt-3.5-turbo,urban studies
+Bike lanes and dedicated paths,Ethnic neighborhoods with cultural festivals,False,,gpt-3.5-turbo,urban studies
+Music festivals and cultural events,Botanical gardens,False,,gpt-3.5-turbo,urban studies
+Surveillance cameras in public spaces,Bike lanes and dedicated paths,False,,gpt-3.5-turbo,urban studies
+Museums and art galleries,Affordable housing complexes,False,,gpt-3.5-turbo,urban studies
+Surveillance cameras in public spaces,Green spaces and parks,False,,gpt-3.5-turbo,urban studies
+Volunteer clean-up initiatives,Backup power generators,False,,gpt-3.5-turbo,urban studies
+Pedestrian-friendly streets,Green infrastructure for climate adaptation,False,,gpt-3.5-turbo,urban studies
+Backup power generators,Religious institutions of various faiths,False,,gpt-3.5-turbo,urban studies
+Financial district with skyscrapers,Emergency call boxes,False,,gpt-3.5-turbo,urban studies
+universal attraction,gravity,True,The force that attracts two objects toward each other,gpt-3.5-turbo,physics
+dense core,medium density,True,The amount of matter in an object,gpt-3.5-turbo,physics
+ordered state,chaotic,True,The measure of disorder or randomness in a system,gpt-3.5-turbo,physics
+gravitational pull,stored energy,True,The energy stored in an object due to its position or configuration,gpt-3.5-turbo,physics
+thick fluid,viscosity,True,The resistance of a fluid to flow,gpt-3.5-turbo,physics
+dense core,lightweight shell,True,The amount of matter in an object,gpt-3.5-turbo,physics
+heat intensity,temperature,True,The measure of the average kinetic energy of particles in a substance,gpt-3.5-turbo,physics
+temperature,thermal energy,True,The measure of the average kinetic energy of particles in a substance,gpt-3.5-turbo,physics
+massive,inertia,True,The ability of an object to resist changes in its motion,gpt-3.5-turbo,physics
+universal attraction,gravitational pull,True,The force that attracts two objects toward each other,gpt-3.5-turbo,physics
+medium density,gravity,False,,gpt-3.5-turbo,physics
+aerodynamic resistance,medium density,False,,gpt-3.5-turbo,physics
+dense core,chaotic,False,,gpt-3.5-turbo,physics
+ordered state,stored energy,False,,gpt-3.5-turbo,physics
+medium density,viscosity,False,,gpt-3.5-turbo,physics
+viscosity,constant motion,False,,gpt-3.5-turbo,physics
+fluid friction,lightweight shell,False,,gpt-3.5-turbo,physics
+flow resistance,stored energy,False,,gpt-3.5-turbo,physics
+friction,lightweight shell,False,,gpt-3.5-turbo,physics
+inertia,gravitational pull,False,,gpt-3.5-turbo,physics
+Adequately hydrated,Over-hydrated,True,Hydration level,gpt-3.5-turbo,health
+Tea enthusiast,Caffeine-free,True,Caffeine consumption,gpt-3.5-turbo,health
+Mediterranean,Paleo,True,Dietary preference,gpt-3.5-turbo,health
+Yoga,Swimming,True,Type of exercise,gpt-3.5-turbo,health
+Takeout lover,Recipe experimenter,True,Cooking style,gpt-3.5-turbo,health
+Tea enthusiast,Decaf only,True,Caffeine consumption,gpt-3.5-turbo,health
+Sunscreen user,Intermittent exposure,True,Sun exposure,gpt-3.5-turbo,health
+Mediterranean,Keto,True,Dietary preference,gpt-3.5-turbo,health
+Digital detoxer,Heavy screen user,True,Screen time habits,gpt-3.5-turbo,health
+Nature walks,Exercise,True,Stress coping mechanism,gpt-3.5-turbo,health
+Solitude seeker,Over-hydrated,False,,gpt-3.5-turbo,health
+Hydrated with electrolytes,Nature walks,False,,gpt-3.5-turbo,health
+Microwave master,Thirsty,False,,gpt-3.5-turbo,health
+Minimal screen time,Paleo,False,,gpt-3.5-turbo,health
+Social butterfly,Swimming,False,,gpt-3.5-turbo,health
+Thirsty,Decaf only,False,,gpt-3.5-turbo,health
+Light sleeper,Intermittent exposure,False,,gpt-3.5-turbo,health
+Deep sleeper,Recipe experimenter,False,,gpt-3.5-turbo,health
+Decaf only,Keto,False,,gpt-3.5-turbo,health
+Light sleeper,Heavy screen user,False,,gpt-3.5-turbo,health
+Diode,LED,True,Type of semiconductor device,gpt-3.5-turbo,semiconductor manufacturing
+Annealing,Implantation,True,Semiconductor fabrication process,gpt-3.5-turbo,semiconductor manufacturing
+Silicon nitride,Aluminum oxide,True,Dielectric material,gpt-3.5-turbo,semiconductor manufacturing
+LED,MOSFET,True,Type of semiconductor device,gpt-3.5-turbo,semiconductor manufacturing
+Millisecond annealing,Flash annealing,True,Annealing technique,gpt-3.5-turbo,semiconductor manufacturing
+Silicon nitride,Silicon dioxide,True,Dielectric material,gpt-3.5-turbo,semiconductor manufacturing
+Germanium,Gallium arsenide,True,Type of semiconductor material,gpt-3.5-turbo,semiconductor manufacturing
+Silicon nitride,Boron nitride,True,Dielectric material,gpt-3.5-turbo,semiconductor manufacturing
+Laser annealing,Millisecond annealing,True,Annealing technique,gpt-3.5-turbo,semiconductor manufacturing
+LED,Transistor,True,Type of semiconductor device,gpt-3.5-turbo,semiconductor manufacturing
+Lithography,LED,False,,gpt-3.5-turbo,semiconductor manufacturing
+Lift-off mask,Implantation,False,,gpt-3.5-turbo,semiconductor manufacturing
+ISO Class 1,Aluminum oxide,False,,gpt-3.5-turbo,semiconductor manufacturing
+Reactive ion etching,MOSFET,False,,gpt-3.5-turbo,semiconductor manufacturing
+Contact mask,Flash annealing,False,,gpt-3.5-turbo,semiconductor manufacturing
+Rapid thermal annealing,Silicon dioxide,False,,gpt-3.5-turbo,semiconductor manufacturing
+MEMS,Flash annealing,False,,gpt-3.5-turbo,semiconductor manufacturing
+MEMS,Gallium arsenide,False,,gpt-3.5-turbo,semiconductor manufacturing
+Implantation,Boron nitride,False,,gpt-3.5-turbo,semiconductor manufacturing
+Implantation,Millisecond annealing,False,,gpt-3.5-turbo,semiconductor manufacturing
+UDP,TCP/IP,True,Network Protocol,gpt-3.5-turbo,computer science
+UDP,SMTP,True,Network Protocol,gpt-3.5-turbo,computer science
+Lean,Waterfall,True,Software Development Methodology,gpt-3.5-turbo,computer science
+Document-oriented,Key-Value,True,Database Model,gpt-3.5-turbo,computer science
+Distributed,Time-sharing,True,Operating System,gpt-3.5-turbo,computer science
+Queue,Graph,True,Data Structure,gpt-3.5-turbo,computer science
+Django,Angular,True,Web Development Framework,gpt-3.5-turbo,computer science
+Binary Tree,Hash Table,True,Data Structure,gpt-3.5-turbo,computer science
+Neural Networks,Reinforcement Learning,True,Machine Learning Technique,gpt-3.5-turbo,computer science
+Backtracking,Searching,True,Algorithm,gpt-3.5-turbo,computer science
+Real-time,TCP/IP,False,,gpt-3.5-turbo,computer science
+Multi-tasking,Vue.js,False,,gpt-3.5-turbo,computer science
+Time-sharing,Waterfall,False,,gpt-3.5-turbo,computer science
+Lean,Key-Value,False,,gpt-3.5-turbo,computer science
+Embedded,Social Engineering,False,,gpt-3.5-turbo,computer science
+UDP,Graph,False,,gpt-3.5-turbo,computer science
+Imperative,Reinforcement Learning,False,,gpt-3.5-turbo,computer science
+SMTP,Hash Table,False,,gpt-3.5-turbo,computer science
+Angular,Reinforcement Learning,False,,gpt-3.5-turbo,computer science
+Reinforcement Learning,Searching,False,,gpt-3.5-turbo,computer science
+Devout Catholic,Practicing Muslim,True,Religious Affiliation,gpt-3.5-turbo,sociology
+Child raised by grandparents,Single parent household,True,Family Structure,gpt-3.5-turbo,sociology
+Active member of neighborhood watch,Participates in local clean-up events,True,Community Engagement,gpt-3.5-turbo,sociology
+Single parent household,Foster care system,True,Family Structure,gpt-3.5-turbo,sociology
+Hindu priest,Practicing Muslim,True,Religious Affiliation,gpt-3.5-turbo,sociology
+Medical professional,Construction worker,True,Occupational Field,gpt-3.5-turbo,sociology
+Libertarian,Socialist,True,Political Ideology,gpt-3.5-turbo,sociology
+In a domestic partnership,Single,True,Marital Status,gpt-3.5-turbo,sociology
+Nuclear family,Single parent household,True,Family Structure,gpt-3.5-turbo,sociology
+Married,Single,True,Marital Status,gpt-3.5-turbo,sociology
+Active member of neighborhood watch,Practicing Muslim,False,,gpt-3.5-turbo,sociology
+Married,Participates in local clean-up events,False,,gpt-3.5-turbo,sociology
+Buddhist monk,Foster care system,False,,gpt-3.5-turbo,sociology
+Genderfluid individual,Socialist,False,,gpt-3.5-turbo,sociology
+Child raised by grandparents,Single,False,,gpt-3.5-turbo,sociology
+Not involved in community activities,Transgender woman,False,,gpt-3.5-turbo,sociology
+Conservative,Single parent household,False,,gpt-3.5-turbo,sociology
+Medical professional,Middle-class worker,False,,gpt-3.5-turbo,sociology
+Bachelor's degree recipient,Widowed,False,,gpt-3.5-turbo,sociology
+First-generation immigrant,Volunteer at local shelter,False,,gpt-3.5-turbo,sociology
+Coping effectively with challenges,Maintaining emotional balance,True,Mental Health Resilience,gpt-3.5-turbo,psychology
+Intrinsic drive for personal growth,Desire for achievement,True,Motivation,gpt-3.5-turbo,psychology
+Openness to new experiences,Conscientiousness in tasks,True,Personality Traits,gpt-3.5-turbo,psychology
+Feeling empowered in choices,Sense of autonomy in decision-making,True,Perceived Control,gpt-3.5-turbo,psychology
+Engaging in physical activity,Seeking social support,True,Stress Coping Strategies,gpt-3.5-turbo,psychology
+Seeking help when needed,Coping effectively with challenges,True,Mental Health Resilience,gpt-3.5-turbo,psychology
+Emotional assistance during tough times,Having a sense of belonging,True,Social Support,gpt-3.5-turbo,psychology
+Feeling understood and valued,Receiving help from others,True,Social Support,gpt-3.5-turbo,psychology
+Extraversion in social settings,Openness to new experiences,True,Personality Traits,gpt-3.5-turbo,psychology
+Feeling understood and valued,Emotional assistance during tough times,True,Social Support,gpt-3.5-turbo,psychology
+Receiving help from others,Maintaining emotional balance,False,,gpt-3.5-turbo,psychology
+Problem-solving approach,Desire for achievement,False,,gpt-3.5-turbo,psychology
+Seeking help when needed,Sense of autonomy in decision-making,False,,gpt-3.5-turbo,psychology
+Conscientiousness in tasks,Sense of autonomy in decision-making,False,,gpt-3.5-turbo,psychology
+Comfort with intimacy,Seeking social support,False,,gpt-3.5-turbo,psychology
+Agreeableness in interactions,Coping effectively with challenges,False,,gpt-3.5-turbo,psychology
+Feeling discomfort from inconsistency,Sense of autonomy in decision-making,False,,gpt-3.5-turbo,psychology
+Empathizing with others,Receiving help from others,False,,gpt-3.5-turbo,psychology
+Feeling empowered in choices,Emotional assistance during tough times,False,,gpt-3.5-turbo,psychology
+Emotional assistance during tough times,Openness to new experiences,False,,gpt-3.5-turbo,psychology
+bike-sharing stations,taxi stands,True,Types of public transportation available,gpt-4-turbo,urban studies
+sporting events,street fairs,True,Frequent community events,gpt-4-turbo,urban studies
+public parks,community centers,True,Common recreational facilities,gpt-4-turbo,urban studies
+bike-sharing stations,bus routes,True,Types of public transportation available,gpt-4-turbo,urban studies
+noise disturbances,light pollution,True,Prevalent forms of pollution,gpt-4-turbo,urban studies
+brutalist constructions,colonial houses,True,Dominant architectural styles,gpt-4-turbo,urban studies
+manufacturing plants,tourism attractions,True,Primary economic activities,gpt-4-turbo,urban studies
+Victorian buildings,colonial houses,True,Dominant architectural styles,gpt-4-turbo,urban studies
+cycling,using public transit,True,Common modes of commuting,gpt-4-turbo,urban studies
+loft conversions,single-family homes,True,Predominant housing types,gpt-4-turbo,urban studies
+high-rise apartments,street trees,False,,gpt-4-turbo,urban studies
+brutalist constructions,driving personal vehicles,False,,gpt-4-turbo,urban studies
+public parks,taxi stands,False,,gpt-4-turbo,urban studies
+tram networks,townhouses,False,,gpt-4-turbo,urban studies
+high-rise apartments,street fairs,False,,gpt-4-turbo,urban studies
+multi-family complexes,community centers,False,,gpt-4-turbo,urban studies
+community centers,street trees,False,,gpt-4-turbo,urban studies
+sporting events,bus routes,False,,gpt-4-turbo,urban studies
+tram networks,light pollution,False,,gpt-4-turbo,urban studies
+music festivals,colonial houses,False,,gpt-4-turbo,urban studies
+reflecting telescope,radio telescope,True,Optical instrument used to make distant objects appear nearer,gpt-4-turbo,physics
+polystyrene foam,asbestos sheeting,True,Material that resists the flow of thermal energy,gpt-4-turbo,physics
+polystyrene foam,fiberglass insulation,True,Material that resists the flow of thermal energy,gpt-4-turbo,physics
+oxygen gas,carbon dioxide,True,Substance with no definite volume and no definite shape,gpt-4-turbo,physics
+beta particle,muon,True,Elementary particle with a negative charge,gpt-4-turbo,physics
+Earth,Mars,True,Celestial body orbiting a star,gpt-4-turbo,physics
+wind turbine,diesel generator,True,Device that converts mechanical energy into electrical energy,gpt-4-turbo,physics
+fiberglass insulation,asbestos sheeting,True,Material that resists the flow of thermal energy,gpt-4-turbo,physics
+oxygen gas,water vapor,True,Substance with no definite volume and no definite shape,gpt-4-turbo,physics
+refracting telescope,radio telescope,True,Optical instrument used to make distant objects appear nearer,gpt-4-turbo,physics
+infrared radiation,oxygen gas,False,,gpt-4-turbo,physics
+step-down transformer,radio telescope,False,,gpt-4-turbo,physics
+earth's attraction,asbestos sheeting,False,,gpt-4-turbo,physics
+muon,gravity,False,,gpt-4-turbo,physics
+carbon dioxide,fiberglass insulation,False,,gpt-4-turbo,physics
+gravitational pull,carbon dioxide,False,,gpt-4-turbo,physics
+copper wire,muon,False,,gpt-4-turbo,physics
+polystyrene foam,Mars,False,,gpt-4-turbo,physics
+polystyrene foam,gravity,False,,gpt-4-turbo,physics
+ultraviolet radiation,Mars,False,,gpt-4-turbo,physics
+drinking mineral water,sipping herbal teas,True,Hydration source,gpt-4-turbo,health
+annual medical examinations,daily blood pressure checks,True,Health monitoring frequency,gpt-4-turbo,health
+vegan dishes,vegetarian meals,True,Dietary preference,gpt-4-turbo,health
+yoga in a studio,swimming in a pool,True,Type of physical activity,gpt-4-turbo,health
+staying in air-conditioned spaces,traveling to polluted areas,True,Exposure to environments,gpt-4-turbo,health
+performing breathing exercises,consulting with therapists,True,Stress management technique,gpt-4-turbo,health
+exercising outdoors,living in high altitudes,True,Exposure to environments,gpt-4-turbo,health
+annual medical examinations,weekly weight measurements,True,Health monitoring frequency,gpt-4-turbo,health
+feelings of happiness,periods of depression,True,Mental health status,gpt-4-turbo,health
+isolating from others,attending social gatherings,True,Social interaction level,gpt-4-turbo,health
+living in high altitudes,sipping herbal teas,False,,gpt-4-turbo,health
+pharmaceutical medication,daily blood pressure checks,False,,gpt-4-turbo,health
+strength training in a gym,taking vacations,False,,gpt-4-turbo,health
+working indoors,vegetarian meals,False,,gpt-4-turbo,health
+biannual dental visits,swimming in a pool,False,,gpt-4-turbo,health
+biannual dental visits,traveling to polluted areas,False,,gpt-4-turbo,health
+vegetarian meals,consulting with therapists,False,,gpt-4-turbo,health
+monthly cholesterol tests,living in high altitudes,False,,gpt-4-turbo,health
+living in high altitudes,weekly weight measurements,False,,gpt-4-turbo,health
+pharmaceutical medication,periods of depression,False,,gpt-4-turbo,health
+Optical microscopy,Scanning electron microscopy,True,Inspection method,gpt-4-turbo,semiconductor manufacturing
+Silicon substrate,Silicon carbide base,True,Type of semiconductor material,gpt-4-turbo,semiconductor manufacturing
+Wafer-level packaging,Wire-bonded package,True,Packaging type,gpt-4-turbo,semiconductor manufacturing
+Plasma etching,Reactive ion etching,True,Etching technique,gpt-4-turbo,semiconductor manufacturing
+Ion implantation,Gas phase doping,True,Doping method,gpt-4-turbo,semiconductor manufacturing
+X-ray inspection,Optical microscopy,True,Inspection method,gpt-4-turbo,semiconductor manufacturing
+Hard mask layer,Antireflective coating,True,Wafer surface coating,gpt-4-turbo,semiconductor manufacturing
+Flip-chip assembly,Wafer-level packaging,True,Packaging type,gpt-4-turbo,semiconductor manufacturing
+Deep ultraviolet radiation,Ultraviolet beam,True,Photolithography light source,gpt-4-turbo,semiconductor manufacturing
+Germanium layer,Silicon carbide base,True,Type of semiconductor material,gpt-4-turbo,semiconductor manufacturing
+Wet chemical etching,Extreme ultraviolet light,False,,gpt-4-turbo,semiconductor manufacturing
+X-ray inspection,Silicon carbide base,False,,gpt-4-turbo,semiconductor manufacturing
+Rapid thermal annealing,Wire-bonded package,False,,gpt-4-turbo,semiconductor manufacturing
+Stepper exposure,Solid source diffusion,False,,gpt-4-turbo,semiconductor manufacturing
+Stepper exposure,Gas phase doping,False,,gpt-4-turbo,semiconductor manufacturing
+Gallium arsenide wafer,Scanning electron microscopy,False,,gpt-4-turbo,semiconductor manufacturing
+Wet chemical etching,Optical microscopy,False,,gpt-4-turbo,semiconductor manufacturing
+Laser thermal processing,Optical microscopy,False,,gpt-4-turbo,semiconductor manufacturing
+Laser thermal processing,Antireflective coating,False,,gpt-4-turbo,semiconductor manufacturing
+Wire-bonded package,Gallium arsenide wafer,False,,gpt-4-turbo,semiconductor manufacturing
+Man-in-the-middle attacks,Phishing scams,True,Cybersecurity Threat,gpt-4-turbo,computer science
+Ransomware attacks,SQL injection attacks,True,Cybersecurity Threat,gpt-4-turbo,computer science
+Binary trees,Graph structures,True,Data Structure,gpt-4-turbo,computer science
+Graph databases,Relational databases,True,Database System,gpt-4-turbo,computer science
+Scrum framework,DevOps strategies,True,Software Development Methodology,gpt-4-turbo,computer science
+Android versions,iOS releases,True,Operating System,gpt-4-turbo,computer science
+Search algorithms,Graph algorithms,True,Algorithm Type,gpt-4-turbo,computer science
+Sorting algorithms,Dynamic programming algorithms,True,Algorithm Type,gpt-4-turbo,computer science
+Object-oriented languages,Scripting languages,True,Programming Language,gpt-4-turbo,computer science
+SQL injection attacks,Denial of Service attacks,True,Cybersecurity Threat,gpt-4-turbo,computer science
+Agile practices,Deep learning architectures,False,,gpt-4-turbo,computer science
+Supervised learning methods,Phishing scams,False,,gpt-4-turbo,computer science
+Function as a Service,SQL injection attacks,False,,gpt-4-turbo,computer science
+Agile practices,Graph structures,False,,gpt-4-turbo,computer science
+Ensemble methods,Relational databases,False,,gpt-4-turbo,computer science
+iOS releases,DevOps strategies,False,,gpt-4-turbo,computer science
+NoSQL databases,iOS releases,False,,gpt-4-turbo,computer science
+Simple Mail Transfer Protocol,Graph algorithms,False,,gpt-4-turbo,computer science
+Linked lists,Functional programming languages,False,,gpt-4-turbo,computer science
+Linux distributions,Scripting languages,False,,gpt-4-turbo,computer science
+widowed,divorced,True,Marital status,gpt-4-turbo,sociology
+conservative,moderate,True,Political orientation,gpt-4-turbo,sociology
+Hinduism,Buddhism,True,Religious affiliation,gpt-4-turbo,sociology
+upper middle class,elite,True,Social class perception,gpt-4-turbo,sociology
+Buddhism,Christianity,True,Religious affiliation,gpt-4-turbo,sociology
+stepfamily,childless family,True,Type of family structure,gpt-4-turbo,sociology
+Caucasian,Asian,True,Ethnic background,gpt-4-turbo,sociology
+primary education completed,postgraduate degree obtained,True,Educational attainment,gpt-4-turbo,sociology
+Caucasian,African descent,True,Ethnic background,gpt-4-turbo,sociology
+Islam,Christianity,True,Religious affiliation,gpt-4-turbo,sociology
+working class,divorced,False,,gpt-4-turbo,sociology
+postgraduate degree obtained,atheist,False,,gpt-4-turbo,sociology
+town,elite,False,,gpt-4-turbo,sociology
+primary education completed,Christianity,False,,gpt-4-turbo,sociology
+divorced,suburban area,False,,gpt-4-turbo,sociology
+African descent,childless family,False,,gpt-4-turbo,sociology
+Buddhism,Asian,False,,gpt-4-turbo,sociology
+stepfamily,atheist,False,,gpt-4-turbo,sociology
+unemployed,postgraduate degree obtained,False,,gpt-4-turbo,sociology
+suburban area,childless family,False,,gpt-4-turbo,sociology
+collaborative problem-solving,confrontational tactics,True,Conflict resolution styles,gpt-4-turbo,psychology
+visual learning,self-paced study,True,Learning preferences,gpt-4-turbo,psychology
+family networks,community groups,True,Social support systems,gpt-4-turbo,psychology
+analytical evaluation,impulsive choices,True,Decision-making processes,gpt-4-turbo,psychology
+online forums,community groups,True,Social support systems,gpt-4-turbo,psychology
+anxious preoccupation,dependent engagement,True,Attachment styles,gpt-4-turbo,psychology
+propensity for risk-taking,tendency towards empathy,True,Personality traits,gpt-4-turbo,psychology
+hands-on activities,visual learning,True,Learning preferences,gpt-4-turbo,psychology
+professional mentors,community groups,True,Social support systems,gpt-4-turbo,psychology
+sense of melancholy,feelings of euphoria,True,Mood states,gpt-4-turbo,psychology
+inclination for organization,confrontational tactics,False,,gpt-4-turbo,psychology
+anxious preoccupation,self-paced study,False,,gpt-4-turbo,psychology
+secure emotional bonds,community groups,False,,gpt-4-turbo,psychology
+online forums,impulsive choices,False,,gpt-4-turbo,psychology
+use of support groups,community groups,False,,gpt-4-turbo,psychology
+intuitive judgment,dependent engagement,False,,gpt-4-turbo,psychology
+professional mentors,visual learning,False,,gpt-4-turbo,psychology
+professional mentors,public speaking,False,,gpt-4-turbo,psychology
+practice of mindfulness meditation,community groups,False,,gpt-4-turbo,psychology
+intuitive judgment,friendship circles,False,,gpt-4-turbo,psychology
