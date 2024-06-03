@@ -1,0 +1,11 @@
+variable definition,values
+Physical Activity Level,"['Regular Gym Goer', 'Marathon Runner', 'Yoga Practitioner', 'Couch Potato']"
+Dietary Preference,"['Vegan', 'Paleo', 'Mediterranean', 'Fast Food Lover']"
+Stress Coping Mechanism,"['Meditation', 'Journaling', 'Exercise', 'Socializing']"
+Sleep Quality,"['Deep Sleeper', 'Light Sleeper', 'Insomniac', 'Napper']"
+Hydration Status,"['Adequately Hydrated', 'Dehydrated', 'Over-hydrated', 'Thirsty']"
+Sun Exposure,"['Sun Lover', 'Sun Avoider', 'Sunscreen User', 'Tanned']"
+Smoking Habits,"['Non-Smoker', 'Occasional Smoker', 'Chain Smoker', 'Quitter']"
+Alcohol Consumption,"['Teetotaler', 'Social Drinker', 'Heavy Drinker', 'Weekend Partier']"
+Screen Time,"['Screen Addict', 'Moderate User', 'Limited User', 'Tech Detoxer']"
+Social Support,"['Strong Support System', 'Isolated', 'Family-Centric', 'Friendship Circle']"

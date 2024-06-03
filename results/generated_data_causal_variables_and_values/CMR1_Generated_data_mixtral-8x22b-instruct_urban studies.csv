@@ -1,0 +1,11 @@
+variable definition,values
+Population Density,"['sparse settlements', 'suburban sprawl', 'urban core', 'high-rise district', 'megacity']"
+Land Use,"['agricultural land', 'residential area', 'commercial district', 'industrial zone', 'recreational space']"
+Transportation Infrastructure,"['limited access roads', 'public transit system', 'bike lanes', 'pedestrian-friendly streets', 'airport hub']"
+Housing Types,"['single-family homes', 'townhouses', 'apartment complexes', 'condominiums', 'social housing']"
+Economic Activity,"['agricultural economy', 'manufacturing base', 'service sector', 'knowledge economy', 'tourism industry']"
+Public Services,"['limited public services', 'basic public services', 'comprehensive public services', 'specialized public services', 'world-class public services']"
+Environmental Sustainability,"['polluted environment', 'minimal sustainability efforts', 'moderate sustainability efforts', 'advanced sustainability efforts', 'leading sustainability practices']"
+Cultural Diversity,"['homogeneous culture', 'limited cultural diversity', 'moderate cultural diversity', 'high cultural diversity', 'global cultural hub']"
+Historical Significance,"['no historical significance', 'limited historical significance', 'moderate historical significance', 'high historical significance', 'world heritage site']"
+Natural Landscape,"['barren landscape', 'limited natural features', 'moderate natural features', 'abundant natural features', 'protected natural reserve']"

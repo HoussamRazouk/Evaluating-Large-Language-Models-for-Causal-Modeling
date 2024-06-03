@@ -1,0 +1,11 @@
+variable definition,values
+Magnetic Field,"['Bar Magnet', 'Electromagnet', 'Permanent Magnet', 'Solenoid Coil', ""Earth's Magnetic Field""]"
+Thermal Insulator,"['Fiberglass', 'Styrofoam', 'Ceramic Fiber', 'Vacuum Flask', 'Reflective Insulation']"
+Optical Medium,"['Air', 'Water', 'Glass Lens', 'Prism', 'Fiber Optic Cable']"
+Electrical Conductor,"['Copper Wire', 'Aluminum Foil', 'Gold Plating', 'Carbon Nanotube', 'Sea Water']"
+Mechanical Oscillator,"['Pendulum Clock', 'Guitar String', 'Spring Coil', 'Tuning Fork', 'Vibrating Diaphragm']"
+Radiation Source,"['Radioactive Isotope', 'X-Ray Tube', 'Laser Diode', 'Solar Flare', 'Cosmic Ray']"
+Thermodynamic System,"['Heat Engine', 'Refrigerator', 'Thermos Flask', 'Ideal Gas', 'Cryogenic Chamber']"
+Gravitational Field,"[""Earth's Gravity"", 'Black Hole', 'Neutron Star', 'Gravitational Wave', 'Tidal Force']"
+Electromagnetic Wave,"['Radio Wave', 'Microwave Oven', 'Infrared Camera', 'Visible Light', 'Gamma Ray']"
+Kinematic Constraint,"['Frictionless Pulley', 'Massless Spring', 'Ideal Rigid Body', 'Inertial Frame', 'Fixed Axis']"

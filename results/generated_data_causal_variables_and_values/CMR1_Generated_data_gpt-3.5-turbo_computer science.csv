@@ -1,0 +1,11 @@
+variable definition,values
+Programming Language,"['Object-Oriented', 'Functional', 'Declarative', 'Scripting', 'Compiled']"
+Data Structure,"['Linked List', 'Tree', 'Graph', 'Queue', 'Stack']"
+Algorithm Complexity,"['Exponential Time', 'Polynomial Time', 'Logarithmic Time', 'Linear Time', 'Constant Time']"
+Operating System,"['Unix-Based', 'Real-Time', 'Distributed', 'Embedded', 'Multitasking']"
+Network Protocol,"['TCP/IP', 'HTTP', 'FTP', 'SMTP', 'UDP']"
+Database Model,"['Relational', 'NoSQL', 'Graph', 'Document-Oriented', 'Key-Value']"
+Software Development Methodology,"['Agile', 'Waterfall', 'Scrum', 'Kanban', 'DevOps']"
+Machine Learning Technique,"['Supervised Learning', 'Unsupervised Learning', 'Reinforcement Learning', 'Deep Learning', 'Ensemble Learning']"
+Cybersecurity Threat,"['Malware', 'Phishing', 'DDoS Attack', 'Ransomware', 'Social Engineering']"
+Cloud Computing Service Model,"['IaaS', 'PaaS', 'SaaS', 'FaaS', 'DaaS']"

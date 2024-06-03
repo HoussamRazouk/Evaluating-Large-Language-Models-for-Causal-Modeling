@@ -1,0 +1,11 @@
+variable definition,values
+Market Sentiment,"['bull market conditions', 'bear market conditions', 'market optimism', 'market pessimism', 'investor confidence surge', 'investor confidence decline']"
+Corporate Earnings,"['earnings beat expectations', 'earnings miss expectations', 'record profit announcements', 'significant earnings drop', 'steady earnings growth', 'fluctuating corporate profits']"
+Interest Rate Environment,"['central bank rate hikes', 'central bank rate cuts', 'stable interest rate period', 'low interest rate environment', 'rising interest rate trend', 'declining interest rate trend']"
+Economic Indicators,"['strong GDP growth', 'recessionary period', 'increasing unemployment rates', 'job market strength', 'inflationary pressures', 'deflationary trend']"
+Investment Trends,"['growth in sustainable investments', 'popularity of tech investments', 'shift towards value stocks', 'interest in emerging markets', 'focus on dividend stocks', 'rise in real estate investments']"
+Regulatory Changes,"['tighter financial regulations', 'deregulation in the banking sector', 'new compliance requirements', 'changes in tax laws', 'introduction of digital currency regulations', 'reform in stock market rules']"
+Technological Advancements,"['adoption of blockchain technology', 'growth in artificial intelligence use', 'expansion of mobile banking', 'advancements in cybersecurity', 'integration of big data analytics', 'development of fintech solutions']"
+Global Trade Dynamics,"['increase in trade barriers', 'signing of new trade agreements', 'trade war escalations', 'strengthening of global supply chains', 'reduction in import tariffs', 'expansion of export markets']"
+Consumer Behavior,"['rise in online shopping', 'increase in luxury goods spending', 'shift towards budget-conscious spending', 'growth in ethical consumerism', 'trend towards personalized services', 'preference for local products']"
+Political Stability,"['election year uncertainties', 'political regime change', 'implementation of stable government policies', 'political unrest in a region', 'strengthening of international relations', 'political scandals']"

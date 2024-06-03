@@ -1,0 +1,11 @@
+variable definition,values
+Dietary habits,"['Vegan', 'Vegetarian', 'Pescatarian', 'Flexitarian', 'Mediterranean', 'Ketogenic', 'Paleo', 'Low-carb', 'High-protein', 'Junk food']"
+Physical activity level,"['Sedentary', 'Lightly active', 'Moderately active', 'Very active', 'Extremely active']"
+Sleep quality,"['Insomniac', 'Restless', 'Light sleeper', 'Sound sleeper', 'Deep sleeper']"
+Stress level,"['Chronic stress', 'High stress', 'Moderate stress', 'Low stress', 'No stress']"
+Smoking status,"['Heavy smoker', 'Moderate smoker', 'Light smoker', 'Social smoker', 'Non-smoker']"
+Alcohol consumption,"['Heavy drinker', 'Moderate drinker', 'Light drinker', 'Social drinker', 'Non-drinker']"
+Sun exposure,"['Excessive sun exposure', 'Moderate sun exposure', 'Limited sun exposure', 'Minimal sun exposure', 'No sun exposure']"
+Environmental pollution,"['High pollution', 'Moderate pollution', 'Low pollution', 'Minimal pollution', 'No pollution']"
+Genetic predisposition,"['Strong genetic predisposition', 'Moderate genetic predisposition', 'Mild genetic predisposition', 'No genetic predisposition', 'Genetic protection']"
+Mental health status,"['Severe mental illness', 'Moderate mental illness', 'Mild mental illness', 'No mental illness', 'Excellent mental health']"

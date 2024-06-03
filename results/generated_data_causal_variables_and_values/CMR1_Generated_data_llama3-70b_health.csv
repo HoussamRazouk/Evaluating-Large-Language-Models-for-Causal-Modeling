@@ -1,0 +1,11 @@
+variable definition,values
+Smoking Status,"['Chain Smoker', 'Social Smoker', 'Non Smoker', 'Ex Smoker', 'Heavy Smoker', 'Light Smoker']"
+Body Mass Index,"['Obese', 'Underweight', 'Muscular Build', 'Athletic Build', 'Plus Sized', 'Petite Build']"
+Diet Type,"['Vegan', 'Vegetarian', 'Carnivore', 'Omnivore', 'Flexitarian', 'Pescatarian']"
+Physical Activity Level,"['Couch Potato', 'Gym Enthusiast', 'Casual Walker', 'Avid Hiker', 'Yoga Practitioner', 'Marathon Runner']"
+Sleep Pattern,"['Night Owl', 'Early Riser', 'Insomniac', 'Sleepwalker', 'Nap Lover', 'Light Sleeper']"
+Mental Health Status,"['Anxiety Sufferer', 'Depression Patient', 'Bipolar Individual', 'Schizophrenic', 'Stable Mind', 'PTSD Survivor']"
+Family Medical History,"['Cancer Survivor Family', 'Diabetic Family', 'Heart Disease Family', ""Alzheimer's Family"", 'Healthy Family', 'Autoimmune Family']"
+Occupational Hazards,"['Office Worker', 'Construction Worker', 'Healthcare Professional', 'Factory Worker', 'Farmer', 'Firefighter']"
+Environmental Exposure,"['City Dweller', 'Rural Resident', 'Beachside Resident', 'Mountain Dweller', 'Desert Resident', 'Forest Dweller']"
+Medication Adherence,"['Pill Reminder', 'Medication Skipper', 'Dose Adjuster', 'Prescription Follower', 'Medication Abuser', 'Treatment Non-Adherent']"

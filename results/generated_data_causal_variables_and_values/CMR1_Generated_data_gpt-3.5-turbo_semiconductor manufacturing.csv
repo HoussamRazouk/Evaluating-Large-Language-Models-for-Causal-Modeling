@@ -1,0 +1,11 @@
+variable definition,values
+Equipment Utilization,"['Continuous Operation', 'Scheduled Maintenance', 'Tool Calibration']"
+Process Yield,"['Defect-Free Wafers', 'Reworked Wafers', 'Scrapped Wafers']"
+Wafer Thickness Uniformity,"['Even Thickness', 'Thickness Variability', 'Edge Exclusion']"
+Cleanroom Contamination,"['Particle Contamination', 'Chemical Contamination', 'Microbial Contamination']"
+Temperature Control,"['Stable Temperature', 'Temperature Fluctuations', 'Temperature Mapping']"
+Wafer Bow,"['Flat Wafers', 'Concave Wafers', 'Convex Wafers']"
+Etch Rate,"['Uniform Etching', 'Over Etching', 'Under Etching']"
+Dielectric Breakdown,"['Insulating Properties', 'Breakdown Voltage', 'Dielectric Strength']"
+Photoresist Adhesion,"['Strong Adhesion', 'Weak Adhesion', 'Delamination']"
+Ion Implantation Dose,"['Optimal Dose', 'Under-Dose', 'Over-Dose']"

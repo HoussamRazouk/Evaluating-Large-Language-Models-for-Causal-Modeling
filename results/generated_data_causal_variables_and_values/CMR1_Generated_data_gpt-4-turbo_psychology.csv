@@ -1,0 +1,11 @@
+variable definition,values
+Parenting Style,"['authoritative guidance', 'permissive upbringing', 'neglectful supervision', 'authoritarian control']"
+Coping Mechanism,"['emotional support seeking', 'problem-solving focus', 'avoidance of stressors', 'substance use']"
+Attachment Style,"['secure emotional bonding', 'anxious preoccupation', 'dismissive avoidance', 'fearful avoidance']"
+Social Support,"['community involvement', 'family cohesion', 'peer group interactions', 'professional assistance']"
+Personality Trait,"['openness to experience', 'conscientiousness', 'extroversion', 'agreeableness', 'neuroticism']"
+Motivation Type,"['intrinsic motivation', 'extrinsic motivation', 'achievement-driven', 'power-driven']"
+Conflict Resolution Strategy,"['collaborative problem solving', 'compromise', 'dominance assertion', 'withdrawal']"
+Life Stress Level,"['job loss', 'marital separation', 'financial bankruptcy', 'death of a loved one']"
+Educational Attainment,"['high school diploma', ""bachelor's degree"", ""master's degree"", 'doctoral degree']"
+Therapeutic Intervention,"['cognitive behavioral therapy', 'psychoanalysis', 'group therapy', 'medication']"

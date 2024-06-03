@@ -1,0 +1,11 @@
+variable definition,values
+Temperature of a gas,"['Absolute zero', 'Room temperature', 'Boiling point of water', 'Melting point of iron', 'Surface temperature of the sun']"
+Speed of an object,"['Speed of sound', 'Speed of light', 'Typical walking speed', 'Speed of a commercial jet', 'Escape velocity of Earth']"
+Mass of an object,"['Mass of an electron', 'Mass of a proton', 'Mass of a human', 'Mass of a car', 'Mass of the Earth']"
+Length of an object,"['Planck length', 'Diameter of a hydrogen atom', 'Height of a human', 'Length of a football field', 'Diameter of the Sun']"
+Time duration,"['Planck time', 'Blink of an eye', 'Lifespan of a mayfly', 'Age of the Earth', 'Age of the Universe']"
+Electric charge,"['Charge of an electron', 'Charge of a proton', 'Charge of a lightning bolt', 'Charge of a capacitor', 'Charge of a thundercloud']"
+Magnetic field strength,"['Magnetic field of Earth', 'Magnetic field of Jupiter', 'Magnetic field of a refrigerator magnet', 'Magnetic field of a neodymium magnet', 'Magnetic field of a neutron star']"
+Energy of a system,"['Rest energy of an electron', 'Kinetic energy of a bullet', 'Energy of a lightning bolt', 'Energy of a hurricane', 'Energy of a supernova']"
+Frequency of a wave,"['Frequency of a radio wave', 'Frequency of visible light', 'Frequency of an X-ray', 'Frequency of a gamma ray', 'Frequency of a cosmic ray']"
+Pressure of a gas,"['Pressure at the top of Mount Everest', 'Atmospheric pressure at sea level', 'Pressure at the bottom of the Mariana Trench', 'Pressure inside a hot air balloon', 'Pressure inside a nuclear reactor']"

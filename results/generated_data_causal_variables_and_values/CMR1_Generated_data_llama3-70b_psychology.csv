@@ -1,0 +1,11 @@
+variable definition,values
+Self-Esteem,"['Confident Individual', 'Insecure Person', 'Self-Doubter', 'Overachiever', 'Perfectionist']"
+Coping Mechanism,"['Avoider', 'Confronter', 'Denier', 'Rationalizer', 'Suppressor']"
+Personality Type,"['Introverted Thinker', 'Extroverted Feeler', 'Sensing Judger', 'Intuitive Perceiver']"
+Motivation,"['Achievement-Oriented', 'Socially Driven', 'Intrinsically Motivated', 'Extrinsically Motivated', 'Fear-Driven']"
+Emotional Regulation,"['Emotional Expresser', 'Emotional Suppressor', 'Emotional Avoider', 'Emotional Explorer', 'Emotional Analyzer']"
+Learning Style,"['Visual Learner', 'Auditory Learner', 'Kinesthetic Learner', 'Reading-Writing Learner', 'Hands-On Learner']"
+Social Support Network,"['Large Family Circle', 'Close-Knit Friend Group', 'Collegial Network', 'Community Involvement', 'Online Support Group']"
+Cognitive Bias,"['Confirmation Biased', 'Anchored Thinker', 'Availability Heurist', 'Hindsight Biased', 'Sunk Cost Fallacy']"
+Attachment Style,"['Securely Attached', 'Anxiously Attached', 'Avoidantly Attached', 'Fearfully Attached', 'Dismissively Attached']"
+Resilience,"['Trauma Survivor', 'Adversity Overcomer', 'Stress Manager', 'Crisis Handler', 'Setback Recoverer']"

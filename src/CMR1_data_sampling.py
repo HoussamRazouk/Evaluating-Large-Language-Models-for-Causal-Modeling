@@ -5,7 +5,7 @@ import random
 This code construct the positive and negative examples for CMR1 
 
 '''
-domains=["urban studies","physics","health","semiconductor manufacturing","computer science","sociology","psychology"]
+domains=["urban studies","physics","health","semiconductor manufacturing","computer science","sociology","psychology","finance"]
 models=["llama3-70b","mixtral-8x22b-instruct","gpt-3.5-turbo","gpt-4-turbo"]
 
 number_of_positive_samples=10
@@ -17,7 +17,7 @@ for model in models:
         positive_examples=[]
         negative_examples=[]
 
-        df=pd.read_csv(f'results/generated_data_variables_and_values/CMR1_Generated_data_{model}_{domain}.csv',converters={'values': pd.eval})
+        df=pd.read_csv(f'results/generated_data_causal_variables_and_values/CMR1_Generated_data_{model}_{domain}.csv',converters={'values': pd.eval})
         while True:
             ## select a random variable
             first_variable_index=random.randint(0, len(df)-1)

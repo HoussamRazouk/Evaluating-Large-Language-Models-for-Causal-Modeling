@@ -1,0 +1,11 @@
+variable definition,values
+Gross Domestic Product (GDP),"['rapid growth', 'slow growth', 'recession', 'depression', 'recovery', 'stagnation']"
+Interest Rates,"['rising rates', 'stable rates', 'falling rates', 'near-zero rates', 'negative rates']"
+Inflation,"['hyperinflation', 'galloping inflation', 'creeping inflation', 'disinflation', 'deflation']"
+Unemployment Rate,"['full employment', 'low unemployment', 'moderate unemployment', 'high unemployment', 'severe unemployment']"
+Stock Market Performance,"['bull market', 'bear market', 'market correction', 'market crash', 'market rally']"
+Currency Exchange Rates,"['appreciation', 'depreciation', 'stable exchange rate', 'volatile exchange rate', 'currency crisis']"
+Fiscal Policy,"['expansionary policy', 'contractionary policy', 'balanced budget', 'fiscal deficit', 'fiscal surplus']"
+Monetary Policy,"['quantitative easing', 'tightening', 'accommodative policy', 'neutral policy', 'restrictive policy']"
+Consumer Confidence,"['high confidence', 'moderate confidence', 'low confidence', 'declining confidence', 'rising confidence']"
+Corporate Profitability,"['record profits', 'profitable', 'break-even', 'losses', 'bankruptcy']"

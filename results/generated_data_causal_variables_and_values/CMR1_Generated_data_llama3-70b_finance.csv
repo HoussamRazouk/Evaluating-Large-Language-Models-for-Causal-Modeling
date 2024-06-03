@@ -1,0 +1,11 @@
+variable definition,values
+Market Sentiment,"['Bullish Trend', 'Bearish Trend', 'Stable Market', 'Market Volatility', 'Economic Uncertainty']"
+Company Size,"['Small Cap', 'Mid Cap', 'Large Cap', 'Enterprise Level', 'Micro Enterprise']"
+Industry Type,"['Technology Sector', 'Financial Institution', 'Healthcare Provider', 'Retail Business', 'Manufacturing Firm']"
+Geographic Location,"['Emerging Market', 'Developed Economy', 'Asia Pacific Region', 'European Union', 'North American Market']"
+Management Experience,"['Seasoned Leadership', 'New Management Team', 'Family Owned Business', 'Entrepreneurial Venture', 'Turnaround Expertise']"
+Financial Leverage,"['High Debt Ratio', 'Low Debt Ratio', 'Optimal Capital Structure', 'Over-Leveraged Company', 'Conservative Financing']"
+Growth Strategy,"['Organic Growth', 'Inorganic Growth', 'Diversification Plan', 'Market Penetration', 'Cost Leadership Strategy']"
+Regulatory Environment,"['Stringent Regulations', 'Lax Regulations', 'Industry-Specific Laws', 'Trade Agreements', 'Monetary Policy']"
+Competitive Landscape,"['Monopoly Market', 'Oligopoly Market', 'Perfect Competition', 'Monopsony Power', 'Duopoly Market']"
+Macroeconomic Conditions,"['Economic Boom', 'Economic Recession', 'Stagflation', 'Deflationary Environment', 'Inflationary Pressure']"

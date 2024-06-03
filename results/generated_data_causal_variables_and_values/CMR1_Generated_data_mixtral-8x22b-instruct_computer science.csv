@@ -1,0 +1,11 @@
+variable definition,values
+Programming Language,"['Python', 'Java', 'C++', 'JavaScript', 'Ruby', 'Swift', 'Go', 'Rust', 'PHP', 'Kotlin']"
+Operating System,"['Windows', 'Linux', 'macOS', 'Android', 'iOS', 'FreeBSD', 'Solaris', 'Chrome OS', 'Ubuntu', 'Fedora']"
+Database Management System,"['MySQL', 'PostgreSQL', 'MongoDB', 'Oracle', 'SQLite', 'MariaDB', 'Redis', 'Cassandra', 'CouchDB', 'Neo4j']"
+Web Framework,"['Django', 'Flask', 'Express.js', 'Ruby on Rails', 'Spring', 'Laravel', 'ASP.NET', 'AngularJS', 'Vue.js', 'React']"
+Version Control System,"['Git', 'Subversion', 'Mercurial', 'Perforce', 'CVS', 'Bazaar', 'TFS', 'Fossil', 'Darcs', 'Monotone']"
+Cloud Service Provider,"['AWS', 'Google Cloud', 'Microsoft Azure', 'IBM Cloud', 'Oracle Cloud', 'Alibaba Cloud', 'DigitalOcean', 'Rackspace', 'Heroku', 'VMware']"
+Containerization Platform,"['Docker', 'Kubernetes', 'Apache Mesos', 'CoreOS', 'OpenShift', 'HashiCorp Nomad', 'Rancher', 'LXC', 'LXD', 'CRI-O']"
+CI/CD Tool,"['Jenkins', 'Travis CI', 'CircleCI', 'GitLab CI', 'Bamboo', 'TeamCity', 'CodeShip', 'GoCD', 'Buddy', 'Drone']"
+IDE/Text Editor,"['Visual Studio Code', 'IntelliJ IDEA', 'Eclipse', 'Sublime Text', 'Atom', 'PyCharm', 'NetBeans', 'Emacs', 'Vim', 'Notepad++']"
+Virtualization Platform,"['VMware vSphere', 'Microsoft Hyper-V', 'Citrix Hypervisor', 'Oracle VM VirtualBox', 'KVM', 'Xen', 'Proxmox VE', 'Nutanix Acropolis', 'Red Hat Virtualization', 'IBM PowerVM']"

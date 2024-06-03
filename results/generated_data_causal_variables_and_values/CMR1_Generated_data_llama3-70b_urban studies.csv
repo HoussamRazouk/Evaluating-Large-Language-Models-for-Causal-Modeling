@@ -1,0 +1,11 @@
+variable definition,values
+Land Use Pattern,"['Residential Area', 'Commercial Hub', 'Industrial Zone', 'Recreational Space', 'Agricultural Land']"
+Transportation Infrastructure,"['Well-Connected Highway', 'Efficient Public Transit', 'Bike-Friendly Roads', 'Pedestrianized Streets', 'Waterway Access']"
+Building Architecture,"['Historic Landmark', 'Modern Skyscraper', 'Art Deco Building', 'Sustainable Green Building', 'Post-War Bungalow']"
+Neighborhood Demographics,"['Young Professional Community', 'Family-Oriented Neighborhood', 'Retiree Enclave', 'Student Quarter', 'Immigrant Settlement']"
+Urban Governance,"['Strong Mayor System', 'City Council Governance', 'Decentralized Administration', 'Public-Private Partnership', 'Community-Led Initiative']"
+Environmental Quality,"['Clean Air Zone', 'Noise Pollution Hotspot', 'Flood-Prone Area', 'Green Space Oasis', 'Toxic Waste Site']"
+Economic Activity,"['Thriving Startup Ecosystem', 'Established Industrial Base', 'Tourist Destination', 'Financial Hub', 'Agricultural Market']"
+Public Safety,"['High-Crime Area', 'Safe Neighborhood Watch', 'Police Patrol Zone', 'Emergency Response Hub', 'Disaster-Prone Region']"
+Cultural Amenities,"['Vibrant Arts District', 'Historic Museum Quarter', 'Lively Nightlife Scene', 'Culinary Hotspot', 'Sports Stadium Complex']"
+Urban Planning Policy,"['Zoning Regulation', 'Inclusionary Zoning', 'Transit-Oriented Development', 'Smart Growth Initiative', 'Urban Renewal Project']"

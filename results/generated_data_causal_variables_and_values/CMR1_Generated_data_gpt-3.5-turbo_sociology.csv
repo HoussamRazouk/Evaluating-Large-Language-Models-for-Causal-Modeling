@@ -1,0 +1,11 @@
+variable definition,values
+Social Status,"['High-ranking executive', 'Unemployed individual', 'Middle-class worker', 'Wealthy entrepreneur', 'Working-class parent']"
+Religious Affiliation,"['Devout Catholic', 'Practicing Muslim', 'Atheist', 'Buddhist monk', 'Hindu priest']"
+Family Structure,"['Single-parent household', 'Extended family living together', 'Childless couple', 'Nuclear family', 'Blended family']"
+Educational Attainment,"['Ph.D. holder', 'High school dropout', 'Trade school graduate', ""Bachelor's degree recipient"", ""Master's degree holder""]"
+Occupational Field,"['Healthcare professional', 'Software engineer', 'Artist', 'Construction worker', 'Teacher']"
+Political Ideology,"['Libertarian', 'Socialist', 'Conservative', 'Anarchist', 'Centrist']"
+Community Engagement,"['Volunteer at local shelter', 'Community organizer', 'Not involved in community activities', 'Active member of neighborhood watch', 'Participant in town hall meetings']"
+Marital Status,"['Married', 'Divorced', 'Widowed', 'Never married', 'Separated']"
+Gender Identity,"['Transgender woman', 'Cisgender man', 'Non-binary individual', 'Genderqueer person', 'Genderfluid individual']"
+Immigration Status,"['Naturalized citizen', 'Undocumented immigrant', 'Refugee', 'Green card holder', 'Temporary visa holder']"

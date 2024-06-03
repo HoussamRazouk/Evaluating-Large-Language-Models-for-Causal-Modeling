@@ -1,0 +1,12 @@
+variable definition,values
+Family Structure,"['Nuclear Family', 'Single Parent Household', 'Extended Family', 'Blended Family']"
+Education Level,"['High School Diploma', ""Bachelor's Degree"", ""Master's Degree"", 'Doctoral Degree']"
+Occupational Status,"['Blue Collar Worker', 'White Collar Worker', 'Entrepreneur', 'Unemployed']"
+Religious Affiliation,"['Christian', 'Muslim', 'Hindu', 'Atheist']"
+Neighborhood Type,"['Urban Slum', 'Suburban Area', 'Rural Town', 'Gated Community']"
+Cultural Identity,"['Mainstream Culture', 'Counterculture', 'Ethnic Minority', 'Immigrant Community']"
+Social Network,"['Close-Knit Community', 'Loose Acquaintances', 'Online Network', 'Isolated Individual']"
+Economic Status,"['Upper Class', 'Middle Class', 'Working Class', 'Poverty Line']"
+Political Ideology,"['Liberal Democrat', 'Conservative Republican', 'Libertarian', 'Socialist']"
+Leisure Activity,"['Sports Enthusiast', 'Artistic Pursuits', 'Outdoor Adventurer', 'Couch Potato']"
+Residential Mobility,"['Long-Term Resident', 'Recent Migrant', 'Frequent Mover', 'Nomadic Lifestyle']"

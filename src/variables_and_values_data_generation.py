@@ -19,27 +19,27 @@ Values from different variables are expected to be negative examples.
 
 number_variables=10
 
-domains=["urban studies","physics","health","semiconductor manufacturing","computer science","sociology","psychology"]
+domains=["urban studies","physics","health","semiconductor manufacturing","computer science","sociology","psychology","finance"]
 
 models=["llama3-70b","mixtral-8x22b-instruct","gpt-3.5-turbo","gpt-4-turbo"]
 
 
 for model in models:
     if model in ["gpt-3.5-turbo","gpt-4-turbo"]: # deferent API key 
-
+        init()
         client = OpenAI()
     else :
         client=init_lama()
     for domain in domains :
-        if os.path.isfile(f'results/generated_data_variables_and_values/CMR1_Generated_data_{model}_{domain}.csv'):
+        if os.path.isfile(f'results/generated_data_causal_variables_and_values/CMR1_Generated_data_{model}_{domain}.csv'):
             continue
         else:
             df=pd.DataFrame()
     #For example '''{example_variable[0]}'''' can be indicated by high number of '''{example_value[0]}'''. 
             system_prompt=f"You are an expert in  {domain}. "
 
-            user_prompt=f"""Consider you have {number_variables} variables from the {domain} domain. 
-            Each of these variables can be instantiated using take large number of values described in text.
+            user_prompt=f"""Consider you have {number_variables} causal variables from the {domain} domain. 
+            Each of these causal variables can be instantiated using a large number of values described in text.
             These values should give a clear indicators about the variable it describes.
             Avoid values such as '''low''' or '''moderate''' or '''high''' or '''numerical values and unites'''.
             Instead, writ the value as nouns phrase which you could understand infer the actual variable from.
@@ -71,7 +71,7 @@ for model in models:
                 
                 response=json.loads(response)
                 df=df.append(response["Variables"], ignore_index=True)
-                df.to_csv(f'results/generated_data_variables_and_values/CMR1_Generated_data_{model}_{domain}.csv',index=False) 
+                df.to_csv(f'results/generated_data_causal_variables_and_values/CMR1_Generated_data_{model}_{domain}.csv',index=False) 
                 print ('succeed: ',model)
 
 
@@ -80,5 +80,5 @@ for model in models:
                 print(response)
                 print (model)
                 print ('failed: ',model)
-                with open(f'results/generated_data_variables_and_values/CMR1_Generated_data_{model}_{domain}.txt', "w") as f:
+                with open(f'results/generated_data_causal_variables_and_values/CMR1_Generated_data_{model}_{domain}.txt', "w") as f:
                     f.write(str(response))

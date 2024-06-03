@@ -1,0 +1,11 @@
+variable definition,values
+Wafer Surface Condition,"['particle contamination', 'scratch marks', 'residue presence', 'smooth surface']"
+Photolithography Mask Alignment,"['perfect alignment', 'slight misalignment', 'moderate misalignment', 'severe misalignment']"
+Etching Process Type,"['wet etching', 'dry etching', 'reactive ion etching', 'plasma etching']"
+Doping Material Type,"['boron doping', 'phosphorus doping', 'arsenic doping', 'antimony doping']"
+Oxidation Atmosphere,"['dry oxygen', 'wet oxygen', 'nitric oxide', 'ozone']"
+Deposition Technique,"['chemical vapor deposition', 'physical vapor deposition', 'atomic layer deposition', 'sputter deposition']"
+Wafer Polishing Method,"['chemical mechanical polishing', 'electrolytic polishing', 'flame polishing', 'mechanical polishing']"
+Implantation Energy Level,"['low energy implantation', 'medium energy implantation', 'high energy implantation', 'ultra-high energy implantation']"
+Clean Room Environment,"['particle-free air', 'controlled humidity environment', 'vibration-free setup', 'temperature-controlled setting']"
+Circuit Design Complexity,"['simple circuits', 'moderate complexity circuits', 'complex circuits', 'highly complex circuits']"

@@ -1,0 +1,11 @@
+variable definition,values
+Type of residential area,"['urban neighborhoods', 'suburban communities', 'rural villages', 'coastal towns']"
+Educational attainment,"['primary school completion', 'secondary school graduation', 'university degree', 'postgraduate qualifications']"
+Employment sector,"['healthcare industry', 'educational services', 'manufacturing sector', 'technology field', 'retail business']"
+Family structure,"['single-parent households', 'nuclear families', 'extended families', 'childless couples']"
+Social class,"['working class', 'middle class', 'upper class', 'elite class']"
+Religious affiliation,"['Christianity followers', 'Islam adherents', 'Buddhism practitioners', 'secular individuals']"
+Political orientation,"['conservative supporters', 'liberal advocates', 'socialist sympathizers', 'non-partisan citizens']"
+Migration status,"['native-born residents', 'naturalized citizens', 'temporary migrants', 'undocumented immigrants']"
+Media consumption,"['print media readers', 'television viewers', 'online content browsers', 'radio listeners']"
+Healthcare access,"['public healthcare users', 'private clinic visitors', 'alternative medicine followers', 'no regular healthcare']"

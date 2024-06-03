@@ -1,0 +1,11 @@
+variable definition,values
+Temperature of the furnace,"['room temperature', 'boiling point of water', 'melting point of aluminum', 'melting point of silicon', 'boiling point of silicon']"
+Pressure of the chamber,"['atmospheric pressure', 'pressure at sea level', 'pressure at the top of Mount Everest', 'pressure at the bottom of the Mariana Trench', 'pressure in outer space']"
+Type of gas used,"['nitrogen', 'argon', 'helium', 'oxygen', 'hydrogen']"
+Flow rate of the gas,"['trickle', 'drip', 'stream', 'gush', 'flood']"
+Duration of the process,"['blink of an eye', 'heartbeat', 'breath', 'minute', 'hour']"
+Rotation speed of the wafer,"['idle', 'slow spin', 'moderate spin', 'fast spin', 'maximum spin']"
+Thickness of the wafer,"['paper thin', 'credit card', 'CD', 'DVD', 'Blu-ray disc']"
+Doping concentration,"['trace amount', 'low concentration', 'moderate concentration', 'high concentration', 'extreme concentration']"
+Type of dopant,"['boron', 'phosphorus', 'arsenic', 'antimony', 'gallium']"
+Type of substrate,"['silicon', 'germanium', 'gallium arsenide', 'indium phosphide', 'silicon carbide']"

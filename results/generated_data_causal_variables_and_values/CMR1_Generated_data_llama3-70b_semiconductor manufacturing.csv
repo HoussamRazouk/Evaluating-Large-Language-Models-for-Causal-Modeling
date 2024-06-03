@@ -1,0 +1,11 @@
+variable definition,values
+Type of Wafer Material,"['Silicon on Insulator', 'Bulk Silicon', 'Silicon Carbide', 'Germanium on Silicon']"
+Pattern of Transistor Gate,"['FinFET', 'Gate-All-Around', 'Planar', 'Nanowire']"
+Method of Doping,"['Ion Implantation', 'Diffusion', 'Chemical Vapor Deposition', 'Molecular Beam Epitaxy']"
+Type of Interconnect Metal,"['Copper', 'Aluminum', 'Tungsten', 'Gold']"
+Dielectric Material Used,"['Silicon Dioxide', 'Silicon Nitride', 'Low-K Dielectric', 'High-K Dielectric']"
+Lithography Wavelength,"['Extreme Ultraviolet', 'Deep Ultraviolet', 'Argon Fluoride', 'KrF Excimer Laser']"
+Type of Etching Process,"['Reactive Ion Etching', 'Wet Etching', 'Dry Etching', 'Plasma Etching']"
+Cleanroom Environment,"['Class 100', 'Class 1000', 'Class 10000', 'Class 100000']"
+Type of Semiconductor Device,"['Microprocessor', 'Memory Chip', 'Analog-to-Digital Converter', 'Radio Frequency Transceiver']"
+Packaging Technology,"['Wire Bonding', 'Flip Chip', 'Through-Silicon Via', 'System-in-Package']"

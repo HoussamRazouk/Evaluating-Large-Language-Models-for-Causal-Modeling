@@ -1,0 +1,11 @@
+variable definition,values
+Type of residential areas,"['suburban neighborhoods', 'urban high-rise apartments', 'rural homesteads', 'gated communities', 'downtown lofts']"
+Dominant transportation mode,"['public bus systems', 'subway networks', 'bicycle-friendly streets', 'pedestrian-only zones', 'car-dependent highways']"
+Primary economic activity,"['technology sector hubs', 'industrial manufacturing zones', 'financial districts', 'tourism and hospitality centers', 'agricultural communities']"
+Predominant architectural style,"['Victorian-era buildings', 'modernist skyscrapers', 'colonial homes', 'brutalist structures', 'art deco designs']"
+Common recreational facilities,"['public parks and gardens', 'sports complexes', 'waterfront promenades', 'mountain hiking trails', 'urban skate parks']"
+Level of urban greenery,"['tree-lined avenues', 'sparse vegetation areas', 'lush botanical gardens', 'rooftop gardens', 'community vegetable plots']"
+Typical climate condition,"['temperate weather regions', 'tropical rainforest climates', 'arid desert climates', 'cold tundra zones', 'mild Mediterranean climates']"
+Common form of governance,"['mayoral councils', 'city manager systems', 'communal assemblies', 'administrative districts', 'federal territories']"
+Prevalent public safety issues,"['vandalism and graffiti', 'street muggings', 'organized crime activities', 'traffic accidents', 'public protests']"
+Cultural diversity level,"['multicultural communities', 'predominantly single-culture neighborhoods', 'tourist-centric areas', 'expatriate zones', 'ethnically homogeneous towns']"

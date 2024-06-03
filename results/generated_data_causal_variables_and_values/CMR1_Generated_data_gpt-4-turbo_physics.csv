@@ -1,0 +1,11 @@
+variable definition,values
+Material used in a heat conductor,"['copper tubing', 'aluminum fins', 'graphite rods']"
+Source of illumination,"['incandescent bulb', 'fluorescent lamp', 'LED light']"
+Type of mechanical linkage,"['belt drive', 'gear train', 'hydraulic arm']"
+Form of energy storage,"['lithium-ion battery', 'compressed air tank', 'flywheel energy storage']"
+Method of heat transfer,"['conduction through metal', 'radiation from the sun', 'convection by air movement']"
+Type of optical lens,"['convex lens', 'concave lens', 'fresnel lens']"
+State of matter,"['solid ice', 'liquid water', 'gaseous steam']"
+Type of wave,"['sound wave', 'light wave', 'seismic wave']"
+Electrical component,"['resistor', 'capacitor', 'inductor']"
+Type of force,"['gravitational pull', 'electromagnetic force', 'centrifugal force']"

@@ -1,0 +1,11 @@
+variable definition,values
+Type of dietary intake,"['Vegetarian meals', 'Vegan dishes', 'Seafood platters', 'Red meat servings', 'Dairy-rich diet']"
+Physical activity frequency,"['Daily exercise sessions', 'Weekly gym visits', 'Monthly hiking trips', 'Yearly marathon participation']"
+Sleep pattern,"['Nightly eight-hour sleep', 'Irregular sleeping hours', 'Daytime naps', 'Early morning awakenings']"
+Stress level management,"['Meditation routines', 'Therapy sessions', 'Vacation breaks', 'Stressful work deadlines']"
+Hydration habits,"['Regular water drinking', 'Occasional soda consumption', 'Frequent herbal tea brewing', 'Daily coffee intake']"
+Exposure to pollutants,"['Urban air pollution', 'Rural clean air', 'Industrial smoke exposure', 'Home air filtration usage']"
+Social interaction frequency,"['Daily family gatherings', 'Weekly friend meetups', 'Monthly community events', 'Isolated living']"
+Mental stimulation level,"['Daily puzzles solving', 'Weekly book reading', 'Occasional documentary watching', 'Rare intellectual discussions']"
+Healthcare access quality,"['Regular doctor checkups', 'Emergency hospital visits', 'Annual health screenings', 'Lack of medical services']"
+Substance use,"['Alcohol consumption', 'Tobacco smoking', 'Prescription medication usage', 'Recreational drug use']"

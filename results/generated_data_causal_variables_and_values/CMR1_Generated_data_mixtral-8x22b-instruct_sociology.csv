@@ -1,0 +1,11 @@
+variable definition,values
+Level of education,"['Primary school graduate', 'High school graduate', ""Bachelor's degree holder"", ""Master's degree holder"", 'Doctoral degree holder']"
+Occupation,"['Unemployed', 'Blue-collar worker', 'White-collar worker', 'Professional', 'Entrepreneur']"
+Family structure,"['Single-parent household', 'Nuclear family', 'Extended family', 'Childless couple', 'Single individual']"
+Religion,"['Atheist', 'Agnostic', 'Christian', 'Muslim', 'Buddhist']"
+Political ideology,"['Liberal', 'Conservative', 'Libertarian', 'Socialist', 'Anarchist']"
+Ethnicity,"['Caucasian', 'African American', 'Hispanic', 'Asian', 'Native American']"
+Gender,"['Male', 'Female', 'Transgender', 'Non-binary', 'Genderqueer']"
+Age,"['Child', 'Adolescent', 'Young adult', 'Middle-aged adult', 'Senior citizen']"
+Income level,"['Below poverty line', 'Lower-middle class', 'Middle class', 'Upper-middle class', 'Upper class']"
+Geographic location,"['Rural area', 'Suburban area', 'Urban area', 'Coastal area', 'Mountainous area']"

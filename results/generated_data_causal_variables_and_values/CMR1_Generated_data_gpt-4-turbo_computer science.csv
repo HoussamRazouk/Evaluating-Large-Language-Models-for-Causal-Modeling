@@ -1,0 +1,11 @@
+variable definition,values
+Operating System,"['Windows family', 'MacOS series', 'Linux distributions', 'Android versions', 'iOS releases']"
+Programming Language,"['Object-oriented languages', 'Functional programming languages', 'Scripting languages', 'Procedural languages', 'Logic programming languages']"
+Database Technology,"['Relational database systems', 'NoSQL databases', 'In-memory databases', 'Graph databases', 'Distributed databases']"
+Network Protocol,"['Transmission Control Protocol', 'Internet Protocol', 'Simple Mail Transfer Protocol', 'HyperText Transfer Protocol', 'File Transfer Protocol']"
+Hardware Component,"['Central processing units', 'Graphics processing units', 'Solid state drives', 'Random access memory modules', 'Motherboards']"
+Software Development Methodology,"['Agile development practices', 'Waterfall model stages', 'DevOps strategies', 'Rapid application development', 'Spiral model phases']"
+Artificial Intelligence Technique,"['Machine learning algorithms', 'Neural networks architectures', 'Natural language processing methods', 'Computer vision techniques', 'Reinforcement learning strategies']"
+Cybersecurity Threat,"['Ransomware attacks', 'Phishing schemes', 'Denial-of-service attacks', 'Cross-site scripting', 'SQL injection']"
+Cloud Computing Service,"['Infrastructure as a Service', 'Platform as a Service', 'Software as a Service', 'Function as a Service', 'Desktop as a Service']"
+Internet of Things (IoT) Device,"['Smart home sensors', 'Wearable health monitors', 'Industrial automation controllers', 'Smart city infrastructure', 'Connected vehicle systems']"
