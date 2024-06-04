@@ -1,16 +1,26 @@
 import pandas as pd
 import random
+import sys
+sys.path.append('.')
+from src.config import conf_init
 
 '''
 This code construct the positive and negative examples for CMR1 
 
 '''
-domains=["urban studies","physics","health","semiconductor manufacturing","computer science","sociology","psychology","finance"]
-models=["llama3-70b","mixtral-8x22b-instruct","gpt-3.5-turbo","gpt-4-turbo"]
 
-number_of_positive_samples=10
-number_of_negative_samples=10
+config=conf_init()
+
+domains=config['domains']
+
+models=config['models']
+
+
+number_of_positive_samples=config['number_of_positive_samples']
+number_of_negative_samples=config['number_of_negative_samples']
+
 data_set=[]
+
 for model in models:
 
     for domain in domains:

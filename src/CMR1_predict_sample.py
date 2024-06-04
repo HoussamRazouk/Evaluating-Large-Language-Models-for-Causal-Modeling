@@ -2,6 +2,15 @@
 import json 
 
 def CMR1_predict_sample(row,client,model):
+    """
+    The function provided is designed to assess whether two given texts belong to the same causal variable. 
+    Below is a summary of the function's key actions and inputs:
+      Generating Completion: It uses the LLM model through the client to generate a completion for the given task.
+      Extracting Response: The function extracts the response from the generated completion and converts it into a JSON object.
+      Adding Additional Information: It adds additional information to the response, including the prediction model, whether the generated and input causal variables are the same, the data generation model, the generated variable name, and the domain.
+      Returning Response: Finally, the function returns the response as a JSON object.
+    """
+  
 
     First_text=row['Text1']
     Second_text=row['Text2']
@@ -41,13 +50,32 @@ def CMR1_predict_sample(row,client,model):
 ### test the function 
 
 if False:
-    from openai import OpenAI
-    import sys
-    sys.path.append('.')
-    model="gpt-3.5-turbo"
-    client = OpenAI()
-    row={'Text1':'High-Crime Area ','Text2':'Disaster-Prone Region','Same Causal Variable':True,
-         'Variable Name':'Public Safety','model Name':'llama3-70b','domain':'urban studies'}
-    response=CMR1_predict_sample(row,client,model)
-    print(response)
-
+  import sys
+  import pandas as pd
+  sys.path.append('.')
+  from src.init import init# just sets the API key as os variable 
+  from src.init import init_lama
+  from openai import OpenAI
+  import sys
+  sys.path.append('.')
+  model="mixtral-8x22b-instruct"
+  client = init_lama()
+  #SMTP,Tree,False,False,,,gpt-3.5-turbo,llama3-70b,computer science,
+  row={'Text1':'SMTP','Text2':'Tree','Same Causal Variable':False,
+         'Variable Name':'','model Name':'gpt-3.5-turbo','domain':'computer science'}
+  response=CMR1_predict_sample(row,client,model)
+  #print(response)
+  df=pd.DataFrame([response])
+  df=df[[
+                'Text1',
+                'Text2',
+                'Generated Same Causal Variable',
+                'Predicted Same Causal Variable',
+                'Generated Variable Name',
+                'Predicted Variable Name',
+                'Data Generation Model',
+                'Prediction Model',
+                'Domain',
+                'Explanation', 
+                ]]
+  print(df)
