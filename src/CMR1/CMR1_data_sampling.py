@@ -2,7 +2,7 @@ import pandas as pd
 import random
 import sys
 sys.path.append('.')
-from src.config import conf_init
+from src.CMR1.config import conf_init
 
 '''
 This code construct the positive and negative examples for CMR1 
@@ -18,6 +18,7 @@ models=config['models']
 
 number_of_positive_samples=config['number_of_positive_samples']
 number_of_negative_samples=config['number_of_negative_samples']
+CMR1_generated_data_dir=config['CMR1_generated_data_dir']
 
 data_set=[]
 
@@ -27,7 +28,7 @@ for model in models:
         positive_examples=[]
         negative_examples=[]
 
-        df=pd.read_csv(f'results/generated_data_causal_variables_and_values/CMR1_Generated_data_{model}_{domain}.csv',converters={'values': pd.eval})
+        df=pd.read_csv(CMR1_generated_data_dir+f'CMR1_Generated_data_{model}_{domain}.csv',converters={'values': pd.eval})
         while True:
             ## select a random variable
             first_variable_index=random.randint(0, len(df)-1)

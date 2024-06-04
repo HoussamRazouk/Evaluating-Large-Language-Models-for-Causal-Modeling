@@ -5,8 +5,9 @@ def conf_init():
         These parameters include:
         1. Domains: The domains where the data will be generated and tested.
         2. Models: The different models that are being tested in the experiment.
-        3. Number of positive samples: The quantity of positive samples to be sampled for the experiment.
-        4. Number of negative samples: The quantity of negative samples to be sampled for the experiment.
+        3. Number of variables: The quantity of variables to be generated for the experiment. 
+        4. Number of positive samples: The quantity of positive samples to be sampled for the experiment.
+        5. Number of negative samples: The quantity of negative samples to be sampled for the experiment.
     """ 
 
     
@@ -28,6 +29,11 @@ def conf_init():
     number_variables=10
     number_of_positive_samples=10
     number_of_negative_samples=10
+    CMR1_generated_data_dir="results/CMR1/CMR1_generated_data/"
+   
+    CMR1_sample_data_file="results/CMR1/sampled_data/sampled_data_set.csv"
+    CMR1_evaluated_data_dir="results/CMR1/evaluated_data/"
+    
     
     
     return {
@@ -36,4 +42,7 @@ def conf_init():
         'number_variables':number_variables,
         'number_of_positive_samples':number_of_positive_samples,
         'number_of_negative_samples':number_of_negative_samples,
+        'CMR1_generated_data_dir':CMR1_generated_data_dir,
+        'CMR1_sample_data_file':CMR1_sample_data_file,
+        'CMR1_evaluated_data_dir':CMR1_evaluated_data_dir,  
     }

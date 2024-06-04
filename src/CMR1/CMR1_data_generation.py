@@ -4,7 +4,7 @@ import sys
 sys.path.append('.')
 from src.init import init# just sets the API key as os variable 
 from src.init import init_lama# just sets the API key as os variable 
-from src.config import conf_init
+from src.CMR1.config import conf_init
 import json
 import pandas as pd
 import os
@@ -23,7 +23,7 @@ number_variables=config['number_variables']
 domains=config['domains']
 
 models=config['models']
-
+CMR1_generated_data_dir=config['CMR1_generated_data_dir']
 
 for model in models:
     if model in ["gpt-3.5-turbo","gpt-4-turbo"]: # deferent API key 
@@ -32,7 +32,7 @@ for model in models:
     else :
         client=init_lama()
     for domain in domains :
-        if os.path.isfile(f'results/generated_data_causal_variables_and_values/CMR1_Generated_data_{model}_{domain}.csv'):
+        if os.path.isfile(CMR1_generated_data_dir+f'CMR1_Generated_data_{model}_{domain}.csv'):
             continue
         else:
             
@@ -73,7 +73,7 @@ for model in models:
                 
                 response=json.loads(response)
                 df=pd.DataFrame(response["Variables"])
-                df.to_csv(f'results/generated_data_causal_variables_and_values/CMR1_Generated_data_{model}_{domain}.csv',index=False) 
+                df.to_csv(CMR1_generated_data_dir+f'CMR1_Generated_data_{model}_{domain}.csv',index=False) 
                 print ('succeed: ',model)
 
 
@@ -82,5 +82,5 @@ for model in models:
                 print(response)
                 print (model)
                 print ('failed: ',model)
-                with open(f'results/generated_data_causal_variables_and_values/CMR1_Generated_data_{model}_{domain}.txt', "w") as f:
+                with open(CMR1_generated_data_dir+f'CMR1_Generated_data_{model}_{domain}.txt', "w") as f:
                     f.write(str(response))
