@@ -32,7 +32,7 @@ for model in models:
     else :
         client=init_lama()
     for domain in domains :
-        if os.path.isfile(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.csv'):
+        if os.path.isfile(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.pkl'):
             continue
         else:
             
@@ -80,10 +80,12 @@ for model in models:
             response=completion.choices[0].message.content
 
             try:
+            #if True:
                 
                 response=json.loads(response)
                 df=pd.DataFrame(response["Interaction Events"])
                 df.to_csv(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.csv',index=False) 
+                df.to_pickle(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.pkl') 
                 print ('succeed: ',model)
 
 

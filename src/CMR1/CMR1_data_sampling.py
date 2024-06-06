@@ -19,7 +19,7 @@ models=config['models']
 number_of_positive_samples=config['number_of_positive_samples']
 number_of_negative_samples=config['number_of_negative_samples']
 CMR1_generated_data_dir=config['CMR1_generated_data_dir']
-
+CMR1_sample_data_file=config['CMR1_sample_data_file']
 data_set=[]
 
 for model in models:
@@ -42,20 +42,20 @@ for model in models:
 
             if len(negative_examples) < 2*number_of_negative_samples:
                 ## sampling a negative example
-                secund_variable_index=random.randint(0, len(df)-1)
-                if secund_variable_index!=first_variable_index:
-                    second_value_index=random.randint(0, len(df['values'][secund_variable_index])-1)
-                    if tuple([secund_variable_index,
+                second_variable_index=random.randint(0, len(df)-1)
+                if second_variable_index!=first_variable_index:
+                    second_value_index=random.randint(0, len(df['values'][second_variable_index])-1)
+                    if tuple([second_variable_index,
                                 second_value_index,
                                 first_variable_index,
                                 first_value_index]) not in negative_examples:
-                        negative_examples.append(tuple([secund_variable_index,
+                        negative_examples.append(tuple([second_variable_index,
                                                        second_value_index,
                                                        first_variable_index,
                                                        first_value_index]))
                         negative_examples.append(tuple([first_variable_index,
                                                        first_value_index,
-                                                       secund_variable_index,
+                                                       second_variable_index,
                                                        second_value_index]))
             if ((not(len(negative_examples) < 2*number_of_negative_samples))and (not(len(positive_examples) < 2*number_of_positive_samples))):
                 break
@@ -81,10 +81,10 @@ for model in models:
                 'domain':domain
             })
 
-
+    	
 
 
 results=pd.DataFrame(data_set)
-results.to_csv('results/sampled_data_set.csv',index=False)
+results.to_csv(CMR2_sample_data_file,index=False)
 
 
