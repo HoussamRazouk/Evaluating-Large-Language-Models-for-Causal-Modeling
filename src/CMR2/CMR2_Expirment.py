@@ -6,6 +6,15 @@ from src.init import init_lama# just sets the API key as os variable
 from src.CMR2.CMR2_predict_sample import CMR2_predict_sample
 from src.CMR2.config import conf_init
 
+import logging
+logging.basicConfig(filename='CMR2.log',
+                    filemode='a',
+                    format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
+                    datefmt='%H:%M:%S',
+                    level=logging.DEBUG)
+
+logging.info("Running Urban Planning")
+
 import pandas as pd
 import os
 from tqdm.auto import tqdm
@@ -13,7 +22,7 @@ tqdm.pandas()
 
 config=conf_init()
 models=config['models']
-models=["mixtral-8x22b-instruct"]
+
 
 ## read the data
 
@@ -62,5 +71,7 @@ for model in models:
         except:
             print("Failed")
             print(row)
+            logging.info(model)
+            logging.info(str(row))
         
     

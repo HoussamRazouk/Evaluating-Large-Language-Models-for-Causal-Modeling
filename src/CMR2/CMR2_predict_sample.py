@@ -51,7 +51,7 @@ def CMR2_predict_sample(row,client,model):
 
 ### test the function 
 
-if False:
+if True:
   import sys
   import pandas as pd
   sys.path.append('.')
@@ -62,11 +62,49 @@ if False:
   sys.path.append('.')
   model="mixtral-8x22b-instruct"
   client = init_lama()
-  #Value,Variable definition,Interaction Value,model Name,domain  
-  #Disaster-Prone Areas,"['Environmental Risks', 'Emergency Response']",True,llama3-70b,urban studies
-  row={'Value':'Disaster-Prone Areas','Variable definition':"['Environmental Risks', 'Emergency Response']",'Interaction Value':True,
-       'model Name':'llama3-70b','domain':'urban studies'}
-  response=CMR2_predict_sample(row,client,model)
+
+  row={
+    'Value':'Public Art Installations',
+    'Variable definition':"['Urban Planning', 'Economic Activity']",
+    'Interaction Value':False,
+    'model Name':'llama3-70b',
+    'domain':'urban studies'}
+  Value=row['Value']
+  Variable_definition=row['Variable definition']
+  domain=row['domain']
+  completion = client.chat.completions.create(
+                model=model,
+                messages=[
+                  {"role": "system", 
+                  "content":f"""
+                  You are an expert in causality and {domain}. Your task is to help users model their domain knowledge by identifying if a text describe the 
+                  simultaneous occurrence values of multiple causal variables. 
+                  Texts that describe different values of  different causal variable simultaneously should be indicated.
+                  """},
+                  {"role": "user", "content": f"""  
+                  Your task is to assess if the following text belong to the provided causal variables. 
+                        - If the text belong to all causal variables, the the text is and interaction value.
+                        - Provide variables values.
+                        - If the text does not belong to all causal variables, variables values to '',
+                        - Provide your explanation.
+                    Structure your answer as a JSON object including string 'Text', boolean 'Predicted Interaction value', string 'Variables', string 'Variables values', and string 'Explanation'.
+                    
+                    Text: ```{Value}```
+                    Variables: ```{Variable_definition}```       
+                    """}
+                  ],
+                  response_format={ "type": "json_object" }
+                  ,
+                temperature=0, ## no creativity here 
+                max_tokens=4096
+              )
+  response=completion.choices[0].message.content
+
+  response=json.loads(response)
+  response['Prediction Model']=model
+  response['Generated Interaction value']=row['Interaction Value']
+  response['Data Generation Model']=row['model Name']
+  response['Domain']=domain
   #print(response)
   df=pd.DataFrame([response])
   df=df[[

@@ -1,321 +1,641 @@
 Value,Variable definition,Interaction Value,model Name,domain
 Disaster-Prone Areas,"['Environmental Risks', 'Emergency Response']",True,llama3-70b,urban studies
-Food Deserts,"['Food Access', 'Neighborhood Characteristics']",True,llama3-70b,urban studies
-Mixed-Use Development,"['Urban Planning', 'Economic Activity']",True,llama3-70b,urban studies
-Innovation Hubs,"['Economic Activity', 'Education and Research']",True,llama3-70b,urban studies
-Cultural Heritage Sites,"['Urban History', 'Tourism']",True,llama3-70b,urban studies
 Public Art Installations,"['Urban Aesthetics', 'Community Engagement']",True,llama3-70b,urban studies
+Mixed-Use Development,"['Urban Planning', 'Economic Activity']",True,llama3-70b,urban studies
+Food Deserts,"['Food Access', 'Neighborhood Characteristics']",True,llama3-70b,urban studies
+Public Transportation Hubs,"['Urban Density', 'Transportation Infrastructure']",True,llama3-70b,urban studies
+Cultural Heritage Sites,"['Urban History', 'Tourism']",True,llama3-70b,urban studies
 Green Spaces,"['Urban Ecology', 'Land Use']",True,llama3-70b,urban studies
+Innovation Hubs,"['Economic Activity', 'Education and Research']",True,llama3-70b,urban studies
 Urban Renewal Projects,"['Urban Development', 'Economic Incentives']",True,llama3-70b,urban studies
 Pedestrian-Friendly Infrastructure,"['Transportation Infrastructure', 'Urban Design']",True,llama3-70b,urban studies
-Public Transportation Hubs,"['Urban Density', 'Transportation Infrastructure']",True,llama3-70b,urban studies
-Disaster-Prone Areas,"['Urban Ecology', 'Land Use']",False,llama3-70b,urban studies
-Food Deserts,"['Urban Density', 'Transportation Infrastructure']",False,llama3-70b,urban studies
+Disaster-Prone Areas,"['Urban Planning', 'Economic Activity']",False,llama3-70b,urban studies
+Public Art Installations,"['Urban Planning', 'Economic Activity']",False,llama3-70b,urban studies
+Public Art Installations,"['Urban Development', 'Economic Incentives']",False,llama3-70b,urban studies
 Mixed-Use Development,"['Food Access', 'Neighborhood Characteristics']",False,llama3-70b,urban studies
 Disaster-Prone Areas,"['Urban Density', 'Transportation Infrastructure']",False,llama3-70b,urban studies
-Innovation Hubs,"['Transportation Infrastructure', 'Urban Design']",False,llama3-70b,urban studies
-Cultural Heritage Sites,"['Environmental Risks', 'Emergency Response']",False,llama3-70b,urban studies
-Mixed-Use Development,"['Urban Ecology', 'Land Use']",False,llama3-70b,urban studies
-Public Art Installations,"['Urban Development', 'Economic Incentives']",False,llama3-70b,urban studies
-Mixed-Use Development,"['Urban Aesthetics', 'Community Engagement']",False,llama3-70b,urban studies
-Green Spaces,"['Economic Activity', 'Education and Research']",False,llama3-70b,urban studies
-Electromagnetic Induction,"['Type of Electromagnetic Phenomenon', 'Method of Generating Electricity']",True,llama3-70b,physics
-Electromagnetic Pulse,"['Type of Radiation', 'Form of Electromagnetic Radiation']",True,llama3-70b,physics
-Gravitational Redshift,"['Gravitational Effect', 'Type of Redshift']",True,llama3-70b,physics
-Cosmic Microwave Background,"['Type of Cosmic Radiation', 'Evidence of the Big Bang']",True,llama3-70b,physics
+Food Deserts,"['Urban Aesthetics', 'Community Engagement']",False,llama3-70b,urban studies
+Public Transportation Hubs,"['Transportation Infrastructure', 'Urban Design']",False,llama3-70b,urban studies
+Mixed-Use Development,"['Environmental Risks', 'Emergency Response']",False,llama3-70b,urban studies
+Cultural Heritage Sites,"['Urban Density', 'Transportation Infrastructure']",False,llama3-70b,urban studies
+Green Spaces,"['Food Access', 'Neighborhood Characteristics']",False,llama3-70b,urban studies
 Optical Fiber,"['Type of Communication Medium', 'Method of Data Transmission']",True,llama3-70b,physics
-Nuclear Reaction,"['Type of Subatomic Interaction', 'Process of Nuclear Change']",True,llama3-70b,physics
-Gravitational Wave,"['Type of Gravitational Phenomenon', 'Ripple in Space-Time']",True,llama3-70b,physics
-Quantum Fluctuation,"['Type of Random Variation', 'Source of Uncertainty']",True,llama3-70b,physics
 Thermal Expansion,"['Type of Material Deformation', 'Response to Temperature Change']",True,llama3-70b,physics
 Magnetic Field Line,"['Type of Magnetic Structure', 'Path of Magnetic Force']",True,llama3-70b,physics
-Electromagnetic Induction,"['Type of Magnetic Structure', 'Path of Magnetic Force']",False,llama3-70b,physics
-Electromagnetic Pulse,"['Type of Gravitational Phenomenon', 'Ripple in Space-Time']",False,llama3-70b,physics
-Electromagnetic Induction,"['Gravitational Effect', 'Type of Redshift']",False,llama3-70b,physics
-Gravitational Redshift,"['Type of Electromagnetic Phenomenon', 'Method of Generating Electricity']",False,llama3-70b,physics
-Cosmic Microwave Background,"['Type of Magnetic Structure', 'Path of Magnetic Force']",False,llama3-70b,physics
-Electromagnetic Induction,"['Type of Communication Medium', 'Method of Data Transmission']",False,llama3-70b,physics
-Electromagnetic Induction,"['Type of Radiation', 'Form of Electromagnetic Radiation']",False,llama3-70b,physics
+Gravitational Wave,"['Type of Gravitational Phenomenon', 'Ripple in Space-Time']",True,llama3-70b,physics
+Electromagnetic Induction,"['Type of Electromagnetic Phenomenon', 'Method of Generating Electricity']",True,llama3-70b,physics
+Cosmic Microwave Background,"['Type of Cosmic Radiation', 'Evidence of the Big Bang']",True,llama3-70b,physics
+Electromagnetic Pulse,"['Type of Radiation', 'Form of Electromagnetic Radiation']",True,llama3-70b,physics
+Nuclear Reaction,"['Type of Subatomic Interaction', 'Process of Nuclear Change']",True,llama3-70b,physics
+Quantum Fluctuation,"['Type of Random Variation', 'Source of Uncertainty']",True,llama3-70b,physics
+Gravitational Redshift,"['Gravitational Effect', 'Type of Redshift']",True,llama3-70b,physics
+Thermal Expansion,"['Type of Cosmic Radiation', 'Evidence of the Big Bang']",False,llama3-70b,physics
+Magnetic Field Line,"['Type of Communication Medium', 'Method of Data Transmission']",False,llama3-70b,physics
+Gravitational Wave,"['Type of Random Variation', 'Source of Uncertainty']",False,llama3-70b,physics
+Gravitational Wave,"['Type of Radiation', 'Form of Electromagnetic Radiation']",False,llama3-70b,physics
+Cosmic Microwave Background,"['Type of Communication Medium', 'Method of Data Transmission']",False,llama3-70b,physics
 Optical Fiber,"['Gravitational Effect', 'Type of Redshift']",False,llama3-70b,physics
-Nuclear Reaction,"['Type of Cosmic Radiation', 'Evidence of the Big Bang']",False,llama3-70b,physics
-Gravitational Wave,"['Type of Electromagnetic Phenomenon', 'Method of Generating Electricity']",False,llama3-70b,physics
-Cognitive Impairment,"['Cognitive Function', 'Neurological Status']",True,llama3-70b,health
-Cardiovascular Disease Diagnosis,"['Disease Status', 'Cardiovascular Health']",True,llama3-70b,health
-Medication Non-Adherence,"['Medication Compliance', 'Treatment Efficacy']",True,llama3-70b,health
-Chronic Stress,"['Mental Health Status', 'Coping Mechanisms']",True,llama3-70b,health
-Environmental Toxins Exposure,"['Environmental Exposure', 'Toxicant Levels']",True,llama3-70b,health
+Gravitational Wave,"['Type of Material Deformation', 'Response to Temperature Change']",False,llama3-70b,physics
+Cosmic Microwave Background,"['Type of Electromagnetic Phenomenon', 'Method of Generating Electricity']",False,llama3-70b,physics
+Electromagnetic Pulse,"['Type of Cosmic Radiation', 'Evidence of the Big Bang']",False,llama3-70b,physics
+Nuclear Reaction,"['Type of Gravitational Phenomenon', 'Ripple in Space-Time']",False,llama3-70b,physics
 Nutrient Deficiency,"['Dietary Intake', 'Nutrient Status']",True,llama3-70b,health
-Social Isolation,"['Social Connections', 'Emotional Support']",True,llama3-70b,health
+Cognitive Impairment,"['Cognitive Function', 'Neurological Status']",True,llama3-70b,health
 Infectious Disease Outbreak,"['Infection Status', 'Disease Transmission']",True,llama3-70b,health
-Sleep Disturbances,"['Sleep Quality', 'Circadian Rhythms']",True,llama3-70b,health
+Environmental Toxins Exposure,"['Environmental Exposure', 'Toxicant Levels']",True,llama3-70b,health
 Sedentary Lifestyle,"['Physical Activity Level', 'Lifestyle Habits']",True,llama3-70b,health
-Cognitive Impairment,"['Social Connections', 'Emotional Support']",False,llama3-70b,health
-Cardiovascular Disease Diagnosis,"['Infection Status', 'Disease Transmission']",False,llama3-70b,health
-Medication Non-Adherence,"['Cognitive Function', 'Neurological Status']",False,llama3-70b,health
+Medication Non-Adherence,"['Medication Compliance', 'Treatment Efficacy']",True,llama3-70b,health
+Social Isolation,"['Social Connections', 'Emotional Support']",True,llama3-70b,health
+Chronic Stress,"['Mental Health Status', 'Coping Mechanisms']",True,llama3-70b,health
+Sleep Disturbances,"['Sleep Quality', 'Circadian Rhythms']",True,llama3-70b,health
+Cardiovascular Disease Diagnosis,"['Disease Status', 'Cardiovascular Health']",True,llama3-70b,health
+Nutrient Deficiency,"['Physical Activity Level', 'Lifestyle Habits']",False,llama3-70b,health
+Cognitive Impairment,"['Dietary Intake', 'Nutrient Status']",False,llama3-70b,health
+Infectious Disease Outbreak,"['Disease Status', 'Cardiovascular Health']",False,llama3-70b,health
+Environmental Toxins Exposure,"['Infection Status', 'Disease Transmission']",False,llama3-70b,health
+Sedentary Lifestyle,"['Medication Compliance', 'Treatment Efficacy']",False,llama3-70b,health
+Medication Non-Adherence,"['Dietary Intake', 'Nutrient Status']",False,llama3-70b,health
+Cognitive Impairment,"['Environmental Exposure', 'Toxicant Levels']",False,llama3-70b,health
+Cognitive Impairment,"['Mental Health Status', 'Coping Mechanisms']",False,llama3-70b,health
+Social Isolation,"['Disease Status', 'Cardiovascular Health']",False,llama3-70b,health
 Chronic Stress,"['Cognitive Function', 'Neurological Status']",False,llama3-70b,health
-Environmental Toxins Exposure,"['Dietary Intake', 'Nutrient Status']",False,llama3-70b,health
-Nutrient Deficiency,"['Cognitive Function', 'Neurological Status']",False,llama3-70b,health
-Nutrient Deficiency,"['Mental Health Status', 'Coping Mechanisms']",False,llama3-70b,health
-Cardiovascular Disease Diagnosis,"['Sleep Quality', 'Circadian Rhythms']",False,llama3-70b,health
-Cardiovascular Disease Diagnosis,"['Mental Health Status', 'Coping Mechanisms']",False,llama3-70b,health
-Social Isolation,"['Infection Status', 'Disease Transmission']",False,llama3-70b,health
-Chemical Mechanical Polishing,"['Wafer Planarization Method', 'Material Removal Technique']",True,llama3-70b,semiconductor manufacturing
-Plasma Enhanced Chemical Vapor Deposition,"['Dielectric Material Deposition Method', 'Dielectric Material']",True,llama3-70b,semiconductor manufacturing
+Laser Annealing,"['Dopant Activation Method', 'Thermal Budget Control']",True,llama3-70b,semiconductor manufacturing
 Photoresist Strip and Clean,"['Photoresist Removal Method', 'Wafer Cleaning Method']",True,llama3-70b,semiconductor manufacturing
-Rapid Thermal Annealing,"['Dopant Activation Method', 'Thermal Budget Control']",True,llama3-70b,semiconductor manufacturing
-Gate Oxide Formation,"['Gate Dielectric Material', 'Gate Oxide Formation Method']",True,llama3-70b,semiconductor manufacturing
-Tungsten Via Fill,"['Via Fill Material', 'Via Fill Method']",True,llama3-70b,semiconductor manufacturing
-Copper Interconnect Fabrication,"['Interconnect Material', 'Interconnect Fabrication Method']",True,llama3-70b,semiconductor manufacturing
 Wafer Edge Bead Removal,"['Wafer Edge Treatment', 'Defect Reduction Method']",True,llama3-70b,semiconductor manufacturing
 Titanium Nitride Barrier Layer,"['Barrier Layer Material', 'Diffusion Barrier Application']",True,llama3-70b,semiconductor manufacturing
-Laser Annealing,"['Dopant Activation Method', 'Thermal Budget Control']",True,llama3-70b,semiconductor manufacturing
-Chemical Mechanical Polishing,"['Dielectric Material Deposition Method', 'Dielectric Material']",False,llama3-70b,semiconductor manufacturing
-Plasma Enhanced Chemical Vapor Deposition,"['Wafer Edge Treatment', 'Defect Reduction Method']",False,llama3-70b,semiconductor manufacturing
+Plasma Enhanced Chemical Vapor Deposition,"['Dielectric Material Deposition Method', 'Dielectric Material']",True,llama3-70b,semiconductor manufacturing
+Chemical Mechanical Polishing,"['Wafer Planarization Method', 'Material Removal Technique']",True,llama3-70b,semiconductor manufacturing
+Copper Interconnect Fabrication,"['Interconnect Material', 'Interconnect Fabrication Method']",True,llama3-70b,semiconductor manufacturing
+Rapid Thermal Annealing,"['Dopant Activation Method', 'Thermal Budget Control']",True,llama3-70b,semiconductor manufacturing
+Tungsten Via Fill,"['Via Fill Material', 'Via Fill Method']",True,llama3-70b,semiconductor manufacturing
+Gate Oxide Formation,"['Gate Dielectric Material', 'Gate Oxide Formation Method']",True,llama3-70b,semiconductor manufacturing
+Laser Annealing,"['Dopant Activation Method', 'Thermal Budget Control']",False,llama3-70b,semiconductor manufacturing
 Photoresist Strip and Clean,"['Barrier Layer Material', 'Diffusion Barrier Application']",False,llama3-70b,semiconductor manufacturing
-Rapid Thermal Annealing,"['Dopant Activation Method', 'Thermal Budget Control']",False,llama3-70b,semiconductor manufacturing
-Gate Oxide Formation,"['Dopant Activation Method', 'Thermal Budget Control']",False,llama3-70b,semiconductor manufacturing
-Gate Oxide Formation,"['Wafer Edge Treatment', 'Defect Reduction Method']",False,llama3-70b,semiconductor manufacturing
-Tungsten Via Fill,"['Wafer Edge Treatment', 'Defect Reduction Method']",False,llama3-70b,semiconductor manufacturing
-Rapid Thermal Annealing,"['Wafer Planarization Method', 'Material Removal Technique']",False,llama3-70b,semiconductor manufacturing
+Wafer Edge Bead Removal,"['Interconnect Material', 'Interconnect Fabrication Method']",False,llama3-70b,semiconductor manufacturing
+Titanium Nitride Barrier Layer,"['Dopant Activation Method', 'Thermal Budget Control']",False,llama3-70b,semiconductor manufacturing
+Chemical Mechanical Polishing,"['Dopant Activation Method', 'Thermal Budget Control']",False,llama3-70b,semiconductor manufacturing
+Plasma Enhanced Chemical Vapor Deposition,"['Photoresist Removal Method', 'Wafer Cleaning Method']",False,llama3-70b,semiconductor manufacturing
+Titanium Nitride Barrier Layer,"['Wafer Edge Treatment', 'Defect Reduction Method']",False,llama3-70b,semiconductor manufacturing
+Titanium Nitride Barrier Layer,"['Photoresist Removal Method', 'Wafer Cleaning Method']",False,llama3-70b,semiconductor manufacturing
 Plasma Enhanced Chemical Vapor Deposition,"['Dopant Activation Method', 'Thermal Budget Control']",False,llama3-70b,semiconductor manufacturing
-Chemical Mechanical Polishing,"['Photoresist Removal Method', 'Wafer Cleaning Method']",False,llama3-70b,semiconductor manufacturing
-Distributed Database System,"['Database System Type', 'Database System Architecture']",True,llama3-70b,computer science
-Machine Learning Model Training,"['Model Training Method', 'Model Training Type']",True,llama3-70b,computer science
+Copper Interconnect Fabrication,"['Wafer Planarization Method', 'Material Removal Technique']",False,llama3-70b,semiconductor manufacturing
 Artificial Intelligence Decision Support,"['Decision Support Method', 'Decision Support Type']",True,llama3-70b,computer science
-Cybersecurity Threat Detection,"['Threat Detection Method', 'Threat Detection Type']",True,llama3-70b,computer science
+Natural Language Processing Algorithm,"['Algorithm Type', 'Algorithm Application']",True,llama3-70b,computer science
 Cloud-Based Software Development,"['Software Development Environment', 'Software Development Method']",True,llama3-70b,computer science
 Real-Time Data Analytics,"['Data Analytics Speed', 'Data Analytics Type']",True,llama3-70b,computer science
-Natural Language Processing Algorithm,"['Algorithm Type', 'Algorithm Application']",True,llama3-70b,computer science
-High-Performance Computing Cluster,"['Computing System Type', 'Computing System Architecture']",True,llama3-70b,computer science
+Machine Learning Model Training,"['Model Training Method', 'Model Training Type']",True,llama3-70b,computer science
 Real-Time Data Processing,"['Data Processing Speed', 'Data Processing Type']",True,llama3-70b,computer science
+Cybersecurity Threat Detection,"['Threat Detection Method', 'Threat Detection Type']",True,llama3-70b,computer science
+High-Performance Computing Cluster,"['Computing System Type', 'Computing System Architecture']",True,llama3-70b,computer science
+Distributed Database System,"['Database System Type', 'Database System Architecture']",True,llama3-70b,computer science
 Cloud-Based Data Storage,"['Data Storage Location', 'Data Storage Type']",True,llama3-70b,computer science
-Distributed Database System,"['Algorithm Type', 'Algorithm Application']",False,llama3-70b,computer science
+Artificial Intelligence Decision Support,"['Algorithm Type', 'Algorithm Application']",False,llama3-70b,computer science
+Artificial Intelligence Decision Support,"['Data Storage Location', 'Data Storage Type']",False,llama3-70b,computer science
+Natural Language Processing Algorithm,"['Data Analytics Speed', 'Data Analytics Type']",False,llama3-70b,computer science
+Cloud-Based Software Development,"['Model Training Method', 'Model Training Type']",False,llama3-70b,computer science
+Artificial Intelligence Decision Support,"['Data Processing Speed', 'Data Processing Type']",False,llama3-70b,computer science
+Real-Time Data Analytics,"['Model Training Method', 'Model Training Type']",False,llama3-70b,computer science
+Machine Learning Model Training,"['Software Development Environment', 'Software Development Method']",False,llama3-70b,computer science
 Machine Learning Model Training,"['Threat Detection Method', 'Threat Detection Type']",False,llama3-70b,computer science
-Artificial Intelligence Decision Support,"['Computing System Type', 'Computing System Architecture']",False,llama3-70b,computer science
-Cybersecurity Threat Detection,"['Data Storage Location', 'Data Storage Type']",False,llama3-70b,computer science
-Cybersecurity Threat Detection,"['Decision Support Method', 'Decision Support Type']",False,llama3-70b,computer science
-Cloud-Based Software Development,"['Decision Support Method', 'Decision Support Type']",False,llama3-70b,computer science
-Cybersecurity Threat Detection,"['Computing System Type', 'Computing System Architecture']",False,llama3-70b,computer science
-Cloud-Based Software Development,"['Database System Type', 'Database System Architecture']",False,llama3-70b,computer science
-Real-Time Data Analytics,"['Algorithm Type', 'Algorithm Application']",False,llama3-70b,computer science
-Natural Language Processing Algorithm,"['Computing System Type', 'Computing System Architecture']",False,llama3-70b,computer science
+Real-Time Data Processing,"['Database System Type', 'Database System Architecture']",False,llama3-70b,computer science
+Machine Learning Model Training,"['Computing System Type', 'Computing System Architecture']",False,llama3-70b,computer science
+Neighborhood Revitalization,"['Urban Development', 'Community Empowerment']",True,llama3-70b,sociology
+Community Volunteering,"['Civic Engagement', 'Social Capital']",True,llama3-70b,sociology
+Neighborhood Watch,"['Community Cohesion', 'Crime Prevention']",True,llama3-70b,sociology
+Intergenerational Programs,"['Intergenerational Relationships', 'Social Learning']",True,llama3-70b,sociology
+Cultural Festivals,"['Cultural Identity', 'Social Integration']",True,llama3-70b,sociology
+Community Arts,"['Cultural Expression', 'Social Cohesion']",True,llama3-70b,sociology
+Faith-Based Organizations,"['Religious Identity', 'Social Services']",True,llama3-70b,sociology
+Youth Mentorship,"['Social Support', 'Human Capital']",True,llama3-70b,sociology
 Family Reunions,"['Family Structure', 'Social Bonding']",True,llama3-70b,sociology
 Environmental Activism,"['Environmental Awareness', 'Collective Action']",True,llama3-70b,sociology
-Neighborhood Watch,"['Community Cohesion', 'Crime Prevention']",True,llama3-70b,sociology
-Community Volunteering,"['Civic Engagement', 'Social Capital']",True,llama3-70b,sociology
-Youth Mentorship,"['Social Support', 'Human Capital']",True,llama3-70b,sociology
-Intergenerational Programs,"['Intergenerational Relationships', 'Social Learning']",True,llama3-70b,sociology
-Faith-Based Organizations,"['Religious Identity', 'Social Services']",True,llama3-70b,sociology
-Community Arts,"['Cultural Expression', 'Social Cohesion']",True,llama3-70b,sociology
-Cultural Festivals,"['Cultural Identity', 'Social Integration']",True,llama3-70b,sociology
-Neighborhood Revitalization,"['Urban Development', 'Community Empowerment']",True,llama3-70b,sociology
-Family Reunions,"['Civic Engagement', 'Social Capital']",False,llama3-70b,sociology
-Environmental Activism,"['Cultural Identity', 'Social Integration']",False,llama3-70b,sociology
-Community Volunteering,"['Cultural Expression', 'Social Cohesion']",False,llama3-70b,sociology
-Youth Mentorship,"['Intergenerational Relationships', 'Social Learning']",False,llama3-70b,sociology
-Intergenerational Programs,"['Community Cohesion', 'Crime Prevention']",False,llama3-70b,sociology
-Faith-Based Organizations,"['Cultural Identity', 'Social Integration']",False,llama3-70b,sociology
-Community Volunteering,"['Community Cohesion', 'Crime Prevention']",False,llama3-70b,sociology
-Faith-Based Organizations,"['Social Support', 'Human Capital']",False,llama3-70b,sociology
-Environmental Activism,"['Civic Engagement', 'Social Capital']",False,llama3-70b,sociology
-Environmental Activism,"['Community Cohesion', 'Crime Prevention']",False,llama3-70b,sociology
-Peer Pressure,"['Social Influence', 'Risk Taking', 'Identity Formation']",True,llama3-70b,psychology
-Learning Disability,"['Cognitive Ability', 'Academic Achievement', 'Neuroplasticity']",True,llama3-70b,psychology
-Traumatic Experience,"['Stress Response', 'Emotional Regulation', 'Memory Formation']",True,llama3-70b,psychology
-Group Therapy,"['Social Support', 'Coping Mechanism', 'Mental Health']",True,llama3-70b,psychology
-Mindfulness Practice,"['Attention Control', 'Emotional Regulation', 'Self-Awareness']",True,llama3-70b,psychology
+Neighborhood Revitalization,"['Social Support', 'Human Capital']",False,llama3-70b,sociology
+Neighborhood Watch,"['Religious Identity', 'Social Services']",False,llama3-70b,sociology
+Neighborhood Revitalization,"['Cultural Expression', 'Social Cohesion']",False,llama3-70b,sociology
+Intergenerational Programs,"['Cultural Identity', 'Social Integration']",False,llama3-70b,sociology
+Intergenerational Programs,"['Family Structure', 'Social Bonding']",False,llama3-70b,sociology
+Community Arts,"['Civic Engagement', 'Social Capital']",False,llama3-70b,sociology
+Faith-Based Organizations,"['Community Cohesion', 'Crime Prevention']",False,llama3-70b,sociology
+Community Arts,"['Environmental Awareness', 'Collective Action']",False,llama3-70b,sociology
+Youth Mentorship,"['Cultural Identity', 'Social Integration']",False,llama3-70b,sociology
+Cultural Festivals,"['Environmental Awareness', 'Collective Action']",False,llama3-70b,sociology
 Emotional Intelligence,"['Self-Awareness', 'Empathy', 'Social Skills']",True,llama3-70b,psychology
-Emotional Support,"['Social Connection', 'Stress Reduction', 'Mental Health']",True,llama3-70b,psychology
-Social Media Addiction,"['Addictive Behavior', 'Mental Health', 'Coping Mechanism']",True,llama3-70b,psychology
+Traumatic Experience,"['Stress Response', 'Emotional Regulation', 'Memory Formation']",True,llama3-70b,psychology
 Cognitive Bias,"['Information Processing', 'Decision Making', 'Error Detection']",True,llama3-70b,psychology
+Mindfulness Practice,"['Attention Control', 'Emotional Regulation', 'Self-Awareness']",True,llama3-70b,psychology
+Learning Disability,"['Cognitive Ability', 'Academic Achievement', 'Neuroplasticity']",True,llama3-70b,psychology
+Peer Pressure,"['Social Influence', 'Risk Taking', 'Identity Formation']",True,llama3-70b,psychology
+Social Media Addiction,"['Addictive Behavior', 'Mental Health', 'Coping Mechanism']",True,llama3-70b,psychology
 Neurofeedback Training,"['Brain Function', 'Self-Regulation', 'Cognitive Ability']",True,llama3-70b,psychology
-Peer Pressure,"['Brain Function', 'Self-Regulation', 'Cognitive Ability']",False,llama3-70b,psychology
-Learning Disability,"['Addictive Behavior', 'Mental Health', 'Coping Mechanism']",False,llama3-70b,psychology
-Learning Disability,"['Brain Function', 'Self-Regulation', 'Cognitive Ability']",False,llama3-70b,psychology
-Traumatic Experience,"['Social Influence', 'Risk Taking', 'Identity Formation']",False,llama3-70b,psychology
-Peer Pressure,"['Self-Awareness', 'Empathy', 'Social Skills']",False,llama3-70b,psychology
-Group Therapy,"['Stress Response', 'Emotional Regulation', 'Memory Formation']",False,llama3-70b,psychology
-Group Therapy,"['Attention Control', 'Emotional Regulation', 'Self-Awareness']",False,llama3-70b,psychology
-Mindfulness Practice,"['Information Processing', 'Decision Making', 'Error Detection']",False,llama3-70b,psychology
-Mindfulness Practice,"['Cognitive Ability', 'Academic Achievement', 'Neuroplasticity']",False,llama3-70b,psychology
-Emotional Intelligence,"['Attention Control', 'Emotional Regulation', 'Self-Awareness']",False,llama3-70b,psychology
-Demographic Shifts,"['Labor Market', 'Consumer Behavior', 'Economic Growth']",True,llama3-70b,finance
-Central Bank Intervention,"['Monetary Policy', 'Economic Indicators', 'Financial Markets']",True,llama3-70b,finance
-Technological Disruption,"['Innovation', 'Operational Efficiency', 'Competitive Landscape']",True,llama3-70b,finance
-Regulatory Changes,"['Compliance Requirements', 'Risk Management', 'Industry Standards']",True,llama3-70b,finance
-Mergers and Acquisitions,"['Corporate Strategy', 'Financial Performance', 'Market Trends']",True,llama3-70b,finance
-Global Economic Downturn,"['Economic Indicators', 'Financial Performance', 'Market Trends']",True,llama3-70b,finance
-Geopolitical Tensions,"['Political Risk', 'International Relations', 'Financial Markets']",True,llama3-70b,finance
-Currency Fluctuations,"['Exchange Rates', 'International Trade', 'Financial Markets']",True,llama3-70b,finance
-Fiscal Policy Changes,"['Government Spending', 'Taxation', 'Economic Growth']",True,llama3-70b,finance
+Group Therapy,"['Social Support', 'Coping Mechanism', 'Mental Health']",True,llama3-70b,psychology
+Emotional Support,"['Social Connection', 'Stress Reduction', 'Mental Health']",True,llama3-70b,psychology
+Emotional Intelligence,"['Information Processing', 'Decision Making', 'Error Detection']",False,llama3-70b,psychology
+Cognitive Bias,"['Stress Response', 'Emotional Regulation', 'Memory Formation']",False,llama3-70b,psychology
+Learning Disability,"['Attention Control', 'Emotional Regulation', 'Self-Awareness']",False,llama3-70b,psychology
+Traumatic Experience,"['Attention Control', 'Emotional Regulation', 'Self-Awareness']",False,llama3-70b,psychology
+Social Media Addiction,"['Stress Response', 'Emotional Regulation', 'Memory Formation']",False,llama3-70b,psychology
+Mindfulness Practice,"['Stress Response', 'Emotional Regulation', 'Memory Formation']",False,llama3-70b,psychology
+Social Media Addiction,"['Social Support', 'Coping Mechanism', 'Mental Health']",False,llama3-70b,psychology
+Emotional Intelligence,"['Addictive Behavior', 'Mental Health', 'Coping Mechanism']",False,llama3-70b,psychology
+Neurofeedback Training,"['Information Processing', 'Decision Making', 'Error Detection']",False,llama3-70b,psychology
+Peer Pressure,"['Addictive Behavior', 'Mental Health', 'Coping Mechanism']",False,llama3-70b,psychology
 Environmental Concerns,"['Sustainability', 'Risk Management', 'Regulatory Requirements']",True,llama3-70b,finance
-Demographic Shifts,"['Compliance Requirements', 'Risk Management', 'Industry Standards']",False,llama3-70b,finance
-Central Bank Intervention,"['Economic Indicators', 'Financial Performance', 'Market Trends']",False,llama3-70b,finance
-Technological Disruption,"['Exchange Rates', 'International Trade', 'Financial Markets']",False,llama3-70b,finance
-Regulatory Changes,"['Government Spending', 'Taxation', 'Economic Growth']",False,llama3-70b,finance
-Mergers and Acquisitions,"['Exchange Rates', 'International Trade', 'Financial Markets']",False,llama3-70b,finance
-Global Economic Downturn,"['Sustainability', 'Risk Management', 'Regulatory Requirements']",False,llama3-70b,finance
-Geopolitical Tensions,"['Innovation', 'Operational Efficiency', 'Competitive Landscape']",False,llama3-70b,finance
-Currency Fluctuations,"['Political Risk', 'International Relations', 'Financial Markets']",False,llama3-70b,finance
-Global Economic Downturn,"['Innovation', 'Operational Efficiency', 'Competitive Landscape']",False,llama3-70b,finance
-Fiscal Policy Changes,"['Sustainability', 'Risk Management', 'Regulatory Requirements']",False,llama3-70b,finance
+Geopolitical Tensions,"['Political Risk', 'International Relations', 'Financial Markets']",True,llama3-70b,finance
+Demographic Shifts,"['Labor Market', 'Consumer Behavior', 'Economic Growth']",True,llama3-70b,finance
+Currency Fluctuations,"['Exchange Rates', 'International Trade', 'Financial Markets']",True,llama3-70b,finance
+Mergers and Acquisitions,"['Corporate Strategy', 'Financial Performance', 'Market Trends']",True,llama3-70b,finance
+Regulatory Changes,"['Compliance Requirements', 'Risk Management', 'Industry Standards']",True,llama3-70b,finance
+Central Bank Intervention,"['Monetary Policy', 'Economic Indicators', 'Financial Markets']",True,llama3-70b,finance
+Fiscal Policy Changes,"['Government Spending', 'Taxation', 'Economic Growth']",True,llama3-70b,finance
+Technological Disruption,"['Innovation', 'Operational Efficiency', 'Competitive Landscape']",True,llama3-70b,finance
+Global Economic Downturn,"['Economic Indicators', 'Financial Performance', 'Market Trends']",True,llama3-70b,finance
+Environmental Concerns,"['Labor Market', 'Consumer Behavior', 'Economic Growth']",False,llama3-70b,finance
+Environmental Concerns,"['Compliance Requirements', 'Risk Management', 'Industry Standards']",False,llama3-70b,finance
+Geopolitical Tensions,"['Economic Indicators', 'Financial Performance', 'Market Trends']",False,llama3-70b,finance
+Demographic Shifts,"['Economic Indicators', 'Financial Performance', 'Market Trends']",False,llama3-70b,finance
+Currency Fluctuations,"['Sustainability', 'Risk Management', 'Regulatory Requirements']",False,llama3-70b,finance
+Mergers and Acquisitions,"['Economic Indicators', 'Financial Performance', 'Market Trends']",False,llama3-70b,finance
+Regulatory Changes,"['Innovation', 'Operational Efficiency', 'Competitive Landscape']",False,llama3-70b,finance
+Central Bank Intervention,"['Innovation', 'Operational Efficiency', 'Competitive Landscape']",False,llama3-70b,finance
+Environmental Concerns,"['Government Spending', 'Taxation', 'Economic Growth']",False,llama3-70b,finance
+Currency Fluctuations,"['Government Spending', 'Taxation', 'Economic Growth']",False,llama3-70b,finance
+Mixed-Use Development,"['Land Use', 'Urban Form']",True,mixtral-8x22b-instruct,urban studies
 Green Infrastructure,"['Urban Ecosystem Services', 'Urban Design']",True,mixtral-8x22b-instruct,urban studies
-Urban Agriculture,"['Food Production', 'Land Use']",True,mixtral-8x22b-instruct,urban studies
 Gentrification,"['Neighborhood Change', 'Demographic Shift']",True,mixtral-8x22b-instruct,urban studies
 Transit-Oriented Development,"['Urban Planning', 'Transportation']",True,mixtral-8x22b-instruct,urban studies
 Urban Resilience,"['Disaster Risk Reduction', 'Urban Planning']",True,mixtral-8x22b-instruct,urban studies
-Smart City Initiatives,"['Urban Governance', 'Technology']",True,mixtral-8x22b-instruct,urban studies
-Suburban Sprawl,"['Urbanization Pattern', 'Land Use']",True,mixtral-8x22b-instruct,urban studies
-Mixed-Use Development,"['Land Use', 'Urban Form']",True,mixtral-8x22b-instruct,urban studies
-Adaptive Reuse,"['Historic Preservation', 'Urban Development']",True,mixtral-8x22b-instruct,urban studies
 Urban Heat Island Effect,"['Urban Climate', 'Land Cover']",True,mixtral-8x22b-instruct,urban studies
-Green Infrastructure,"['Food Production', 'Land Use']",False,mixtral-8x22b-instruct,urban studies
-Urban Agriculture,"['Urban Governance', 'Technology']",False,mixtral-8x22b-instruct,urban studies
-Gentrification,"['Food Production', 'Land Use']",False,mixtral-8x22b-instruct,urban studies
-Transit-Oriented Development,"['Urban Governance', 'Technology']",False,mixtral-8x22b-instruct,urban studies
-Urban Resilience,"['Urban Planning', 'Transportation']",False,mixtral-8x22b-instruct,urban studies
-Transit-Oriented Development,"['Land Use', 'Urban Form']",False,mixtral-8x22b-instruct,urban studies
+Urban Agriculture,"['Food Production', 'Land Use']",True,mixtral-8x22b-instruct,urban studies
+Suburban Sprawl,"['Urbanization Pattern', 'Land Use']",True,mixtral-8x22b-instruct,urban studies
+Smart City Initiatives,"['Urban Governance', 'Technology']",True,mixtral-8x22b-instruct,urban studies
+Adaptive Reuse,"['Historic Preservation', 'Urban Development']",True,mixtral-8x22b-instruct,urban studies
+Mixed-Use Development,"['Food Production', 'Land Use']",False,mixtral-8x22b-instruct,urban studies
+Gentrification,"['Land Use', 'Urban Form']",False,mixtral-8x22b-instruct,urban studies
+Transit-Oriented Development,"['Neighborhood Change', 'Demographic Shift']",False,mixtral-8x22b-instruct,urban studies
+Urban Resilience,"['Historic Preservation', 'Urban Development']",False,mixtral-8x22b-instruct,urban studies
+Urban Heat Island Effect,"['Urban Planning', 'Transportation']",False,mixtral-8x22b-instruct,urban studies
+Urban Agriculture,"['Land Use', 'Urban Form']",False,mixtral-8x22b-instruct,urban studies
+Mixed-Use Development,"['Urban Planning', 'Transportation']",False,mixtral-8x22b-instruct,urban studies
+Urban Heat Island Effect,"['Neighborhood Change', 'Demographic Shift']",False,mixtral-8x22b-instruct,urban studies
+Mixed-Use Development,"['Historic Preservation', 'Urban Development']",False,mixtral-8x22b-instruct,urban studies
 Smart City Initiatives,"['Urbanization Pattern', 'Land Use']",False,mixtral-8x22b-instruct,urban studies
-Suburban Sprawl,"['Urban Planning', 'Transportation']",False,mixtral-8x22b-instruct,urban studies
-Mixed-Use Development,"['Urban Climate', 'Land Cover']",False,mixtral-8x22b-instruct,urban studies
-Urban Resilience,"['Urbanization Pattern', 'Land Use']",False,mixtral-8x22b-instruct,urban studies
-Radioactive decay,"['Nuclear stability', 'Radiation emission']",True,mixtral-8x22b-instruct,physics
-Nuclear fission,"['Nuclear energy', 'Nuclear waste']",True,mixtral-8x22b-instruct,physics
+Electromagnetic induction,"['Magnetic field', 'Electric current']",True,mixtral-8x22b-instruct,physics
+Quantum entanglement,"['Particle correlation', 'Measurement outcome']",True,mixtral-8x22b-instruct,physics
+Wave-particle duality,"['Particle nature', 'Wave nature']",True,mixtral-8x22b-instruct,physics
+Solar radiation absorption,"['Temperature', 'Energy conversion']",True,mixtral-8x22b-instruct,physics
 Superconductivity,"['Electrical resistance', 'Magnetic field expulsion']",True,mixtral-8x22b-instruct,physics
 Photon absorption and emission,"['Electron energy levels', 'Photon energy']",True,mixtral-8x22b-instruct,physics
 Phase transitions,"['Intermolecular forces', 'Physical state']",True,mixtral-8x22b-instruct,physics
-Solar radiation absorption,"['Temperature', 'Energy conversion']",True,mixtral-8x22b-instruct,physics
-Wave-particle duality,"['Particle nature', 'Wave nature']",True,mixtral-8x22b-instruct,physics
-Quantum entanglement,"['Particle correlation', 'Measurement outcome']",True,mixtral-8x22b-instruct,physics
 Black hole event horizon,"['Gravitational pull', 'Escape velocity']",True,mixtral-8x22b-instruct,physics
-Electromagnetic induction,"['Magnetic field', 'Electric current']",True,mixtral-8x22b-instruct,physics
-Radioactive decay,"['Particle correlation', 'Measurement outcome']",False,mixtral-8x22b-instruct,physics
-Nuclear fission,"['Electron energy levels', 'Photon energy']",False,mixtral-8x22b-instruct,physics
-Superconductivity,"['Particle nature', 'Wave nature']",False,mixtral-8x22b-instruct,physics
-Photon absorption and emission,"['Nuclear energy', 'Nuclear waste']",False,mixtral-8x22b-instruct,physics
-Superconductivity,"['Intermolecular forces', 'Physical state']",False,mixtral-8x22b-instruct,physics
+Radioactive decay,"['Nuclear stability', 'Radiation emission']",True,mixtral-8x22b-instruct,physics
+Nuclear fission,"['Nuclear energy', 'Nuclear waste']",True,mixtral-8x22b-instruct,physics
+Electromagnetic induction,"['Nuclear energy', 'Nuclear waste']",False,mixtral-8x22b-instruct,physics
+Quantum entanglement,"['Temperature', 'Energy conversion']",False,mixtral-8x22b-instruct,physics
+Wave-particle duality,"['Gravitational pull', 'Escape velocity']",False,mixtral-8x22b-instruct,physics
+Electromagnetic induction,"['Particle correlation', 'Measurement outcome']",False,mixtral-8x22b-instruct,physics
+Superconductivity,"['Nuclear energy', 'Nuclear waste']",False,mixtral-8x22b-instruct,physics
+Wave-particle duality,"['Temperature', 'Energy conversion']",False,mixtral-8x22b-instruct,physics
+Superconductivity,"['Magnetic field', 'Electric current']",False,mixtral-8x22b-instruct,physics
+Electromagnetic induction,"['Gravitational pull', 'Escape velocity']",False,mixtral-8x22b-instruct,physics
 Phase transitions,"['Particle correlation', 'Measurement outcome']",False,mixtral-8x22b-instruct,physics
-Superconductivity,"['Electron energy levels', 'Photon energy']",False,mixtral-8x22b-instruct,physics
-Solar radiation absorption,"['Intermolecular forces', 'Physical state']",False,mixtral-8x22b-instruct,physics
-Photon absorption and emission,"['Electrical resistance', 'Magnetic field expulsion']",False,mixtral-8x22b-instruct,physics
-Photon absorption and emission,"['Intermolecular forces', 'Physical state']",False,mixtral-8x22b-instruct,physics
+Quantum entanglement,"['Particle nature', 'Wave nature']",False,mixtral-8x22b-instruct,physics
+Regular exercise and balanced diet,"['Physical activity level', 'Dietary habits']",True,mixtral-8x22b-instruct,health
+Regular medical check-ups and medication adherence,"['Healthcare utilization', 'Medication adherence']",True,mixtral-8x22b-instruct,health
+Overweight and poor nutrition,"['Body weight', 'Nutritional status']",True,mixtral-8x22b-instruct,health
+Isolated lifestyle and poor mental health,"['Social engagement', 'Mental health status']",True,mixtral-8x22b-instruct,health
+Adequate sleep and stress management,"['Sleep duration', 'Stress levels']",True,mixtral-8x22b-instruct,health
+Infrequent medical check-ups and poor medication adherence,"['Healthcare utilization', 'Medication adherence']",True,mixtral-8x22b-instruct,health
+Healthy body weight and balanced nutrition,"['Body weight', 'Nutritional status']",True,mixtral-8x22b-instruct,health
 Active social life and mental well-being,"['Social engagement', 'Mental health status']",True,mixtral-8x22b-instruct,health
 Sedentary lifestyle and high-salt diet,"['Physical activity level', 'Dietary habits']",True,mixtral-8x22b-instruct,health
 Inadequate sleep and high stress,"['Sleep duration', 'Stress levels']",True,mixtral-8x22b-instruct,health
-Healthy body weight and balanced nutrition,"['Body weight', 'Nutritional status']",True,mixtral-8x22b-instruct,health
-Isolated lifestyle and poor mental health,"['Social engagement', 'Mental health status']",True,mixtral-8x22b-instruct,health
-Regular exercise and balanced diet,"['Physical activity level', 'Dietary habits']",True,mixtral-8x22b-instruct,health
-Overweight and poor nutrition,"['Body weight', 'Nutritional status']",True,mixtral-8x22b-instruct,health
-Infrequent medical check-ups and poor medication adherence,"['Healthcare utilization', 'Medication adherence']",True,mixtral-8x22b-instruct,health
-Adequate sleep and stress management,"['Sleep duration', 'Stress levels']",True,mixtral-8x22b-instruct,health
-Regular medical check-ups and medication adherence,"['Healthcare utilization', 'Medication adherence']",True,mixtral-8x22b-instruct,health
-Sedentary lifestyle and high-salt diet,"['Social engagement', 'Mental health status']",False,mixtral-8x22b-instruct,health
-Inadequate sleep and high stress,"['Physical activity level', 'Dietary habits']",False,mixtral-8x22b-instruct,health
-Healthy body weight and balanced nutrition,"['Social engagement', 'Mental health status']",False,mixtral-8x22b-instruct,health
-Isolated lifestyle and poor mental health,"['Body weight', 'Nutritional status']",False,mixtral-8x22b-instruct,health
-Active social life and mental well-being,"['Healthcare utilization', 'Medication adherence']",False,mixtral-8x22b-instruct,health
-Healthy body weight and balanced nutrition,"['Sleep duration', 'Stress levels']",False,mixtral-8x22b-instruct,health
-Regular exercise and balanced diet,"['Body weight', 'Nutritional status']",False,mixtral-8x22b-instruct,health
+Regular medical check-ups and medication adherence,"['Body weight', 'Nutritional status']",False,mixtral-8x22b-instruct,health
+Isolated lifestyle and poor mental health,"['Healthcare utilization', 'Medication adherence']",False,mixtral-8x22b-instruct,health
+Isolated lifestyle and poor mental health,"['Social engagement', 'Mental health status']",False,mixtral-8x22b-instruct,health
+Regular medical check-ups and medication adherence,"['Sleep duration', 'Stress levels']",False,mixtral-8x22b-instruct,health
+Adequate sleep and stress management,"['Social engagement', 'Mental health status']",False,mixtral-8x22b-instruct,health
+Regular medical check-ups and medication adherence,"['Physical activity level', 'Dietary habits']",False,mixtral-8x22b-instruct,health
+Overweight and poor nutrition,"['Healthcare utilization', 'Medication adherence']",False,mixtral-8x22b-instruct,health
 Overweight and poor nutrition,"['Sleep duration', 'Stress levels']",False,mixtral-8x22b-instruct,health
-Sedentary lifestyle and high-salt diet,"['Healthcare utilization', 'Medication adherence']",False,mixtral-8x22b-instruct,health
-Overweight and poor nutrition,"['Social engagement', 'Mental health status']",False,mixtral-8x22b-instruct,health
-Photolithography process with 193nm wavelength,"['Lithography process', 'Lithography wavelength']",True,mixtral-8x22b-instruct,semiconductor manufacturing
-Chemical mechanical planarization with silica slurry,"['Planarization process', 'Planarization slurry']",True,mixtral-8x22b-instruct,semiconductor manufacturing
-Ion implantation with boron ions,"['Ion implantation process', 'Ion implantation species']",True,mixtral-8x22b-instruct,semiconductor manufacturing
-Etching process with fluorine-based plasma,"['Etching process', 'Etching gas']",True,mixtral-8x22b-instruct,semiconductor manufacturing
-Physical vapor deposition with sputtering,"['Deposition process', 'Deposition method']",True,mixtral-8x22b-instruct,semiconductor manufacturing
-Chemical vapor deposition with silane gas,"['Deposition process', 'Deposition gas']",True,mixtral-8x22b-instruct,semiconductor manufacturing
-Rapid thermal annealing with inert gas,"['Annealing process', 'Annealing environment']",True,mixtral-8x22b-instruct,semiconductor manufacturing
+Regular medical check-ups and medication adherence,"['Social engagement', 'Mental health status']",False,mixtral-8x22b-instruct,health
+Infrequent medical check-ups and poor medication adherence,"['Sleep duration', 'Stress levels']",False,mixtral-8x22b-instruct,health
 Metallization with aluminum,"['Metallization process', 'Metallization material']",True,mixtral-8x22b-instruct,semiconductor manufacturing
-Thermal oxidation with wet oxygen,"['Oxidation process', 'Oxidation environment']",True,mixtral-8x22b-instruct,semiconductor manufacturing
+Rapid thermal annealing with inert gas,"['Annealing process', 'Annealing environment']",True,mixtral-8x22b-instruct,semiconductor manufacturing
+Etching process with fluorine-based plasma,"['Etching process', 'Etching gas']",True,mixtral-8x22b-instruct,semiconductor manufacturing
+Photolithography process with 193nm wavelength,"['Lithography process', 'Lithography wavelength']",True,mixtral-8x22b-instruct,semiconductor manufacturing
 Electroplating with copper,"['Plating process', 'Plating material']",True,mixtral-8x22b-instruct,semiconductor manufacturing
-Chemical mechanical planarization with silica slurry,"['Lithography process', 'Lithography wavelength']",False,mixtral-8x22b-instruct,semiconductor manufacturing
-Etching process with fluorine-based plasma,"['Planarization process', 'Planarization slurry']",False,mixtral-8x22b-instruct,semiconductor manufacturing
-Physical vapor deposition with sputtering,"['Deposition process', 'Deposition gas']",False,mixtral-8x22b-instruct,semiconductor manufacturing
-Chemical vapor deposition with silane gas,"['Planarization process', 'Planarization slurry']",False,mixtral-8x22b-instruct,semiconductor manufacturing
-Photolithography process with 193nm wavelength,"['Planarization process', 'Planarization slurry']",False,mixtral-8x22b-instruct,semiconductor manufacturing
-Chemical mechanical planarization with silica slurry,"['Deposition process', 'Deposition gas']",False,mixtral-8x22b-instruct,semiconductor manufacturing
-Ion implantation with boron ions,"['Etching process', 'Etching gas']",False,mixtral-8x22b-instruct,semiconductor manufacturing
+Physical vapor deposition with sputtering,"['Deposition process', 'Deposition method']",True,mixtral-8x22b-instruct,semiconductor manufacturing
+Chemical mechanical planarization with silica slurry,"['Planarization process', 'Planarization slurry']",True,mixtral-8x22b-instruct,semiconductor manufacturing
+Thermal oxidation with wet oxygen,"['Oxidation process', 'Oxidation environment']",True,mixtral-8x22b-instruct,semiconductor manufacturing
+Ion implantation with boron ions,"['Ion implantation process', 'Ion implantation species']",True,mixtral-8x22b-instruct,semiconductor manufacturing
+Chemical vapor deposition with silane gas,"['Deposition process', 'Deposition gas']",True,mixtral-8x22b-instruct,semiconductor manufacturing
+Metallization with aluminum,"['Oxidation process', 'Oxidation environment']",False,mixtral-8x22b-instruct,semiconductor manufacturing
+Metallization with aluminum,"['Lithography process', 'Lithography wavelength']",False,mixtral-8x22b-instruct,semiconductor manufacturing
 Rapid thermal annealing with inert gas,"['Oxidation process', 'Oxidation environment']",False,mixtral-8x22b-instruct,semiconductor manufacturing
-Metallization with aluminum,"['Deposition process', 'Deposition method']",False,mixtral-8x22b-instruct,semiconductor manufacturing
-Etching process with fluorine-based plasma,"['Plating process', 'Plating material']",False,mixtral-8x22b-instruct,semiconductor manufacturing
-Agile software development methodology,"['Software development methodology', 'Development approach']",True,mixtral-8x22b-instruct,computer science
-Cybersecurity threat detection,"['Security domain', 'Threat detection method']",True,mixtral-8x22b-instruct,computer science
-Web application development,"['Application type', 'Development platform']",True,mixtral-8x22b-instruct,computer science
-Distributed system architecture,"['System architecture', 'Component interaction']",True,mixtral-8x22b-instruct,computer science
-Object-oriented programming paradigm,"['Programming paradigm', 'Code organization']",True,mixtral-8x22b-instruct,computer science
+Metallization with aluminum,"['Ion implantation process', 'Ion implantation species']",False,mixtral-8x22b-instruct,semiconductor manufacturing
+Chemical mechanical planarization with silica slurry,"['Annealing process', 'Annealing environment']",False,mixtral-8x22b-instruct,semiconductor manufacturing
+Photolithography process with 193nm wavelength,"['Ion implantation process', 'Ion implantation species']",False,mixtral-8x22b-instruct,semiconductor manufacturing
+Physical vapor deposition with sputtering,"['Annealing process', 'Annealing environment']",False,mixtral-8x22b-instruct,semiconductor manufacturing
+Electroplating with copper,"['Annealing process', 'Annealing environment']",False,mixtral-8x22b-instruct,semiconductor manufacturing
+Thermal oxidation with wet oxygen,"['Lithography process', 'Lithography wavelength']",False,mixtral-8x22b-instruct,semiconductor manufacturing
+Photolithography process with 193nm wavelength,"['Annealing process', 'Annealing environment']",False,mixtral-8x22b-instruct,semiconductor manufacturing
 Machine learning model deployment,"['Model deployment', 'Model type']",True,mixtral-8x22b-instruct,computer science
+Object-oriented programming paradigm,"['Programming paradigm', 'Code organization']",True,mixtral-8x22b-instruct,computer science
 Data visualization techniques,"['Data representation', 'Visualization method']",True,mixtral-8x22b-instruct,computer science
 Cloud-based data processing,"['Data storage location', 'Data processing method']",True,mixtral-8x22b-instruct,computer science
-Secure network communication,"['Network protocol', 'Data encryption']",True,mixtral-8x22b-instruct,computer science
+Cybersecurity threat detection,"['Security domain', 'Threat detection method']",True,mixtral-8x22b-instruct,computer science
 Database management system,"['Data management system', 'Data management method']",True,mixtral-8x22b-instruct,computer science
-Agile software development methodology,"['Network protocol', 'Data encryption']",False,mixtral-8x22b-instruct,computer science
-Cybersecurity threat detection,"['Data management system', 'Data management method']",False,mixtral-8x22b-instruct,computer science
-Web application development,"['Data management system', 'Data management method']",False,mixtral-8x22b-instruct,computer science
-Distributed system architecture,"['Model deployment', 'Model type']",False,mixtral-8x22b-instruct,computer science
-Object-oriented programming paradigm,"['Application type', 'Development platform']",False,mixtral-8x22b-instruct,computer science
-Machine learning model deployment,"['Data management system', 'Data management method']",False,mixtral-8x22b-instruct,computer science
-Distributed system architecture,"['Application type', 'Development platform']",False,mixtral-8x22b-instruct,computer science
-Object-oriented programming paradigm,"['Model deployment', 'Model type']",False,mixtral-8x22b-instruct,computer science
-Object-oriented programming paradigm,"['Software development methodology', 'Development approach']",False,mixtral-8x22b-instruct,computer science
-Data visualization techniques,"['Model deployment', 'Model type']",False,mixtral-8x22b-instruct,computer science
-Inner-city segregation,"['Inner-city area', 'Segregation level']",True,mixtral-8x22b-instruct,sociology
-Rural migration,"['Level of rurality', 'Migration level']",True,mixtral-8x22b-instruct,sociology
-Rural education,"['Level of rurality', 'Education level']",True,mixtral-8x22b-instruct,sociology
-Urban gentrification,"['Level of urbanization', 'Gentrification level']",True,mixtral-8x22b-instruct,sociology
-Suburban diversity,"['Suburban area', 'Diversity level']",True,mixtral-8x22b-instruct,sociology
-Inner-city crime,"['Inner-city area', 'Crime level']",True,mixtral-8x22b-instruct,sociology
-Urban inequality,"['Level of urbanization', 'Inequality level']",True,mixtral-8x22b-instruct,sociology
+Agile software development methodology,"['Software development methodology', 'Development approach']",True,mixtral-8x22b-instruct,computer science
+Secure network communication,"['Network protocol', 'Data encryption']",True,mixtral-8x22b-instruct,computer science
+Web application development,"['Application type', 'Development platform']",True,mixtral-8x22b-instruct,computer science
+Distributed system architecture,"['System architecture', 'Component interaction']",True,mixtral-8x22b-instruct,computer science
+Machine learning model deployment,"['Security domain', 'Threat detection method']",False,mixtral-8x22b-instruct,computer science
+Object-oriented programming paradigm,"['System architecture', 'Component interaction']",False,mixtral-8x22b-instruct,computer science
+Data visualization techniques,"['Network protocol', 'Data encryption']",False,mixtral-8x22b-instruct,computer science
+Machine learning model deployment,"['Programming paradigm', 'Code organization']",False,mixtral-8x22b-instruct,computer science
+Machine learning model deployment,"['Data representation', 'Visualization method']",False,mixtral-8x22b-instruct,computer science
+Cloud-based data processing,"['System architecture', 'Component interaction']",False,mixtral-8x22b-instruct,computer science
+Machine learning model deployment,"['Network protocol', 'Data encryption']",False,mixtral-8x22b-instruct,computer science
+Machine learning model deployment,"['System architecture', 'Component interaction']",False,mixtral-8x22b-instruct,computer science
+Cybersecurity threat detection,"['System architecture', 'Component interaction']",False,mixtral-8x22b-instruct,computer science
+Database management system,"['Network protocol', 'Data encryption']",False,mixtral-8x22b-instruct,computer science
 Suburban wealth,"['Suburban area', 'Wealth level']",True,mixtral-8x22b-instruct,sociology
 Urban poverty,"['Level of urbanization', 'Poverty level']",True,mixtral-8x22b-instruct,sociology
+Rural education,"['Level of rurality', 'Education level']",True,mixtral-8x22b-instruct,sociology
+Rural migration,"['Level of rurality', 'Migration level']",True,mixtral-8x22b-instruct,sociology
+Inner-city crime,"['Inner-city area', 'Crime level']",True,mixtral-8x22b-instruct,sociology
+Suburban diversity,"['Suburban area', 'Diversity level']",True,mixtral-8x22b-instruct,sociology
 Rural unemployment,"['Level of rurality', 'Unemployment level']",True,mixtral-8x22b-instruct,sociology
-Inner-city segregation,"['Level of urbanization', 'Poverty level']",False,mixtral-8x22b-instruct,sociology
-Rural migration,"['Level of urbanization', 'Gentrification level']",False,mixtral-8x22b-instruct,sociology
-Rural education,"['Level of rurality', 'Unemployment level']",False,mixtral-8x22b-instruct,sociology
-Urban gentrification,"['Level of rurality', 'Unemployment level']",False,mixtral-8x22b-instruct,sociology
-Suburban diversity,"['Level of rurality', 'Education level']",False,mixtral-8x22b-instruct,sociology
-Urban gentrification,"['Inner-city area', 'Segregation level']",False,mixtral-8x22b-instruct,sociology
-Inner-city crime,"['Level of urbanization', 'Poverty level']",False,mixtral-8x22b-instruct,sociology
-Urban inequality,"['Inner-city area', 'Segregation level']",False,mixtral-8x22b-instruct,sociology
-Rural education,"['Level of urbanization', 'Poverty level']",False,mixtral-8x22b-instruct,sociology
-Suburban wealth,"['Inner-city area', 'Crime level']",False,mixtral-8x22b-instruct,sociology
-Perfectionism and fear of failure,"['Perfectionism level', 'Fear of failure level']",True,mixtral-8x22b-instruct,psychology
+Urban inequality,"['Level of urbanization', 'Inequality level']",True,mixtral-8x22b-instruct,sociology
+Inner-city segregation,"['Inner-city area', 'Segregation level']",True,mixtral-8x22b-instruct,sociology
+Urban gentrification,"['Level of urbanization', 'Gentrification level']",True,mixtral-8x22b-instruct,sociology
+Suburban wealth,"['Suburban area', 'Diversity level']",False,mixtral-8x22b-instruct,sociology
+Urban poverty,"['Suburban area', 'Wealth level']",False,mixtral-8x22b-instruct,sociology
+Rural migration,"['Level of urbanization', 'Poverty level']",False,mixtral-8x22b-instruct,sociology
+Urban poverty,"['Suburban area', 'Diversity level']",False,mixtral-8x22b-instruct,sociology
+Inner-city crime,"['Suburban area', 'Diversity level']",False,mixtral-8x22b-instruct,sociology
+Suburban diversity,"['Inner-city area', 'Segregation level']",False,mixtral-8x22b-instruct,sociology
+Rural unemployment,"['Inner-city area', 'Crime level']",False,mixtral-8x22b-instruct,sociology
+Suburban diversity,"['Level of urbanization', 'Poverty level']",False,mixtral-8x22b-instruct,sociology
+Rural migration,"['Inner-city area', 'Crime level']",False,mixtral-8x22b-instruct,sociology
+Urban poverty,"['Level of urbanization', 'Gentrification level']",False,mixtral-8x22b-instruct,sociology
+Mindfulness and emotional regulation,"['Mindfulness level', 'Emotional regulation ability']",True,mixtral-8x22b-instruct,psychology
 Social support and resilience,"['Social support level', 'Resilience level']",True,mixtral-8x22b-instruct,psychology
-Negative self-talk and low self-esteem,"['Self-talk type', 'Self-esteem level']",True,mixtral-8x22b-instruct,psychology
-Growth mindset and resilience,"['Mindset type', 'Resilience level']",True,mixtral-8x22b-instruct,psychology
+Cognitive distortions and negative thinking,"['Cognitive distortions level', 'Negative thinking level']",True,mixtral-8x22b-instruct,psychology
+Self-compassion and self-forgiveness,"['Self-compassion level', 'Self-forgiveness level']",True,mixtral-8x22b-instruct,psychology
 Empathy and active listening,"['Empathy level', 'Active listening ability']",True,mixtral-8x22b-instruct,psychology
 Chronic stress and anxiety,"['Stress level', 'Anxiety level']",True,mixtral-8x22b-instruct,psychology
-Cognitive distortions and negative thinking,"['Cognitive distortions level', 'Negative thinking level']",True,mixtral-8x22b-instruct,psychology
+Growth mindset and resilience,"['Mindset type', 'Resilience level']",True,mixtral-8x22b-instruct,psychology
+Negative self-talk and low self-esteem,"['Self-talk type', 'Self-esteem level']",True,mixtral-8x22b-instruct,psychology
 Positive reinforcement and motivation,"['Reinforcement type', 'Motivation level']",True,mixtral-8x22b-instruct,psychology
-Mindfulness and emotional regulation,"['Mindfulness level', 'Emotional regulation ability']",True,mixtral-8x22b-instruct,psychology
-Self-compassion and self-forgiveness,"['Self-compassion level', 'Self-forgiveness level']",True,mixtral-8x22b-instruct,psychology
-Perfectionism and fear of failure,"['Cognitive distortions level', 'Negative thinking level']",False,mixtral-8x22b-instruct,psychology
-Social support and resilience,"['Empathy level', 'Active listening ability']",False,mixtral-8x22b-instruct,psychology
-Negative self-talk and low self-esteem,"['Cognitive distortions level', 'Negative thinking level']",False,mixtral-8x22b-instruct,psychology
-Growth mindset and resilience,"['Social support level', 'Resilience level']",False,mixtral-8x22b-instruct,psychology
-Empathy and active listening,"['Perfectionism level', 'Fear of failure level']",False,mixtral-8x22b-instruct,psychology
-Chronic stress and anxiety,"['Social support level', 'Resilience level']",False,mixtral-8x22b-instruct,psychology
-Social support and resilience,"['Mindset type', 'Resilience level']",False,mixtral-8x22b-instruct,psychology
-Cognitive distortions and negative thinking,"['Mindfulness level', 'Emotional regulation ability']",False,mixtral-8x22b-instruct,psychology
-Positive reinforcement and motivation,"['Cognitive distortions level', 'Negative thinking level']",False,mixtral-8x22b-instruct,psychology
-Growth mindset and resilience,"['Reinforcement type', 'Motivation level']",False,mixtral-8x22b-instruct,psychology
-Long-term government bonds,"['Bond type', 'Bond maturity']",True,mixtral-8x22b-instruct,finance
-Blue-chip stocks,"['Stock type', 'Company reputation']",True,mixtral-8x22b-instruct,finance
-Small-cap value stocks,"['Stock type', 'Company size', 'Investment strategy']",True,mixtral-8x22b-instruct,finance
-High-dividend stocks,"['Stock type', 'Dividend policy']",True,mixtral-8x22b-instruct,finance
+Perfectionism and fear of failure,"['Perfectionism level', 'Fear of failure level']",True,mixtral-8x22b-instruct,psychology
+Mindfulness and emotional regulation,"['Self-compassion level', 'Self-forgiveness level']",False,mixtral-8x22b-instruct,psychology
+Social support and resilience,"['Mindfulness level', 'Emotional regulation ability']",False,mixtral-8x22b-instruct,psychology
+Cognitive distortions and negative thinking,"['Reinforcement type', 'Motivation level']",False,mixtral-8x22b-instruct,psychology
+Self-compassion and self-forgiveness,"['Mindfulness level', 'Emotional regulation ability']",False,mixtral-8x22b-instruct,psychology
+Cognitive distortions and negative thinking,"['Social support level', 'Resilience level']",False,mixtral-8x22b-instruct,psychology
+Empathy and active listening,"['Mindset type', 'Resilience level']",False,mixtral-8x22b-instruct,psychology
+Chronic stress and anxiety,"['Perfectionism level', 'Fear of failure level']",False,mixtral-8x22b-instruct,psychology
+Chronic stress and anxiety,"['Reinforcement type', 'Motivation level']",False,mixtral-8x22b-instruct,psychology
+Chronic stress and anxiety,"['Self-compassion level', 'Self-forgiveness level']",False,mixtral-8x22b-instruct,psychology
+Negative self-talk and low self-esteem,"['Empathy level', 'Active listening ability']",False,mixtral-8x22b-instruct,psychology
 Growth-oriented mutual funds,"['Investment type', 'Investment strategy']",True,mixtral-8x22b-instruct,finance
-Commodity futures contracts,"['Financial instrument', 'Underlying asset']",True,mixtral-8x22b-instruct,finance
+Small-cap value stocks,"['Stock type', 'Company size', 'Investment strategy']",True,mixtral-8x22b-instruct,finance
 Emerging market equities,"['Equity type', 'Market type']",True,mixtral-8x22b-instruct,finance
-Real estate investment trusts (REITs),"['Investment type', 'Asset class']",True,mixtral-8x22b-instruct,finance
-High-yield corporate bonds,"['Bond type', 'Bond risk']",True,mixtral-8x22b-instruct,finance
+Commodity futures contracts,"['Financial instrument', 'Underlying asset']",True,mixtral-8x22b-instruct,finance
+Long-term government bonds,"['Bond type', 'Bond maturity']",True,mixtral-8x22b-instruct,finance
 Money market funds,"['Investment type', 'Market segment']",True,mixtral-8x22b-instruct,finance
-Long-term government bonds,"['Investment type', 'Market segment']",False,mixtral-8x22b-instruct,finance
-Blue-chip stocks,"['Stock type', 'Dividend policy']",False,mixtral-8x22b-instruct,finance
-Small-cap value stocks,"['Financial instrument', 'Underlying asset']",False,mixtral-8x22b-instruct,finance
-Blue-chip stocks,"['Investment type', 'Market segment']",False,mixtral-8x22b-instruct,finance
-High-dividend stocks,"['Investment type', 'Asset class']",False,mixtral-8x22b-instruct,finance
+High-yield corporate bonds,"['Bond type', 'Bond risk']",True,mixtral-8x22b-instruct,finance
+Blue-chip stocks,"['Stock type', 'Company reputation']",True,mixtral-8x22b-instruct,finance
+Real estate investment trusts (REITs),"['Investment type', 'Asset class']",True,mixtral-8x22b-instruct,finance
+High-dividend stocks,"['Stock type', 'Dividend policy']",True,mixtral-8x22b-instruct,finance
 Growth-oriented mutual funds,"['Investment type', 'Asset class']",False,mixtral-8x22b-instruct,finance
-High-dividend stocks,"['Equity type', 'Market type']",False,mixtral-8x22b-instruct,finance
-High-dividend stocks,"['Financial instrument', 'Underlying asset']",False,mixtral-8x22b-instruct,finance
-Commodity futures contracts,"['Investment type', 'Investment strategy']",False,mixtral-8x22b-instruct,finance
-High-dividend stocks,"['Investment type', 'Market segment']",False,mixtral-8x22b-instruct,finance
+Small-cap value stocks,"['Bond type', 'Bond maturity']",False,mixtral-8x22b-instruct,finance
+Small-cap value stocks,"['Stock type', 'Company reputation']",False,mixtral-8x22b-instruct,finance
+Growth-oriented mutual funds,"['Financial instrument', 'Underlying asset']",False,mixtral-8x22b-instruct,finance
+Emerging market equities,"['Bond type', 'Bond risk']",False,mixtral-8x22b-instruct,finance
+Commodity futures contracts,"['Stock type', 'Dividend policy']",False,mixtral-8x22b-instruct,finance
+Long-term government bonds,"['Investment type', 'Investment strategy']",False,mixtral-8x22b-instruct,finance
+Small-cap value stocks,"['Investment type', 'Market segment']",False,mixtral-8x22b-instruct,finance
+Small-cap value stocks,"['Bond type', 'Bond risk']",False,mixtral-8x22b-instruct,finance
+Money market funds,"['Bond type', 'Bond risk']",False,mixtral-8x22b-instruct,finance
+Community Policing,"['Crime Prevention', 'Community Relations']",True,gpt-3.5-turbo,urban studies
+Historic Preservation,"['Cultural Heritage', 'Tourism']",True,gpt-3.5-turbo,urban studies
+Public Space Design,"['Social Inclusion', 'Aesthetics']",True,gpt-3.5-turbo,urban studies
+Public Transportation,"['Accessibility', 'Environmental Sustainability']",True,gpt-3.5-turbo,urban studies
+Gentrification,"['Socioeconomic Status', 'Housing Market']",True,gpt-3.5-turbo,urban studies
+Urban Renewal,"['Economic Development', 'Housing Quality']",True,gpt-3.5-turbo,urban studies
+Green Spaces,"['Health and Well-being', 'Property Values']",True,gpt-3.5-turbo,urban studies
+Mixed-Use Development,"['Urban Planning', 'Community Engagement']",True,gpt-3.5-turbo,urban studies
+Disaster Resilience,"['Infrastructure', 'Emergency Response']",True,gpt-3.5-turbo,urban studies
+Smart City Technology,"['Infrastructure', 'Data Management']",True,gpt-3.5-turbo,urban studies
+Community Policing,"['Socioeconomic Status', 'Housing Market']",False,gpt-3.5-turbo,urban studies
+Historic Preservation,"['Infrastructure', 'Data Management']",False,gpt-3.5-turbo,urban studies
+Public Space Design,"['Urban Planning', 'Community Engagement']",False,gpt-3.5-turbo,urban studies
+Historic Preservation,"['Socioeconomic Status', 'Housing Market']",False,gpt-3.5-turbo,urban studies
+Public Transportation,"['Cultural Heritage', 'Tourism']",False,gpt-3.5-turbo,urban studies
+Historic Preservation,"['Crime Prevention', 'Community Relations']",False,gpt-3.5-turbo,urban studies
+Historic Preservation,"['Economic Development', 'Housing Quality']",False,gpt-3.5-turbo,urban studies
+Green Spaces,"['Infrastructure', 'Data Management']",False,gpt-3.5-turbo,urban studies
+Historic Preservation,"['Infrastructure', 'Emergency Response']",False,gpt-3.5-turbo,urban studies
+Green Spaces,"['Social Inclusion', 'Aesthetics']",False,gpt-3.5-turbo,urban studies
+Wave-Particle Duality,"['Wave Behavior', 'Particle Behavior']",True,gpt-3.5-turbo,physics
+Nuclear Fusion,"['Temperature', 'Pressure']",True,gpt-3.5-turbo,physics
+Energy Transfer,"['Kinetic Energy', 'Thermal Energy']",True,gpt-3.5-turbo,physics
+Magnetic Induction,"['Electric Field', 'Magnetic Field']",True,gpt-3.5-turbo,physics
+Photoelectric Effect,"['Frequency of Light', 'Electron Ejection']",True,gpt-3.5-turbo,physics
+Conservation of Momentum,"['Linear Momentum', 'Angular Momentum']",True,gpt-3.5-turbo,physics
+Quantum Entanglement,"['Superposition', 'Spooky Action at a Distance']",True,gpt-3.5-turbo,physics
+Gravitational Lensing,"['Massive Object', 'Light Deflection']",True,gpt-3.5-turbo,physics
+Electromagnetic Induction,"['Magnetic Field', 'Induced Electric Field']",True,gpt-3.5-turbo,physics
+Elastic Collisions,"['Kinetic Energy', 'Momentum']",True,gpt-3.5-turbo,physics
+Wave-Particle Duality,"['Superposition', 'Spooky Action at a Distance']",False,gpt-3.5-turbo,physics
+Wave-Particle Duality,"['Electric Field', 'Magnetic Field']",False,gpt-3.5-turbo,physics
+Nuclear Fusion,"['Massive Object', 'Light Deflection']",False,gpt-3.5-turbo,physics
+Nuclear Fusion,"['Wave Behavior', 'Particle Behavior']",False,gpt-3.5-turbo,physics
+Energy Transfer,"['Massive Object', 'Light Deflection']",False,gpt-3.5-turbo,physics
+Magnetic Induction,"['Kinetic Energy', 'Momentum']",False,gpt-3.5-turbo,physics
+Photoelectric Effect,"['Linear Momentum', 'Angular Momentum']",False,gpt-3.5-turbo,physics
+Magnetic Induction,"['Frequency of Light', 'Electron Ejection']",False,gpt-3.5-turbo,physics
+Conservation of Momentum,"['Wave Behavior', 'Particle Behavior']",False,gpt-3.5-turbo,physics
+Quantum Entanglement,"['Massive Object', 'Light Deflection']",False,gpt-3.5-turbo,physics
+Gut microbiome dysbiosis,"['Digestive health', 'Immune function']",True,gpt-3.5-turbo,health
+Hormonal imbalance,"['Endocrine system', 'Reproductive health']",True,gpt-3.5-turbo,health
+Stress response,"['Cortisol levels', 'Mental health']",True,gpt-3.5-turbo,health
+Neurotransmitter imbalance,"['Brain chemistry', 'Mood regulation']",True,gpt-3.5-turbo,health
+Chronic inflammation,"['Inflammatory status', 'Immune response']",True,gpt-3.5-turbo,health
+Cardiovascular risk,"['Blood pressure', 'Cholesterol levels']",True,gpt-3.5-turbo,health
+Oxidative stress,"['Cellular damage', 'Antioxidant levels']",True,gpt-3.5-turbo,health
+Bone mineral density,"['Bone health', 'Calcium absorption']",True,gpt-3.5-turbo,health
+Metabolic syndrome,"['Obesity', 'Insulin resistance']",True,gpt-3.5-turbo,health
+Sleep quality,"['Sleep patterns', 'Energy levels']",True,gpt-3.5-turbo,health
+Gut microbiome dysbiosis,"['Cellular damage', 'Antioxidant levels']",False,gpt-3.5-turbo,health
+Gut microbiome dysbiosis,"['Sleep patterns', 'Energy levels']",False,gpt-3.5-turbo,health
+Hormonal imbalance,"['Brain chemistry', 'Mood regulation']",False,gpt-3.5-turbo,health
+Stress response,"['Endocrine system', 'Reproductive health']",False,gpt-3.5-turbo,health
+Neurotransmitter imbalance,"['Inflammatory status', 'Immune response']",False,gpt-3.5-turbo,health
+Chronic inflammation,"['Cellular damage', 'Antioxidant levels']",False,gpt-3.5-turbo,health
+Chronic inflammation,"['Brain chemistry', 'Mood regulation']",False,gpt-3.5-turbo,health
+Gut microbiome dysbiosis,"['Endocrine system', 'Reproductive health']",False,gpt-3.5-turbo,health
+Oxidative stress,"['Bone health', 'Calcium absorption']",False,gpt-3.5-turbo,health
+Stress response,"['Cellular damage', 'Antioxidant levels']",False,gpt-3.5-turbo,health
+Dopant diffusion profile,"['Ion implantation process', 'Junction depth control']",True,gpt-3.5-turbo,semiconductor manufacturing
+Mask alignment accuracy,"['Patterning resolution', 'Overlay registration']",True,gpt-3.5-turbo,semiconductor manufacturing
+Wafer edge exclusion,"['Wafer yield optimization', 'Die placement strategy']",True,gpt-3.5-turbo,semiconductor manufacturing
+Wafer surface contamination,"['Cleanroom environment quality', 'Device yield']",True,gpt-3.5-turbo,semiconductor manufacturing
+Lithography alignment accuracy,"['Pattern overlay control', 'Critical dimension uniformity']",True,gpt-3.5-turbo,semiconductor manufacturing
+Gas flow rate adjustment,"['Gas delivery system efficiency', 'Film deposition uniformity']",True,gpt-3.5-turbo,semiconductor manufacturing
+Chemical concentration monitoring,"['Wet cleaning process effectiveness', 'Surface preparation quality']",True,gpt-3.5-turbo,semiconductor manufacturing
+Temperature fluctuation during etching,"['Etching process stability', 'Etch rate control']",True,gpt-3.5-turbo,semiconductor manufacturing
+Plasma chamber cleanliness,"['Etch selectivity', 'Uniformity of plasma processing']",True,gpt-3.5-turbo,semiconductor manufacturing
+Metrology tool calibration,"['Process control accuracy', 'Device performance validation']",True,gpt-3.5-turbo,semiconductor manufacturing
+Dopant diffusion profile,"['Wafer yield optimization', 'Die placement strategy']",False,gpt-3.5-turbo,semiconductor manufacturing
+Mask alignment accuracy,"['Cleanroom environment quality', 'Device yield']",False,gpt-3.5-turbo,semiconductor manufacturing
+Wafer edge exclusion,"['Wet cleaning process effectiveness', 'Surface preparation quality']",False,gpt-3.5-turbo,semiconductor manufacturing
+Dopant diffusion profile,"['Cleanroom environment quality', 'Device yield']",False,gpt-3.5-turbo,semiconductor manufacturing
+Wafer surface contamination,"['Ion implantation process', 'Junction depth control']",False,gpt-3.5-turbo,semiconductor manufacturing
+Lithography alignment accuracy,"['Wafer yield optimization', 'Die placement strategy']",False,gpt-3.5-turbo,semiconductor manufacturing
+Wafer edge exclusion,"['Patterning resolution', 'Overlay registration']",False,gpt-3.5-turbo,semiconductor manufacturing
+Wafer edge exclusion,"['Cleanroom environment quality', 'Device yield']",False,gpt-3.5-turbo,semiconductor manufacturing
+Wafer edge exclusion,"['Gas delivery system efficiency', 'Film deposition uniformity']",False,gpt-3.5-turbo,semiconductor manufacturing
+Lithography alignment accuracy,"['Gas delivery system efficiency', 'Film deposition uniformity']",False,gpt-3.5-turbo,semiconductor manufacturing
+Efficient Code Execution,"['Code Performance', 'Resource Utilization']",True,gpt-3.5-turbo,computer science
+Optimized Algorithm Performance,"['Algorithm Efficiency', 'Algorithm Accuracy']",True,gpt-3.5-turbo,computer science
+Adaptive Machine Learning,"['Model Flexibility', 'Learning Rate']",True,gpt-3.5-turbo,computer science
+Scalable System Design,"['System Performance', 'System Flexibility']",True,gpt-3.5-turbo,computer science
+User-friendly Interface,"['Interface Design', 'Accessibility Features']",True,gpt-3.5-turbo,computer science
+Secure Communication,"['Data Encryption', 'Network Integrity']",True,gpt-3.5-turbo,computer science
+Real-time Data Processing,"['Data Processing Speed', 'Data Processing Accuracy']",True,gpt-3.5-turbo,computer science
+Efficient Resource Utilization,"['CPU Usage', 'Memory Allocation']",True,gpt-3.5-turbo,computer science
+Reliable Data Storage,"['Data Durability', 'Data Availability']",True,gpt-3.5-turbo,computer science
+Robust Data Security,"['Data Encryption Strength', 'Access Control Measures']",True,gpt-3.5-turbo,computer science
+Efficient Code Execution,"['CPU Usage', 'Memory Allocation']",False,gpt-3.5-turbo,computer science
+Optimized Algorithm Performance,"['Data Encryption Strength', 'Access Control Measures']",False,gpt-3.5-turbo,computer science
+Adaptive Machine Learning,"['Code Performance', 'Resource Utilization']",False,gpt-3.5-turbo,computer science
+Scalable System Design,"['Interface Design', 'Accessibility Features']",False,gpt-3.5-turbo,computer science
+Optimized Algorithm Performance,"['Data Processing Speed', 'Data Processing Accuracy']",False,gpt-3.5-turbo,computer science
+User-friendly Interface,"['Code Performance', 'Resource Utilization']",False,gpt-3.5-turbo,computer science
+Real-time Data Processing,"['Code Performance', 'Resource Utilization']",False,gpt-3.5-turbo,computer science
+Efficient Resource Utilization,"['Interface Design', 'Accessibility Features']",False,gpt-3.5-turbo,computer science
+Reliable Data Storage,"['CPU Usage', 'Memory Allocation']",False,gpt-3.5-turbo,computer science
+Secure Communication,"['Data Processing Speed', 'Data Processing Accuracy']",False,gpt-3.5-turbo,computer science
+Cultural Integration,"['Identity Formation', 'Social Cohesion']",True,gpt-3.5-turbo,sociology
+Political Activism,"['Political Ideology', 'Social Change']",True,gpt-3.5-turbo,sociology
+Health Behavior,"['Dietary Habits', 'Mental Well-being']",True,gpt-3.5-turbo,sociology
+Technology Adoption,"['Digital Literacy', 'Communication Patterns']",True,gpt-3.5-turbo,sociology
+Educational Attainment,"['Socioeconomic Status', 'Career Opportunities']",True,gpt-3.5-turbo,sociology
+Community Engagement,"['Social Support', 'Civic Participation']",True,gpt-3.5-turbo,sociology
+Family Dynamics,"['Parenting Style', 'Household Roles']",True,gpt-3.5-turbo,sociology
+Gender Equality,"['Workplace Discrimination', 'Household Responsibilities']",True,gpt-3.5-turbo,sociology
+Social Media Influence,"['Social Status', 'Consumer Behavior']",True,gpt-3.5-turbo,sociology
+Environmental Awareness,"['Sustainable Practices', 'Community Resilience']",True,gpt-3.5-turbo,sociology
+Cultural Integration,"['Digital Literacy', 'Communication Patterns']",False,gpt-3.5-turbo,sociology
+Cultural Integration,"['Sustainable Practices', 'Community Resilience']",False,gpt-3.5-turbo,sociology
+Political Activism,"['Social Support', 'Civic Participation']",False,gpt-3.5-turbo,sociology
+Health Behavior,"['Identity Formation', 'Social Cohesion']",False,gpt-3.5-turbo,sociology
+Technology Adoption,"['Dietary Habits', 'Mental Well-being']",False,gpt-3.5-turbo,sociology
+Educational Attainment,"['Identity Formation', 'Social Cohesion']",False,gpt-3.5-turbo,sociology
+Technology Adoption,"['Social Status', 'Consumer Behavior']",False,gpt-3.5-turbo,sociology
+Community Engagement,"['Parenting Style', 'Household Roles']",False,gpt-3.5-turbo,sociology
+Health Behavior,"['Parenting Style', 'Household Roles']",False,gpt-3.5-turbo,sociology
+Educational Attainment,"['Sustainable Practices', 'Community Resilience']",False,gpt-3.5-turbo,sociology
+Perceived Control,"['Anxiety', 'Self-efficacy']",True,gpt-3.5-turbo,psychology
+Resilience,"['Stress', 'Mental Health']",True,gpt-3.5-turbo,psychology
+Emotional Intelligence,"['Interpersonal Relationships', 'Stress Management']",True,gpt-3.5-turbo,psychology
+Empathy,"['Relationship Satisfaction', 'Conflict Resolution']",True,gpt-3.5-turbo,psychology
+Mindfulness,"['Depression', 'Emotional Regulation']",True,gpt-3.5-turbo,psychology
+Emotional Regulation,"['Anxiety', 'Relationship Satisfaction']",True,gpt-3.5-turbo,psychology
+Social Support,"['Stress Level', 'Well-being']",True,gpt-3.5-turbo,psychology
+Perceived Social Support,"['Loneliness', 'Self-esteem']",True,gpt-3.5-turbo,psychology
+Coping Strategies,"['Anxiety', 'Resilience']",True,gpt-3.5-turbo,psychology
+Self-esteem,"['Depression', 'Life Satisfaction']",True,gpt-3.5-turbo,psychology
+Perceived Control,"['Interpersonal Relationships', 'Stress Management']",False,gpt-3.5-turbo,psychology
+Perceived Control,"['Depression', 'Emotional Regulation']",False,gpt-3.5-turbo,psychology
+Resilience,"['Loneliness', 'Self-esteem']",False,gpt-3.5-turbo,psychology
+Emotional Intelligence,"['Anxiety', 'Relationship Satisfaction']",False,gpt-3.5-turbo,psychology
+Resilience,"['Anxiety', 'Resilience']",False,gpt-3.5-turbo,psychology
+Empathy,"['Anxiety', 'Relationship Satisfaction']",False,gpt-3.5-turbo,psychology
+Mindfulness,"['Interpersonal Relationships', 'Stress Management']",False,gpt-3.5-turbo,psychology
+Emotional Regulation,"['Relationship Satisfaction', 'Conflict Resolution']",False,gpt-3.5-turbo,psychology
+Social Support,"['Loneliness', 'Self-esteem']",False,gpt-3.5-turbo,psychology
+Perceived Social Support,"['Relationship Satisfaction', 'Conflict Resolution']",False,gpt-3.5-turbo,psychology
+Economic Recession,"['Unemployment Rate', 'Consumer Spending']",True,gpt-3.5-turbo,finance
+Inflation Rate,"['Purchasing Power', 'Interest Rates']",True,gpt-3.5-turbo,finance
+Corporate Earnings,"['Stock Prices', 'Dividend Payments']",True,gpt-3.5-turbo,finance
+Interest Rate Hike,"['Bond Prices', 'Cost of Borrowing']",True,gpt-3.5-turbo,finance
+Global Trade Tensions,"['Supply Chain Costs', 'Market Uncertainty']",True,gpt-3.5-turbo,finance
+Foreign Exchange Rate,"['Import Costs', 'Export Competitiveness']",True,gpt-3.5-turbo,finance
+Credit Rating,"['Borrowing Costs', 'Investor Confidence']",True,gpt-3.5-turbo,finance
+Market Volatility,"['Market Risk', 'Investor Sentiment']",True,gpt-3.5-turbo,finance
+Government Policy,"['Tax Revenues', 'Regulatory Environment']",True,gpt-3.5-turbo,finance
+Technological Innovation,"['Industry Disruption', 'Competitive Advantage']",True,gpt-3.5-turbo,finance
+Economic Recession,"['Bond Prices', 'Cost of Borrowing']",False,gpt-3.5-turbo,finance
+Inflation Rate,"['Borrowing Costs', 'Investor Confidence']",False,gpt-3.5-turbo,finance
+Corporate Earnings,"['Purchasing Power', 'Interest Rates']",False,gpt-3.5-turbo,finance
+Inflation Rate,"['Market Risk', 'Investor Sentiment']",False,gpt-3.5-turbo,finance
+Interest Rate Hike,"['Unemployment Rate', 'Consumer Spending']",False,gpt-3.5-turbo,finance
+Interest Rate Hike,"['Borrowing Costs', 'Investor Confidence']",False,gpt-3.5-turbo,finance
+Global Trade Tensions,"['Borrowing Costs', 'Investor Confidence']",False,gpt-3.5-turbo,finance
+Foreign Exchange Rate,"['Stock Prices', 'Dividend Payments']",False,gpt-3.5-turbo,finance
+Global Trade Tensions,"['Purchasing Power', 'Interest Rates']",False,gpt-3.5-turbo,finance
+Credit Rating,"['Industry Disruption', 'Competitive Advantage']",False,gpt-3.5-turbo,finance
+Mixed-use development projects,"['Urban planning', 'Economic development']",True,gpt-4-turbo,urban studies
+Flood-resistant urban design,"['Climate adaptation', 'Urban planning']",True,gpt-4-turbo,urban studies
+Smart city technology implementation,"['Technological advancement', 'Governance']",True,gpt-4-turbo,urban studies
+Public Wi-Fi networks,"['Digital inclusion', 'Economic development']",True,gpt-4-turbo,urban studies
+Green roof installations,"['Environmental sustainability', 'Building standards']",True,gpt-4-turbo,urban studies
+Pedestrian-friendly street redesign,"['Urban design', 'Public health']",True,gpt-4-turbo,urban studies
+Historic preservation regulations,"['Cultural heritage', 'Regulatory frameworks']",True,gpt-4-turbo,urban studies
+Public transportation expansion,"['Infrastructure development', 'Environmental sustainability']",True,gpt-4-turbo,urban studies
+Urban farming initiatives,"['Food security', 'Environmental sustainability']",True,gpt-4-turbo,urban studies
+Community policing initiatives,"['Public safety', 'Community engagement']",True,gpt-4-turbo,urban studies
+Mixed-use development projects,"['Infrastructure development', 'Environmental sustainability']",False,gpt-4-turbo,urban studies
+Flood-resistant urban design,"['Urban design', 'Public health']",False,gpt-4-turbo,urban studies
+Mixed-use development projects,"['Cultural heritage', 'Regulatory frameworks']",False,gpt-4-turbo,urban studies
+Mixed-use development projects,"['Environmental sustainability', 'Building standards']",False,gpt-4-turbo,urban studies
+Smart city technology implementation,"['Environmental sustainability', 'Building standards']",False,gpt-4-turbo,urban studies
+Smart city technology implementation,"['Climate adaptation', 'Urban planning']",False,gpt-4-turbo,urban studies
+Public Wi-Fi networks,"['Climate adaptation', 'Urban planning']",False,gpt-4-turbo,urban studies
+Public Wi-Fi networks,"['Urban planning', 'Economic development']",False,gpt-4-turbo,urban studies
+Flood-resistant urban design,"['Technological advancement', 'Governance']",False,gpt-4-turbo,urban studies
+Pedestrian-friendly street redesign,"['Infrastructure development', 'Environmental sustainability']",False,gpt-4-turbo,urban studies
+gravitational lensing,"['Gravitational force', 'Light propagation']",True,gpt-4-turbo,physics
+gamma-ray burst emissions,"['High-energy astrophysical phenomena', 'Stellar evolution']",True,gpt-4-turbo,physics
+black hole evaporation,"['Black hole properties', 'Quantum effects']",True,gpt-4-turbo,physics
+superconductivity,"['Electrical resistance', 'Material phase']",True,gpt-4-turbo,physics
+thermoelectric cooling,"['Heat transfer', 'Electrical effects']",True,gpt-4-turbo,physics
+solar wind interaction with Earth's magnetosphere,"['Solar activity', 'Geomagnetic effects']",True,gpt-4-turbo,physics
+photoelectric effect,"['Electromagnetic radiation interaction', 'Electron emission']",True,gpt-4-turbo,physics
+elastic collision of particles,"['Momentum conservation', 'Kinetic energy conservation']",True,gpt-4-turbo,physics
+nuclear fusion in stars,"['Nuclear reactions', 'Stellar energy output']",True,gpt-4-turbo,physics
+semiconductor doping,"['Material conductivity', 'Material composition']",True,gpt-4-turbo,physics
+gravitational lensing,"['Solar activity', 'Geomagnetic effects']",False,gpt-4-turbo,physics
+gamma-ray burst emissions,"['Electrical resistance', 'Material phase']",False,gpt-4-turbo,physics
+black hole evaporation,"['Momentum conservation', 'Kinetic energy conservation']",False,gpt-4-turbo,physics
+superconductivity,"['Gravitational force', 'Light propagation']",False,gpt-4-turbo,physics
+thermoelectric cooling,"['Solar activity', 'Geomagnetic effects']",False,gpt-4-turbo,physics
+gravitational lensing,"['High-energy astrophysical phenomena', 'Stellar evolution']",False,gpt-4-turbo,physics
+solar wind interaction with Earth's magnetosphere,"['Heat transfer', 'Electrical effects']",False,gpt-4-turbo,physics
+black hole evaporation,"['Solar activity', 'Geomagnetic effects']",False,gpt-4-turbo,physics
+thermoelectric cooling,"['Black hole properties', 'Quantum effects']",False,gpt-4-turbo,physics
+black hole evaporation,"['Nuclear reactions', 'Stellar energy output']",False,gpt-4-turbo,physics
+mental health support group,"['Healthcare intervention', 'Psychological condition management']",True,gpt-4-turbo,health
+prenatal yoga classes,"['Exercise type', 'Target demographic']",True,gpt-4-turbo,health
+smoking cessation counseling,"['Healthcare intervention', 'Risk factor modification']",True,gpt-4-turbo,health
+allergy immunotherapy,"['Treatment method', 'Health condition addressed']",True,gpt-4-turbo,health
+diabetic diet plan,"['Disease management', 'Nutritional strategy']",True,gpt-4-turbo,health
+osteoporosis bone density screening,"['Diagnostic procedure', 'Health condition monitored']",True,gpt-4-turbo,health
+cardiovascular fitness training,"['Exercise type', 'Health outcome improvement']",True,gpt-4-turbo,health
+stress management workshop,"['Healthcare intervention', 'Psychological condition management']",True,gpt-4-turbo,health
+pediatric vaccination program,"['Preventive healthcare', 'Target demographic']",True,gpt-4-turbo,health
+breast cancer screening mammography,"['Diagnostic procedure', 'Health condition monitored']",True,gpt-4-turbo,health
+mental health support group,"['Exercise type', 'Health outcome improvement']",False,gpt-4-turbo,health
+prenatal yoga classes,"['Exercise type', 'Health outcome improvement']",False,gpt-4-turbo,health
+smoking cessation counseling,"['Exercise type', 'Target demographic']",False,gpt-4-turbo,health
+allergy immunotherapy,"['Diagnostic procedure', 'Health condition monitored']",False,gpt-4-turbo,health
+diabetic diet plan,"['Diagnostic procedure', 'Health condition monitored']",False,gpt-4-turbo,health
+prenatal yoga classes,"['Preventive healthcare', 'Target demographic']",False,gpt-4-turbo,health
+smoking cessation counseling,"['Diagnostic procedure', 'Health condition monitored']",False,gpt-4-turbo,health
+osteoporosis bone density screening,"['Healthcare intervention', 'Psychological condition management']",False,gpt-4-turbo,health
+smoking cessation counseling,"['Treatment method', 'Health condition addressed']",False,gpt-4-turbo,health
+allergy immunotherapy,"['Healthcare intervention', 'Psychological condition management']",False,gpt-4-turbo,health
+Argon plasma etching,"['Etching technique', 'Plasma gas type']",True,gpt-4-turbo,semiconductor manufacturing
+Copper dual damascene process,"['Interconnect fabrication method', 'Conductive material used']",True,gpt-4-turbo,semiconductor manufacturing
+High-k dielectric layer formation,"['Dielectric property', 'Layer processing step']",True,gpt-4-turbo,semiconductor manufacturing
+Ultraviolet photolithography exposure,"['Lithography technique', 'Light source type']",True,gpt-4-turbo,semiconductor manufacturing
+Silicon wafer backgrinding,"['Wafer processing step', 'Material type']",True,gpt-4-turbo,semiconductor manufacturing
+Low-pressure chemical vapor deposition,"['Deposition method', 'Ambient pressure condition']",True,gpt-4-turbo,semiconductor manufacturing
+High-temperature annealing,"['Thermal processing technique', 'Process temperature range']",True,gpt-4-turbo,semiconductor manufacturing
+Deep ultraviolet stepper,"['Lithography equipment', 'Light wavelength']",True,gpt-4-turbo,semiconductor manufacturing
+Rapid thermal oxidation,"['Oxidation method', 'Process speed']",True,gpt-4-turbo,semiconductor manufacturing
+Silicon nitride deposition,"['Deposition material', 'Deposition technique']",True,gpt-4-turbo,semiconductor manufacturing
+Argon plasma etching,"['Lithography technique', 'Light source type']",False,gpt-4-turbo,semiconductor manufacturing
+Copper dual damascene process,"['Oxidation method', 'Process speed']",False,gpt-4-turbo,semiconductor manufacturing
+High-k dielectric layer formation,"['Lithography equipment', 'Light wavelength']",False,gpt-4-turbo,semiconductor manufacturing
+High-k dielectric layer formation,"['Interconnect fabrication method', 'Conductive material used']",False,gpt-4-turbo,semiconductor manufacturing
+Ultraviolet photolithography exposure,"['Lithography equipment', 'Light wavelength']",False,gpt-4-turbo,semiconductor manufacturing
+High-k dielectric layer formation,"['Thermal processing technique', 'Process temperature range']",False,gpt-4-turbo,semiconductor manufacturing
+Copper dual damascene process,"['Dielectric property', 'Layer processing step']",False,gpt-4-turbo,semiconductor manufacturing
+Silicon wafer backgrinding,"['Deposition method', 'Ambient pressure condition']",False,gpt-4-turbo,semiconductor manufacturing
+Silicon wafer backgrinding,"['Oxidation method', 'Process speed']",False,gpt-4-turbo,semiconductor manufacturing
+High-k dielectric layer formation,"['Wafer processing step', 'Material type']",False,gpt-4-turbo,semiconductor manufacturing
+Cloud-based data storage,"['Data Storage Type', 'Data Accessibility']",True,gpt-4-turbo,computer science
+Distributed ledger technology,"['Data Management Technology', 'System Architecture']",True,gpt-4-turbo,computer science
+Multi-threaded processing,"['Concurrency Model', 'Processing Type']",True,gpt-4-turbo,computer science
+Automated system backups,"['Backup Type', 'Automation Level']",True,gpt-4-turbo,computer science
+Machine learning-based fraud detection,"['Application of Machine Learning', 'Type of Machine Learning']",True,gpt-4-turbo,computer science
+End-to-end encryption,"['Security Feature', 'Encryption Scope']",True,gpt-4-turbo,computer science
+Real-time user analytics,"['Data Analysis Timing', 'Data Application']",True,gpt-4-turbo,computer science
+Biometric authentication system,"['Authentication Method', 'System Security']",True,gpt-4-turbo,computer science
+Open-source software development,"['Software Licensing', 'Development Model']",True,gpt-4-turbo,computer science
+Voice-controlled user interface,"['User Interface Type', 'Control Mechanism']",True,gpt-4-turbo,computer science
+Cloud-based data storage,"['Software Licensing', 'Development Model']",False,gpt-4-turbo,computer science
+Distributed ledger technology,"['Application of Machine Learning', 'Type of Machine Learning']",False,gpt-4-turbo,computer science
+Multi-threaded processing,"['Data Management Technology', 'System Architecture']",False,gpt-4-turbo,computer science
+Distributed ledger technology,"['Data Analysis Timing', 'Data Application']",False,gpt-4-turbo,computer science
+Distributed ledger technology,"['Software Licensing', 'Development Model']",False,gpt-4-turbo,computer science
+Machine learning-based fraud detection,"['Concurrency Model', 'Processing Type']",False,gpt-4-turbo,computer science
+Multi-threaded processing,"['Data Analysis Timing', 'Data Application']",False,gpt-4-turbo,computer science
+Automated system backups,"['Data Management Technology', 'System Architecture']",False,gpt-4-turbo,computer science
+End-to-end encryption,"['Authentication Method', 'System Security']",False,gpt-4-turbo,computer science
+Real-time user analytics,"['User Interface Type', 'Control Mechanism']",False,gpt-4-turbo,computer science
+urban gentrification,"['Urban Development', 'Economic Impact', 'Social Stratification']",True,gpt-4-turbo,sociology
+online education,"['Educational Methods', 'Technology Utilization', 'Access to Education']",True,gpt-4-turbo,sociology
+civic participation,"['Political Processes', 'Community Development', 'Social Cohesion']",True,gpt-4-turbo,sociology
+sustainable urban planning,"['Environmental Conservation', 'Urban Infrastructure', 'Quality of Life']",True,gpt-4-turbo,sociology
+intergenerational living,"['Family Dynamics', 'Social Support', 'Housing Economics']",True,gpt-4-turbo,sociology
+global migration,"['Demographic Changes', 'Labor Markets', 'Cultural Exchange']",True,gpt-4-turbo,sociology
+public health campaigns,"['Health Education', 'Community Engagement', 'Government Policy']",True,gpt-4-turbo,sociology
+workplace diversity,"['Corporate Culture', 'Social Equality', 'Economic Performance']",True,gpt-4-turbo,sociology
+economic recession,"['Economic Stability', 'Employment Rates', 'Consumer Behavior']",True,gpt-4-turbo,sociology
+social media activism,"['Political Engagement', 'Social Movements', 'Communication Technology']",True,gpt-4-turbo,sociology
+urban gentrification,"['Family Dynamics', 'Social Support', 'Housing Economics']",False,gpt-4-turbo,sociology
+online education,"['Political Engagement', 'Social Movements', 'Communication Technology']",False,gpt-4-turbo,sociology
+civic participation,"['Family Dynamics', 'Social Support', 'Housing Economics']",False,gpt-4-turbo,sociology
+sustainable urban planning,"['Political Engagement', 'Social Movements', 'Communication Technology']",False,gpt-4-turbo,sociology
+intergenerational living,"['Economic Stability', 'Employment Rates', 'Consumer Behavior']",False,gpt-4-turbo,sociology
+urban gentrification,"['Demographic Changes', 'Labor Markets', 'Cultural Exchange']",False,gpt-4-turbo,sociology
+global migration,"['Environmental Conservation', 'Urban Infrastructure', 'Quality of Life']",False,gpt-4-turbo,sociology
+public health campaigns,"['Demographic Changes', 'Labor Markets', 'Cultural Exchange']",False,gpt-4-turbo,sociology
+workplace diversity,"['Political Engagement', 'Social Movements', 'Communication Technology']",False,gpt-4-turbo,sociology
+global migration,"['Political Engagement', 'Social Movements', 'Communication Technology']",False,gpt-4-turbo,sociology
+emotional support animal,"['Coping Mechanisms', 'Emotional Support']",True,gpt-4-turbo,psychology
+public speaking anxiety,"['Anxiety Type', 'Social Situations']",True,gpt-4-turbo,psychology
+family therapy session,"['Therapy Type', 'Social Support']",True,gpt-4-turbo,psychology
+cognitive behavioral therapy session,"['Therapy Type', 'Treatment Approach']",True,gpt-4-turbo,psychology
+mindfulness meditation practice,"['Coping Mechanisms', 'Mental Health Improvement']",True,gpt-4-turbo,psychology
+romantic relationship conflicts,"['Relationship Type', 'Conflict Resolution']",True,gpt-4-turbo,psychology
+group therapy dynamics,"['Therapy Type', 'Social Dynamics']",True,gpt-4-turbo,psychology
+peer group discussions,"['Social Interaction', 'Communication Style']",True,gpt-4-turbo,psychology
+academic performance anxiety,"['Anxiety Type', 'Educational Context']",True,gpt-4-turbo,psychology
+stress-induced insomnia,"['Psychological Stress', 'Sleep Quality']",True,gpt-4-turbo,psychology
+emotional support animal,"['Anxiety Type', 'Social Situations']",False,gpt-4-turbo,psychology
+public speaking anxiety,"['Social Interaction', 'Communication Style']",False,gpt-4-turbo,psychology
+public speaking anxiety,"['Psychological Stress', 'Sleep Quality']",False,gpt-4-turbo,psychology
+family therapy session,"['Anxiety Type', 'Educational Context']",False,gpt-4-turbo,psychology
+cognitive behavioral therapy session,"['Therapy Type', 'Social Dynamics']",False,gpt-4-turbo,psychology
+mindfulness meditation practice,"['Anxiety Type', 'Social Situations']",False,gpt-4-turbo,psychology
+romantic relationship conflicts,"['Therapy Type', 'Treatment Approach']",False,gpt-4-turbo,psychology
+public speaking anxiety,"['Coping Mechanisms', 'Emotional Support']",False,gpt-4-turbo,psychology
+emotional support animal,"['Therapy Type', 'Social Support']",False,gpt-4-turbo,psychology
+group therapy dynamics,"['Anxiety Type', 'Educational Context']",False,gpt-4-turbo,psychology
+Increase in consumer spending,"['Economic Activity', 'Market Health']",True,gpt-4-turbo,finance
+Surge in commodity prices,"['Market Trend', 'Economic Impact']",True,gpt-4-turbo,finance
+Global economic slowdown,"['Economic Condition', 'Market Sentiment']",True,gpt-4-turbo,finance
+Launch of government-backed investment bonds,"['Government Policy', 'Investment Opportunity']",True,gpt-4-turbo,finance
+Federal Reserve interest rate hike,"['Monetary Policy', 'Economic Indicator']",True,gpt-4-turbo,finance
+Merger between two major banks,"['Corporate Action', 'Market Dynamics']",True,gpt-4-turbo,finance
+Credit rating downgrade for a major corporation,"['Credit Analysis', 'Investment Risk']",True,gpt-4-turbo,finance
+Implementation of new financial regulations,"['Regulatory Environment', 'Market Condition']",True,gpt-4-turbo,finance
+Introduction of a new cryptocurrency,"['Financial Innovation', 'Market Expansion']",True,gpt-4-turbo,finance
+Release of quarterly financial results,"['Corporate Event', 'Market Indicator']",True,gpt-4-turbo,finance
+Surge in commodity prices,"['Economic Activity', 'Market Health']",False,gpt-4-turbo,finance
+Global economic slowdown,"['Government Policy', 'Investment Opportunity']",False,gpt-4-turbo,finance
+Launch of government-backed investment bonds,"['Corporate Action', 'Market Dynamics']",False,gpt-4-turbo,finance
+Federal Reserve interest rate hike,"['Market Trend', 'Economic Impact']",False,gpt-4-turbo,finance
+Merger between two major banks,"['Financial Innovation', 'Market Expansion']",False,gpt-4-turbo,finance
+Federal Reserve interest rate hike,"['Corporate Event', 'Market Indicator']",False,gpt-4-turbo,finance
+Credit rating downgrade for a major corporation,"['Corporate Action', 'Market Dynamics']",False,gpt-4-turbo,finance
+Merger between two major banks,"['Economic Condition', 'Market Sentiment']",False,gpt-4-turbo,finance
+Implementation of new financial regulations,"['Monetary Policy', 'Economic Indicator']",False,gpt-4-turbo,finance
+Launch of government-backed investment bonds,"['Economic Activity', 'Market Health']",False,gpt-4-turbo,finance

@@ -1,0 +1,200 @@
+23
+Failed
+Value                                              Electromagnetic Pulse
+Variable definition    ['Type of Radiation', 'Form of Electromagnetic...
+Interaction Value                                                   True
+model Name                                                    llama3-70b
+domain                                                           physics
+Name: 23, dtype: object
+24
+Failed
+Value                                                Magnetic Field Line
+Variable definition    ['Type of Magnetic Structure', 'Path of Magnet...
+Interaction Value                                                   True
+model Name                                                    llama3-70b
+domain                                                           physics
+Name: 24, dtype: object
+25
+
+
+80
+Failed
+Value                                 High-Performance Computing Cluster
+Variable definition    ['Computing System Type', 'Computing System Ar...
+Interaction Value                                                   True
+model Name                                                    llama3-70b
+domain                                                  computer science
+Name: 80, dtype: object
+81
+Failed
+Value                                   Cloud-Based Software Development
+Variable definition    ['Software Development Environment', 'Software...
+Interaction Value                                                   True
+model Name                                                    llama3-70b
+domain                                                  computer science
+Name: 81, dtype: object
+82
+Failed
+Value                                         Real-Time Data Analytics
+Variable definition    ['Data Analytics Speed', 'Data Analytics Type']
+Interaction Value                                                 True
+model Name                                                  llama3-70b
+domain                                                computer science
+Name: 82, dtype: object
+83
+84
+85
+86
+87
+Failed
+Value                           Artificial Intelligence Decision Support
+Variable definition    ['Decision Support Method', 'Decision Support ...
+Interaction Value                                                   True
+model Name                                                    llama3-70b
+domain                                                  computer science
+Name: 87, dtype: object
+88
+Failed
+Value                                     Cybersecurity Threat Detection
+Variable definition    ['Threat Detection Method', 'Threat Detection ...
+Interaction Value                                                   True
+model Name                                                    llama3-70b
+domain                                                  computer science
+Name: 88, dtype: object
+89
+90
+Failed
+Value                                 High-Performance Computing Cluster
+Variable definition    ['Data Processing Speed', 'Data Processing Type']
+Interaction Value                                                  False
+model Name                                                    llama3-70b
+domain                                                  computer science
+Name: 90, dtype: object
+91
+92
+Failed
+Value                                           Real-Time Data Analytics
+Variable definition    ['Data Processing Speed', 'Data Processing Type']
+Interaction Value                                                  False
+model Name                                                    llama3-70b
+domain                                                  computer science
+Name: 92, dtype: object
+93
+94
+95
+96
+97
+98
+99
+Failed
+Value                                           Cloud-Based Data Storage
+Variable definition    ['Threat Detection Method', 'Threat Detection ...
+Interaction Value                                                  False
+model Name                                                    llama3-70b
+domain                                                  computer science
+Name: 99, dtype: object
+100
+101
+102
+103
+
+171
+Failed
+Value                        Transit-Oriented Development
+Variable definition    ['Urban Governance', 'Technology']
+Interaction Value                                   False
+model Name                         mixtral-8x22b-instruct
+domain                                      urban studies
+Name: 171, dtype: object
+172
+
+241
+Failed
+Value                                  Cybersecurity threat detection
+Variable definition    ['Security domain', 'Threat detection method']
+Interaction Value                                                True
+model Name                                     mixtral-8x22b-instruct
+domain                                               computer science
+Name: 241, dtype: object
+242
+243
+244
+
+259
+Failed
+Value                                     Cybersecurity threat detection
+Variable definition    ['Data management system', 'Data management me...
+Interaction Value                                                  False
+model Name                                        mixtral-8x22b-instruct
+domain                                                  computer science
+Name: 259, dtype: object
+260
+261
+
+
+90
+491
+Failed
+Value                                Flood-resistant urban design
+Variable definition    ['Urban planning', 'Economic development']
+Interaction Value                                           False
+model Name                                            gpt-4-turbo
+domain                                              urban studies
+Name: 491, dtype: object
+492
+493
+494
+
+
+504
+Failed
+Value                                          gamma-ray burst emissions
+Variable definition    ['High-energy astrophysical phenomena', 'Stell...
+Interaction Value                                                   True
+model Name                                                   gpt-4-turbo
+domain                                                           physics
+Name: 504, dtype: object
+505
+506
+507
+
+31
+532
+Failed
+Value                                              prenatal yoga classes
+Variable definition    ['Healthcare intervention', 'Psychological con...
+Interaction Value                                                  False
+model Name                                                   gpt-4-turbo
+domain                                                            health
+Name: 532, dtype: object
+533
+534
+535
+536
+
+
+559
+560
+Failed
+Value                             Machine learning-based fraud detection
+Variable definition    ['Application of Machine Learning', 'Type of M...
+Interaction Value                                                   True
+model Name                                                   gpt-4-turbo
+domain                                                  computer science
+Name: 560, dtype: object
+561
+562
+563
+564
+565
+
+621
+622
+Failed
+Value                                    Global economic slowdown
+Variable definition    ['Economic Condition', 'Market Sentiment']
+Interaction Value                                            True
+model Name                                            gpt-4-turbo
+domain                                                    finance
+Name: 622, dtype: object
+623

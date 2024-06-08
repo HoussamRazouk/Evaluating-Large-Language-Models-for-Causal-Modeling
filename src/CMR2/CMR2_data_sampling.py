@@ -14,8 +14,7 @@ config=conf_init()
 domains=config['domains']
 
 models=config['models']
-models=["llama3-70b",
-            "mixtral-8x22b-instruct"]
+
 
 
 number_of_positive_samples=config['number_of_positive_samples']
@@ -30,6 +29,8 @@ for model in models:
     for domain in domains:
         positive_examples=[]
         negative_examples=[]
+        print(model)
+        print(domain)
 
         df=pd.read_pickle(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.pkl')
         while True:
