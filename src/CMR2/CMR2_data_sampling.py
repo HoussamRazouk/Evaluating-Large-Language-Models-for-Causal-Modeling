@@ -8,6 +8,8 @@ from src.CMR2.config import conf_init
 This code construct the positive and negative examples for CMR2 
 
 '''
+random.seed(10)
+
 
 config=conf_init()
 
