@@ -13,7 +13,7 @@ tqdm.pandas()
 
 config=conf_init()
 models=config['models']
-models=["mixtral-8x22b-instruct"]
+#models=["mixtral-8x22b-instruct"]
 
 ## read the data
 
