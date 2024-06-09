@@ -1,6 +1,0 @@
-Value                                         Real-Time Data Analytics
-Variable definition    ['Data Analytics Speed', 'Data Analytics Type']
-Interaction Value                                                 True
-model Name                                                  llama3-70b
-domain                                                computer science
-Name: 82, dtype: object

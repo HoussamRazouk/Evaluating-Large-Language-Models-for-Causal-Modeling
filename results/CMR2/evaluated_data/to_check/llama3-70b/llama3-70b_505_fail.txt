@@ -1,6 +1,0 @@
-Value                                          gamma-ray burst emissions
-Variable definition    ['High-energy astrophysical phenomena', 'Stell...
-Interaction Value                                                   True
-model Name                                                   gpt-4-turbo
-domain                                                           physics
-Name: 505, dtype: object

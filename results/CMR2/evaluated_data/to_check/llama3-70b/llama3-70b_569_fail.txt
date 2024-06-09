@@ -1,6 +1,0 @@
-Value                             Machine learning-based fraud detection
-Variable definition    ['Application of Machine Learning', 'Type of M...
-Interaction Value                                                   True
-model Name                                                   gpt-4-turbo
-domain                                                  computer science
-Name: 569, dtype: object

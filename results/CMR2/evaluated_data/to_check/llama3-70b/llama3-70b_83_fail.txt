@@ -1,6 +1,0 @@
-Value                           Artificial Intelligence Decision Support
-Variable definition    ['Decision Support Method', 'Decision Support ...
-Interaction Value                                                   True
-model Name                                                    llama3-70b
-domain                                                  computer science
-Name: 83, dtype: object

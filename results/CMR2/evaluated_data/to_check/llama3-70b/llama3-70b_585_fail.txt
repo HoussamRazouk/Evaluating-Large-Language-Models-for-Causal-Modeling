@@ -1,6 +1,0 @@
-Value                                         sustainable urban planning
-Variable definition    ['Environmental Conservation', 'Urban Infrastr...
-Interaction Value                                                   True
-model Name                                                   gpt-4-turbo
-domain                                                         sociology
-Name: 585, dtype: object

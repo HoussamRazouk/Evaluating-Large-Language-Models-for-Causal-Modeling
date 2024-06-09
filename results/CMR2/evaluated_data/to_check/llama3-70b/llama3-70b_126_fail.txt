@@ -1,6 +1,0 @@
-Value                                               Mindfulness Practice
-Variable definition    ['Attention Control', 'Emotional Regulation', ...
-Interaction Value                                                   True
-model Name                                                    llama3-70b
-domain                                                        psychology
-Name: 126, dtype: object

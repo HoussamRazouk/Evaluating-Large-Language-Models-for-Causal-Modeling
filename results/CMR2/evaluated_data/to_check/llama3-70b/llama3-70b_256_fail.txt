@@ -1,6 +1,0 @@
-Value                                     Cybersecurity threat detection
-Variable definition    ['Data management system', 'Data management me...
-Interaction Value                                                  False
-model Name                                        mixtral-8x22b-instruct
-domain                                                  computer science
-Name: 256, dtype: object

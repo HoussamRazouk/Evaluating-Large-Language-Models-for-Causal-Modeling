@@ -1,6 +1,0 @@
-Value                          Artificial Intelligence Decision Support
-Variable definition    ['Model Training Method', 'Model Training Type']
-Interaction Value                                                 False
-model Name                                                   llama3-70b
-domain                                                 computer science
-Name: 99, dtype: object

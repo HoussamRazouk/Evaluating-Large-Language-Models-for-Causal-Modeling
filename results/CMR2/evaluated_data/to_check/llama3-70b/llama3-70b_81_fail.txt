@@ -1,6 +1,0 @@
-Value                                        Cloud-Based Data Storage
-Variable definition    ['Data Storage Location', 'Data Storage Type']
-Interaction Value                                                True
-model Name                                                 llama3-70b
-domain                                               computer science
-Name: 81, dtype: object

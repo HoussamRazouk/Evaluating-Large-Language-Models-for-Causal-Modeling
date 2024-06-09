@@ -1,6 +1,0 @@
-Value                               romantic relationship conflicts
-Variable definition    ['Relationship Type', 'Conflict Resolution']
-Interaction Value                                              True
-model Name                                              gpt-4-turbo
-domain                                                   psychology
-Name: 601, dtype: object

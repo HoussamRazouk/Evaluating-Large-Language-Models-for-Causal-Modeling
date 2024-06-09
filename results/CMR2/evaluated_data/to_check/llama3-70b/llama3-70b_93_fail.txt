@@ -1,6 +1,0 @@
-Value                                          Real-Time Data Processing
-Variable definition    ['Threat Detection Method', 'Threat Detection ...
-Interaction Value                                                  False
-model Name                                                    llama3-70b
-domain                                                  computer science
-Name: 93, dtype: object

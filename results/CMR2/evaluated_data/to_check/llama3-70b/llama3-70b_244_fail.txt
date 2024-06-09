@@ -1,6 +1,0 @@
-Value                                  Cybersecurity threat detection
-Variable definition    ['Security domain', 'Threat detection method']
-Interaction Value                                                True
-model Name                                     mixtral-8x22b-instruct
-domain                                               computer science
-Name: 244, dtype: object

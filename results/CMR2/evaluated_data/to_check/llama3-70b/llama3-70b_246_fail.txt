@@ -1,6 +1,0 @@
-Value                   Machine learning model deployment
-Variable definition    ['Model deployment', 'Model type']
-Interaction Value                                    True
-model Name                         mixtral-8x22b-instruct
-domain                                   computer science
-Name: 246, dtype: object

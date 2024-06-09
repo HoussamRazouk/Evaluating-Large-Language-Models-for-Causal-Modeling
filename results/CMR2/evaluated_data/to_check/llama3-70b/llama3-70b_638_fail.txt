@@ -1,6 +1,0 @@
-Value                              Merger between two major banks
-Variable definition    ['Economic Condition', 'Market Sentiment']
-Interaction Value                                           False
-model Name                                            gpt-4-turbo
-domain                                                    finance
-Name: 638, dtype: object

@@ -1,2 +1,2 @@
 Text,Variables,Generated Interaction value,Predicted Interaction value,Data Generation Model,Prediction Model,Domain,Explanation
-Electromagnetic Pulse,"['Type of Radiation', 'Form of Electromagnetic Radiation']",True,True,llama3-70b,llama3-70b,physics,"The text 'Electromagnetic Pulse' describes a type of radiation (Electromagnetic) and a form of electromagnetic radiation (Pulse), therefore it belongs to both causal variables."
+Global economic slowdown,"['Economic Condition', 'Market Sentiment']",True,False,gpt-4-turbo,llama3-70b,finance,"The text 'Global economic slowdown' only describes the 'Economic Condition' variable, but not the 'Market Sentiment' variable. Therefore, it does not belong to all causal variables and is not an interaction value."

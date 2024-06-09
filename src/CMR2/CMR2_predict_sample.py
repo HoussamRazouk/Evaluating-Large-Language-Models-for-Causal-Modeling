@@ -50,10 +50,17 @@ def CMR2_predict_sample(row,client,model):
       response['Domain']=domain
     except:
       with open('to_check.txt','w') as f:
-         
-        f.write(str(response)) 
-      response=response.split('```')[1]
+        f.write(str(response))
+        f.write('Prediction Model: '+str(model))
+        f.write('Generated Interaction value: '+str(row['Interaction Value']))
+        f.write('Data Generation Model: '+str(row['model Name']))
+        f.write('Domain: '+str(domain))
+
+      if '```' in response:
+        response=response.split('```')[1]
+      
       response=json.loads(response)
+
       response['Prediction Model']=model
       response['Generated Interaction value']=row['Interaction Value']
       response['Data Generation Model']=row['model Name']

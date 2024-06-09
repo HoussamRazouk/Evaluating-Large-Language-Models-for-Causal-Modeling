@@ -1,6 +1,0 @@
-Value                                             Neurofeedback Training
-Variable definition    ['Brain Function', 'Self-Regulation', 'Cogniti...
-Interaction Value                                                   True
-model Name                                                    llama3-70b
-domain                                                        psychology
-Name: 120, dtype: object

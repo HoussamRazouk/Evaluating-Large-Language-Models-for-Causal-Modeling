@@ -1,13 +1,7 @@
-Here is the assessment of the text:
-
-```
 {
-  "Text": "Electromagnetic Pulse",
-  "Predicted Interaction value": true,
-  "Variables": ["Type of Radiation", "Form of Electromagnetic Radiation"],
-  "Variables values": ["Electromagnetic", "Pulse"],
-  "Explanation": "The text 'Electromagnetic Pulse' describes a type of radiation (Electromagnetic) and a form of electromagnetic radiation (Pulse), therefore it belongs to both causal variables."
+"Text": "gamma-ray burst emissions",
+"Predicted Interaction value": false,
+"Variables": ["High-energy astrophysical phenomena", "Stellar evolution"],
+"Variables values": ["High-energy astrophysical phenomena: gamma-ray burst emissions", "Stellar evolution: ""],
+"Explanation": "The text 'gamma-ray burst emissions' is related to 'High-energy astrophysical phenomena' as gamma-ray bursts are a type of high-energy astrophysical event. However, it does not describe any specific value of 'Stellar evolution'."
 }
-```
-
-Let me know if you have any further questions or if you'd like me to assess another text!

@@ -1,6 +1,0 @@
-Value                                   Cloud-Based Software Development
-Variable definition    ['Software Development Environment', 'Software...
-Interaction Value                                                   True
-model Name                                                    llama3-70b
-domain                                                  computer science
-Name: 87, dtype: object
