@@ -1,0 +1,2 @@
+Text,Variables,Generated Interaction value,Predicted Interaction value,Data Generation Model,Prediction Model,Domain,Explanation
+Electromagnetic Pulse,"['Type of Radiation', 'Form of Electromagnetic Radiation']",True,True,llama3-70b,llama3-70b,physics,"The text 'Electromagnetic Pulse' describes a type of radiation (Electromagnetic) and a form of electromagnetic radiation (Pulse), therefore it belongs to both causal variables."

@@ -1,0 +1,6 @@
+Value                                    Global economic slowdown
+Variable definition    ['Economic Condition', 'Market Sentiment']
+Interaction Value                                            True
+model Name                                            gpt-4-turbo
+domain                                                    finance
+Name: 623, dtype: object

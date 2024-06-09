@@ -1,0 +1,6 @@
+Value                                 High-Performance Computing Cluster
+Variable definition    ['Computing System Type', 'Computing System Ar...
+Interaction Value                                                   True
+model Name                                                    llama3-70b
+domain                                                  computer science
+Name: 85, dtype: object

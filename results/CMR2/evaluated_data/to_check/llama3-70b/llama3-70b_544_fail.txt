@@ -1,0 +1,6 @@
+Value                                  Silicon wafer backgrinding
+Variable definition    ['Wafer processing step', 'Material type']
+Interaction Value                                            True
+model Name                                            gpt-4-turbo
+domain                                semiconductor manufacturing
+Name: 544, dtype: object

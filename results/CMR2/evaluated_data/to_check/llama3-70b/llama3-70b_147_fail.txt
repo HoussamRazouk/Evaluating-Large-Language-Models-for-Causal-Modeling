@@ -1,0 +1,6 @@
+Value                                           Global Economic Downturn
+Variable definition    ['Economic Indicators', 'Financial Performance...
+Interaction Value                                                   True
+model Name                                                    llama3-70b
+domain                                                           finance
+Name: 147, dtype: object

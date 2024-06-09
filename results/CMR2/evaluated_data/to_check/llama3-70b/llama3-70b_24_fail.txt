@@ -1,0 +1,6 @@
+Value                                                Magnetic Field Line
+Variable definition    ['Type of Magnetic Structure', 'Path of Magnet...
+Interaction Value                                                   True
+model Name                                                    llama3-70b
+domain                                                           physics
+Name: 24, dtype: object

@@ -1,0 +1,6 @@
+Value                                Silicon nitride deposition
+Variable definition    ['Etching technique', 'Plasma gas type']
+Interaction Value                                         False
+model Name                                          gpt-4-turbo
+domain                              semiconductor manufacturing
+Name: 550, dtype: object

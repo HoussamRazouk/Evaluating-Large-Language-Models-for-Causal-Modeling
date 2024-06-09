@@ -1,0 +1,6 @@
+Value                                              Electromagnetic Pulse
+Variable definition    ['Type of Radiation', 'Form of Electromagnetic...
+Interaction Value                                                   True
+model Name                                                    llama3-70b
+domain                                                           physics
+Name: 23, dtype: object

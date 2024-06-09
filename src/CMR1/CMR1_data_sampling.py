@@ -8,7 +8,7 @@ from src.CMR1.config import conf_init
 This code construct the positive and negative examples for CMR1 
 
 '''
-
+random.seed(10)
 config=conf_init()
 
 domains=config['domains']

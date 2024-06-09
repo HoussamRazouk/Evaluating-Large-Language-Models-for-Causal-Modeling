@@ -1,0 +1,13 @@
+Here is the assessment of the text:
+
+```
+{
+  "Text": "Electromagnetic Pulse",
+  "Predicted Interaction value": true,
+  "Variables": ["Type of Radiation", "Form of Electromagnetic Radiation"],
+  "Variables values": ["Electromagnetic", "Pulse"],
+  "Explanation": "The text 'Electromagnetic Pulse' describes a type of radiation (Electromagnetic) and a form of electromagnetic radiation (Pulse), therefore it belongs to both causal variables."
+}
+```
+
+Let me know if you have any further questions or if you'd like me to assess another text!

@@ -1,0 +1,6 @@
+Value                                   Open-source software development
+Variable definition    ['Application of Machine Learning', 'Type of M...
+Interaction Value                                                  False
+model Name                                                   gpt-4-turbo
+domain                                                  computer science
+Name: 577, dtype: object

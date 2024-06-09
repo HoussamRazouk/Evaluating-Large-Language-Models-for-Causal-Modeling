@@ -1,0 +1,6 @@
+Value                            Natural Language Processing Algorithm
+Variable definition    ['Data Analytics Speed', 'Data Analytics Type']
+Interaction Value                                                False
+model Name                                                  llama3-70b
+domain                                                computer science
+Name: 90, dtype: object

@@ -1,0 +1,6 @@
+Value                                              prenatal yoga classes
+Variable definition    ['Healthcare intervention', 'Psychological con...
+Interaction Value                                                  False
+model Name                                                   gpt-4-turbo
+domain                                                            health
+Name: 536, dtype: object

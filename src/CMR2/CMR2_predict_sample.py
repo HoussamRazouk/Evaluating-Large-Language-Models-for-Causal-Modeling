@@ -42,16 +42,29 @@ def CMR2_predict_sample(row,client,model):
                 max_tokens=4096
               )
     response=completion.choices[0].message.content
-    response=json.loads(response)
-    response['Prediction Model']=model
-    response['Generated Interaction value']=row['Interaction Value']
-    response['Data Generation Model']=row['model Name']
-    response['Domain']=domain
+    try:
+      response=json.loads(response)
+      response['Prediction Model']=model
+      response['Generated Interaction value']=row['Interaction Value']
+      response['Data Generation Model']=row['model Name']
+      response['Domain']=domain
+    except:
+      with open('to_check.txt','w') as f:
+         
+        f.write(str(response)) 
+      response=response.split('```')[1]
+      response=json.loads(response)
+      response['Prediction Model']=model
+      response['Generated Interaction value']=row['Interaction Value']
+      response['Data Generation Model']=row['model Name']
+      response['Domain']=domain
+
+
     return response
 
 ### test the function 
 
-if True:
+if False:
   import sys
   import pandas as pd
   sys.path.append('.')

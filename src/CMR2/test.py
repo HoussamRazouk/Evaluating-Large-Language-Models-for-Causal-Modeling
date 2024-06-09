@@ -36,9 +36,9 @@ for model in models:
     y_test=df["Generated Interaction value"]
 
     accuracy = accuracy_score(y_test, y_pred)
-    precision = precision_score(y_test, y_pred, average='macro')
-    recall = recall_score(y_test, y_pred, average='macro')
-    f1 = f1_score(y_test, y_pred, average='macro')
+    precision = precision_score(y_test, y_pred)
+    recall = recall_score(y_test, y_pred)
+    f1 = f1_score(y_test, y_pred)
     conf_matrix = confusion_matrix(y_test, y_pred)
 
     print(f"Accuracy: {accuracy:.2f}")
@@ -67,9 +67,9 @@ for model in models:
         y_test=tmp["Generated Interaction value"]
 
         accuracy = accuracy_score(y_test, y_pred)
-        precision = precision_score(y_test, y_pred, average='macro')
-        recall = recall_score(y_test, y_pred, average='macro')
-        f1 = f1_score(y_test, y_pred, average='macro')
+        precision = precision_score(y_test, y_pred )
+        recall = recall_score(y_test, y_pred )
+        f1 = f1_score(y_test, y_pred )
         conf_matrix = confusion_matrix(y_test, y_pred)
 
         print(f"Accuracy: {accuracy:.2f}")

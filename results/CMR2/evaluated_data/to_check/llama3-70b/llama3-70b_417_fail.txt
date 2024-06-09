@@ -1,0 +1,6 @@
+Value                                     Efficient Resource Utilization
+Variable definition    ['Data Encryption Strength', 'Access Control M...
+Interaction Value                                                  False
+model Name                                                 gpt-3.5-turbo
+domain                                                  computer science
+Name: 417, dtype: object

@@ -42,9 +42,9 @@ for model in models:
 
 
     accuracy = accuracy_score(y_test, y_pred)
-    precision = precision_score(y_test, y_pred, average='macro')
-    recall = recall_score(y_test, y_pred, average='macro')
-    f1 = f1_score(y_test, y_pred, average='macro')
+    precision = precision_score(y_test, y_pred,zero_division=0)
+    recall = recall_score(y_test, y_pred,zero_division=0)
+    f1 = f1_score(y_test, y_pred,zero_division=0)
     conf_matrix = confusion_matrix(y_test, y_pred)
     kappa= cohen_kappa_score(y_test, y_pred)
 
@@ -72,11 +72,11 @@ for model in models:
         y_test=tmp["Generated Same Causal Variable"]
 
         accuracy = accuracy_score(y_test, y_pred)
-        precision = precision_score(y_test, y_pred, average='macro')
-        recall = recall_score(y_test, y_pred, average='macro')
-        f1 = f1_score(y_test, y_pred, average='macro')
+        precision = precision_score(y_test, y_pred,zero_division=0)
+        recall = recall_score(y_test, y_pred,zero_division=0)
+        f1 = f1_score(y_test, y_pred,zero_division=0)
         conf_matrix = confusion_matrix(y_test, y_pred)
-        kappa= cohen_kappa_score(y_test, y_pred)
+        kappa= cohen_kappa_score(y_test, y_pred,)
 
         #print(f"Accuracy: {accuracy:.2f}")
         #print(f"Precision: {precision:.2f}")
@@ -103,11 +103,11 @@ for model in models:
         y_test=tmp["Generated Same Causal Variable"]
 
         accuracy = accuracy_score(y_test, y_pred)
-        precision = precision_score(y_test, y_pred, average='macro')
-        recall = recall_score(y_test, y_pred, average='macro')
-        f1 = f1_score(y_test, y_pred, average='macro')
+        precision = precision_score(y_test, y_pred,zero_division=0)
+        recall = recall_score(y_test, y_pred,zero_division=0)
+        f1 = f1_score(y_test, y_pred,zero_division=0)
         conf_matrix = confusion_matrix(y_test, y_pred)
-        kappa= cohen_kappa_score(y_test, y_pred)
+        kappa= cohen_kappa_score(y_test, y_pred,)
 
         #print(f"Accuracy: {accuracy:.2f}")
         #print(f"Precision: {precision:.2f}")
