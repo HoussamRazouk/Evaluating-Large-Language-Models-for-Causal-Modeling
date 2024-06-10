@@ -220,7 +220,7 @@ plt.legend()
 plt.ylim(0, 0.8) 
 # Show the plot
 
-plt.savefig(input_path+"figs/Agreement based cosine similarity and predation models.png", dpi=600)
+plt.savefig(input_path+"figs/CMR1 Agreement based cosine similarity and predation models.png", dpi=600)
 plt.show()
 
 
@@ -246,6 +246,6 @@ plt.ylabel("Cohen's kappa")
 plt.ylim(0, 0.8) 
 # Show legend
 plt.legend()
-plt.savefig(input_path+"figs/Agreement based cosine similarity and generated data by models.png", dpi=600)
+plt.savefig(input_path+"figs/CMR1 Agreement based cosine similarity and generated data by models.png", dpi=600)
 # Show the plot
 plt.show()

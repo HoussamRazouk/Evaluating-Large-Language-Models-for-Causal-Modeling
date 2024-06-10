@@ -68,12 +68,12 @@ Precision: 0.96
 Recall: 0.15
 F1 Score: 0.25
 cohen_kappa Score: 0.14
-Accuracy: 0.52
+Accuracy: 0.53
 Precision: 1.00
 Recall: 0.05
 F1 Score: 0.10
 cohen_kappa Score: 0.05
-Accuracy: 0.52
+Accuracy: 0.53
 Precision: 0.75
 Recall: 0.08
 F1 Score: 0.14

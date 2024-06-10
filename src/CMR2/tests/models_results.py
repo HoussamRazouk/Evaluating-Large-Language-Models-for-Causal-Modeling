@@ -1,14 +1,13 @@
 import sys
 sys.path.append('.')
 import pandas as pd
-from src.CMR1.config import conf_init
+from src.CMR2.config import conf_init
 from sklearn.metrics import (
     accuracy_score,
     precision_score,
     recall_score,
     f1_score,
-    cohen_kappa_score,
-    confusion_matrix
+    cohen_kappa_score
 )
 
 def get_metrics(y_pred,y_test,results_file):
@@ -30,9 +29,9 @@ def get_metrics(y_pred,y_test,results_file):
 config=conf_init()
 models=config['models']
 domains=config['domains']
-input_path=config['CMR1_evaluated_data_dir']
+input_path=config['CMR2_evaluated_data_dir']
 
-results_file_name=config['CMR1_evaluated_data_dir']+"models_eval.txt"
+results_file_name=config['CMR2_evaluated_data_dir']+"models_eval.txt"
 results_file=open(results_file_name,'w')
 
 
@@ -78,9 +77,9 @@ for model in models:
     df=pd.read_csv(input_path+f"{model}_model_prediction.csv")
 
 
-    y_pred=df["Predicted Same Causal Variable"]
+    y_pred=df["Predicted Interaction value"]
 
-    y_test=df["Generated Same Causal Variable"]
+    y_test=df["Generated Interaction value"]
 
     accuracy,precision,recall,f1,kappa=get_metrics(y_pred,y_test,results_file)
     genal_agreement.append(kappa)
@@ -91,9 +90,9 @@ for model in models:
         tmp=df[df['Domain']==domains[i]]
 
 
-        y_pred=tmp["Predicted Same Causal Variable"]
+        y_pred=tmp["Predicted Interaction value"]
 
-        y_test=tmp["Generated Same Causal Variable"]
+        y_test=tmp["Generated Interaction value"]
 
         accuracy,precision,recall,f1,kappa=get_metrics(y_pred,y_test,results_file)
         agreement_on_domains[i].append(kappa)
@@ -104,9 +103,9 @@ for model in models:
         tmp=df[df['Data Generation Model']==models[j]]
 
 
-        y_pred=tmp["Predicted Same Causal Variable"]
+        y_pred=tmp["Predicted Interaction value"]
 
-        y_test=tmp["Generated Same Causal Variable"]
+        y_test=tmp["Generated Interaction value"]
 
         accuracy,precision,recall,f1,kappa=get_metrics(y_pred,y_test,results_file)
 
@@ -129,10 +128,10 @@ plt.plot(models, agreement_with_data_generation_model[3], label=f'Agreement with
 plt.xlabel('Prediction model name')
 plt.ylabel("Cohen's kappa")
 
-plt.ylim(0, 0.7) 
+plt.ylim(0, 0.9) 
 # Show legend
 plt.legend()
-plt.savefig(input_path+"figs/CMR1 Agreement between data generate model and prediction model.png", dpi=600)
+plt.savefig(input_path+"figs/CMR2 Agreement between data generate model and prediction model.png", dpi=600)
 # Show the plot
 # Show the plot
 plt.show()
@@ -158,10 +157,10 @@ plt.plot(models, agreement_on_domains[7], label=f'Agreement with generated data 
 # Add labels and title
 plt.xlabel('Prediction model name')
 plt.ylabel("Cohen's kappa")
-plt.ylim(0, 0.7) 
+plt.ylim(0, 0.9) 
 
 # Show legend
 plt.legend()
-plt.savefig(input_path+"figs/CMR1 Agreement based on the domain.png", dpi=600)
+plt.savefig(input_path+"figs/CMR2 Agreement based on the domain.png", dpi=600)
 # Show the plot
 plt.show()
