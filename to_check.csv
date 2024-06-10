@@ -1,2 +1,0 @@
-Text,Variables,Generated Interaction value,Predicted Interaction value,Data Generation Model,Prediction Model,Domain,Explanation
-Global economic slowdown,"['Economic Condition', 'Market Sentiment']",True,False,gpt-4-turbo,llama3-70b,finance,"The text 'Global economic slowdown' only describes the 'Economic Condition' variable, but not the 'Market Sentiment' variable. Therefore, it does not belong to all causal variables and is not an interaction value."
