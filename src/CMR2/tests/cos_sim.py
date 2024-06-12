@@ -165,7 +165,7 @@ plt.ylabel("Cohen's kappa")
 
 # Show legend
 plt.legend()
-plt.ylim(0, 0.8) 
+plt.ylim(0, 0.9) 
 # Show the plot
 
 plt.savefig(input_path+"figs/CMR2 Agreement based cosine similarity and predation models.png", dpi=600)
@@ -191,7 +191,7 @@ plt.plot(thresholds, general_results_compared_to_generated_data3, label=f'Agreem
 plt.xlabel('Cosine similarity threshold')
 plt.ylabel("Cohen's kappa")
 
-plt.ylim(0, 0.8) 
+plt.ylim(0, 0.9) 
 # Show legend
 plt.legend()
 plt.savefig(input_path+"figs/CMR2 Agreement based cosine similarity and generated data by models.png", dpi=600)
