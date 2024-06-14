@@ -1,6 +1,0 @@
-Value                  Real estate investment trusts (REITs)
-Variable definition       ['Investment type', 'Asset class']
-Interaction Value                                       True
-model Name                            mixtral-8x22b-instruct
-domain                                               finance
-Name: 307, dtype: object

@@ -1,6 +1,0 @@
-Value                  Bear Market Rally and Bull Market Correction
-Variable definition      ['Corporate Finance', 'Corporate Finance']
-Interaction Value                                             False
-model Name                                      mistral-7b-instruct
-domain                                                      finance
-Name: 1111, dtype: object

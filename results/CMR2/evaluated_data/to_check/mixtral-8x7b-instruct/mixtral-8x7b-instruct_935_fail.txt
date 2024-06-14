@@ -1,6 +1,0 @@
-Value                                                  Imposter syndrome
-Variable definition    ['Striving for excellence', 'Reaction to mista...
-Interaction Value                                                  False
-model Name                                         mixtral-8x7b-instruct
-domain                                                        psychology
-Name: 935, dtype: object

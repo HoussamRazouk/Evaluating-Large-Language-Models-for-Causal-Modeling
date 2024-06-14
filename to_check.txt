@@ -1,11 +1,11 @@
 {
-  "Text": "Time of Check to Time of Use vulnerability in operating system",
-  "Predicted Interaction value": true,
-  "Variables": ["Real-time Systems", "Concurrency"],
-  "Variables values": ["Real-time Systems": "Present", "Concurrency": "Present"],
-  "Explanation": "The text describes a vulnerability in operating systems that is related to both real-time systems and concurrency. Real-time systems are present because the Time of Check to Time of Use (TOCTTOU) vulnerability is a concern in systems that require real-time responses. Concurrency is also present because the TOCTTOU vulnerability arises from the race condition between the time of check and the time of use, which is a concurrency issue."
+  "Text": "Poor sleep quality and immune system function",
+  "Predicted Interaction value": false,
+  "Variables": ["Quality of sleep", "Immune system function"],
+  "Variables values": "Quality of sleep: Poor, Immune system function: """,
+  "Explanation": "The text mentions two separate causal variables: 'Quality of sleep' and 'Immune system function'. It does not indicate an interaction between the two variables."
 }
-Prediction Model: mixtral-8x22b-instruct
-Generated Interaction value: False
+Prediction Model: mistral-7b-instruct
+Generated Interaction value: True
 Data Generation Model: mistral-7b-instruct
-Domain: computer science
+Domain: health

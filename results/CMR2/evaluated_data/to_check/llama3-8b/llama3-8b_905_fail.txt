@@ -1,6 +1,0 @@
-Value                                Youth unemployment
-Variable definition    ['Economic status', 'Age group']
-Interaction Value                                  True
-model Name                        mixtral-8x7b-instruct
-domain                                        sociology
-Name: 905, dtype: object

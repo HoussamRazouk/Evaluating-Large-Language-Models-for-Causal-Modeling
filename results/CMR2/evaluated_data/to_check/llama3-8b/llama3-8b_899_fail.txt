@@ -1,6 +1,0 @@
-Value                             Food desert
-Variable definition    ['Location', 'Access']
-Interaction Value                        True
-model Name              mixtral-8x7b-instruct
-domain                              sociology
-Name: 899, dtype: object

@@ -1,6 +1,0 @@
-Value                           Merger between two major banks
-Variable definition    ['Corporate Action', 'Market Dynamics']
-Interaction Value                                         True
-model Name                                         gpt-4-turbo
-domain                                                 finance
-Name: 626, dtype: object

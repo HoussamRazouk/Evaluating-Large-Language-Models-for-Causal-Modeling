@@ -1,6 +1,0 @@
-Value                     Self-Efficacy and Stress
-Variable definition    ['Self-Efficacy', 'Stress']
-Interaction Value                             True
-model Name                     mistral-7b-instruct
-domain                                  psychology
-Name: 1081, dtype: object

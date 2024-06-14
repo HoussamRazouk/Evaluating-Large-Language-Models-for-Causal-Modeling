@@ -1,6 +1,0 @@
-Value                                             Social Media Addiction
-Variable definition    ['Addictive Behavior', 'Mental Health', 'Copin...
-Interaction Value                                                   True
-model Name                                                    llama3-70b
-domain                                                        psychology
-Name: 121, dtype: object

@@ -1,6 +1,0 @@
-Value                                   Humidity exposure during storage
-Variable definition    ['Storage conditions for semiconductor devices...
-Interaction Value                                                   True
-model Name                                           mistral-7b-instruct
-domain                                       semiconductor manufacturing
-Name: 1025, dtype: object

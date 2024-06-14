@@ -1,6 +1,0 @@
-Value                                      Blue-chip stocks
-Variable definition    ['Stock type', 'Company reputation']
-Interaction Value                                      True
-model Name                           mixtral-8x22b-instruct
-domain                                              finance
-Name: 304, dtype: object

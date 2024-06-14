@@ -1,6 +1,0 @@
-Value                          Perceived Control
-Variable definition    ['Anxiety', 'Resilience']
-Interaction Value                          False
-model Name                         gpt-3.5-turbo
-domain                                psychology
-Name: 450, dtype: object

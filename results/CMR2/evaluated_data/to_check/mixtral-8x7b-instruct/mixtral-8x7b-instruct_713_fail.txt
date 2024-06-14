@@ -1,6 +1,0 @@
-Value                                  Clean Room Environment
-Variable definition    ['Etching Gas', 'Etching Temperature']
-Interaction Value                                       False
-model Name                                          llama3-8b
-domain                            semiconductor manufacturing
-Name: 713, dtype: object

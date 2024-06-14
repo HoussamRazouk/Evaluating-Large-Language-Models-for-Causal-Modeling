@@ -61,14 +61,14 @@ def CMR2_predict_sample(row,client,model):
         json_response['Domain']=domain
         return json_response
       except:
-        with open('to_check.txt','w') as f:
-          f.write(str(response)+'\n')
-          f.write('Prediction Model: '+str(model)+'\n')
-          f.write('Generated Interaction value: '+str(row['Interaction Value'])+'\n')
-          f.write('Data Generation Model: '+str(row['model Name'])+'\n')
-          f.write('Domain: '+str(domain)+'\n')
+          with open('to_check.txt','w') as f:
+            f.write(str(response)+'\n')
+            f.write('Prediction Model: '+str(model)+'\n')
+            f.write('Generated Interaction value: '+str(row['Interaction Value'])+'\n')
+            f.write('Data Generation Model: '+str(row['model Name'])+'\n')
+            f.write('Domain: '+str(domain)+'\n')
 
-          return response
+            return response
 
 ### test the function 
 

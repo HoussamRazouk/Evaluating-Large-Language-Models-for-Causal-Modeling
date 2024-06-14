@@ -1,6 +1,0 @@
-Value                  Attachment Styles and Emotional Regulation
-Variable definition           ['Achievement Goals', 'Motivation']
-Interaction Value                                           False
-model Name                                    mistral-7b-instruct
-domain                                                 psychology
-Name: 1097, dtype: object

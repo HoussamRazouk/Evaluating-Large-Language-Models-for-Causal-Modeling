@@ -1,6 +1,0 @@
-Value                          Federal Reserve interest rate hike
-Variable definition    ['Economic Condition', 'Market Sentiment']
-Interaction Value                                           False
-model Name                                            gpt-4-turbo
-domain                                                    finance
-Name: 634, dtype: object

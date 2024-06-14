@@ -1,6 +1,0 @@
-Value                               Proliferation of coworking spaces
-Variable definition    ['Economic diversity', 'Innovation ecosystem']
-Interaction Value                                                True
-model Name                                      mixtral-8x7b-instruct
-domain                                                  urban studies
-Name: 809, dtype: object

@@ -1,6 +1,0 @@
-Value                           Growth-oriented mutual funds
-Variable definition    ['Investment type', 'Market segment']
-Interaction Value                                      False
-model Name                            mixtral-8x22b-instruct
-domain                                               finance
-Name: 311, dtype: object

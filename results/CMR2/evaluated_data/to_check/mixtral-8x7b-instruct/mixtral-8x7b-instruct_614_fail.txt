@@ -1,6 +1,0 @@
-Value                               academic performance anxiety
-Variable definition    ['Psychological Stress', 'Sleep Quality']
-Interaction Value                                          False
-model Name                                           gpt-4-turbo
-domain                                                psychology
-Name: 614, dtype: object

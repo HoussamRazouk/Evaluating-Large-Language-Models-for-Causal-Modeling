@@ -1,6 +1,0 @@
-Value                                    Inner-city segregation
-Variable definition    ['Inner-city area', 'Segregation level']
-Interaction Value                                          True
-model Name                               mixtral-8x22b-instruct
-domain                                                sociology
-Name: 268, dtype: object

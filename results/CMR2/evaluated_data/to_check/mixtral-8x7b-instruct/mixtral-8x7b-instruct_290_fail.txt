@@ -1,6 +1,0 @@
-Value                                      Growth mindset and resilience
-Variable definition    ['Mindfulness level', 'Emotional regulation ab...
-Interaction Value                                                  False
-model Name                                        mixtral-8x22b-instruct
-domain                                                        psychology
-Name: 290, dtype: object

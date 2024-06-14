@@ -1,6 +1,0 @@
-Value                                            Annealing Process
-Variable definition    ['Annealing Temperature', 'Annealing Time']
-Interaction Value                                             True
-model Name                                               llama3-8b
-domain                                 semiconductor manufacturing
-Name: 700, dtype: object

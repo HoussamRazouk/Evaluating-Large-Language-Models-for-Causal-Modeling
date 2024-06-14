@@ -1,6 +1,0 @@
-Value                                  Female literacy rate
-Variable definition    ['Gender', 'Educational attainment']
-Interaction Value                                      True
-model Name                            mixtral-8x7b-instruct
-domain                                            sociology
-Name: 907, dtype: object

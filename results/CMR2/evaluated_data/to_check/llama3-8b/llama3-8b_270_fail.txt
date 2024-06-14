@@ -1,6 +1,0 @@
-Value                                      Urban poverty
-Variable definition    ['Suburban area', 'Wealth level']
-Interaction Value                                  False
-model Name                        mixtral-8x22b-instruct
-domain                                         sociology
-Name: 270, dtype: object

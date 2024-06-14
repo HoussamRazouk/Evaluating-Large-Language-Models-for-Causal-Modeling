@@ -1,6 +1,0 @@
-Value                   Poor sleep quality and immune system function
-Variable definition    ['Quality of sleep', 'Immune system function']
-Interaction Value                                                True
-model Name                                        mistral-7b-instruct
-domain                                                         health
-Name: 1008, dtype: object

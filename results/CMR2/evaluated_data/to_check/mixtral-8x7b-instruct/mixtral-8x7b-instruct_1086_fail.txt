@@ -1,6 +1,0 @@
-Value                     Attachment Styles and Emotional Regulation
-Variable definition    ['Attachment Styles', 'Emotional Regulation']
-Interaction Value                                               True
-model Name                                       mistral-7b-instruct
-domain                                                    psychology
-Name: 1086, dtype: object

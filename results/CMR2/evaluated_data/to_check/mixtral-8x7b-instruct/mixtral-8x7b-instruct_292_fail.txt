@@ -1,6 +1,0 @@
-Value                    Cognitive distortions and negative thinking
-Variable definition    ['Empathy level', 'Active listening ability']
-Interaction Value                                              False
-model Name                                    mixtral-8x22b-instruct
-domain                                                    psychology
-Name: 292, dtype: object
