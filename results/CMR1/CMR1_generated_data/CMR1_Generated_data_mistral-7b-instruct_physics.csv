@@ -1,0 +1,11 @@
+variable definition,values
+"The state of matter of a substance, specifically whether it is a solid, liquid, gas or plasma.","['Solid state (ice)', 'Liquid state (water)', 'Gas state (air)', 'Plasma state (neon)']"
+The force that causes an object to move or stay at rest. It can be described as a push or a pull.,"[""Gravitational force (Earth's pull)"", 'Electromagnetic force (magnetism)', 'Frictional force (carpet)', 'Nuclear force (atomic bonding)']"
+The property of a wave that determines the amount of energy it transports per unit area.,"['Longitudinal wave (sound)', 'Transverse wave (light)', 'Surface wave (water waves)', 'Electromagnetic wave (radio waves)']"
+The property of a material that determines how easily it can be deformed or compressed.,"['Elastic material (rubber band)', 'Plastic material (clay)', 'Brittle material (glass)', 'Ductile material (metal)']"
+The property of a material that determines how easily it can conduct heat.,"['Good thermal conductor (copper)', 'Poor thermal conductor (wood)', 'Insulator (glass)', 'Superconductor (liquid helium)']"
+The property of a material that determines how easily it can conduct electricity.,"['Good conductor (copper)', 'Insulator (rubber)', 'Semiconductor (silicon)', 'Superconductor (mercury)']"
+The property of a wave that determines the number of oscillations per unit time.,"['High frequency wave (X-rays)', 'Low frequency wave (radio waves)', 'Audible frequency wave (music)', 'Infrasound wave (earthquakes)']"
+The property of a material that determines its resistance to being broken or damaged.,"['Brittle material (glass)', 'Ductile material (steel)', 'Malleable material (gold)', 'Tensile material (wire)']"
+The property of a material that determines its ability to absorb energy.,"['Absorber (charcoal)', 'Reflector (mirror)', 'Transmitter (glass)', 'Emitter (hot filament)']"
+The property of a material that determines its ability to emit energy.,"['Emissive body (hot iron)', 'Non-emissive body (aluminum)', 'Black body (coal)', 'White body (snow)']"

@@ -60,6 +60,10 @@ threads = []
 
 for model in models:
     
+    try:
+         os.makedirs(output_path+f'to_check/{model}')
+    except:
+         print(output_path+f'to_check/{model} already exists')
     if os.path.isfile(output_path+f"{model}_model_prediction.csv"):
             print(f"{model} already tested")
             continue

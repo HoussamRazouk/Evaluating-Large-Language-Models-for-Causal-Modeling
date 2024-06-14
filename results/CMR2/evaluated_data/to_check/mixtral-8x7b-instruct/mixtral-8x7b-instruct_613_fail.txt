@@ -1,0 +1,6 @@
+Value                           academic performance anxiety
+Variable definition    ['Anxiety Type', 'Social Situations']
+Interaction Value                                      False
+model Name                                       gpt-4-turbo
+domain                                            psychology
+Name: 613, dtype: object

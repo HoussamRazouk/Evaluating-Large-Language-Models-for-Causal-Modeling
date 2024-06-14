@@ -1,0 +1,6 @@
+Value                                                  Emotional Support
+Variable definition    ['Social Connection', 'Stress Reduction', 'Men...
+Interaction Value                                                   True
+model Name                                                    llama3-70b
+domain                                                        psychology
+Name: 127, dtype: object

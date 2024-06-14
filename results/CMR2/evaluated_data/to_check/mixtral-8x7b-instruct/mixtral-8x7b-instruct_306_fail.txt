@@ -1,0 +1,6 @@
+Value                  High-yield corporate bonds
+Variable definition    ['Bond type', 'Bond risk']
+Interaction Value                            True
+model Name                 mixtral-8x22b-instruct
+domain                                    finance
+Name: 306, dtype: object

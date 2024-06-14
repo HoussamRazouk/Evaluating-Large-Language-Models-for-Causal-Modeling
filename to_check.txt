@@ -1,0 +1,7 @@
+{
+"Text": "Etching process with fluorine-based plasma",
+"Predicted Interaction value": true,
+"Variables": ["Etching process", "Etching gas"],
+"Variables values": ["Etching process": "with fluorine-based plasma", "Etching gas": "fluorine-based plasma"],
+"Explanation": "The text describes the simultaneous occurrence of different values of multiple causal variables, specifically the etching process and etching gas."
+}Prediction Model: llama3-8bGenerated Interaction value: TrueData Generation Model: mixtral-8x22b-instructDomain: semiconductor manufacturing

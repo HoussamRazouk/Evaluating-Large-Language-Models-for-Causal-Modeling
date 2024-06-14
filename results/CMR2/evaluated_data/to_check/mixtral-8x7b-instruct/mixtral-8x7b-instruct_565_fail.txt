@@ -1,0 +1,6 @@
+Value                                 Multi-threaded processing
+Variable definition    ['Concurrency Model', 'Processing Type']
+Interaction Value                                          True
+model Name                                          gpt-4-turbo
+domain                                         computer science
+Name: 565, dtype: object

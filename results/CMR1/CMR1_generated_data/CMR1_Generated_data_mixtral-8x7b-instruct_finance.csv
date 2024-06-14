@@ -1,0 +1,11 @@
+variable definition,values
+Debt to Equity Ratio,"['No Debt', 'Low Debt to Equity', 'Medium Debt to Equity', 'High Debt to Equity']"
+Revenue Growth Rate,"['Negative Revenue Growth', 'Stagnant Revenue Growth', 'Positive Revenue Growth', 'Rapid Revenue Growth']"
+Profit Margin,"['Loss', 'Break Even', 'Profitable', 'Highly Profitable']"
+Cash Reserves,"['No Cash Reserves', 'Low Cash Reserves', 'Medium Cash Reserves', 'High Cash Reserves']"
+Market Share,"['Low Market Share', 'Steady Market Share', 'Increasing Market Share', 'Dominant Market Share']"
+Employee Turnover Rate,"['Very High Employee Turnover', 'High Employee Turnover', 'Stable Employee Turnover', 'Low Employee Turnover']"
+Number of Product Lines,"['No Product Lines', 'Single Product Line', 'Multiple Product Lines', 'Diverse Product Lines']"
+Research and Development Investment,"['No Investment', 'Low Investment', 'Medium Investment', 'High Investment']"
+Brand Recognition,"['Unknown Brand', 'Emerging Brand', 'Established Brand', 'Iconic Brand']"
+Regulatory Compliance,"['Non-Compliant', 'Partially Compliant', 'Fully Compliant', 'Industry Leader in Compliance']"

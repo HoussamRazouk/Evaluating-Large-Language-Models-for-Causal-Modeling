@@ -1,0 +1,6 @@
+Value                           electron-proton collision
+Variable definition    ['Particle type', 'Particle type']
+Interaction Value                                    True
+model Name                          mixtral-8x7b-instruct
+domain                                            physics
+Name: 825, dtype: object

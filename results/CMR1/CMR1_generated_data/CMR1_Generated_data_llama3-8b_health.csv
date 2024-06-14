@@ -1,0 +1,11 @@
+variable definition,values
+Smoking Status,"['Non-Smoker', 'Former Smoker', 'Current Smoker']"
+Exercise Frequency,"['Daily', '3-4 Times a Week', '1-2 Times a Week', 'Rarely']"
+Diet Type,"['Vegetarian', 'Vegan', 'Omnivore', 'Pescetarian']"
+Sleep Quality,"['Excellent', 'Good', 'Fair', 'Poor']"
+Stress Level,"['Minimal', 'Moderate', 'High', 'Extreme']"
+Medication Adherence,"['Excellent', 'Good', 'Fair', 'Poor']"
+Family History,"['No Family History of Chronic Disease', 'Family History of Chronic Disease']"
+Occupational Risk,"['Low Risk', 'Moderate Risk', 'High Risk']"
+Social Support,"['Strong Social Support', 'Moderate Social Support', 'Limited Social Support']"
+Health Literacy,"['Excellent', 'Good', 'Fair', 'Poor']"

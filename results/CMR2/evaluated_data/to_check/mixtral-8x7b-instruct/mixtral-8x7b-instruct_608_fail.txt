@@ -1,0 +1,6 @@
+Value                    cognitive behavioral therapy session
+Variable definition    ['Therapy Type', 'Treatment Approach']
+Interaction Value                                        True
+model Name                                        gpt-4-turbo
+domain                                             psychology
+Name: 608, dtype: object

@@ -1,0 +1,6 @@
+Value                                   photoelectric effect
+Variable definition    ['Optical phenomenon', 'Energy type']
+Interaction Value                                       True
+model Name                             mixtral-8x7b-instruct
+domain                                               physics
+Name: 824, dtype: object

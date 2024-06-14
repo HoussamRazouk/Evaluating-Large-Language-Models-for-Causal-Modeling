@@ -1,0 +1,12 @@
+variable definition,values
+Wafer Type,"['Silicon', 'Germanium', 'Gallium Arsenide']"
+Etching Method,"['Wet Etching', 'Dry Etching', 'Plasma Etching']"
+Doping Material,"['Arsenic', 'Phosphorus', 'Boron']"
+Insulation Material,"['Oxide', 'Nitride', 'Silicon Dioxide']"
+Packaging Type,"['SOIC', 'QFN', 'LGA']"
+Thermal Budget,"['High Temperature', 'Medium Temperature', 'Low Temperature']"
+Cleanliness Level,"['Class 100', 'Class 1000', 'Class 10,000']"
+Particle Size,"['Submicron', 'Micron', 'Submillimeter']"
+Surface Finish,"['Polished', 'Brushed', 'Textured']"
+Packaging Material,"['Plastic', 'Ceramic', 'Glass']"
+Moisture Sensitivity,"['Highly Sensitive', 'Moderately Sensitive', 'Not Sensitive']"

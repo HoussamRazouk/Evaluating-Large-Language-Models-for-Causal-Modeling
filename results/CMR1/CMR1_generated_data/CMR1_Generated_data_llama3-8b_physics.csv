@@ -1,0 +1,11 @@
+variable definition,values
+Temperature,"['Melting Point', 'Boiling Point', 'Room Temperature', 'Freezing Point']"
+Pressure,"['Atmospheric Pressure', 'Vacuum Pressure', 'Standard Pressure', 'High Pressure']"
+Energy,"['Kinetic Energy', 'Potential Energy', 'Thermal Energy', 'Electromagnetic Energy']"
+Matter,"['Solid', 'Liquid', 'Gas', 'Plasma']"
+Force,"['Gravity', 'Friction', 'Electromagnetic Force', 'Strong Nuclear Force']"
+Time,"['Instantaneous Time', 'Elapsed Time', 'Relative Time', 'Absolute Time']"
+Space,"['Three-Dimensional Space', 'Two-Dimensional Space', 'One-Dimensional Space', 'Four-Dimensional Space']"
+Momentum,"['Linear Momentum', 'Angular Momentum', 'Spin Momentum', 'Quantum Momentum']"
+Charge,"['Positive Charge', 'Negative Charge', 'Neutral Charge', 'Quantized Charge']"
+Frequency,"['Audio Frequency', 'Radio Frequency', 'Visible Frequency', 'Gamma Frequency']"

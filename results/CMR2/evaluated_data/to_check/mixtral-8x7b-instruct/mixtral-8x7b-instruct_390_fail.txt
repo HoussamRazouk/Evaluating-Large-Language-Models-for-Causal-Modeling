@@ -1,0 +1,6 @@
+Value                                         Metrology tool calibration
+Variable definition    ['Wet cleaning process effectiveness', 'Surfac...
+Interaction Value                                                  False
+model Name                                                 gpt-3.5-turbo
+domain                                       semiconductor manufacturing
+Name: 390, dtype: object

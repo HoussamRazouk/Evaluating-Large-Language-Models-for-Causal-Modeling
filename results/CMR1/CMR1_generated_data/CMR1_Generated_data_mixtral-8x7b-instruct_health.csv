@@ -1,0 +1,11 @@
+variable definition,values
+Smoking status,"['Never smoked', 'Former smoker', 'Current smoker']"
+Exercise frequency,"['No regular exercise', '1-2 times a week', '3-4 times a week', 'Daily exercise']"
+Dietary habits,"['Vegetarian', 'Vegan', 'Mediterranean diet', 'High-fat diet', 'Standard American diet']"
+Alcohol consumption,"['Abstainer', 'Moderate drinker', 'Heavy drinker']"
+Sleep duration,"['Less than 5 hours', '5-6 hours', '6-7 hours', '7-8 hours', 'More than 8 hours']"
+Stress levels,"['Very low stress', 'Low stress', 'Moderate stress', 'High stress', 'Very high stress']"
+Mental health condition,"['No mental health issues', 'Depression', 'Anxiety disorder', 'Bipolar disorder', 'Post-traumatic stress disorder']"
+Chronic disease condition,"['No chronic diseases', 'Diabetes', 'Cardiovascular disease', 'Respiratory disease', 'Neurological disease']"
+Medication usage,"['No regular medication', 'Cardiovascular medication', 'Respiratory medication', 'Pain medication', 'Psychiatric medication']"
+Family medical history,"['No family medical history', 'History of cancer', 'History of diabetes', 'History of cardiovascular disease', 'History of neurological disease']"

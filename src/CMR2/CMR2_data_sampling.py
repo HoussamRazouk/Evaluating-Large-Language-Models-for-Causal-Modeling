@@ -35,6 +35,7 @@ for model in models:
         print(domain)
 
         df=pd.read_pickle(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.pkl')
+        counter=150
         while True:
             ## select a random interaction_value
             First_interaction_value_index=random.randint(0, len(df)-1)
@@ -62,13 +63,15 @@ for model in models:
                         
                         negative_examples.append(tuple([First_interaction_value,tuple(Variable_values)]))
                         
-                        
+            counter= counter-1
+            if  counter==0:
+                break          
             if ((not(len(negative_examples) < number_of_negative_samples))and (not(len(positive_examples) < number_of_positive_samples))):
                 
                 break
 
 
-        for i in range(number_of_positive_samples):
+        for i in range(len(positive_examples)):
             data_set.append({
                 'Value':positive_examples[i][0],
                 'Variable definition':list(positive_examples[i][1]),
@@ -77,7 +80,7 @@ for model in models:
                 'domain':domain
             })
 
-        for i in range(number_of_negative_samples):
+        for i in range(len(negative_examples)):
                 data_set.append({#Text1,Text2,Same Causal Variable,Variable Name,Explanation,Model
                 'Value':negative_examples[i][0],
                 'Variable definition':list(negative_examples[i][1]),

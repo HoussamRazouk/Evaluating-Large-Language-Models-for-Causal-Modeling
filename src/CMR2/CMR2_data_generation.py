@@ -33,6 +33,7 @@ for model in models:
         client=init_lama()
     for domain in domains :
         if os.path.isfile(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.pkl'):
+            #print(f'Already exists: {model} {domain}')
             continue
         else:
             
@@ -78,7 +79,8 @@ for model in models:
             )
 
             response=completion.choices[0].message.content
-
+            response=response.replace(' Variable value:',' "Variable value":')## handling some cases where the llm miss the ""
+            response=response.replace(' Variable definition:',' "Variable definition":')
             try:
             #if True:
                 
@@ -104,7 +106,7 @@ for model in models:
                         df=pd.DataFrame(jason_response["Interaction Events"])
                         df.to_csv(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.csv',index=False) 
                         df.to_pickle(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.pkl') 
-                        print ('succeed: ',model)
+                        print (f'succeed: : {model} {domain}')
 
                     except:
                         print (f'failed: {model} {domain}')

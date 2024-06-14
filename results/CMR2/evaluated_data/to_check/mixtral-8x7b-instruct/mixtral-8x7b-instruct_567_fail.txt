@@ -1,0 +1,6 @@
+Value                                     End-to-end encryption
+Variable definition    ['Security Feature', 'Encryption Scope']
+Interaction Value                                          True
+model Name                                          gpt-4-turbo
+domain                                         computer science
+Name: 567, dtype: object

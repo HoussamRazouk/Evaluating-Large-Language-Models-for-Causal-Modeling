@@ -1,0 +1,6 @@
+Value                                      Real-time user analytics
+Variable definition    ['Data Analysis Timing', 'Data Application']
+Interaction Value                                              True
+model Name                                              gpt-4-turbo
+domain                                             computer science
+Name: 563, dtype: object

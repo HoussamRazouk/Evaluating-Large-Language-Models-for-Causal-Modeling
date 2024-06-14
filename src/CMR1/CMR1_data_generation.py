@@ -54,7 +54,7 @@ for model in models:
                     }
                 ]
                 }
-                """ ,## still can be improved 
+                """ ## still can be improved 
             completion = client.chat.completions.create(
             model=model,
             messages=[
@@ -71,16 +71,28 @@ for model in models:
 
             try:
                 
-                response=json.loads(response)
-                df=pd.DataFrame(response["Variables"])
+                json_response=json.loads(response)
+                df=pd.DataFrame(json_response["Variables"])
                 df.to_csv(CMR1_generated_data_dir+f'CMR1_Generated_data_{model}_{domain}.csv',index=False) 
                 print ('succeed: ',model)
 
 
             except:
+                try:
+                    json_response=json.loads(response.split("```")[1])
+                    df=pd.DataFrame(json_response["Variables"])
+                    df.to_csv(CMR1_generated_data_dir+f'CMR1_Generated_data_{model}_{domain}.csv',index=False) 
+                    print ('succeed: ',model)
+                except:
+                        try:
+                            json_response=json.loads(response[response.index('\n'):])
+                            df=pd.DataFrame(json_response["Variables"])
+                            df.to_csv(CMR1_generated_data_dir+f'CMR1_Generated_data_{model}_{domain}.csv',index=False) 
+                            print ('succeed: ',model)
+                        except:
+                            print(response)
+                            print (model)
+                            print ('failed: ',model)
+                            with open(CMR1_generated_data_dir+f'CMR1_Generated_data_{model}_{domain}.txt', "w") as f:
+                                f.write(str(response))
 
-                print(response)
-                print (model)
-                print ('failed: ',model)
-                with open(CMR1_generated_data_dir+f'CMR1_Generated_data_{model}_{domain}.txt', "w") as f:
-                    f.write(str(response))

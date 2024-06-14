@@ -35,7 +35,7 @@ def conf_init():
     number_of_negative_samples=10
     CMR1_generated_data_dir="results/CMR1/CMR1_generated_data/"
    
-    CMR1_sample_data_file="results/CMR1/sampled_data/sampled_data_set.csv"
+    CMR1_sample_data_file="results/CMR1/sampled_data/sampled_data_set_large.csv"
     CMR1_evaluated_data_dir="results/CMR1/evaluated_data/"
     
     

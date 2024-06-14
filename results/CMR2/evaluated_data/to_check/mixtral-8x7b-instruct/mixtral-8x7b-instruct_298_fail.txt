@@ -1,0 +1,6 @@
+Value                          Positive reinforcement and motivation
+Variable definition    ['Empathy level', 'Active listening ability']
+Interaction Value                                              False
+model Name                                    mixtral-8x22b-instruct
+domain                                                    psychology
+Name: 298, dtype: object

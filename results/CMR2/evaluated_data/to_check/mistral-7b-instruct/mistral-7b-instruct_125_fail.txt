@@ -1,0 +1,6 @@
+Value                                               Traumatic Experience
+Variable definition    ['Stress Response', 'Emotional Regulation', 'M...
+Interaction Value                                                   True
+model Name                                                    llama3-70b
+domain                                                        psychology
+Name: 125, dtype: object

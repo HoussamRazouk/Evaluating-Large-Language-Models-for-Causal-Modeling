@@ -1,0 +1,11 @@
+variable definition,values
+Urbanization Rate: The percentage of a population living in urban areas.,"['Rural Population Majority', 'Urban Population Majority']"
+Public Transport System: The availability and efficiency of public transportation in a city.,"['Extensive and Efficient', 'Limited and Inefficient']"
+Green Spaces: The amount and accessibility of parks and other natural areas within a city.,"['Abundant and Accessible', 'Scarce and Inaccessible']"
+"Air Quality: The level of pollutants in the air, affecting the health and comfort of city residents.","['Excellent', 'Poor']"
+Crime Rate: The frequency of reported crimes in a city.,"['Very Low', 'Very High']"
+Housing Affordability: The proportion of income required to purchase or rent a home.,"['Affordable', 'Unaffordable']"
+Education System: The quality and accessibility of educational institutions in a city.,"['Excellent', 'Poor']"
+Employment Opportunities: The availability and diversity of job opportunities in a city.,"['Abundant and Diverse', 'Limited and Narrow']"
+"Infrastructure: The condition and availability of essential services and facilities such as water, electricity, and sanitation.","['Well-Maintained and Accessible', 'Poorly-Maintained and Limited']"
+Social Cohesion: The degree of unity and harmony among different social groups in a city.,"['High', 'Low']"

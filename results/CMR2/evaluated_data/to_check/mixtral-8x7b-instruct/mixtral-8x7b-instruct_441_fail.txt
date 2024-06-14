@@ -1,0 +1,6 @@
+Value                             Perceived Control
+Variable definition    ['Anxiety', 'Self-efficacy']
+Interaction Value                              True
+model Name                            gpt-3.5-turbo
+domain                                   psychology
+Name: 441, dtype: object

@@ -1,0 +1,6 @@
+Value                  Etching process with fluorine-based plasma
+Variable definition            ['Etching process', 'Etching gas']
+Interaction Value                                            True
+model Name                                 mixtral-8x22b-instruct
+domain                                semiconductor manufacturing
+Name: 224, dtype: object
