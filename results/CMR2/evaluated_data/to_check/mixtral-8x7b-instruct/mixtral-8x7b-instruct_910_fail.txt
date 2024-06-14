@@ -1,0 +1,6 @@
+Value                                   Gender wage gap
+Variable definition    ['Economic status', 'Age group']
+Interaction Value                                 False
+model Name                        mixtral-8x7b-instruct
+domain                                        sociology
+Name: 910, dtype: object

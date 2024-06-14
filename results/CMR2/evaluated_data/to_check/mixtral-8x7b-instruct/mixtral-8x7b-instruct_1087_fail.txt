@@ -1,0 +1,6 @@
+Value                     Self-Compassion and Resilience
+Variable definition    ['Self-Compassion', 'Resilience']
+Interaction Value                                   True
+model Name                           mistral-7b-instruct
+domain                                        psychology
+Name: 1087, dtype: object

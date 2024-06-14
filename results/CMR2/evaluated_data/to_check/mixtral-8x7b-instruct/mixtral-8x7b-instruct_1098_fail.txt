@@ -1,0 +1,6 @@
+Value                  Self-Compassion and Resilience
+Variable definition    ['Stress', 'Coping Resources']
+Interaction Value                               False
+model Name                        mistral-7b-instruct
+domain                                     psychology
+Name: 1098, dtype: object

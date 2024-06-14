@@ -1,0 +1,6 @@
+Value                                              Thin film stress
+Variable definition    ['Deposition rate', 'Substrate temperature']
+Interaction Value                                              True
+model Name                                    mixtral-8x7b-instruct
+domain                                  semiconductor manufacturing
+Name: 863, dtype: object

@@ -1,0 +1,7 @@
+Text1                         growth in ethical consumerism
+Text2                   trend towards personalized services
+Same Causal Variable                                   True
+Variable Name                             Consumer Behavior
+model Name                                      gpt-4-turbo
+domain                                              finance
+Name: 626, dtype: object

@@ -1,0 +1,6 @@
+Value                                               Green Infrastructure
+Variable definition    ['Environmental Sustainability', 'Water Manage...
+Interaction Value                                                   True
+model Name                                                     llama3-8b
+domain                                                     urban studies
+Name: 640, dtype: object

@@ -1,0 +1,6 @@
+Value                                          Urban inequality
+Variable definition    ['Level of rurality', 'Education level']
+Interaction Value                                         False
+model Name                               mixtral-8x22b-instruct
+domain                                                sociology
+Name: 273, dtype: object

@@ -1,0 +1,6 @@
+Value                                              diabetic diet plan
+Variable definition    ['Disease management', 'Nutritional strategy']
+Interaction Value                                                True
+model Name                                                gpt-4-turbo
+domain                                                         health
+Name: 523, dtype: object

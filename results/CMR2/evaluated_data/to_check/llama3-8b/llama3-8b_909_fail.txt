@@ -1,0 +1,6 @@
+Value                                            Food desert
+Variable definition    ['Geographic area', 'Climate impact']
+Interaction Value                                      False
+model Name                             mixtral-8x7b-instruct
+domain                                             sociology
+Name: 909, dtype: object

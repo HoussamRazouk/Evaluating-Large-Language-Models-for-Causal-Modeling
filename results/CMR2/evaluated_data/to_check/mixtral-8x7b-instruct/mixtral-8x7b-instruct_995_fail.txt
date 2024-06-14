@@ -1,0 +1,6 @@
+Value                  Electromagnetic field intensity and magnetic f...
+Variable definition                          ['Temperature', 'Pressure']
+Interaction Value                                                  False
+model Name                                           mistral-7b-instruct
+domain                                                           physics
+Name: 995, dtype: object

@@ -1,0 +1,7 @@
+Text1                   Single-parent household
+Text2                         Middle-aged adult
+Same Causal Variable                      False
+Variable Name                               NaN
+model Name               mixtral-8x22b-instruct
+domain                                sociology
+Name: 277, dtype: object

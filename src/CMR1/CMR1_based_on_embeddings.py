@@ -26,6 +26,6 @@ embeddings_model='text-embedding-3-large'
 test_data[f'text1_text2_cos_sim_{embeddings_model}']=test_data.progress_apply(lambda row: get_cos_sim(row['Text1'],row['Text2'],embeddings_model),axis=1)
 
 
-test_data.to_csv(output_path+f'cos_sim_{embeddings_model}.csv',index=False)
+test_data.to_csv(output_path+f'cos_sim_{embeddings_model}_large.csv',index=False)
 
 

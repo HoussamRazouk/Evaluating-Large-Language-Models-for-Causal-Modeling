@@ -16,9 +16,7 @@ input_file=config['CMR2_sample_data_file']
 client=init_lama()
 test_data=pd.read_csv(input_file)
 test_data
-#505
-#536
-#623
+
 response=CMR2_predict_sample(test_data.iloc[623],client,model)
 
 response

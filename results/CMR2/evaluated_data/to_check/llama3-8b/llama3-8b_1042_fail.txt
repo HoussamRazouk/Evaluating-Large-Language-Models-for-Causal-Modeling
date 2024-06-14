@@ -1,0 +1,6 @@
+Value                  Buffer overflow in network protocol implementa...
+Variable definition           ['Network Protocols', 'Memory Management']
+Interaction Value                                                   True
+model Name                                           mistral-7b-instruct
+domain                                                  computer science
+Name: 1042, dtype: object

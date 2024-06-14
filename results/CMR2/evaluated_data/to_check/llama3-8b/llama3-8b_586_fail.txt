@@ -1,0 +1,6 @@
+Value                                                 economic recession
+Variable definition    ['Economic Stability', 'Employment Rates', 'Co...
+Interaction Value                                                   True
+model Name                                                   gpt-4-turbo
+domain                                                         sociology
+Name: 586, dtype: object

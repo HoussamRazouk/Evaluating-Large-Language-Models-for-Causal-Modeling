@@ -1,0 +1,6 @@
+Value                                  Chemical concentration monitoring
+Variable definition    ['Gas delivery system efficiency', 'Film depos...
+Interaction Value                                                  False
+model Name                                                 gpt-3.5-turbo
+domain                                       semiconductor manufacturing
+Name: 398, dtype: object

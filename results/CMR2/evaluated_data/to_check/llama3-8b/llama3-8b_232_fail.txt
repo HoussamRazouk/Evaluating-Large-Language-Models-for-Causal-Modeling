@@ -1,0 +1,6 @@
+Value                  Photolithography process with 193nm wavelength
+Variable definition                ['Etching process', 'Etching gas']
+Interaction Value                                               False
+model Name                                     mixtral-8x22b-instruct
+domain                                    semiconductor manufacturing
+Name: 232, dtype: object
