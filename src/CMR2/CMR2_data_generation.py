@@ -82,17 +82,31 @@ for model in models:
             try:
             #if True:
                 
-                response=json.loads(response)
-                df=pd.DataFrame(response["Interaction Events"])
+                jason_response=json.loads(response)
+                df=pd.DataFrame(jason_response["Interaction Events"])
                 df.to_csv(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.csv',index=False) 
                 df.to_pickle(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.pkl') 
                 print ('succeed: ',model)
 
 
             except:
+                try:## if the model add a sentence before the jason 
+                    jason_response=json.loads(response[response.index('\n'):])
+                    df=pd.DataFrame(jason_response["Interaction Events"])
+                    df.to_csv(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.csv',index=False) 
+                    df.to_pickle(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.pkl') 
+                    print ('succeed: ',model)
 
-                print(response)
-                print (model)
-                print ('failed: ',model)
-                with open(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.txt', "w") as f:
-                    f.write(str(response))
+                except:
+
+                    try:## if the model missed the last bract }
+                        jason_response=json.loads(response+'}')
+                        df=pd.DataFrame(jason_response["Interaction Events"])
+                        df.to_csv(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.csv',index=False) 
+                        df.to_pickle(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.pkl') 
+                        print ('succeed: ',model)
+
+                    except:
+                        print (f'failed: {model} {domain}')
+                        with open(CMR2_generated_data_dir+f'CMR2_Generated_data_{model}_{domain}.txt', "w") as f:
+                            f.write(str(response))
