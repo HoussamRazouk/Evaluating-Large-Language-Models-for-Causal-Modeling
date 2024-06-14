@@ -11,7 +11,7 @@ config=conf_init()
 models=config['models']
 model="llama3-70b"
 input_file=config['CMR2_sample_data_file']
-
+input_file="results/CMR2/sampled_data/difference.csv"
 #output_path=config['CMR2_evaluated_data_dir']
 client=init_lama()
 test_data=pd.read_csv(input_file)

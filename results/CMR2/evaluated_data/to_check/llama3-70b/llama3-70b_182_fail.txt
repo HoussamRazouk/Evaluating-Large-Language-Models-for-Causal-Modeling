@@ -1,0 +1,6 @@
+Value                                       nuclear fission
+Variable definition    ['Nuclear process', 'Nucleon count']
+Interaction Value                                      True
+model Name                            mixtral-8x7b-instruct
+domain                                              physics
+Name: 182, dtype: object

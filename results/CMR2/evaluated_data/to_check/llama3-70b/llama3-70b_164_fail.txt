@@ -1,0 +1,6 @@
+Value                          High density of coffee shops
+Variable definition    ['Economic vitality', 'Walkability']
+Interaction Value                                      True
+model Name                            mixtral-8x7b-instruct
+domain                                        urban studies
+Name: 164, dtype: object

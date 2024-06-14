@@ -1,0 +1,6 @@
+Value                                Data transfer rate
+Variable definition    ['Data volume', 'Transfer time']
+Interaction Value                                  True
+model Name                        mixtral-8x7b-instruct
+domain                                 computer science
+Name: 247, dtype: object

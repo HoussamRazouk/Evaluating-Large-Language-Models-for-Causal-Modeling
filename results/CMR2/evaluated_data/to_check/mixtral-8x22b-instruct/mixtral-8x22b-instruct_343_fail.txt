@@ -1,0 +1,6 @@
+Value                     Magnetic field and electric current
+Variable definition    ['Magnetic field', 'Electric current']
+Interaction Value                                        True
+model Name                                mistral-7b-instruct
+domain                                                physics
+Name: 343, dtype: object

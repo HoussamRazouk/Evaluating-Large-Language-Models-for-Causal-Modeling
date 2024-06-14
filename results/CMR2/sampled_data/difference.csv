@@ -1,0 +1,480 @@
+Value,Variable definition,Interaction Value,model Name,domain
+Green Infrastructure,"['Environmental Sustainability', 'Water Management']",True,llama3-8b,urban studies
+Resilient Housing,"['Housing Policy', 'Disaster Response']",True,llama3-8b,urban studies
+Smart Traffic Management Systems,"['Transportation Infrastructure', 'Data Analytics']",True,llama3-8b,urban studies
+Digital Inclusion Initiatives,"['Digital Literacy', 'Community Outreach']",True,llama3-8b,urban studies
+Inclusive Public Spaces,"['Urban Design', 'Community Development']",True,llama3-8b,urban studies
+Urban Renewal Projects,"['Urban Planning', 'Community Engagement']",True,llama3-8b,urban studies
+Sustainable Energy Grids,"['Energy Generation', 'Energy Distribution']",True,llama3-8b,urban studies
+Cultural Heritage Preservation,"['Cultural Preservation', 'Community Engagement']",True,llama3-8b,urban studies
+Innovative Waste Management,"['Waste Reduction', 'Waste Disposal']",True,llama3-8b,urban studies
+Sustainable Transportation Options,"['Transportation Infrastructure', 'Alternative Modes']",True,llama3-8b,urban studies
+Green Infrastructure,"['Housing Policy', 'Disaster Response']",False,llama3-8b,urban studies
+Resilient Housing,"['Transportation Infrastructure', 'Alternative Modes']",False,llama3-8b,urban studies
+Smart Traffic Management Systems,"['Environmental Sustainability', 'Water Management']",False,llama3-8b,urban studies
+Digital Inclusion Initiatives,"['Housing Policy', 'Disaster Response']",False,llama3-8b,urban studies
+Inclusive Public Spaces,"['Urban Planning', 'Community Engagement']",False,llama3-8b,urban studies
+Green Infrastructure,"['Urban Design', 'Community Development']",False,llama3-8b,urban studies
+Urban Renewal Projects,"['Urban Design', 'Community Development']",False,llama3-8b,urban studies
+Sustainable Energy Grids,"['Urban Design', 'Community Development']",False,llama3-8b,urban studies
+Urban Renewal Projects,"['Transportation Infrastructure', 'Data Analytics']",False,llama3-8b,urban studies
+Cultural Heritage Preservation,"['Transportation Infrastructure', 'Data Analytics']",False,llama3-8b,urban studies
+Quantum Entanglement,"['Spin of the particle', 'Distance between particles']",True,llama3-8b,physics
+Quantum Flux,"['Energy of the particle', 'Frequency of the wave']",True,llama3-8b,physics
+Gravitational Wave,"['Mass of the object', 'Distance from the observer']",True,llama3-8b,physics
+Gravitational Lensing,"['Mass of the object', 'Distance from the observer']",True,llama3-8b,physics
+Gravitational Wave Background,"['Energy density of the background', 'Frequency of the waves']",True,llama3-8b,physics
+Quantum Foam,"['Energy of the particle', 'Distance between particles']",True,llama3-8b,physics
+Electromagnetic Pulse,"['Intensity of the pulse', 'Duration of the pulse']",True,llama3-8b,physics
+Magnetic Field,"['Charge of the particle', 'Direction of the field']",True,llama3-8b,physics
+Thermal Radiation,"['Temperature of the object', 'Wavelength of the radiation']",True,llama3-8b,physics
+Solar Wind,"['Speed of the wind', 'Direction of the wind']",True,llama3-8b,physics
+Quantum Entanglement,"['Mass of the object', 'Distance from the observer']",False,llama3-8b,physics
+Quantum Flux,"['Spin of the particle', 'Distance between particles']",False,llama3-8b,physics
+Quantum Entanglement,"['Energy of the particle', 'Distance between particles']",False,llama3-8b,physics
+Gravitational Wave,"['Mass of the object', 'Distance from the observer']",False,llama3-8b,physics
+Gravitational Lensing,"['Mass of the object', 'Distance from the observer']",False,llama3-8b,physics
+Gravitational Wave Background,"['Energy of the particle', 'Distance between particles']",False,llama3-8b,physics
+Gravitational Wave Background,"['Mass of the object', 'Distance from the observer']",False,llama3-8b,physics
+Quantum Foam,"['Spin of the particle', 'Distance between particles']",False,llama3-8b,physics
+Quantum Flux,"['Speed of the wind', 'Direction of the wind']",False,llama3-8b,physics
+Quantum Foam,"['Charge of the particle', 'Direction of the field']",False,llama3-8b,physics
+Neurological Disorder,"['Symptoms', 'Brain Function']",True,llama3-8b,health
+Pregnancy Complication,"['Fetal Development', 'Maternal Health']",True,llama3-8b,health
+Mental Health Crisis,"['Symptoms', 'Cognitive Function']",True,llama3-8b,health
+Hypertension Diagnosis,"['Blood Pressure', 'Cholesterol Levels']",True,llama3-8b,health
+Infectious Disease Outbreak,"['Pathogen', 'Transmission Rate']",True,llama3-8b,health
+Diabetes Complication,"['Blood Sugar Levels', 'Kidney Function']",True,llama3-8b,health
+Cardiovascular Disease,"['Cholesterol Levels', 'Blood Pressure']",True,llama3-8b,health
+Gastrointestinal Infection,"['Symptoms', 'Gastrointestinal Function']",True,llama3-8b,health
+Cancer Diagnosis,"['Tumor Size', 'Metastasis']",True,llama3-8b,health
+Respiratory Infection,"['Symptoms', 'Lung Function']",True,llama3-8b,health
+Neurological Disorder,"['Fetal Development', 'Maternal Health']",False,llama3-8b,health
+Pregnancy Complication,"['Blood Sugar Levels', 'Kidney Function']",False,llama3-8b,health
+Mental Health Crisis,"['Blood Pressure', 'Cholesterol Levels']",False,llama3-8b,health
+Hypertension Diagnosis,"['Symptoms', 'Gastrointestinal Function']",False,llama3-8b,health
+Neurological Disorder,"['Cholesterol Levels', 'Blood Pressure']",False,llama3-8b,health
+Infectious Disease Outbreak,"['Cholesterol Levels', 'Blood Pressure']",False,llama3-8b,health
+Hypertension Diagnosis,"['Symptoms', 'Cognitive Function']",False,llama3-8b,health
+Pregnancy Complication,"['Symptoms', 'Cognitive Function']",False,llama3-8b,health
+Neurological Disorder,"['Symptoms', 'Gastrointestinal Function']",False,llama3-8b,health
+Pregnancy Complication,"['Symptoms', 'Brain Function']",False,llama3-8b,health
+Annealing Process,"['Annealing Temperature', 'Annealing Time']",True,llama3-8b,semiconductor manufacturing
+Packaging and Testing,"['Packaging Type', 'Testing Method']",True,llama3-8b,semiconductor manufacturing
+Clean Room Environment,"['Clean Room Class', 'Clean Room Temperature']",True,llama3-8b,semiconductor manufacturing
+Etching Process Optimization,"['Etching Gas', 'Etching Temperature']",True,llama3-8b,semiconductor manufacturing
+Wafer Defect Detection,"['Wafer Defect Type', 'Defect Detection Method']",True,llama3-8b,semiconductor manufacturing
+Thermal Processing,"['Thermal Processing Method', 'Thermal Processing Temperature']",True,llama3-8b,semiconductor manufacturing
+Packaging Material Selection,"['Packaging Material', 'Packaging Type']",True,llama3-8b,semiconductor manufacturing
+Metal Deposition,"['Metal Type', 'Deposition Method']",True,llama3-8b,semiconductor manufacturing
+Wafer Dicing,"['Dicing Method', 'Dicing Blade']",True,llama3-8b,semiconductor manufacturing
+Material Selection for Wire Bonding,"['Wire Material', 'Wire Bonding Method']",True,llama3-8b,semiconductor manufacturing
+Annealing Process,"['Etching Gas', 'Etching Temperature']",False,llama3-8b,semiconductor manufacturing
+Packaging and Testing,"['Clean Room Class', 'Clean Room Temperature']",False,llama3-8b,semiconductor manufacturing
+Clean Room Environment,"['Packaging Type', 'Testing Method']",False,llama3-8b,semiconductor manufacturing
+Clean Room Environment,"['Etching Gas', 'Etching Temperature']",False,llama3-8b,semiconductor manufacturing
+Clean Room Environment,"['Metal Type', 'Deposition Method']",False,llama3-8b,semiconductor manufacturing
+Etching Process Optimization,"['Wire Material', 'Wire Bonding Method']",False,llama3-8b,semiconductor manufacturing
+Wafer Defect Detection,"['Wire Material', 'Wire Bonding Method']",False,llama3-8b,semiconductor manufacturing
+Thermal Processing,"['Packaging Material', 'Packaging Type']",False,llama3-8b,semiconductor manufacturing
+Etching Process Optimization,"['Clean Room Class', 'Clean Room Temperature']",False,llama3-8b,semiconductor manufacturing
+Packaging Material Selection,"['Thermal Processing Method', 'Thermal Processing Temperature']",False,llama3-8b,semiconductor manufacturing
+System Update Failure,"['Update Package', 'System Configuration']",True,llama3-8b,computer science
+System Resource Overload,"['CPU Usage', 'Memory Allocation']",True,llama3-8b,computer science
+Database Query Optimization,"['Query Complexity', 'Indexing']",True,llama3-8b,computer science
+Data Encryption Failure,"['Encryption Algorithm', 'Key Management']",True,llama3-8b,computer science
+Network Congestion,"['Network Traffic', 'Packet Loss']",True,llama3-8b,computer science
+Database Corruption,"['Data Integrity', 'Storage Capacity']",True,llama3-8b,computer science
+Network Authentication Failure,"['Username and Password', 'Two-Factor Authentication']",True,llama3-8b,computer science
+System Crash,"['Memory Usage', 'CPU Load']",True,llama3-8b,computer science
+Data Backup Failure,"['Backup Schedule', 'Storage Capacity']",True,llama3-8b,computer science
+System Configuration Conflict,"['Configuration File', 'System Settings']",True,llama3-8b,computer science
+System Update Failure,"['CPU Usage', 'Memory Allocation']",False,llama3-8b,computer science
+System Resource Overload,"['Update Package', 'System Configuration']",False,llama3-8b,computer science
+Database Query Optimization,"['Memory Usage', 'CPU Load']",False,llama3-8b,computer science
+System Update Failure,"['Configuration File', 'System Settings']",False,llama3-8b,computer science
+Data Encryption Failure,"['Network Traffic', 'Packet Loss']",False,llama3-8b,computer science
+Data Encryption Failure,"['Query Complexity', 'Indexing']",False,llama3-8b,computer science
+Network Congestion,"['Configuration File', 'System Settings']",False,llama3-8b,computer science
+Database Corruption,"['Network Traffic', 'Packet Loss']",False,llama3-8b,computer science
+Data Encryption Failure,"['Configuration File', 'System Settings']",False,llama3-8b,computer science
+Database Query Optimization,"['Network Traffic', 'Packet Loss']",False,llama3-8b,computer science
+Marriage Ceremony,"['Family Structure', 'Social Status']",True,llama3-8b,sociology
+Graduation,"['Education Level', 'Career Opportunities']",True,llama3-8b,sociology
+Retirement,"['Occupational Status', 'Financial Security']",True,llama3-8b,sociology
+Death of a Family Member,"['Family Structure', 'Emotional Well-being']",True,llama3-8b,sociology
+Divorce,"['Family Structure', 'Social Status']",True,llama3-8b,sociology
+Job Promotion,"['Occupational Status', 'Income']",True,llama3-8b,sociology
+Business Failure,"['Occupational Status', 'Financial Security']",True,llama3-8b,sociology
+Immigration,"['Cultural Identity', 'Social Integration']",True,llama3-8b,sociology
+Newborn Baby,"['Family Size', 'Parenting Style']",True,llama3-8b,sociology
+Natural Disaster,"['Community Resilience', 'Economic Status']",True,llama3-8b,sociology
+Marriage Ceremony,"['Family Structure', 'Emotional Well-being']",False,llama3-8b,sociology
+Graduation,"['Family Size', 'Parenting Style']",False,llama3-8b,sociology
+Death of a Family Member,"['Cultural Identity', 'Social Integration']",False,llama3-8b,sociology
+Divorce,"['Family Structure', 'Emotional Well-being']",False,llama3-8b,sociology
+Job Promotion,"['Family Structure', 'Social Status']",False,llama3-8b,sociology
+Graduation,"['Occupational Status', 'Financial Security']",False,llama3-8b,sociology
+Retirement,"['Family Size', 'Parenting Style']",False,llama3-8b,sociology
+Business Failure,"['Community Resilience', 'Economic Status']",False,llama3-8b,sociology
+Immigration,"['Occupational Status', 'Financial Security']",False,llama3-8b,sociology
+Death of a Family Member,"['Family Size', 'Parenting Style']",False,llama3-8b,sociology
+Mental Health Literacy,"['Knowledge', 'Attitudes']",True,llama3-8b,psychology
+Cognitive Distortions,"['Cognitive Biases', 'Emotional States']",True,llama3-8b,psychology
+Social Media Addiction,"['Personality Traits', 'Behavioral Patterns']",True,llama3-8b,psychology
+Mental Health Outcomes,"['Stress Levels', 'Social Support']",True,llama3-8b,psychology
+Cognitive Flexibility,"['Cognitive Styles', 'Emotional States']",True,llama3-8b,psychology
+Mental Health Treatment,"['Therapeutic Relationships', 'Treatment Adherence']",True,llama3-8b,psychology
+Emotional Regulation Strategies,"['Cognitive Appraisals', 'Emotional Expression']",True,llama3-8b,psychology
+Emotional Intelligence,"['Self-Awareness', 'Social Skills']",True,llama3-8b,psychology
+Mental Health Services,"['Stigma Perceptions', 'Access to Care']",True,llama3-8b,psychology
+Coping Mechanisms,"['Emotional Expression', 'Problem-Focused Coping']",True,llama3-8b,psychology
+Mental Health Literacy,"['Cognitive Biases', 'Emotional States']",False,llama3-8b,psychology
+Social Media Addiction,"['Emotional Expression', 'Problem-Focused Coping']",False,llama3-8b,psychology
+Mental Health Outcomes,"['Personality Traits', 'Behavioral Patterns']",False,llama3-8b,psychology
+Social Media Addiction,"['Cognitive Biases', 'Emotional States']",False,llama3-8b,psychology
+Cognitive Flexibility,"['Cognitive Appraisals', 'Emotional Expression']",False,llama3-8b,psychology
+Mental Health Treatment,"['Stigma Perceptions', 'Access to Care']",False,llama3-8b,psychology
+Emotional Regulation Strategies,"['Self-Awareness', 'Social Skills']",False,llama3-8b,psychology
+Cognitive Distortions,"['Cognitive Styles', 'Emotional States']",False,llama3-8b,psychology
+Social Media Addiction,"['Cognitive Styles', 'Emotional States']",False,llama3-8b,psychology
+Emotional Intelligence,"['Personality Traits', 'Behavioral Patterns']",False,llama3-8b,psychology
+Credit Rating Downgrade,"['Company Credit Rating', 'Bond Yield']",True,llama3-8b,finance
+Company Acquisition,"['Company Name', 'Industry Sector']",True,llama3-8b,finance
+Regulatory Change,"['Financial Regulation', 'Industry Sector']",True,llama3-8b,finance
+Economic Recession,"['Economic Indicator', 'Unemployment Rate']",True,llama3-8b,finance
+Natural Disaster,"['Geographic Location', 'Economic Indicator']",True,llama3-8b,finance
+Cybersecurity Breach,"['Company Name', 'Industry Sector']",True,llama3-8b,finance
+Currency Devaluation,"['Currency Exchange Rate', 'Economic Policy']",True,llama3-8b,finance
+Trade War Escalation,"['Trade Policy', 'Economic Indicator']",True,llama3-8b,finance
+Interest Rate Hike,"['Central Bank Interest Rate', 'Economic Indicator']",True,llama3-8b,finance
+Market Volatility Surge,"['Stock Market Index', 'Economic Indicator']",True,llama3-8b,finance
+Credit Rating Downgrade,"['Company Name', 'Industry Sector']",False,llama3-8b,finance
+Company Acquisition,"['Company Credit Rating', 'Bond Yield']",False,llama3-8b,finance
+Regulatory Change,"['Central Bank Interest Rate', 'Economic Indicator']",False,llama3-8b,finance
+Company Acquisition,"['Economic Indicator', 'Unemployment Rate']",False,llama3-8b,finance
+Economic Recession,"['Company Name', 'Industry Sector']",False,llama3-8b,finance
+Natural Disaster,"['Central Bank Interest Rate', 'Economic Indicator']",False,llama3-8b,finance
+Cybersecurity Breach,"['Company Name', 'Industry Sector']",False,llama3-8b,finance
+Economic Recession,"['Geographic Location', 'Economic Indicator']",False,llama3-8b,finance
+Natural Disaster,"['Company Name', 'Industry Sector']",False,llama3-8b,finance
+Credit Rating Downgrade,"['Financial Regulation', 'Industry Sector']",False,llama3-8b,finance
+Implementation of bike-sharing programs,"['Sustainable transportation', 'Urban mobility']",True,mixtral-8x7b-instruct,urban studies
+Widespread use of smart city technologies,"['Efficient resource management', 'Resident satisfaction']",True,mixtral-8x7b-instruct,urban studies
+Availability of green roofs and walls,"['Urban heat island effect', 'Biodiversity']",True,mixtral-8x7b-instruct,urban studies
+Presence of public art installations,"['Public space quality', 'Community engagement']",True,mixtral-8x7b-instruct,urban studies
+High density of coffee shops,"['Economic vitality', 'Walkability']",True,mixtral-8x7b-instruct,urban studies
+Prevalence of adaptive reuse projects,"['Historic preservation', 'Sustainable development']",True,mixtral-8x7b-instruct,urban studies
+Integration of green infrastructure,"['Climate change resilience', 'Liveability']",True,mixtral-8x7b-instruct,urban studies
+High concentration of cultural institutions,"['Cultural vitality', 'Tourist appeal']",True,mixtral-8x7b-instruct,urban studies
+Robust public transportation network,"['Air quality', 'Social equity']",True,mixtral-8x7b-instruct,urban studies
+Proliferation of coworking spaces,"['Economic diversity', 'Innovation ecosystem']",True,mixtral-8x7b-instruct,urban studies
+Implementation of bike-sharing programs,"['Economic diversity', 'Innovation ecosystem']",False,mixtral-8x7b-instruct,urban studies
+Widespread use of smart city technologies,"['Urban heat island effect', 'Biodiversity']",False,mixtral-8x7b-instruct,urban studies
+Implementation of bike-sharing programs,"['Historic preservation', 'Sustainable development']",False,mixtral-8x7b-instruct,urban studies
+Availability of green roofs and walls,"['Historic preservation', 'Sustainable development']",False,mixtral-8x7b-instruct,urban studies
+Widespread use of smart city technologies,"['Climate change resilience', 'Liveability']",False,mixtral-8x7b-instruct,urban studies
+Presence of public art installations,"['Efficient resource management', 'Resident satisfaction']",False,mixtral-8x7b-instruct,urban studies
+Widespread use of smart city technologies,"['Air quality', 'Social equity']",False,mixtral-8x7b-instruct,urban studies
+High density of coffee shops,"['Sustainable transportation', 'Urban mobility']",False,mixtral-8x7b-instruct,urban studies
+Widespread use of smart city technologies,"['Public space quality', 'Community engagement']",False,mixtral-8x7b-instruct,urban studies
+Implementation of bike-sharing programs,"['Cultural vitality', 'Tourist appeal']",False,mixtral-8x7b-instruct,urban studies
+pair production,"['Particle process', 'Particle type', 'Particle type']",True,mixtral-8x7b-instruct,physics
+Cherenkov radiation,"['Optical phenomenon', 'Medium', 'Particle motion']",True,mixtral-8x7b-instruct,physics
+nuclear fission,"['Nuclear process', 'Nucleon count']",True,mixtral-8x7b-instruct,physics
+superconductivity,"['Electrical property', 'Temperature']",True,mixtral-8x7b-instruct,physics
+photoelectric effect,"['Optical phenomenon', 'Energy type']",True,mixtral-8x7b-instruct,physics
+electron-proton collision,"['Particle type', 'Particle type']",True,mixtral-8x7b-instruct,physics
+quantum entanglement,"['Quantum state', 'Spatial separation']",True,mixtral-8x7b-instruct,physics
+gravitational wave emission,"['Physical process', 'Energy state']",True,mixtral-8x7b-instruct,physics
+black hole formation,"['Astrophysical object', 'Mass concentration']",True,mixtral-8x7b-instruct,physics
+pair production,"['Physical process', 'Energy state']",False,mixtral-8x7b-instruct,physics
+Cherenkov radiation,"['Optical phenomenon', 'Energy type']",False,mixtral-8x7b-instruct,physics
+nuclear fission,"['Optical phenomenon', 'Medium', 'Particle motion']",False,mixtral-8x7b-instruct,physics
+Cherenkov radiation,"['Electrical property', 'Temperature']",False,mixtral-8x7b-instruct,physics
+photoelectric effect,"['Electrical property', 'Temperature']",False,mixtral-8x7b-instruct,physics
+electron-proton collision,"['Astrophysical object', 'Mass concentration']",False,mixtral-8x7b-instruct,physics
+quantum entanglement,"['Physical process', 'Energy state']",False,mixtral-8x7b-instruct,physics
+superconductivity,"['Astrophysical object', 'Mass concentration']",False,mixtral-8x7b-instruct,physics
+gravitational wave emission,"['Optical phenomenon', 'Medium', 'Particle motion']",False,mixtral-8x7b-instruct,physics
+gravitational wave emission,"['Nuclear process', 'Nucleon count']",False,mixtral-8x7b-instruct,physics
+Poor Diet and Sedentary Lifestyle,"['Diet Quality', 'Physical Activity Level']",True,mixtral-8x7b-instruct,health
+Advanced Age and Chronic Stress,"['Age', 'Stress Levels']",True,mixtral-8x7b-instruct,health
+Genetic Predisposition and Environmental Toxins,"['Genetic Factors', 'Environmental Exposure']",True,mixtral-8x7b-instruct,health
+Physical Inactivity and Obesity,"['Physical Activity Level', 'Body Mass Index']",True,mixtral-8x7b-instruct,health
+Mental Health Disorders and Substance Abuse,"['Mental Health', 'Substance Abuse']",True,mixtral-8x7b-instruct,health
+Medication Use and Liver Disease,"['Medication Use', 'Liver Health']",True,mixtral-8x7b-instruct,health
+Asthma and Air Pollution,"['Respiratory Health', 'Air Quality']",True,mixtral-8x7b-instruct,health
+Unprotected Sun Exposure and Fair Skin,"['Sun Protection Practices', 'Skin Type']",True,mixtral-8x7b-instruct,health
+Smoking and Alcohol Consumption,"['Smoking Status', 'Alcohol Consumption']",True,mixtral-8x7b-instruct,health
+Pregnancy and Diabetes,"['Pregnancy Status', 'Blood Sugar Levels']",True,mixtral-8x7b-instruct,health
+Poor Diet and Sedentary Lifestyle,"['Mental Health', 'Substance Abuse']",False,mixtral-8x7b-instruct,health
+Genetic Predisposition and Environmental Toxins,"['Medication Use', 'Liver Health']",False,mixtral-8x7b-instruct,health
+Physical Inactivity and Obesity,"['Smoking Status', 'Alcohol Consumption']",False,mixtral-8x7b-instruct,health
+Advanced Age and Chronic Stress,"['Genetic Factors', 'Environmental Exposure']",False,mixtral-8x7b-instruct,health
+Mental Health Disorders and Substance Abuse,"['Genetic Factors', 'Environmental Exposure']",False,mixtral-8x7b-instruct,health
+Medication Use and Liver Disease,"['Smoking Status', 'Alcohol Consumption']",False,mixtral-8x7b-instruct,health
+Medication Use and Liver Disease,"['Age', 'Stress Levels']",False,mixtral-8x7b-instruct,health
+Mental Health Disorders and Substance Abuse,"['Smoking Status', 'Alcohol Consumption']",False,mixtral-8x7b-instruct,health
+Unprotected Sun Exposure and Fair Skin,"['Genetic Factors', 'Environmental Exposure']",False,mixtral-8x7b-instruct,health
+Smoking and Alcohol Consumption,"['Genetic Factors', 'Environmental Exposure']",False,mixtral-8x7b-instruct,health
+Delamination,"['Underfill material', 'Curing process']",True,mixtral-8x7b-instruct,semiconductor manufacturing
+Yield loss,"['Process control', 'Equipment maintenance']",True,mixtral-8x7b-instruct,semiconductor manufacturing
+Electromigration,"['Current density', 'Temperature']",True,mixtral-8x7b-instruct,semiconductor manufacturing
+Crystal defects,"['Annealing temperature', 'Annealing time']",True,mixtral-8x7b-instruct,semiconductor manufacturing
+Thin film stress,"['Deposition rate', 'Substrate temperature']",True,mixtral-8x7b-instruct,semiconductor manufacturing
+Etching profile distortion,"['Etchant type', 'Pressure']",True,mixtral-8x7b-instruct,semiconductor manufacturing
+Doping concentration fluctuation,"['Doping material', 'Doping method']",True,mixtral-8x7b-instruct,semiconductor manufacturing
+Package cracking,"['Thermal expansion coefficient', 'Package design']",True,mixtral-8x7b-instruct,semiconductor manufacturing
+Short channel effect,"['Gate length', 'Doping concentration']",True,mixtral-8x7b-instruct,semiconductor manufacturing
+Photolithography misalignment,"['Photolithography equipment condition', 'Wafer handling procedure']",True,mixtral-8x7b-instruct,semiconductor manufacturing
+Delamination,"['Thermal expansion coefficient', 'Package design']",False,mixtral-8x7b-instruct,semiconductor manufacturing
+Yield loss,"['Deposition rate', 'Substrate temperature']",False,mixtral-8x7b-instruct,semiconductor manufacturing
+Electromigration,"['Gate length', 'Doping concentration']",False,mixtral-8x7b-instruct,semiconductor manufacturing
+Delamination,"['Current density', 'Temperature']",False,mixtral-8x7b-instruct,semiconductor manufacturing
+Crystal defects,"['Gate length', 'Doping concentration']",False,mixtral-8x7b-instruct,semiconductor manufacturing
+Thin film stress,"['Photolithography equipment condition', 'Wafer handling procedure']",False,mixtral-8x7b-instruct,semiconductor manufacturing
+Electromigration,"['Thermal expansion coefficient', 'Package design']",False,mixtral-8x7b-instruct,semiconductor manufacturing
+Yield loss,"['Thermal expansion coefficient', 'Package design']",False,mixtral-8x7b-instruct,semiconductor manufacturing
+Etching profile distortion,"['Doping material', 'Doping method']",False,mixtral-8x7b-instruct,semiconductor manufacturing
+Package cracking,"['Doping material', 'Doping method']",False,mixtral-8x7b-instruct,semiconductor manufacturing
+Disk usage,"['Used disk space', 'Total disk space']",True,mixtral-8x7b-instruct,computer science
+Software version,"['Major release', 'Minor release']",True,mixtral-8x7b-instruct,computer science
+File compression,"['Original file size', 'Compressed file size']",True,mixtral-8x7b-instruct,computer science
+Encryption strength,"['Algorithm complexity', 'Key length']",True,mixtral-8x7b-instruct,computer science
+Network latency,"['Round-trip time', 'Packet loss']",True,mixtral-8x7b-instruct,computer science
+API request,"['Endpoint', 'HTTP method']",True,mixtral-8x7b-instruct,computer science
+Code quality,"['Code coverage', 'Code complexity']",True,mixtral-8x7b-instruct,computer science
+GPU performance,"['Clock speed', 'Memory size']",True,mixtral-8x7b-instruct,computer science
+Data transfer rate,"['Data volume', 'Transfer time']",True,mixtral-8x7b-instruct,computer science
+Concurrent CPU and RAM usage,"['CPU usage', 'RAM usage']",True,mixtral-8x7b-instruct,computer science
+Disk usage,"['Data volume', 'Transfer time']",False,mixtral-8x7b-instruct,computer science
+Software version,"['Code coverage', 'Code complexity']",False,mixtral-8x7b-instruct,computer science
+File compression,"['Used disk space', 'Total disk space']",False,mixtral-8x7b-instruct,computer science
+Encryption strength,"['Round-trip time', 'Packet loss']",False,mixtral-8x7b-instruct,computer science
+Network latency,"['Original file size', 'Compressed file size']",False,mixtral-8x7b-instruct,computer science
+Disk usage,"['Major release', 'Minor release']",False,mixtral-8x7b-instruct,computer science
+API request,"['Round-trip time', 'Packet loss']",False,mixtral-8x7b-instruct,computer science
+Code quality,"['Endpoint', 'HTTP method']",False,mixtral-8x7b-instruct,computer science
+Software version,"['Algorithm complexity', 'Key length']",False,mixtral-8x7b-instruct,computer science
+Code quality,"['Round-trip time', 'Packet loss']",False,mixtral-8x7b-instruct,computer science
+Food desert,"['Location', 'Access']",True,mixtral-8x7b-instruct,sociology
+Gender wage gap,"['Gender', 'Income']",True,mixtral-8x7b-instruct,sociology
+Climate change vulnerability,"['Geographic area', 'Climate impact']",True,mixtral-8x7b-instruct,sociology
+Elderly population density,"['Age group', 'Population density']",True,mixtral-8x7b-instruct,sociology
+Single mother households,"['Marital status', 'Household type']",True,mixtral-8x7b-instruct,sociology
+Digital divide,"['Income group', 'Technology access']",True,mixtral-8x7b-instruct,sociology
+Youth unemployment,"['Economic status', 'Age group']",True,mixtral-8x7b-instruct,sociology
+Racial wealth gap,"['Race', 'Wealth']",True,mixtral-8x7b-instruct,sociology
+Female literacy rate,"['Gender', 'Educational attainment']",True,mixtral-8x7b-instruct,sociology
+Rural urban migration,"['Residence', 'Migration']",True,mixtral-8x7b-instruct,sociology
+Food desert,"['Geographic area', 'Climate impact']",False,mixtral-8x7b-instruct,sociology
+Gender wage gap,"['Economic status', 'Age group']",False,mixtral-8x7b-instruct,sociology
+Elderly population density,"['Race', 'Wealth']",False,mixtral-8x7b-instruct,sociology
+Single mother households,"['Economic status', 'Age group']",False,mixtral-8x7b-instruct,sociology
+Digital divide,"['Location', 'Access']",False,mixtral-8x7b-instruct,sociology
+Elderly population density,"['Income group', 'Technology access']",False,mixtral-8x7b-instruct,sociology
+Single mother households,"['Race', 'Wealth']",False,mixtral-8x7b-instruct,sociology
+Elderly population density,"['Marital status', 'Household type']",False,mixtral-8x7b-instruct,sociology
+Youth unemployment,"['Gender', 'Educational attainment']",False,mixtral-8x7b-instruct,sociology
+Youth unemployment,"['Gender', 'Income']",False,mixtral-8x7b-instruct,sociology
+Creative thinking,"['Problem approach', 'Cognitive flexibility']",True,mixtral-8x7b-instruct,psychology
+Imposter syndrome,"['Self-perception', 'Context']",True,mixtral-8x7b-instruct,psychology
+Empathetic response,"['Emotion', 'Reaction type']",True,mixtral-8x7b-instruct,psychology
+Competitive attitude,"['Motivation', 'Goal orientation']",True,mixtral-8x7b-instruct,psychology
+Perfectionism,"['Striving for excellence', 'Reaction to mistakes']",True,mixtral-8x7b-instruct,psychology
+Fear of public speaking,"['Fear level', 'Speaking context']",True,mixtral-8x7b-instruct,psychology
+Growth mindset,"['Belief about abilities', 'Response to challenges']",True,mixtral-8x7b-instruct,psychology
+Flow state,"['Concentration level', 'Challenge-skill balance']",True,mixtral-8x7b-instruct,psychology
+Burnout,"['Emotional exhaustion', 'Work engagement']",True,mixtral-8x7b-instruct,psychology
+Resilience,"['Adversity', 'Bounce-back ability']",True,mixtral-8x7b-instruct,psychology
+Creative thinking,"['Adversity', 'Bounce-back ability']",False,mixtral-8x7b-instruct,psychology
+Imposter syndrome,"['Emotional exhaustion', 'Work engagement']",False,mixtral-8x7b-instruct,psychology
+Empathetic response,"['Problem approach', 'Cognitive flexibility']",False,mixtral-8x7b-instruct,psychology
+Competitive attitude,"['Belief about abilities', 'Response to challenges']",False,mixtral-8x7b-instruct,psychology
+Perfectionism,"['Self-perception', 'Context']",False,mixtral-8x7b-instruct,psychology
+Fear of public speaking,"['Striving for excellence', 'Reaction to mistakes']",False,mixtral-8x7b-instruct,psychology
+Imposter syndrome,"['Striving for excellence', 'Reaction to mistakes']",False,mixtral-8x7b-instruct,psychology
+Creative thinking,"['Belief about abilities', 'Response to challenges']",False,mixtral-8x7b-instruct,psychology
+Creative thinking,"['Emotion', 'Reaction type']",False,mixtral-8x7b-instruct,psychology
+Creative thinking,"['Striving for excellence', 'Reaction to mistakes']",False,mixtral-8x7b-instruct,psychology
+Share Buyback,"['Shareholder Returns', 'Company Financials']",True,mixtral-8x7b-instruct,finance
+Acquisition of New Technology,"['Company Capabilities', 'Competitive Advantage']",True,mixtral-8x7b-instruct,finance
+Stock Split Announcement,"['Market Sentiment', 'Company Financials']",True,mixtral-8x7b-instruct,finance
+Merger Announcement,"['Market Capitalization', 'Competitive Landscape']",True,mixtral-8x7b-instruct,finance
+Product Recall,"['Company Financials', 'Brand Reputation']",True,mixtral-8x7b-instruct,finance
+Regulatory Fine,"['Company Financials', 'Regulatory Compliance']",True,mixtral-8x7b-instruct,finance
+Interest Rate Hike,"['Borrowing Costs', 'Investment Returns']",True,mixtral-8x7b-instruct,finance
+Earnings Beat,"['Market Sentiment', 'Company Financials']",True,mixtral-8x7b-instruct,finance
+Dividend Declaration,"['Shareholder Returns', 'Company Financials']",True,mixtral-8x7b-instruct,finance
+New Product Launch,"['Revenue Streams', 'Market Share']",True,mixtral-8x7b-instruct,finance
+Share Buyback,"['Company Capabilities', 'Competitive Advantage']",False,mixtral-8x7b-instruct,finance
+Stock Split Announcement,"['Market Capitalization', 'Competitive Landscape']",False,mixtral-8x7b-instruct,finance
+Merger Announcement,"['Company Capabilities', 'Competitive Advantage']",False,mixtral-8x7b-instruct,finance
+Product Recall,"['Company Financials', 'Regulatory Compliance']",False,mixtral-8x7b-instruct,finance
+Share Buyback,"['Market Sentiment', 'Company Financials']",False,mixtral-8x7b-instruct,finance
+Regulatory Fine,"['Market Sentiment', 'Company Financials']",False,mixtral-8x7b-instruct,finance
+Interest Rate Hike,"['Revenue Streams', 'Market Share']",False,mixtral-8x7b-instruct,finance
+Merger Announcement,"['Company Financials', 'Brand Reputation']",False,mixtral-8x7b-instruct,finance
+Interest Rate Hike,"['Company Financials', 'Brand Reputation']",False,mixtral-8x7b-instruct,finance
+Earnings Beat,"['Company Financials', 'Brand Reputation']",False,mixtral-8x7b-instruct,finance
+Public-Private Partnerships and Urban Planning,"['Governance', 'Urban Planning']",True,mistral-7b-instruct,urban studies
+Smart Cities and Public Safety,"['Technological Infrastructure', 'Public Safety']",True,mistral-7b-instruct,urban studies
+Affordable Housing and Community Centers,"['Housing Market', 'Community Amenities']",True,mistral-7b-instruct,urban studies
+Public-Private Transportation and Urban Planning,"['Transportation Infrastructure', 'Urban Planning']",True,mistral-7b-instruct,urban studies
+Sustainable Agriculture and Urban Gardens,"['Agriculture', 'Urban Planning']",True,mistral-7b-instruct,urban studies
+Smart Grid and Energy Efficiency,"['Energy Infrastructure', 'Building Design']",True,mistral-7b-instruct,urban studies
+Green Spaces and Public Transportation,"['Environmental Sustainability', 'Transportation Infrastructure']",True,mistral-7b-instruct,urban studies
+Urban Renewal Projects,"['Infrastructure Development', 'Housing Market', 'Economic Development']",True,mistral-7b-instruct,urban studies
+Mixed-Use Developments,"['Land Use Planning', 'Transportation Infrastructure']",True,mistral-7b-instruct,urban studies
+Walkable Neighborhoods and Public Art,"['Transportation Infrastructure', 'Community Amenities']",True,mistral-7b-instruct,urban studies
+Public-Private Partnerships and Urban Planning,"['Infrastructure Development', 'Housing Market', 'Economic Development']",False,mistral-7b-instruct,urban studies
+Smart Cities and Public Safety,"['Transportation Infrastructure', 'Community Amenities']",False,mistral-7b-instruct,urban studies
+Public-Private Partnerships and Urban Planning,"['Agriculture', 'Urban Planning']",False,mistral-7b-instruct,urban studies
+Affordable Housing and Community Centers,"['Agriculture', 'Urban Planning']",False,mistral-7b-instruct,urban studies
+Public-Private Transportation and Urban Planning,"['Agriculture', 'Urban Planning']",False,mistral-7b-instruct,urban studies
+Sustainable Agriculture and Urban Gardens,"['Housing Market', 'Community Amenities']",False,mistral-7b-instruct,urban studies
+Sustainable Agriculture and Urban Gardens,"['Transportation Infrastructure', 'Community Amenities']",False,mistral-7b-instruct,urban studies
+Smart Grid and Energy Efficiency,"['Governance', 'Urban Planning']",False,mistral-7b-instruct,urban studies
+Sustainable Agriculture and Urban Gardens,"['Infrastructure Development', 'Housing Market', 'Economic Development']",False,mistral-7b-instruct,urban studies
+Green Spaces and Public Transportation,"['Energy Infrastructure', 'Building Design']",False,mistral-7b-instruct,urban studies
+Energy and work,"['Energy', 'Work']",True,mistral-7b-instruct,physics
+Frequency and wavelength of a wave,"['Frequency', 'Wavelength']",True,mistral-7b-instruct,physics
+Electromagnetic field intensity and magnetic flux density,"['Electromagnetic field', 'Magnetic flux density']",True,mistral-7b-instruct,physics
+Potential energy and gravitational force,"['Potential energy', 'Gravitational force']",True,mistral-7b-instruct,physics
+Magnetic field and electric current,"['Magnetic field', 'Electric current']",True,mistral-7b-instruct,physics
+Angular momentum and torque,"['Angular momentum', 'Torque']",True,mistral-7b-instruct,physics
+Velocity and acceleration of an object,"['Velocity', 'Acceleration']",True,mistral-7b-instruct,physics
+Electric charge and electric field,"['Electric charge', 'Electric field']",True,mistral-7b-instruct,physics
+Temperature and pressure in a gas,"['Temperature', 'Pressure']",True,mistral-7b-instruct,physics
+Frequency and energy of a quantum particle,"['Frequency', 'Energy']",True,mistral-7b-instruct,physics
+Frequency and wavelength of a wave,"['Frequency', 'Energy']",False,mistral-7b-instruct,physics
+Electromagnetic field intensity and magnetic flux density,"['Frequency', 'Wavelength']",False,mistral-7b-instruct,physics
+Electromagnetic field intensity and magnetic flux density,"['Potential energy', 'Gravitational force']",False,mistral-7b-instruct,physics
+Potential energy and gravitational force,"['Electromagnetic field', 'Magnetic flux density']",False,mistral-7b-instruct,physics
+Angular momentum and torque,"['Frequency', 'Energy']",False,mistral-7b-instruct,physics
+Velocity and acceleration of an object,"['Frequency', 'Energy']",False,mistral-7b-instruct,physics
+Electromagnetic field intensity and magnetic flux density,"['Temperature', 'Pressure']",False,mistral-7b-instruct,physics
+Electric charge and electric field,"['Magnetic field', 'Electric current']",False,mistral-7b-instruct,physics
+Potential energy and gravitational force,"['Temperature', 'Pressure']",False,mistral-7b-instruct,physics
+Velocity and acceleration of an object,"['Frequency', 'Wavelength']",False,mistral-7b-instruct,physics
+Physical inactivity and osteoporosis,"['Physical activity level', 'Risk of osteoporosis']",True,mistral-7b-instruct,health
+Environmental pollution and cardiovascular disease,"['Exposure to environmental pollutants', 'Risk of cardiovascular disease']",True,mistral-7b-instruct,health
+Processed food intake and inflammation,"['Consumption of processed foods', 'Inflammation']",True,mistral-7b-instruct,health
+Alcohol consumption and liver disease,"['Alcohol consumption', 'Liver disease']",True,mistral-7b-instruct,health
+Sedentary lifestyle and mental health,"['Sedentary behavior', 'Mental health']",True,mistral-7b-instruct,health
+Genetic predisposition to diabetes and obesity,"['Genetic factors influencing the risk of developing diabetes', 'Genetic factors influencing the risk of developing obesity']",True,mistral-7b-instruct,health
+Poor hygiene and skin infections,"['Personal hygiene', 'Risk of skin infections']",True,mistral-7b-instruct,health
+Stress and gastrointestinal issues,"['Level of stress', 'Gastrointestinal issues']",True,mistral-7b-instruct,health
+Smoking and respiratory issues,"['Smoking behavior', 'Respiratory issues']",True,mistral-7b-instruct,health
+Poor sleep quality and immune system function,"['Quality of sleep', 'Immune system function']",True,mistral-7b-instruct,health
+Physical inactivity and osteoporosis,"['Genetic factors influencing the risk of developing diabetes', 'Genetic factors influencing the risk of developing obesity']",False,mistral-7b-instruct,health
+Environmental pollution and cardiovascular disease,"['Physical activity level', 'Risk of osteoporosis']",False,mistral-7b-instruct,health
+Processed food intake and inflammation,"['Smoking behavior', 'Respiratory issues']",False,mistral-7b-instruct,health
+Alcohol consumption and liver disease,"['Level of stress', 'Gastrointestinal issues']",False,mistral-7b-instruct,health
+Sedentary lifestyle and mental health,"['Alcohol consumption', 'Liver disease']",False,mistral-7b-instruct,health
+Physical inactivity and osteoporosis,"['Alcohol consumption', 'Liver disease']",False,mistral-7b-instruct,health
+Environmental pollution and cardiovascular disease,"['Quality of sleep', 'Immune system function']",False,mistral-7b-instruct,health
+Sedentary lifestyle and mental health,"['Genetic factors influencing the risk of developing diabetes', 'Genetic factors influencing the risk of developing obesity']",False,mistral-7b-instruct,health
+Genetic predisposition to diabetes and obesity,"['Consumption of processed foods', 'Inflammation']",False,mistral-7b-instruct,health
+Alcohol consumption and liver disease,"['Physical activity level', 'Risk of osteoporosis']",False,mistral-7b-instruct,health
+Electromagnetic interference during testing,"['Electromagnetic compatibility during semiconductor testing', 'Semiconductor device design']",True,mistral-7b-instruct,semiconductor manufacturing
+Mechanical stress during handling,"['Handling procedures for semiconductor devices', 'Semiconductor device design']",True,mistral-7b-instruct,semiconductor manufacturing
+Contamination from manufacturing equipment,"['Cleanliness of semiconductor manufacturing environment', 'Material compatibility during semiconductor manufacturing']",True,mistral-7b-instruct,semiconductor manufacturing
+Vibration during manufacturing,"['Manufacturing conditions for semiconductor devices', 'Semiconductor device design']",True,mistral-7b-instruct,semiconductor manufacturing
+Particle contamination during packaging,"['Cleanliness of semiconductor packaging process', 'Semiconductor device design']",True,mistral-7b-instruct,semiconductor manufacturing
+Power supply instability during operation,"['Power supply stability during semiconductor operation', 'Semiconductor device design']",True,mistral-7b-instruct,semiconductor manufacturing
+Humidity exposure during storage,"['Storage conditions for semiconductor devices', 'Semiconductor device design']",True,mistral-7b-instruct,semiconductor manufacturing
+Radiation exposure during transportation,"['Transportation conditions for semiconductor devices', 'Semiconductor device design']",True,mistral-7b-instruct,semiconductor manufacturing
+Corrosive chemicals during cleaning,"['Cleaning procedures for semiconductor devices', 'Semiconductor device design']",True,mistral-7b-instruct,semiconductor manufacturing
+Temperature excursion during processing,"['Temperature control during semiconductor manufacturing', 'Temperature sensitivity of semiconductor materials']",True,mistral-7b-instruct,semiconductor manufacturing
+Electromagnetic interference during testing,"['Power supply stability during semiconductor operation', 'Semiconductor device design']",False,mistral-7b-instruct,semiconductor manufacturing
+Mechanical stress during handling,"['Cleaning procedures for semiconductor devices', 'Semiconductor device design']",False,mistral-7b-instruct,semiconductor manufacturing
+Contamination from manufacturing equipment,"['Transportation conditions for semiconductor devices', 'Semiconductor device design']",False,mistral-7b-instruct,semiconductor manufacturing
+Mechanical stress during handling,"['Temperature control during semiconductor manufacturing', 'Temperature sensitivity of semiconductor materials']",False,mistral-7b-instruct,semiconductor manufacturing
+Electromagnetic interference during testing,"['Manufacturing conditions for semiconductor devices', 'Semiconductor device design']",False,mistral-7b-instruct,semiconductor manufacturing
+Vibration during manufacturing,"['Handling procedures for semiconductor devices', 'Semiconductor device design']",False,mistral-7b-instruct,semiconductor manufacturing
+Electromagnetic interference during testing,"['Transportation conditions for semiconductor devices', 'Semiconductor device design']",False,mistral-7b-instruct,semiconductor manufacturing
+Particle contamination during packaging,"['Cleaning procedures for semiconductor devices', 'Semiconductor device design']",False,mistral-7b-instruct,semiconductor manufacturing
+Power supply instability during operation,"['Transportation conditions for semiconductor devices', 'Semiconductor device design']",False,mistral-7b-instruct,semiconductor manufacturing
+Power supply instability during operation,"['Cleanliness of semiconductor packaging process', 'Semiconductor device design']",False,mistral-7b-instruct,semiconductor manufacturing
+SQL injection attack in web application,"['Web Application Security', 'Database Management']",True,mistral-7b-instruct,computer science
+Man-in-the-middle attack on encrypted communication,"['Encrypted Communication', 'Network Security']",True,mistral-7b-instruct,computer science
+Race condition in real-time system,"['Real-time Systems', 'Concurrency']",True,mistral-7b-instruct,computer science
+Buffer overflow in network protocol implementation,"['Network Protocols', 'Memory Management']",True,mistral-7b-instruct,computer science
+Denial of Service attack on web server,"['Web Servers', 'Network Security']",True,mistral-7b-instruct,computer science
+Time of Check to Time of Use vulnerability in operating system,"['Operating Systems', 'Security']",True,mistral-7b-instruct,computer science
+Deadlock in database management system,"['Database Management Systems', 'Concurrency']",True,mistral-7b-instruct,computer science
+Heartbleed bug in SSL/TLS encryption,"['SSL/TLS Encryption', 'Network Security']",True,mistral-7b-instruct,computer science
+Cross-site scripting vulnerability in web application,"['Web Application Security', 'Web Development']",True,mistral-7b-instruct,computer science
+Memory leak in multithreaded environment,"['Memory Management', 'Concurrency']",True,mistral-7b-instruct,computer science
+SQL injection attack in web application,"['Network Protocols', 'Memory Management']",False,mistral-7b-instruct,computer science
+Man-in-the-middle attack on encrypted communication,"['Web Application Security', 'Database Management']",False,mistral-7b-instruct,computer science
+Race condition in real-time system,"['Web Application Security', 'Web Development']",False,mistral-7b-instruct,computer science
+SQL injection attack in web application,"['Web Application Security', 'Web Development']",False,mistral-7b-instruct,computer science
+SQL injection attack in web application,"['Operating Systems', 'Security']",False,mistral-7b-instruct,computer science
+Buffer overflow in network protocol implementation,"['Memory Management', 'Concurrency']",False,mistral-7b-instruct,computer science
+Time of Check to Time of Use vulnerability in operating system,"['Real-time Systems', 'Concurrency']",False,mistral-7b-instruct,computer science
+Time of Check to Time of Use vulnerability in operating system,"['Network Protocols', 'Memory Management']",False,mistral-7b-instruct,computer science
+Race condition in real-time system,"['Web Servers', 'Network Security']",False,mistral-7b-instruct,computer science
+Deadlock in database management system,"['Web Application Security', 'Web Development']",False,mistral-7b-instruct,computer science
+Migration and Ethnic Integration,"['Migration Patterns', 'Ethnic Relations']",True,mistral-7b-instruct,sociology
+Political Instability and Ethnic Tensions,"['Political Climate', 'Ethnic Relations']",True,mistral-7b-instruct,sociology
+Education and Social Mobility,"['Educational Attainment', 'Social Status']",True,mistral-7b-instruct,sociology
+Technological Advancement and Job Displacement,"['Technological Progress', 'Employment Situation']",True,mistral-7b-instruct,sociology
+Aging Population and Healthcare Burden,"['Population Demographics', 'Healthcare System']",True,mistral-7b-instruct,sociology
+Globalization and Cultural Homogenization,"['Global Economic System', 'Cultural Diversity']",True,mistral-7b-instruct,sociology
+Economic Depression and Social Unrest,"['Economic Conditions', 'Social Conditions']",True,mistral-7b-instruct,sociology
+Gender Role Conflict and Family Dysfunction,"['Gender Roles', 'Family Structure']",True,mistral-7b-instruct,sociology
+Media Consumption and Social Isolation,"['Media Usage', 'Social Interaction']",True,mistral-7b-instruct,sociology
+Urbanization and Environmental Degradation,"['Urban Development', 'Environmental Quality']",True,mistral-7b-instruct,sociology
+Migration and Ethnic Integration,"['Technological Progress', 'Employment Situation']",False,mistral-7b-instruct,sociology
+Education and Social Mobility,"['Urban Development', 'Environmental Quality']",False,mistral-7b-instruct,sociology
+Technological Advancement and Job Displacement,"['Population Demographics', 'Healthcare System']",False,mistral-7b-instruct,sociology
+Aging Population and Healthcare Burden,"['Media Usage', 'Social Interaction']",False,mistral-7b-instruct,sociology
+Migration and Ethnic Integration,"['Global Economic System', 'Cultural Diversity']",False,mistral-7b-instruct,sociology
+Political Instability and Ethnic Tensions,"['Media Usage', 'Social Interaction']",False,mistral-7b-instruct,sociology
+Gender Role Conflict and Family Dysfunction,"['Economic Conditions', 'Social Conditions']",False,mistral-7b-instruct,sociology
+Education and Social Mobility,"['Migration Patterns', 'Ethnic Relations']",False,mistral-7b-instruct,sociology
+Media Consumption and Social Isolation,"['Urban Development', 'Environmental Quality']",False,mistral-7b-instruct,sociology
+Education and Social Mobility,"['Population Demographics', 'Healthcare System']",False,mistral-7b-instruct,sociology
+Anxious-Depressive Symptoms,"['Anxiety', 'Depression']",True,mistral-7b-instruct,psychology
+Social Support and Mental Health,"['Social Support', 'Mental Health']",True,mistral-7b-instruct,psychology
+Self-Efficacy and Stress,"['Self-Efficacy', 'Stress']",True,mistral-7b-instruct,psychology
+Cognitive Dissonance,"['Belief', 'Attitude', 'Behavior']",True,mistral-7b-instruct,psychology
+Stress and Coping Resources,"['Stress', 'Coping Resources']",True,mistral-7b-instruct,psychology
+Achievement Goals and Motivation,"['Achievement Goals', 'Motivation']",True,mistral-7b-instruct,psychology
+Learned Helplessness,"['Perceived Control', 'Stressor']",True,mistral-7b-instruct,psychology
+Attachment Styles and Emotional Regulation,"['Attachment Styles', 'Emotional Regulation']",True,mistral-7b-instruct,psychology
+Self-Compassion and Resilience,"['Self-Compassion', 'Resilience']",True,mistral-7b-instruct,psychology
+Personality Traits and Coping Styles,"['Personality Traits', 'Coping Styles']",True,mistral-7b-instruct,psychology
+Self-Efficacy and Stress,"['Anxiety', 'Depression']",False,mistral-7b-instruct,psychology
+Cognitive Dissonance,"['Perceived Control', 'Stressor']",False,mistral-7b-instruct,psychology
+Social Support and Mental Health,"['Stress', 'Coping Resources']",False,mistral-7b-instruct,psychology
+Stress and Coping Resources,"['Achievement Goals', 'Motivation']",False,mistral-7b-instruct,psychology
+Achievement Goals and Motivation,"['Belief', 'Attitude', 'Behavior']",False,mistral-7b-instruct,psychology
+Learned Helplessness,"['Anxiety', 'Depression']",False,mistral-7b-instruct,psychology
+Cognitive Dissonance,"['Personality Traits', 'Coping Styles']",False,mistral-7b-instruct,psychology
+Social Support and Mental Health,"['Personality Traits', 'Coping Styles']",False,mistral-7b-instruct,psychology
+Attachment Styles and Emotional Regulation,"['Achievement Goals', 'Motivation']",False,mistral-7b-instruct,psychology
+Self-Compassion and Resilience,"['Stress', 'Coping Resources']",False,mistral-7b-instruct,psychology
+Debt-to-Equity Swap and Corporate Restructuring,"['Corporate Finance', 'Corporate Finance']",True,mistral-7b-instruct,finance
+Securitization and Mortgage-Backed Securities,"['Financial Markets', 'Mortgage Market']",True,mistral-7b-instruct,finance
+Bear Market Rally and Bull Market Correction,"['Stock Market', 'Stock Market']",True,mistral-7b-instruct,finance
+Technical Recession and Business Cycle,"['Economic Conditions', 'Business Cycle']",True,mistral-7b-instruct,finance
+Quantitative Easing and Currency War,"['Monetary Policy', 'Currency Markets']",True,mistral-7b-instruct,finance
+Interest Rate Hike and Currency Depreciation,"['Central Bank Policy', 'Currency Markets']",True,mistral-7b-instruct,finance
+Economic Downturn and High Inflation,"['Economic Conditions', 'Inflation Rates']",True,mistral-7b-instruct,finance
+Credit Crunch and Debt Crisis,"['Financial Markets', 'Economic Conditions']",True,mistral-7b-instruct,finance
+Dividend Aristocrats and Blue-Chip Stocks,"['Stock Market', 'Stock Market']",True,mistral-7b-instruct,finance
+Stock Market Crash and Recession,"['Stock Market', 'Economic Conditions']",True,mistral-7b-instruct,finance
+Debt-to-Equity Swap and Corporate Restructuring,"['Stock Market', 'Stock Market']",False,mistral-7b-instruct,finance
+Securitization and Mortgage-Backed Securities,"['Economic Conditions', 'Inflation Rates']",False,mistral-7b-instruct,finance
+Bear Market Rally and Bull Market Correction,"['Corporate Finance', 'Corporate Finance']",False,mistral-7b-instruct,finance
+Quantitative Easing and Currency War,"['Stock Market', 'Stock Market']",False,mistral-7b-instruct,finance
+Interest Rate Hike and Currency Depreciation,"['Stock Market', 'Stock Market']",False,mistral-7b-instruct,finance
+Securitization and Mortgage-Backed Securities,"['Central Bank Policy', 'Currency Markets']",False,mistral-7b-instruct,finance
+Securitization and Mortgage-Backed Securities,"['Stock Market', 'Economic Conditions']",False,mistral-7b-instruct,finance
+Debt-to-Equity Swap and Corporate Restructuring,"['Financial Markets', 'Mortgage Market']",False,mistral-7b-instruct,finance
+Bear Market Rally and Bull Market Correction,"['Stock Market', 'Economic Conditions']",False,mistral-7b-instruct,finance
+Economic Downturn and High Inflation,"['Economic Conditions', 'Business Cycle']",False,mistral-7b-instruct,finance
