@@ -1,6 +1,0 @@
-Value                                  Mechanical stress during handling
-Variable definition    ['Handling procedures for semiconductor device...
-Interaction Value                                                   True
-model Name                                           mistral-7b-instruct
-domain                                       semiconductor manufacturing
-Name: 380, dtype: object
