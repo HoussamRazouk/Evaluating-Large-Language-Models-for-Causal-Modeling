@@ -37,25 +37,19 @@ results_file=open(results_file_name,'w')
 
 embedding_model='text-embedding-3-large'
 
-embedding_cos_sim_df=pd.read_csv(input_path+f"cos_sim_{embedding_model}.csv")
+embedding_cos_sim_df=pd.read_csv(input_path+f"cos_sim_{embedding_model}_large.csv")
 
 thresholds=[]
 general_aggregated_results_compared_to_generated_data=[]
 
-general_results_compared_to_predicted_data0=[]
-general_results_compared_to_predicted_data1=[]
-general_results_compared_to_predicted_data2=[]
-general_results_compared_to_predicted_data3=[]
 
-general_results_compared_to_predicted_data=[[]]
+general_results_compared_to_generated_data=[]
+general_results_compared_to_predicted_data=[]
+for k in range(len(models)):
+    general_results_compared_to_predicted_data.append([])
+    general_results_compared_to_generated_data.append([])
 
 
-general_results_compared_to_generated_data0=[]
-general_results_compared_to_generated_data1=[]
-general_results_compared_to_generated_data2=[]
-general_results_compared_to_generated_data3=[]
-
-general_results_compared_to_generated_data=[[]]
 
 
 for i in [2,3,3.5,4,4.5,5,6,7,8]: ## iterate over the threshold 

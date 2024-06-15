@@ -59,16 +59,16 @@ agreement_on_domains=[
 ]
 
 
-agreement_with_data_generation_model0=[]
-agreement_with_data_generation_model1=[]
-agreement_with_data_generation_model2=[]
-agreement_with_data_generation_model3=[]
+
 
 agreement_with_data_generation_model=[
-    agreement_with_data_generation_model0,
-    agreement_with_data_generation_model1,
-    agreement_with_data_generation_model2,
-    agreement_with_data_generation_model3,
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
 ]
 
 for model in models:
@@ -121,6 +121,10 @@ plt.plot(models, agreement_with_data_generation_model[0], label=f'Agreement with
 plt.plot(models, agreement_with_data_generation_model[1], label=f'Agreement with generated data by {models[1]}', marker='$M$')
 plt.plot(models, agreement_with_data_generation_model[2], label=f'Agreement with generated data by {models[2]}', marker='$G3$')
 plt.plot(models, agreement_with_data_generation_model[3], label=f'Agreement with generated data by {models[3]}', marker='$G4$')
+plt.plot(models, agreement_with_data_generation_model[4], label=f'Agreement with generated data by {models[4]}', marker='$G4$')
+plt.plot(models, agreement_with_data_generation_model[5], label=f'Agreement with generated data by {models[5]}', marker='$G4$')
+plt.plot(models, agreement_with_data_generation_model[6], label=f'Agreement with generated data by {models[6]}', marker='$G4$')
+
 
 
 
