@@ -37,24 +37,15 @@ results_file=open(results_file_name,'w')
 
 genal_agreement=[]
 
-agreement_on_domain0=[]
-agreement_on_domain1=[]
-agreement_on_domain2=[]
-agreement_on_domain3=[]
-agreement_on_domain4=[]
-agreement_on_domain5=[]
-agreement_on_domain6=[]
-agreement_on_domain7=[]
 
 agreement_on_domains=[
-    agreement_on_domain0,
-    agreement_on_domain1,
-    agreement_on_domain2,
-    agreement_on_domain3,
-    agreement_on_domain4,
-    agreement_on_domain5,
-    agreement_on_domain6,
-    agreement_on_domain7,
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
 
 ]
 
