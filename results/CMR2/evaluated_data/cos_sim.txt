@@ -4,6 +4,12 @@ Precision: 0.58
 Recall: 0.99
 F1 Score: 0.73
 cohen_kappa Score: 0.27
+The obtained results based on cosine similarity of threshold 0.2 over gpt-4-turbo generating model and all domain:
+Accuracy: 0.79
+Precision: 0.70
+Recall: 1.00
+F1 Score: 0.82
+cohen_kappa Score: 0.57
 The obtained results based on cosine similarity of threshold 0.2 over llama3-70b generating model and all domain:
 Accuracy: 0.64
 Precision: 0.58
@@ -22,12 +28,6 @@ Precision: 0.54
 Recall: 0.98
 F1 Score: 0.70
 cohen_kappa Score: 0.15
-The obtained results based on cosine similarity of threshold 0.2 over gpt-4-turbo generating model and all domain:
-Accuracy: 0.79
-Precision: 0.70
-Recall: 1.00
-F1 Score: 0.82
-cohen_kappa Score: 0.57
 The obtained results based on cosine similarity of threshold 0.2 over llama3-8b generating model and all domain:
 Accuracy: 0.68
 Precision: 0.61
@@ -46,6 +46,12 @@ Precision: 0.55
 Recall: 1.00
 F1 Score: 0.71
 cohen_kappa Score: 0.18
+The obtained results based on cosine similarity of threshold 0.2 over gpt-4-turbo prediction model and all domain:
+Accuracy: 0.33
+Precision: 0.22
+Recall: 1.00
+F1 Score: 0.36
+cohen_kappa Score: 0.07
 The obtained results based on cosine similarity of threshold 0.2 over llama3-70b prediction model and all domain:
 Accuracy: 0.44
 Precision: 0.34
@@ -64,12 +70,6 @@ Precision: 0.16
 Recall: 0.99
 F1 Score: 0.27
 cohen_kappa Score: 0.05
-The obtained results based on cosine similarity of threshold 0.2 over gpt-4-turbo prediction model and all domain:
-Accuracy: 0.33
-Precision: 0.22
-Recall: 1.00
-F1 Score: 0.36
-cohen_kappa Score: 0.07
 The obtained results based on cosine similarity of threshold 0.2 over llama3-8b prediction model and all domain:
 Accuracy: 0.46
 Precision: 0.39
@@ -88,12 +88,108 @@ Precision: 0.03
 Recall: 1.00
 F1 Score: 0.06
 cohen_kappa Score: 0.01
+The obtained results based on cosine similarity of threshold 0.25 over all the generating models and domains:
+Accuracy: 0.79
+Precision: 0.71
+Recall: 0.97
+F1 Score: 0.82
+cohen_kappa Score: 0.58
+The obtained results based on cosine similarity of threshold 0.25 over gpt-4-turbo generating model and all domain:
+Accuracy: 0.89
+Precision: 0.85
+Recall: 0.96
+F1 Score: 0.90
+cohen_kappa Score: 0.79
+The obtained results based on cosine similarity of threshold 0.25 over llama3-70b generating model and all domain:
+Accuracy: 0.81
+Precision: 0.73
+Recall: 1.00
+F1 Score: 0.84
+cohen_kappa Score: 0.62
+The obtained results based on cosine similarity of threshold 0.25 over mixtral-8x22b-instruct generating model and all domain:
+Accuracy: 0.71
+Precision: 0.63
+Recall: 1.00
+F1 Score: 0.78
+cohen_kappa Score: 0.43
+The obtained results based on cosine similarity of threshold 0.25 over gpt-3.5-turbo generating model and all domain:
+Accuracy: 0.72
+Precision: 0.65
+Recall: 0.98
+F1 Score: 0.78
+cohen_kappa Score: 0.45
+The obtained results based on cosine similarity of threshold 0.25 over llama3-8b generating model and all domain:
+Accuracy: 0.79
+Precision: 0.73
+Recall: 0.94
+F1 Score: 0.82
+cohen_kappa Score: 0.59
+The obtained results based on cosine similarity of threshold 0.25 over mixtral-8x7b-instruct generating model and all domain:
+Accuracy: 0.77
+Precision: 0.71
+Recall: 0.91
+F1 Score: 0.80
+cohen_kappa Score: 0.54
+The obtained results based on cosine similarity of threshold 0.25 over mistral-7b-instruct generating model and all domain:
+Accuracy: 0.82
+Precision: 0.73
+Recall: 1.00
+F1 Score: 0.85
+cohen_kappa Score: 0.64
+The obtained results based on cosine similarity of threshold 0.25 over gpt-4-turbo prediction model and all domain:
+Accuracy: 0.50
+Precision: 0.27
+Recall: 0.99
+F1 Score: 0.42
+cohen_kappa Score: 0.19
+The obtained results based on cosine similarity of threshold 0.25 over llama3-70b prediction model and all domain:
+Accuracy: 0.59
+Precision: 0.42
+Recall: 0.96
+F1 Score: 0.58
+cohen_kappa Score: 0.29
+The obtained results based on cosine similarity of threshold 0.25 over mixtral-8x22b-instruct prediction model and all domain:
+Accuracy: 0.65
+Precision: 0.50
+Recall: 0.96
+F1 Score: 0.66
+cohen_kappa Score: 0.36
+The obtained results based on cosine similarity of threshold 0.25 over gpt-3.5-turbo prediction model and all domain:
+Accuracy: 0.44
+Precision: 0.19
+Recall: 0.95
+F1 Score: 0.32
+cohen_kappa Score: 0.12
+The obtained results based on cosine similarity of threshold 0.25 over llama3-8b prediction model and all domain:
+Accuracy: 0.59
+Precision: 0.45
+Recall: 0.90
+F1 Score: 0.60
+cohen_kappa Score: 0.27
+The obtained results based on cosine similarity of threshold 0.25 over mixtral-8x7b-instruct prediction model and all domain:
+Accuracy: 0.38
+Precision: 0.09
+Recall: 1.00
+F1 Score: 0.17
+cohen_kappa Score: 0.06
+The obtained results based on cosine similarity of threshold 0.25 over mistral-7b-instruct prediction model and all domain:
+Accuracy: 0.34
+Precision: 0.04
+Recall: 1.00
+F1 Score: 0.07
+cohen_kappa Score: 0.02
 The obtained results based on cosine similarity of threshold 0.30000000000000004 over all the generating models and domains:
 Accuracy: 0.86
 Precision: 0.83
 Recall: 0.91
 F1 Score: 0.87
 cohen_kappa Score: 0.73
+The obtained results based on cosine similarity of threshold 0.30000000000000004 over gpt-4-turbo generating model and all domain:
+Accuracy: 0.86
+Precision: 0.88
+Recall: 0.84
+F1 Score: 0.86
+cohen_kappa Score: 0.72
 The obtained results based on cosine similarity of threshold 0.30000000000000004 over llama3-70b generating model and all domain:
 Accuracy: 0.91
 Precision: 0.87
@@ -111,12 +207,6 @@ Accuracy: 0.86
 Precision: 0.82
 Recall: 0.94
 F1 Score: 0.87
-cohen_kappa Score: 0.72
-The obtained results based on cosine similarity of threshold 0.30000000000000004 over gpt-4-turbo generating model and all domain:
-Accuracy: 0.86
-Precision: 0.88
-Recall: 0.84
-F1 Score: 0.86
 cohen_kappa Score: 0.72
 The obtained results based on cosine similarity of threshold 0.30000000000000004 over llama3-8b generating model and all domain:
 Accuracy: 0.82
@@ -136,6 +226,12 @@ Precision: 0.84
 Recall: 0.98
 F1 Score: 0.90
 cohen_kappa Score: 0.79
+The obtained results based on cosine similarity of threshold 0.30000000000000004 over gpt-4-turbo prediction model and all domain:
+Accuracy: 0.62
+Precision: 0.32
+Recall: 0.95
+F1 Score: 0.48
+cohen_kappa Score: 0.28
 The obtained results based on cosine similarity of threshold 0.30000000000000004 over llama3-70b prediction model and all domain:
 Accuracy: 0.70
 Precision: 0.49
@@ -154,12 +250,6 @@ Precision: 0.22
 Recall: 0.89
 F1 Score: 0.36
 cohen_kappa Score: 0.18
-The obtained results based on cosine similarity of threshold 0.30000000000000004 over gpt-4-turbo prediction model and all domain:
-Accuracy: 0.62
-Precision: 0.32
-Recall: 0.95
-F1 Score: 0.48
-cohen_kappa Score: 0.28
 The obtained results based on cosine similarity of threshold 0.30000000000000004 over llama3-8b prediction model and all domain:
 Accuracy: 0.66
 Precision: 0.50
@@ -184,6 +274,12 @@ Precision: 0.92
 Recall: 0.77
 F1 Score: 0.84
 cohen_kappa Score: 0.71
+The obtained results based on cosine similarity of threshold 0.35000000000000003 over gpt-4-turbo generating model and all domain:
+Accuracy: 0.82
+Precision: 0.96
+Recall: 0.68
+F1 Score: 0.79
+cohen_kappa Score: 0.65
 The obtained results based on cosine similarity of threshold 0.35000000000000003 over llama3-70b generating model and all domain:
 Accuracy: 0.87
 Precision: 0.94
@@ -202,12 +298,6 @@ Precision: 0.92
 Recall: 0.75
 F1 Score: 0.83
 cohen_kappa Score: 0.69
-The obtained results based on cosine similarity of threshold 0.35000000000000003 over gpt-4-turbo generating model and all domain:
-Accuracy: 0.82
-Precision: 0.96
-Recall: 0.68
-F1 Score: 0.79
-cohen_kappa Score: 0.65
 The obtained results based on cosine similarity of threshold 0.35000000000000003 over llama3-8b generating model and all domain:
 Accuracy: 0.82
 Precision: 0.92
@@ -226,6 +316,12 @@ Precision: 0.89
 Recall: 0.92
 F1 Score: 0.91
 cohen_kappa Score: 0.81
+The obtained results based on cosine similarity of threshold 0.35000000000000003 over gpt-4-turbo prediction model and all domain:
+Accuracy: 0.72
+Precision: 0.38
+Recall: 0.87
+F1 Score: 0.53
+cohen_kappa Score: 0.37
 The obtained results based on cosine similarity of threshold 0.35000000000000003 over llama3-70b prediction model and all domain:
 Accuracy: 0.76
 Precision: 0.57
@@ -244,12 +340,6 @@ Precision: 0.25
 Recall: 0.79
 F1 Score: 0.38
 cohen_kappa Score: 0.23
-The obtained results based on cosine similarity of threshold 0.35000000000000003 over gpt-4-turbo prediction model and all domain:
-Accuracy: 0.72
-Precision: 0.38
-Recall: 0.87
-F1 Score: 0.53
-cohen_kappa Score: 0.37
 The obtained results based on cosine similarity of threshold 0.35000000000000003 over llama3-8b prediction model and all domain:
 Accuracy: 0.71
 Precision: 0.55
@@ -274,6 +364,12 @@ Precision: 0.96
 Recall: 0.59
 F1 Score: 0.73
 cohen_kappa Score: 0.57
+The obtained results based on cosine similarity of threshold 0.4 over gpt-4-turbo generating model and all domain:
+Accuracy: 0.72
+Precision: 1.00
+Recall: 0.44
+F1 Score: 0.61
+cohen_kappa Score: 0.44
 The obtained results based on cosine similarity of threshold 0.4 over llama3-70b generating model and all domain:
 Accuracy: 0.82
 Precision: 1.00
@@ -292,12 +388,6 @@ Precision: 0.98
 Recall: 0.49
 F1 Score: 0.65
 cohen_kappa Score: 0.48
-The obtained results based on cosine similarity of threshold 0.4 over gpt-4-turbo generating model and all domain:
-Accuracy: 0.72
-Precision: 1.00
-Recall: 0.44
-F1 Score: 0.61
-cohen_kappa Score: 0.44
 The obtained results based on cosine similarity of threshold 0.4 over llama3-8b generating model and all domain:
 Accuracy: 0.74
 Precision: 0.95
@@ -316,6 +406,12 @@ Precision: 0.93
 Recall: 0.78
 F1 Score: 0.84
 cohen_kappa Score: 0.71
+The obtained results based on cosine similarity of threshold 0.4 over gpt-4-turbo prediction model and all domain:
+Accuracy: 0.79
+Precision: 0.47
+Recall: 0.77
+F1 Score: 0.58
+cohen_kappa Score: 0.45
 The obtained results based on cosine similarity of threshold 0.4 over llama3-70b prediction model and all domain:
 Accuracy: 0.78
 Precision: 0.62
@@ -334,12 +430,6 @@ Precision: 0.30
 Recall: 0.68
 F1 Score: 0.42
 cohen_kappa Score: 0.28
-The obtained results based on cosine similarity of threshold 0.4 over gpt-4-turbo prediction model and all domain:
-Accuracy: 0.79
-Precision: 0.47
-Recall: 0.77
-F1 Score: 0.58
-cohen_kappa Score: 0.45
 The obtained results based on cosine similarity of threshold 0.4 over llama3-8b prediction model and all domain:
 Accuracy: 0.72
 Precision: 0.60
@@ -364,6 +454,12 @@ Precision: 0.98
 Recall: 0.42
 F1 Score: 0.59
 cohen_kappa Score: 0.41
+The obtained results based on cosine similarity of threshold 0.45 over gpt-4-turbo generating model and all domain:
+Accuracy: 0.62
+Precision: 1.00
+Recall: 0.24
+F1 Score: 0.38
+cohen_kappa Score: 0.24
 The obtained results based on cosine similarity of threshold 0.45 over llama3-70b generating model and all domain:
 Accuracy: 0.72
 Precision: 1.00
@@ -382,12 +478,6 @@ Precision: 1.00
 Recall: 0.26
 F1 Score: 0.42
 cohen_kappa Score: 0.26
-The obtained results based on cosine similarity of threshold 0.45 over gpt-4-turbo generating model and all domain:
-Accuracy: 0.62
-Precision: 1.00
-Recall: 0.24
-F1 Score: 0.38
-cohen_kappa Score: 0.24
 The obtained results based on cosine similarity of threshold 0.45 over llama3-8b generating model and all domain:
 Accuracy: 0.66
 Precision: 0.96
@@ -406,6 +496,12 @@ Precision: 0.98
 Recall: 0.71
 F1 Score: 0.83
 cohen_kappa Score: 0.70
+The obtained results based on cosine similarity of threshold 0.45 over gpt-4-turbo prediction model and all domain:
+Accuracy: 0.85
+Precision: 0.57
+Recall: 0.66
+F1 Score: 0.61
+cohen_kappa Score: 0.52
 The obtained results based on cosine similarity of threshold 0.45 over llama3-70b prediction model and all domain:
 Accuracy: 0.79
 Precision: 0.69
@@ -424,12 +520,6 @@ Precision: 0.37
 Recall: 0.58
 F1 Score: 0.45
 cohen_kappa Score: 0.34
-The obtained results based on cosine similarity of threshold 0.45 over gpt-4-turbo prediction model and all domain:
-Accuracy: 0.85
-Precision: 0.57
-Recall: 0.66
-F1 Score: 0.61
-cohen_kappa Score: 0.52
 The obtained results based on cosine similarity of threshold 0.45 over llama3-8b prediction model and all domain:
 Accuracy: 0.72
 Precision: 0.64
@@ -454,6 +544,12 @@ Precision: 1.00
 Recall: 0.25
 F1 Score: 0.41
 cohen_kappa Score: 0.25
+The obtained results based on cosine similarity of threshold 0.5 over gpt-4-turbo generating model and all domain:
+Accuracy: 0.54
+Precision: 1.00
+Recall: 0.09
+F1 Score: 0.16
+cohen_kappa Score: 0.09
 The obtained results based on cosine similarity of threshold 0.5 over llama3-70b generating model and all domain:
 Accuracy: 0.62
 Precision: 1.00
@@ -472,12 +568,6 @@ Precision: 1.00
 Recall: 0.15
 F1 Score: 0.26
 cohen_kappa Score: 0.15
-The obtained results based on cosine similarity of threshold 0.5 over gpt-4-turbo generating model and all domain:
-Accuracy: 0.54
-Precision: 1.00
-Recall: 0.09
-F1 Score: 0.16
-cohen_kappa Score: 0.09
 The obtained results based on cosine similarity of threshold 0.5 over llama3-8b generating model and all domain:
 Accuracy: 0.58
 Precision: 1.00
@@ -496,6 +586,12 @@ Precision: 1.00
 Recall: 0.50
 F1 Score: 0.67
 cohen_kappa Score: 0.50
+The obtained results based on cosine similarity of threshold 0.5 over gpt-4-turbo prediction model and all domain:
+Accuracy: 0.85
+Precision: 0.65
+Recall: 0.44
+F1 Score: 0.53
+cohen_kappa Score: 0.44
 The obtained results based on cosine similarity of threshold 0.5 over llama3-70b prediction model and all domain:
 Accuracy: 0.77
 Precision: 0.74
@@ -514,12 +610,6 @@ Precision: 0.39
 Recall: 0.37
 F1 Score: 0.38
 cohen_kappa Score: 0.29
-The obtained results based on cosine similarity of threshold 0.5 over gpt-4-turbo prediction model and all domain:
-Accuracy: 0.85
-Precision: 0.65
-Recall: 0.44
-F1 Score: 0.53
-cohen_kappa Score: 0.44
 The obtained results based on cosine similarity of threshold 0.5 over llama3-8b prediction model and all domain:
 Accuracy: 0.71
 Precision: 0.68
@@ -538,12 +628,108 @@ Precision: 0.10
 Recall: 0.52
 F1 Score: 0.17
 cohen_kappa Score: 0.13
+The obtained results based on cosine similarity of threshold 0.55 over all the generating models and domains:
+Accuracy: 0.58
+Precision: 1.00
+Recall: 0.16
+F1 Score: 0.28
+cohen_kappa Score: 0.16
+The obtained results based on cosine similarity of threshold 0.55 over gpt-4-turbo generating model and all domain:
+Accuracy: 0.51
+Precision: 1.00
+Recall: 0.01
+F1 Score: 0.02
+cohen_kappa Score: 0.01
+The obtained results based on cosine similarity of threshold 0.55 over llama3-70b generating model and all domain:
+Accuracy: 0.57
+Precision: 1.00
+Recall: 0.15
+F1 Score: 0.26
+cohen_kappa Score: 0.15
+The obtained results based on cosine similarity of threshold 0.55 over mixtral-8x22b-instruct generating model and all domain:
+Accuracy: 0.67
+Precision: 1.00
+Recall: 0.34
+F1 Score: 0.50
+cohen_kappa Score: 0.34
+The obtained results based on cosine similarity of threshold 0.55 over gpt-3.5-turbo generating model and all domain:
+Accuracy: 0.51
+Precision: 1.00
+Recall: 0.02
+F1 Score: 0.05
+cohen_kappa Score: 0.03
+The obtained results based on cosine similarity of threshold 0.55 over llama3-8b generating model and all domain:
+Accuracy: 0.56
+Precision: 1.00
+Recall: 0.12
+F1 Score: 0.22
+cohen_kappa Score: 0.12
+The obtained results based on cosine similarity of threshold 0.55 over mixtral-8x7b-instruct generating model and all domain:
+Accuracy: 0.56
+Precision: 1.00
+Recall: 0.11
+F1 Score: 0.20
+cohen_kappa Score: 0.11
+The obtained results based on cosine similarity of threshold 0.55 over mistral-7b-instruct generating model and all domain:
+Accuracy: 0.68
+Precision: 1.00
+Recall: 0.36
+F1 Score: 0.53
+cohen_kappa Score: 0.36
+The obtained results based on cosine similarity of threshold 0.55 over gpt-4-turbo prediction model and all domain:
+Accuracy: 0.85
+Precision: 0.71
+Recall: 0.31
+F1 Score: 0.43
+cohen_kappa Score: 0.36
+The obtained results based on cosine similarity of threshold 0.55 over llama3-70b prediction model and all domain:
+Accuracy: 0.75
+Precision: 0.79
+Recall: 0.22
+F1 Score: 0.34
+cohen_kappa Score: 0.24
+The obtained results based on cosine similarity of threshold 0.55 over mixtral-8x22b-instruct prediction model and all domain:
+Accuracy: 0.70
+Precision: 0.82
+Recall: 0.19
+F1 Score: 0.30
+cohen_kappa Score: 0.20
+The obtained results based on cosine similarity of threshold 0.55 over gpt-3.5-turbo prediction model and all domain:
+Accuracy: 0.85
+Precision: 0.40
+Recall: 0.24
+F1 Score: 0.30
+cohen_kappa Score: 0.22
+The obtained results based on cosine similarity of threshold 0.55 over llama3-8b prediction model and all domain:
+Accuracy: 0.70
+Precision: 0.74
+Recall: 0.18
+F1 Score: 0.29
+cohen_kappa Score: 0.18
+The obtained results based on cosine similarity of threshold 0.55 over mixtral-8x7b-instruct prediction model and all domain:
+Accuracy: 0.90
+Precision: 0.28
+Recall: 0.35
+F1 Score: 0.31
+cohen_kappa Score: 0.26
+The obtained results based on cosine similarity of threshold 0.55 over mistral-7b-instruct prediction model and all domain:
+Accuracy: 0.92
+Precision: 0.12
+Recall: 0.41
+F1 Score: 0.19
+cohen_kappa Score: 0.16
 The obtained results based on cosine similarity of threshold 0.6000000000000001 over all the generating models and domains:
 Accuracy: 0.55
 Precision: 1.00
 Recall: 0.09
 F1 Score: 0.17
 cohen_kappa Score: 0.09
+The obtained results based on cosine similarity of threshold 0.6000000000000001 over gpt-4-turbo generating model and all domain:
+Accuracy: 0.51
+Precision: 1.00
+Recall: 0.01
+F1 Score: 0.02
+cohen_kappa Score: 0.01
 The obtained results based on cosine similarity of threshold 0.6000000000000001 over llama3-70b generating model and all domain:
 Accuracy: 0.52
 Precision: 1.00
@@ -562,12 +748,6 @@ Precision: 0.00
 Recall: 0.00
 F1 Score: 0.00
 cohen_kappa Score: 0.00
-The obtained results based on cosine similarity of threshold 0.6000000000000001 over gpt-4-turbo generating model and all domain:
-Accuracy: 0.51
-Precision: 1.00
-Recall: 0.01
-F1 Score: 0.02
-cohen_kappa Score: 0.01
 The obtained results based on cosine similarity of threshold 0.6000000000000001 over llama3-8b generating model and all domain:
 Accuracy: 0.53
 Precision: 1.00
@@ -586,6 +766,12 @@ Precision: 1.00
 Recall: 0.29
 F1 Score: 0.45
 cohen_kappa Score: 0.29
+The obtained results based on cosine similarity of threshold 0.6000000000000001 over gpt-4-turbo prediction model and all domain:
+Accuracy: 0.84
+Precision: 0.82
+Recall: 0.20
+F1 Score: 0.33
+cohen_kappa Score: 0.27
 The obtained results based on cosine similarity of threshold 0.6000000000000001 over llama3-70b prediction model and all domain:
 Accuracy: 0.74
 Precision: 0.88
@@ -604,12 +790,6 @@ Precision: 0.45
 Recall: 0.15
 F1 Score: 0.23
 cohen_kappa Score: 0.17
-The obtained results based on cosine similarity of threshold 0.6000000000000001 over gpt-4-turbo prediction model and all domain:
-Accuracy: 0.84
-Precision: 0.82
-Recall: 0.20
-F1 Score: 0.33
-cohen_kappa Score: 0.27
 The obtained results based on cosine similarity of threshold 0.6000000000000001 over llama3-8b prediction model and all domain:
 Accuracy: 0.69
 Precision: 0.82
@@ -628,97 +808,283 @@ Precision: 0.14
 Recall: 0.26
 F1 Score: 0.18
 cohen_kappa Score: 0.15
-The obtained results based on cosine similarity of threshold 0.7000000000000001 over all the generating models and domains:
+The obtained results based on cosine similarity of threshold 0.65 over all the generating models and domains:
+Accuracy: 0.53
+Precision: 1.00
+Recall: 0.05
+F1 Score: 0.10
+cohen_kappa Score: 0.05
+The obtained results based on cosine similarity of threshold 0.65 over gpt-4-turbo generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.65 over llama3-70b generating model and all domain:
 Accuracy: 0.51
 Precision: 1.00
 Recall: 0.02
-F1 Score: 0.04
-cohen_kappa Score: 0.02
-The obtained results based on cosine similarity of threshold 0.7000000000000001 over llama3-70b generating model and all domain:
+F1 Score: 0.05
+cohen_kappa Score: 0.03
+The obtained results based on cosine similarity of threshold 0.65 over mixtral-8x22b-instruct generating model and all domain:
+Accuracy: 0.54
+Precision: 1.00
+Recall: 0.09
+F1 Score: 0.16
+cohen_kappa Score: 0.09
+The obtained results based on cosine similarity of threshold 0.65 over gpt-3.5-turbo generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.65 over llama3-8b generating model and all domain:
+Accuracy: 0.51
+Precision: 1.00
+Recall: 0.02
+F1 Score: 0.05
+cohen_kappa Score: 0.03
+The obtained results based on cosine similarity of threshold 0.65 over mixtral-8x7b-instruct generating model and all domain:
 Accuracy: 0.51
 Precision: 1.00
 Recall: 0.01
 F1 Score: 0.02
 cohen_kappa Score: 0.01
-The obtained results based on cosine similarity of threshold 0.7000000000000001 over mixtral-8x22b-instruct generating model and all domain:
+The obtained results based on cosine similarity of threshold 0.65 over mistral-7b-instruct generating model and all domain:
+Accuracy: 0.61
+Precision: 1.00
+Recall: 0.21
+F1 Score: 0.35
+cohen_kappa Score: 0.21
+The obtained results based on cosine similarity of threshold 0.65 over gpt-4-turbo prediction model and all domain:
+Accuracy: 0.84
+Precision: 0.90
+Recall: 0.13
+F1 Score: 0.22
+cohen_kappa Score: 0.18
+The obtained results based on cosine similarity of threshold 0.65 over llama3-70b prediction model and all domain:
+Accuracy: 0.73
+Precision: 0.93
+Recall: 0.08
+F1 Score: 0.15
+cohen_kappa Score: 0.11
+The obtained results based on cosine similarity of threshold 0.65 over mixtral-8x22b-instruct prediction model and all domain:
+Accuracy: 0.67
+Precision: 0.93
+Recall: 0.07
+F1 Score: 0.13
+cohen_kappa Score: 0.08
+The obtained results based on cosine similarity of threshold 0.65 over gpt-3.5-turbo prediction model and all domain:
+Accuracy: 0.86
+Precision: 0.34
+Recall: 0.07
+F1 Score: 0.11
+cohen_kappa Score: 0.07
+The obtained results based on cosine similarity of threshold 0.65 over llama3-8b prediction model and all domain:
+Accuracy: 0.68
+Precision: 0.86
+Recall: 0.07
+F1 Score: 0.12
+cohen_kappa Score: 0.08
+The obtained results based on cosine similarity of threshold 0.65 over mixtral-8x7b-instruct prediction model and all domain:
+Accuracy: 0.93
+Precision: 0.45
+Recall: 0.18
+F1 Score: 0.26
+cohen_kappa Score: 0.23
+The obtained results based on cosine similarity of threshold 0.65 over mistral-7b-instruct prediction model and all domain:
+Accuracy: 0.95
+Precision: 0.03
+Recall: 0.04
+F1 Score: 0.04
+cohen_kappa Score: 0.01
+The obtained results based on cosine similarity of threshold 0.7 over all the generating models and domains:
+Accuracy: 0.51
+Precision: 1.00
+Recall: 0.02
+F1 Score: 0.04
+cohen_kappa Score: 0.02
+The obtained results based on cosine similarity of threshold 0.7 over gpt-4-turbo generating model and all domain:
 Accuracy: 0.50
 Precision: 0.00
 Recall: 0.00
 F1 Score: 0.00
 cohen_kappa Score: 0.00
-The obtained results based on cosine similarity of threshold 0.7000000000000001 over gpt-3.5-turbo generating model and all domain:
+The obtained results based on cosine similarity of threshold 0.7 over llama3-70b generating model and all domain:
+Accuracy: 0.51
+Precision: 1.00
+Recall: 0.01
+F1 Score: 0.02
+cohen_kappa Score: 0.01
+The obtained results based on cosine similarity of threshold 0.7 over mixtral-8x22b-instruct generating model and all domain:
 Accuracy: 0.50
 Precision: 0.00
 Recall: 0.00
 F1 Score: 0.00
 cohen_kappa Score: 0.00
-The obtained results based on cosine similarity of threshold 0.7000000000000001 over gpt-4-turbo generating model and all domain:
+The obtained results based on cosine similarity of threshold 0.7 over gpt-3.5-turbo generating model and all domain:
 Accuracy: 0.50
 Precision: 0.00
 Recall: 0.00
 F1 Score: 0.00
 cohen_kappa Score: 0.00
-The obtained results based on cosine similarity of threshold 0.7000000000000001 over llama3-8b generating model and all domain:
+The obtained results based on cosine similarity of threshold 0.7 over llama3-8b generating model and all domain:
 Accuracy: 0.50
 Precision: 0.00
 Recall: 0.00
 F1 Score: 0.00
 cohen_kappa Score: 0.00
-The obtained results based on cosine similarity of threshold 0.7000000000000001 over mixtral-8x7b-instruct generating model and all domain:
+The obtained results based on cosine similarity of threshold 0.7 over mixtral-8x7b-instruct generating model and all domain:
 Accuracy: 0.50
 Precision: 0.00
 Recall: 0.00
 F1 Score: 0.00
 cohen_kappa Score: 0.00
-The obtained results based on cosine similarity of threshold 0.7000000000000001 over mistral-7b-instruct generating model and all domain:
+The obtained results based on cosine similarity of threshold 0.7 over mistral-7b-instruct generating model and all domain:
 Accuracy: 0.56
 Precision: 1.00
 Recall: 0.11
 F1 Score: 0.20
 cohen_kappa Score: 0.11
-The obtained results based on cosine similarity of threshold 0.7000000000000001 over llama3-70b prediction model and all domain:
-Accuracy: 0.71
-Precision: 1.00
-Recall: 0.03
-F1 Score: 0.06
-cohen_kappa Score: 0.04
-The obtained results based on cosine similarity of threshold 0.7000000000000001 over mixtral-8x22b-instruct prediction model and all domain:
-Accuracy: 0.66
-Precision: 1.00
-Recall: 0.03
-F1 Score: 0.05
-cohen_kappa Score: 0.03
-The obtained results based on cosine similarity of threshold 0.7000000000000001 over gpt-3.5-turbo prediction model and all domain:
-Accuracy: 0.86
-Precision: 0.50
-Recall: 0.03
-F1 Score: 0.06
-cohen_kappa Score: 0.05
-The obtained results based on cosine similarity of threshold 0.7000000000000001 over gpt-4-turbo prediction model and all domain:
+The obtained results based on cosine similarity of threshold 0.7 over gpt-4-turbo prediction model and all domain:
 Accuracy: 0.82
 Precision: 0.90
 Recall: 0.04
 F1 Score: 0.08
 cohen_kappa Score: 0.07
-The obtained results based on cosine similarity of threshold 0.7000000000000001 over llama3-8b prediction model and all domain:
+The obtained results based on cosine similarity of threshold 0.7 over llama3-70b prediction model and all domain:
+Accuracy: 0.71
+Precision: 1.00
+Recall: 0.03
+F1 Score: 0.06
+cohen_kappa Score: 0.04
+The obtained results based on cosine similarity of threshold 0.7 over mixtral-8x22b-instruct prediction model and all domain:
+Accuracy: 0.66
+Precision: 1.00
+Recall: 0.03
+F1 Score: 0.05
+cohen_kappa Score: 0.03
+The obtained results based on cosine similarity of threshold 0.7 over gpt-3.5-turbo prediction model and all domain:
+Accuracy: 0.86
+Precision: 0.50
+Recall: 0.03
+F1 Score: 0.06
+cohen_kappa Score: 0.05
+The obtained results based on cosine similarity of threshold 0.7 over llama3-8b prediction model and all domain:
 Accuracy: 0.67
 Precision: 0.80
 Recall: 0.02
 F1 Score: 0.04
 cohen_kappa Score: 0.02
-The obtained results based on cosine similarity of threshold 0.7000000000000001 over mixtral-8x7b-instruct prediction model and all domain:
+The obtained results based on cosine similarity of threshold 0.7 over mixtral-8x7b-instruct prediction model and all domain:
 Accuracy: 0.93
 Precision: 0.40
 Recall: 0.06
 F1 Score: 0.10
 cohen_kappa Score: 0.08
-The obtained results based on cosine similarity of threshold 0.7000000000000001 over mistral-7b-instruct prediction model and all domain:
+The obtained results based on cosine similarity of threshold 0.7 over mistral-7b-instruct prediction model and all domain:
+Accuracy: 0.97
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: -0.01
+The obtained results based on cosine similarity of threshold 0.75 over all the generating models and domains:
+Accuracy: 0.50
+Precision: 1.00
+Recall: 0.01
+F1 Score: 0.01
+cohen_kappa Score: 0.01
+The obtained results based on cosine similarity of threshold 0.75 over gpt-4-turbo generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.75 over llama3-70b generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.75 over mixtral-8x22b-instruct generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.75 over gpt-3.5-turbo generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.75 over llama3-8b generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.75 over mixtral-8x7b-instruct generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.75 over mistral-7b-instruct generating model and all domain:
+Accuracy: 0.52
+Precision: 1.00
+Recall: 0.05
+F1 Score: 0.10
+cohen_kappa Score: 0.05
+The obtained results based on cosine similarity of threshold 0.75 over gpt-4-turbo prediction model and all domain:
+Accuracy: 0.82
+Precision: 1.00
+Recall: 0.02
+F1 Score: 0.04
+cohen_kappa Score: 0.03
+The obtained results based on cosine similarity of threshold 0.75 over llama3-70b prediction model and all domain:
+Accuracy: 0.71
+Precision: 1.00
+Recall: 0.01
+F1 Score: 0.02
+cohen_kappa Score: 0.02
+The obtained results based on cosine similarity of threshold 0.75 over mixtral-8x22b-instruct prediction model and all domain:
+Accuracy: 0.65
+Precision: 1.00
+Recall: 0.01
+F1 Score: 0.02
+cohen_kappa Score: 0.01
+The obtained results based on cosine similarity of threshold 0.75 over gpt-3.5-turbo prediction model and all domain:
+Accuracy: 0.87
+Precision: 0.75
+Recall: 0.02
+F1 Score: 0.04
+cohen_kappa Score: 0.03
+The obtained results based on cosine similarity of threshold 0.75 over llama3-8b prediction model and all domain:
+Accuracy: 0.66
+Precision: 0.75
+Recall: 0.01
+F1 Score: 0.02
+cohen_kappa Score: 0.01
+The obtained results based on cosine similarity of threshold 0.75 over mixtral-8x7b-instruct prediction model and all domain:
+Accuracy: 0.93
+Precision: 0.25
+Recall: 0.01
+F1 Score: 0.03
+cohen_kappa Score: 0.02
+The obtained results based on cosine similarity of threshold 0.75 over mistral-7b-instruct prediction model and all domain:
 Accuracy: 0.97
 Precision: 0.00
 Recall: 0.00
 F1 Score: 0.00
 cohen_kappa Score: -0.01
 The obtained results based on cosine similarity of threshold 0.8 over all the generating models and domains:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8 over gpt-4-turbo generating model and all domain:
 Accuracy: 0.50
 Precision: 0.00
 Recall: 0.00
@@ -742,12 +1108,6 @@ Precision: 0.00
 Recall: 0.00
 F1 Score: 0.00
 cohen_kappa Score: 0.00
-The obtained results based on cosine similarity of threshold 0.8 over gpt-4-turbo generating model and all domain:
-Accuracy: 0.50
-Precision: 0.00
-Recall: 0.00
-F1 Score: 0.00
-cohen_kappa Score: 0.00
 The obtained results based on cosine similarity of threshold 0.8 over llama3-8b generating model and all domain:
 Accuracy: 0.50
 Precision: 0.00
@@ -762,6 +1122,12 @@ F1 Score: 0.00
 cohen_kappa Score: 0.00
 The obtained results based on cosine similarity of threshold 0.8 over mistral-7b-instruct generating model and all domain:
 Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8 over gpt-4-turbo prediction model and all domain:
+Accuracy: 0.82
 Precision: 0.00
 Recall: 0.00
 F1 Score: 0.00
@@ -784,12 +1150,6 @@ Precision: 0.00
 Recall: 0.00
 F1 Score: 0.00
 cohen_kappa Score: 0.00
-The obtained results based on cosine similarity of threshold 0.8 over gpt-4-turbo prediction model and all domain:
-Accuracy: 0.82
-Precision: 0.00
-Recall: 0.00
-F1 Score: 0.00
-cohen_kappa Score: 0.00
 The obtained results based on cosine similarity of threshold 0.8 over llama3-8b prediction model and all domain:
 Accuracy: 0.66
 Precision: 0.00
@@ -803,6 +1163,186 @@ Recall: 0.00
 F1 Score: 0.00
 cohen_kappa Score: 0.00
 The obtained results based on cosine similarity of threshold 0.8 over mistral-7b-instruct prediction model and all domain:
+Accuracy: 0.98
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8500000000000001 over all the generating models and domains:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8500000000000001 over gpt-4-turbo generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8500000000000001 over llama3-70b generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8500000000000001 over mixtral-8x22b-instruct generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8500000000000001 over gpt-3.5-turbo generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8500000000000001 over llama3-8b generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8500000000000001 over mixtral-8x7b-instruct generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8500000000000001 over mistral-7b-instruct generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8500000000000001 over gpt-4-turbo prediction model and all domain:
+Accuracy: 0.82
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8500000000000001 over llama3-70b prediction model and all domain:
+Accuracy: 0.71
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8500000000000001 over mixtral-8x22b-instruct prediction model and all domain:
+Accuracy: 0.65
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8500000000000001 over gpt-3.5-turbo prediction model and all domain:
+Accuracy: 0.86
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8500000000000001 over llama3-8b prediction model and all domain:
+Accuracy: 0.66
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8500000000000001 over mixtral-8x7b-instruct prediction model and all domain:
+Accuracy: 0.94
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.8500000000000001 over mistral-7b-instruct prediction model and all domain:
+Accuracy: 0.98
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.9000000000000001 over all the generating models and domains:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.9000000000000001 over gpt-4-turbo generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.9000000000000001 over llama3-70b generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.9000000000000001 over mixtral-8x22b-instruct generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.9000000000000001 over gpt-3.5-turbo generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.9000000000000001 over llama3-8b generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.9000000000000001 over mixtral-8x7b-instruct generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.9000000000000001 over mistral-7b-instruct generating model and all domain:
+Accuracy: 0.50
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.9000000000000001 over gpt-4-turbo prediction model and all domain:
+Accuracy: 0.82
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.9000000000000001 over llama3-70b prediction model and all domain:
+Accuracy: 0.71
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.9000000000000001 over mixtral-8x22b-instruct prediction model and all domain:
+Accuracy: 0.65
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.9000000000000001 over gpt-3.5-turbo prediction model and all domain:
+Accuracy: 0.86
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.9000000000000001 over llama3-8b prediction model and all domain:
+Accuracy: 0.66
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.9000000000000001 over mixtral-8x7b-instruct prediction model and all domain:
+Accuracy: 0.94
+Precision: 0.00
+Recall: 0.00
+F1 Score: 0.00
+cohen_kappa Score: 0.00
+The obtained results based on cosine similarity of threshold 0.9000000000000001 over mistral-7b-instruct prediction model and all domain:
 Accuracy: 0.98
 Precision: 0.00
 Recall: 0.00
