@@ -1,0 +1,10 @@
+{
+  "Text1": "Central Processing Unit (CPU): The brain of the computer",
+  "Text2": "Random Access Memory (RAM): Temporary data storage",
+  "Predicted Same Causal Variable": false,
+  "Predicted Variable Name": "",
+  "Explanation": "The first text refers to the Central Processing Unit (CPU) as the 'brain of the computer', implying a role in processing information. The second text, on the other hand, describes Random Access Memory (RAM) as 'temporary data storage'. These texts do not refer to the same causal variable as they describe different aspects of a computer system."
+Prediction Model: mistral-7b-instruct
+Generated Interaction value: True
+Data Generation Model: mistral-7b-instruct
+Domain: computer science

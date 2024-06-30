@@ -1,0 +1,11 @@
+variable definition,values
+Urban Density,"['Suburban', 'Urban', 'Downtown', 'Residential', 'Commercial']"
+Transportation Mode,"['Car', 'Public Transportation', 'Bicycle', 'Walking', 'Other']"
+Land Use,"['Residential', 'Commercial', 'Industrial', 'Institutional', 'Open Space']"
+Building Type,"['Single-Family Home', 'Multi-Family Home', 'Apartment Building', 'Office Building', 'Retail Store']"
+Street Type,"['Residential Street', 'Commercial Street', 'Arterial Road', 'Local Road', 'Freeway']"
+Zoning,"['Residential Zoning', 'Commercial Zoning', 'Industrial Zoning', 'Institutional Zoning', 'Mixed-Use Zoning']"
+Green Space,"['Park', 'Garden', 'Greenway', 'Nature Reserve', 'Urban Forest']"
+Noise Level,"['Quiet', 'Moderate', 'Loud', 'Very Loud', 'Extremely Loud']"
+Air Quality,"['Good', 'Fair', 'Poor', 'Very Poor', 'Extremely Poor']"
+Community Engagement,"['High', 'Medium', 'Low', 'Very Low', 'Extremely Low']"

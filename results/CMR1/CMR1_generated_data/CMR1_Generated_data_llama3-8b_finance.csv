@@ -1,0 +1,11 @@
+variable definition,values
+Market Volatility,"['Volatile Market', 'Stable Market', 'Uncertain Market']"
+Economic Growth,"['Slow Growth', 'Moderate Growth', 'Rapid Growth']"
+Interest Rate,"['Low Interest Rate', 'Medium Interest Rate', 'High Interest Rate']"
+Inflation Rate,"['Low Inflation', 'Moderate Inflation', 'High Inflation']"
+Unemployment Rate,"['High Unemployment', 'Medium Unemployment', 'Low Unemployment']"
+Currency Exchange Rate,"['Strong Currency', 'Weak Currency', 'Stable Currency']"
+Government Spending,"['High Government Spending', 'Medium Government Spending', 'Low Government Spending']"
+Tax Rate,"['High Tax Rate', 'Medium Tax Rate', 'Low Tax Rate']"
+Consumer Confidence,"['Low Consumer Confidence', 'Medium Consumer Confidence', 'High Consumer Confidence']"
+Business Confidence,"['Low Business Confidence', 'Medium Business Confidence', 'High Business Confidence']"

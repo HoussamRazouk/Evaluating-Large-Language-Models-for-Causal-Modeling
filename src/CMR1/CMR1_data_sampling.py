@@ -85,6 +85,6 @@ for model in models:
 
 
 results=pd.DataFrame(data_set)
-results.to_csv(CMR2_sample_data_file,index=False)
+results.to_csv(CMR1_sample_data_file,index=False)
 
 

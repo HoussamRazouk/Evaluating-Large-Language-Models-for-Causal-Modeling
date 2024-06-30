@@ -1,0 +1,11 @@
+variable definition,values
+Type of Semiconductor Material,"['Silicon', 'Gallium Arsenide', 'Silicon Carbide', 'Germanium']"
+Fabrication Process Node,"['10 nm', '7 nm', '5 nm', '14 nm', '22 nm']"
+Doping Material,"['Boron', 'Phosphorus', 'Arsenic', 'Antimony']"
+Semiconductor Structure,"['Planar', 'FinFET', 'Nanowire', 'SOI']"
+Insulation Material,"['Silicon Dioxide', 'Silicon Nitride', 'Silicon Oxynitride', 'Air Gap']"
+Doping Concentration,"['Low', 'Medium', 'High', 'Extra High']"
+Impurity Level,"['Class 1', 'Class 10', 'Class 100', 'Class 1000']"
+Manufacturing Process,"['Wet Etching', 'Dry Etching', 'Lithography', 'Deposition']"
+Defect Density,"['Low', 'Medium', 'High']"
+Yield Rate,"['High', 'Medium', 'Low']"

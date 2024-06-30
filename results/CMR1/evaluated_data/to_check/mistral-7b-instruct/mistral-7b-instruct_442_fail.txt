@@ -1,0 +1,7 @@
+Text1                   Mindfulness and Meditation
+Text2                   Problem-Solving Approaches
+Same Causal Variable                          True
+Variable Name             Stress Coping Strategies
+model Name                           gpt-3.5-turbo
+domain                                  psychology
+Name: 442, dtype: object

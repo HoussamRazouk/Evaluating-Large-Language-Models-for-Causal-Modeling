@@ -1,0 +1,11 @@
+variable definition,values
+Fruits and Vegetables Consumption,"['Five servings of fruits and vegetables per day', 'Three servings of fruits and vegetables per day', 'Less than three servings of fruits and vegetables per day']"
+Physical Activity Level,"['Regular Exercise (30 minutes or more per day, five days a week)', 'Moderate Exercise (150 minutes or more per week)', 'Sedentary Lifestyle (less than 150 minutes of moderate-intensity or 75 minutes of vigorous-intensity activity per week)']"
+Sleep Quality,"['Good Sleep (7-9 hours of uninterrupted sleep per night)', 'Fair Sleep (6-7 hours of sleep per night)', 'Poor Sleep (less than 6 hours of sleep per night)']"
+Smoking Status,"['Non-smoker', 'Former smoker', 'Current smoker']"
+Alcohol Consumption,"['Moderate Drinker (up to one drink per day for women, up to two drinks per day for men)', 'Heavy Drinker (more than one drink per day for women, more than two drinks per day for men)', 'Non-drinker']"
+Dietary Pattern,"['Healthy Diet (rich in fruits, vegetables, whole grains, lean proteins, and healthy fats)', 'Unhealthy Diet (high in processed foods, sugars, saturated and trans fats)', 'Mixed Diet']"
+Stress Level,"['Low Stress (manageable stress levels)', 'Moderate Stress (moderate stress levels)', 'High Stress (chronic or severe stress levels)']"
+Genetic Predisposition,"['No Known Genetic Conditions', 'Mild Genetic Predisposition', 'Significant Genetic Predisposition']"
+Environmental Exposure,"['Low Environmental Exposure (minimal exposure to pollutants)', 'Moderate Environmental Exposure (moderate exposure to pollutants)', 'High Environmental Exposure (significant exposure to pollutants)']"
+Mental Health,"['Good Mental Health (no diagnosed mental health conditions)', 'Mild Mental Health Concerns (mild anxiety or depression)', 'Significant Mental Health Concerns (severe anxiety or depression, bipolar disorder, schizophrenia, etc.)']"

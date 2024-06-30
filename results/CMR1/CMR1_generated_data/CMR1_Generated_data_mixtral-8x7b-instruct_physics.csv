@@ -1,0 +1,11 @@
+variable definition,values
+Type of Force,"['Gravitational Force', 'Electromagnetic Force', 'Strong Nuclear Force', 'Weak Nuclear Force']"
+State of Matter,"['Solid', 'Liquid', 'Gas', 'Plasma']"
+Dimension of Space,"['Length', 'Width', 'Height', 'Time']"
+Lepton Type,"['Electron', 'Muon', 'Tau', 'Neutrino']"
+Quark Type,"['Up Quark', 'Down Quark', 'Charm Quark', 'Strange Quark']"
+Boson Type,"['Photon', 'W Boson', 'Z Boson', 'Gluon']"
+Type of Radiation,"['Alpha Radiation', 'Beta- Positive Radiation', 'Beta- Negative Radiation', 'Gamma Radiation']"
+Type of Wave,"['Mechanical Wave', 'Electromagnetic Wave', 'Matter Wave', 'Sound Wave']"
+Type of Quantum State,"['Ground State', 'Excited State', 'Metastable State', 'Superposition']"
+Type of Symmetry,"['Translational Symmetry', 'Rotational Symmetry', 'Reflection Symmetry', 'Charge Symmetry']"

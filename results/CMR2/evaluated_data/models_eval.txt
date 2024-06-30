@@ -1,0 +1,672 @@
+Precision: 0.95
+Recall: 0.35
+F1 Score: 0.51
+cohen_kappa Score: 0.33
+Precision: 0.90
+Recall: 0.53
+F1 Score: 0.67
+cohen_kappa Score: 0.47
+Precision: 0.92
+Recall: 0.65
+F1 Score: 0.77
+cohen_kappa Score: 0.60
+Precision: 0.94
+Recall: 0.26
+F1 Score: 0.40
+cohen_kappa Score: 0.24
+Precision: 0.81
+Recall: 0.55
+F1 Score: 0.66
+cohen_kappa Score: 0.42
+Precision: 0.93
+Recall: 0.12
+F1 Score: 0.21
+cohen_kappa Score: 0.11
+Precision: 0.89
+Recall: 0.04
+F1 Score: 0.08
+cohen_kappa Score: 0.04
+Precision: 1.00
+Recall: 0.17
+F1 Score: 0.29
+cohen_kappa Score: 0.17
+Precision: 1.00
+Recall: 0.49
+F1 Score: 0.66
+cohen_kappa Score: 0.49
+Precision: 0.91
+Recall: 0.59
+F1 Score: 0.71
+cohen_kappa Score: 0.53
+Precision: 0.88
+Recall: 0.30
+F1 Score: 0.45
+cohen_kappa Score: 0.26
+Precision: 0.95
+Recall: 0.30
+F1 Score: 0.46
+cohen_kappa Score: 0.29
+Precision: 1.00
+Recall: 0.37
+F1 Score: 0.54
+cohen_kappa Score: 0.37
+Precision: 1.00
+Recall: 0.34
+F1 Score: 0.51
+cohen_kappa Score: 0.34
+Precision: 0.90
+Recall: 0.26
+F1 Score: 0.40
+cohen_kappa Score: 0.23
+Precision: 0.83
+Recall: 0.57
+F1 Score: 0.68
+cohen_kappa Score: 0.46
+Precision: 0.93
+Recall: 0.59
+F1 Score: 0.73
+cohen_kappa Score: 0.55
+Precision: 0.92
+Recall: 0.63
+F1 Score: 0.75
+cohen_kappa Score: 0.57
+Precision: 0.86
+Recall: 0.43
+F1 Score: 0.57
+cohen_kappa Score: 0.36
+Precision: 0.97
+Recall: 0.47
+F1 Score: 0.63
+cohen_kappa Score: 0.46
+Precision: 0.90
+Recall: 0.61
+F1 Score: 0.73
+cohen_kappa Score: 0.54
+Precision: 1.00
+Recall: 0.47
+F1 Score: 0.64
+cohen_kappa Score: 0.47
+Precision: 0.85
+Recall: 0.47
+F1 Score: 0.61
+cohen_kappa Score: 0.39
+Precision: 0.92
+Recall: 0.81
+F1 Score: 0.86
+cohen_kappa Score: 0.74
+Precision: 0.92
+Recall: 0.78
+F1 Score: 0.84
+cohen_kappa Score: 0.71
+Precision: 0.91
+Recall: 0.76
+F1 Score: 0.83
+cohen_kappa Score: 0.69
+Precision: 0.89
+Recall: 0.47
+F1 Score: 0.62
+cohen_kappa Score: 0.41
+Precision: 0.95
+Recall: 0.57
+F1 Score: 0.71
+cohen_kappa Score: 0.54
+Precision: 0.96
+Recall: 0.79
+F1 Score: 0.87
+cohen_kappa Score: 0.76
+Precision: 0.93
+Recall: 0.59
+F1 Score: 0.72
+cohen_kappa Score: 0.54
+Precision: 0.89
+Recall: 0.47
+F1 Score: 0.62
+cohen_kappa Score: 0.41
+Precision: 0.79
+Recall: 0.49
+F1 Score: 0.60
+cohen_kappa Score: 0.36
+Precision: 0.75
+Recall: 0.86
+F1 Score: 0.80
+cohen_kappa Score: 0.57
+Precision: 0.92
+Recall: 0.64
+F1 Score: 0.76
+cohen_kappa Score: 0.59
+Precision: 0.96
+Recall: 0.36
+F1 Score: 0.52
+cohen_kappa Score: 0.34
+Precision: 0.80
+Recall: 0.51
+F1 Score: 0.63
+cohen_kappa Score: 0.38
+Precision: 0.87
+Recall: 0.65
+F1 Score: 0.74
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.53
+F1 Score: 0.62
+cohen_kappa Score: 0.34
+Precision: 0.77
+Recall: 0.39
+F1 Score: 0.51
+cohen_kappa Score: 0.27
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.74
+Recall: 0.46
+F1 Score: 0.57
+cohen_kappa Score: 0.30
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.70
+Recall: 0.38
+F1 Score: 0.49
+cohen_kappa Score: 0.21
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.70
+Recall: 0.38
+F1 Score: 0.49
+cohen_kappa Score: 0.21
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.70
+Recall: 0.38
+F1 Score: 0.49
+cohen_kappa Score: 0.21
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.70
+Recall: 0.38
+F1 Score: 0.49
+cohen_kappa Score: 0.21
+Precision: 0.98
+Recall: 0.50
+F1 Score: 0.66
+cohen_kappa Score: 0.49
+Precision: 0.91
+Recall: 0.25
+F1 Score: 0.39
+cohen_kappa Score: 0.22
+Precision: 0.92
+Recall: 0.69
+F1 Score: 0.79
+cohen_kappa Score: 0.62
+Precision: 1.00
+Recall: 0.01
+F1 Score: 0.02
+cohen_kappa Score: 0.01
+Precision: 0.91
+Recall: 0.79
+F1 Score: 0.85
+cohen_kappa Score: 0.71
+Precision: 0.89
+Recall: 0.51
+F1 Score: 0.65
+cohen_kappa Score: 0.45
+Precision: 0.89
+Recall: 0.88
+F1 Score: 0.88
+cohen_kappa Score: 0.76
+Precision: 0.80
+Recall: 0.10
+F1 Score: 0.18
+cohen_kappa Score: 0.07
+Precision: 0.93
+Recall: 0.85
+F1 Score: 0.89
+cohen_kappa Score: 0.79
+Precision: 0.95
+Recall: 0.75
+F1 Score: 0.84
+cohen_kappa Score: 0.71
+Precision: 0.92
+Recall: 0.92
+F1 Score: 0.92
+cohen_kappa Score: 0.85
+Precision: 0.81
+Recall: 0.28
+F1 Score: 0.41
+cohen_kappa Score: 0.21
+Precision: 0.98
+Recall: 0.57
+F1 Score: 0.72
+cohen_kappa Score: 0.56
+Precision: 0.81
+Recall: 0.44
+F1 Score: 0.57
+cohen_kappa Score: 0.34
+Precision: 0.81
+Recall: 0.71
+F1 Score: 0.76
+cohen_kappa Score: 0.55
+Precision: 0.70
+Recall: 0.38
+F1 Score: 0.49
+cohen_kappa Score: 0.21

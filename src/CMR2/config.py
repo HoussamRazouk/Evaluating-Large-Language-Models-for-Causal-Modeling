@@ -24,14 +24,18 @@ def conf_init():
     models=["llama3-70b",
             "mixtral-8x22b-instruct",
             "gpt-3.5-turbo",
-            "gpt-4-turbo"]
+            "gpt-4-turbo",
+            "llama3-8b",
+            "mixtral-8x7b-instruct",
+            "mistral-7b-instruct"
+            ]
     
     number_example=10
     number_of_positive_samples=10
     number_of_negative_samples=10
     CMR2_generated_data_dir="results/CMR2/CMR2_generated_data/"
    
-    CMR2_sample_data_file="results/CMR2/sampled_data/sampled_data_set.csv"
+    CMR2_sample_data_file="results/CMR2/sampled_data/sampled_data_set_large.csv"
     CMR2_evaluated_data_dir="results/CMR2/evaluated_data/"
     
     return {

@@ -39,14 +39,23 @@ def CMR1_predict_sample(row,client,model):
                 max_tokens=4096
               )
     response=completion.choices[0].message.content
-    response=json.loads(response)
+    try:
+      response=json.loads(response)
+        
+    except:
+       with open('to_check.txt','w') as f:
+            f.write(str(response)+'\n')
+            f.write('Prediction Model: '+str(model)+'\n')
+            f.write('Generated Interaction value: '+str(row['Same Causal Variable'])+'\n')
+            f.write('Data Generation Model: '+str(row['model Name'])+'\n')
+            f.write('Domain: '+str(domain)+'\n')
+       
     response['Prediction Model']=model
     response['Generated Same Causal Variable']=row['Same Causal Variable']
     response['Data Generation Model']=row['model Name']
     response['Generated Variable Name']=row['Variable Name']
     response['Domain']=domain
     return response
-
 ### test the function 
 
 if False:

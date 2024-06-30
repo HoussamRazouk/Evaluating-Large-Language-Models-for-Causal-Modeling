@@ -1,0 +1,11 @@
+variable definition,values
+Algorithm,"['Sorting', 'Searching', 'Cryptography', 'Compression', 'Machine Learning']"
+Database Management,"['Relational', 'NoSQL', 'Graph', 'Time Series', 'Document-Oriented']"
+Programming Language,"['Java', 'Python', 'C++', 'JavaScript', 'Ruby']"
+Data Structure,"['Array', 'Linked List', 'Stack', 'Queue', 'Tree']"
+Network Topology,"['Bus', 'Star', 'Ring', 'Mesh', 'Hybrid']"
+Computer Architecture,"['RISC', 'CISC', 'VLIW', 'EPIC', 'MIMD']"
+Operating System,"['Windows', 'Linux', 'MacOS', 'Android', 'iOS']"
+Database Query Language,"['SQL', 'NoSQL', 'GraphQL', 'Cypher', 'SPARQL']"
+Computer Network Protocol,"['TCP', 'UDP', 'HTTP', 'FTP', 'SMTP']"
+Computer Security,"['Firewall', 'Encryption', 'Authentication', 'Authorization', 'Access Control']"

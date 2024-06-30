@@ -1,0 +1,11 @@
+variable definition,values
+Type of Urban Development,"['High-Density Residential', 'Commercial', 'Industrial', 'Mixed-Use', 'Green Space']"
+Public Transportation Availability,"['Bus Service', 'Light Rail', 'Subway', 'Ferry', 'No Public Transportation']"
+Housing Tenure,"['Owned', 'Rented', 'Social Housing', 'Cooperative Housing']"
+Urban Decay Indicators,"['Vacant Buildings', 'Graffiti', 'Litter', 'Boardered Windows', 'No Visible Urban Decay']"
+Presence of Community Facilities,"['Community Center', 'Library', 'Park', 'Playground', 'None of the Above']"
+Traffic Congestion,"['High', 'Moderate', 'Low', 'No Traffic']"
+Pedestrian Infrastructure,"['Sidewalks', 'Crosswalks', 'Pedestrian Paths', 'No Pedestrian Infrastructure']"
+Presence of Public Art,"['Murals', 'Statues', 'Mosaics', 'No Public Art']"
+Waste Management,"['Recycling Programs', 'Waste Bins', 'Litter Bins', 'No Visible Waste Management']"
+Noise Pollution,"['High', 'Moderate', 'Low', 'No Noise Pollution']"

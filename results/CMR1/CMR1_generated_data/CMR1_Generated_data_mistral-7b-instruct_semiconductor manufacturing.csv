@@ -1,0 +1,11 @@
+variable definition,values
+"The type of semiconductor material used in the manufacturing process, such as Silicon, Gallium Arsenide, or Gallium Nitride.","['Silicon Material', 'Gallium Arsenide Material', 'Gallium Nitride Material']"
+"The specific layout design of the integrated circuit, including the arrangement and interconnection of transistors and other components.","['FinFET Design', 'Planar Design', 'SOI Design']"
+The type of doping used in the semiconductor material to create p-type or n-type regions.,"['Boron Doping', 'Phosphorus Doping', 'Arsenic Doping']"
+"The process used to create the semiconductor wafer, such as Bulk Silicon Process or Wafer-Level Process.","['Bulk Silicon Process', 'Wafer-Level Process']"
+"The type of lithography used to create the patterns on the semiconductor wafer, such as Extreme Ultraviolet Lithography or Imprint Lithography.","['Extreme Ultraviolet Lithography', 'Imprint Lithography']"
+"The type of etching used to remove unwanted material from the semiconductor wafer, such as Wet Etching or Dry Etching.","['Wet Etching', 'Dry Etching']"
+"The type of deposition used to add material to the semiconductor wafer, such as Chemical Vapor Deposition or Physical Vapor Deposition.","['Chemical Vapor Deposition', 'Physical Vapor Deposition']"
+"The type of oxidation used to create a thin layer of silicon dioxide on the semiconductor wafer, such as Wet Oxidation or Dry Oxidation.","['Wet Oxidation', 'Dry Oxidation']"
+"The type of cleaning used to prepare the semiconductor wafer for the next manufacturing step, such as RCA Cleaning or Piranha Cleaning.","['RCA Cleaning', 'Piranha Cleaning']"
+"The type of testing used to evaluate the functionality and quality of the semiconductor device, such as Functional Testing or Parametric Testing.","['Functional Testing', 'Parametric Testing']"

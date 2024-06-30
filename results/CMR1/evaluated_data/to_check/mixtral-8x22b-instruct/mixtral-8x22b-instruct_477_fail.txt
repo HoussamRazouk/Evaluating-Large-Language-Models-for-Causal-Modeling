@@ -1,0 +1,7 @@
+Text1                   Trade Balance Impact
+Text2                    Sudden Price Swings
+Same Causal Variable                   False
+Variable Name                            NaN
+model Name                     gpt-3.5-turbo
+domain                               finance
+Name: 477, dtype: object

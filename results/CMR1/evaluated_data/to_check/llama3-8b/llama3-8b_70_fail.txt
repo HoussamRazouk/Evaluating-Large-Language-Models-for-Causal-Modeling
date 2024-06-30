@@ -1,0 +1,7 @@
+Text1                             System-in-Package
+Text2                           Extreme Ultraviolet
+Same Causal Variable                          False
+Variable Name                                   NaN
+model Name                               llama3-70b
+domain                  semiconductor manufacturing
+Name: 70, dtype: object

@@ -1,0 +1,11 @@
+variable definition,values
+Level of Extraversion,"['Sociable', 'Outgoing', 'Assertive', 'Energetic', 'Preferring excitement']"
+Type of Cognitive Style,"['Holistic thinking', 'Analytical thinking', 'Verbal thinking', 'Spatial thinking']"
+Presence of Anxiety,"['Test anxiety', 'Social anxiety', 'Generalized anxiety', 'Panic disorder']"
+Type of Learning Style,"['Visual learner', 'Auditory learner', 'Reading/Writing learner', 'Kinesthetic learner']"
+Level of Emotional Intelligence,"['Empathy', 'Relationship management', 'Self-awareness', 'Self-regulation']"
+Type of Coping Mechanism,"['Problem-focused coping', 'Emotion-focused coping', 'Avoidance coping', 'Acceptance coping']"
+Level of Resilience,"['Information processing', 'Decision-making and problem-solving', 'Goal-setting and pursuing', 'Positive view of self']"
+Type of Motivation,"['Intrinsic motivation', 'Extrinsic motivation', 'Identified regulation', 'Introjected regulation']"
+Level of Self-Esteem,"['High self-esteem', 'Average self-esteem', 'Low self-esteem']"
+Type of Locus of Control,"['Internal locus of control', 'External locus of control']"

@@ -43,31 +43,32 @@ def CMR2_predict_sample(row,client,model):
               )
     response=completion.choices[0].message.content
     try:
-      response=json.loads(response)
-      response['Prediction Model']=model
-      response['Generated Interaction value']=row['Interaction Value']
-      response['Data Generation Model']=row['model Name']
-      response['Domain']=domain
+      json_response=json.loads(response)
+      json_response['Prediction Model']=model
+      json_response['Generated Interaction value']=row['Interaction Value']
+      json_response['Data Generation Model']=row['model Name']
+      json_response['Domain']=domain
+      return json_response
     except:
-      with open('to_check.txt','w') as f:
-        f.write(str(response))
-        f.write('Prediction Model: '+str(model))
-        f.write('Generated Interaction value: '+str(row['Interaction Value']))
-        f.write('Data Generation Model: '+str(row['model Name']))
-        f.write('Domain: '+str(domain))
+      try:
+        if '```' in response:
+          response=response.split('```')[1]
 
-      if '```' in response:
-        response=response.split('```')[1]
-      
-      response=json.loads(response)
+        json_response=json.loads(response)
+        json_response['Prediction Model']=model
+        json_response['Generated Interaction value']=row['Interaction Value']
+        json_response['Data Generation Model']=row['model Name']
+        json_response['Domain']=domain
+        return json_response
+      except:
+          with open('to_check.txt','w') as f:
+            f.write(str(response)+'\n')
+            f.write('Prediction Model: '+str(model)+'\n')
+            f.write('Generated Interaction value: '+str(row['Interaction Value'])+'\n')
+            f.write('Data Generation Model: '+str(row['model Name'])+'\n')
+            f.write('Domain: '+str(domain)+'\n')
 
-      response['Prediction Model']=model
-      response['Generated Interaction value']=row['Interaction Value']
-      response['Data Generation Model']=row['model Name']
-      response['Domain']=domain
-
-
-    return response
+            return response
 
 ### test the function 
 

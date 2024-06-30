@@ -1,0 +1,11 @@
+variable definition,values
+Programming Language,"['Python', 'Java', 'C++', 'JavaScript', 'Ruby', 'Swift', 'Go', 'C#', 'PHP', 'Rust']"
+Database Management System,"['MySQL', 'PostgreSQL', 'MongoDB', 'Oracle', 'SQL Server', 'MariaDB', 'MariaDB', 'Cassandra', 'Redis', 'CouchDB']"
+Operating System,"['Windows', 'Linux', 'MacOS', 'Unix', 'Chrome OS', 'Android', 'iOS', 'Ubuntu', 'Fedora', 'CentOS']"
+Cloud Service Provider,"['Amazon Web Services', 'Microsoft Azure', 'Google Cloud', 'IBM Cloud', 'Alibaba Cloud', 'Oracle Cloud', 'VMware Cloud', 'DigitalOcean', 'Linode', 'Rackspace']"
+Integrated Development Environment,"['Visual Studio', 'Eclipse', 'IntelliJ IDEA', 'PyCharm', 'Xcode', 'Android Studio', 'NetBeans', 'Sublime Text', 'Atom', 'Brackets']"
+Version Control System,"['Git', 'Mercurial', 'Subversion', 'Perforce', 'Bitbucket', 'GitHub', 'TFS', 'Plastic SCM', 'Veracity', 'ClearCase']"
+Artificial Intelligence Framework,"['TensorFlow', 'PyTorch', 'Keras', 'Caffe', 'Theano', 'Microsoft Cognitive Toolkit', 'Chainer', 'MXNet', 'Gluon', 'PaddlePaddle']"
+Data Science Library,"['NumPy', 'Pandas', 'SciPy', 'Matplotlib', 'Seaborn', 'Scikit-learn', 'Gensim', 'Spyder', 'Jupyter', 'RapidMiner']"
+Web Application Framework,"['Django', 'Flask', 'Ruby on Rails', 'Laravel', 'Express', 'AngularJS', 'React', 'Vue.js', 'Ember.js', 'Backbone.js']"
+Cybersecurity Tool,"['Wireshark', 'Nessus', 'Metasploit', 'Nmap', 'Snort', 'Suricata', 'Bro', 'Osquery', 'Tripwire', 'Cain and Abel']"

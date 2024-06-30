@@ -1,0 +1,11 @@
+variable definition,values
+Marital Status,"['Single', 'Married', 'Divorced', 'Widowed', 'Separated']"
+Occupation,"['Student', 'Unemployed', 'Homemaker', 'Retired', 'Employee', 'Self-Employed', 'Entrepreneur']"
+Education Level,"['High School Diploma', ""Bachelor's Degree"", ""Master's Degree"", 'Doctoral Degree', 'Some College']"
+Income Level,"['Poverty Line', 'Low Income', 'Middle Class', 'Upper Middle Class', 'High Income', 'Wealthy']"
+Residence Type,"['Urban', 'Rural', 'Suburban', 'Urban Fringe', 'Rural Fringe']"
+Employment Status,"['Full-Time', 'Part-Time', 'Freelance', 'Unemployed', 'Homemaker', 'Student']"
+Religious Affiliation,"['Christian', 'Muslim', 'Jewish', 'Hindu', 'Buddhist', 'Atheist', 'Agnostic']"
+Language Spoken,"['English', 'Spanish', 'French', 'Mandarin', 'Arabic', 'Portuguese', 'German']"
+Age Group,"['Teenager', 'Young Adult', 'Adult', 'Middle-Aged', 'Senior Citizen', 'Elderly']"
+Family Structure,"['Nuclear Family', 'Extended Family', 'Single Parent', 'Blended Family', 'Single Person']"

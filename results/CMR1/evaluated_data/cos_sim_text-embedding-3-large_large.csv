@@ -1,0 +1,1121 @@
+Text1,Text2,Same Causal Variable,Variable Name,model Name,domain,text1_text2_cos_sim_text-embedding-3-large
+Smart Growth Initiative,Zoning Regulation,True,Urban Planning Policy,llama3-70b,urban studies,0.374
+Recreational Space,Commercial Hub,True,Land Use Pattern,llama3-70b,urban studies,0.321
+Post-War Bungalow,Historic Landmark,True,Building Architecture,llama3-70b,urban studies,0.291
+Bike-Friendly Roads,Efficient Public Transit,True,Transportation Infrastructure,llama3-70b,urban studies,0.378
+Art Deco Building,Post-War Bungalow,True,Building Architecture,llama3-70b,urban studies,0.388
+Public-Private Partnership,Decentralized Administration,True,Urban Governance,llama3-70b,urban studies,0.294
+Green Space Oasis,Noise Pollution Hotspot,True,Environmental Quality,llama3-70b,urban studies,0.385
+Historic Museum Quarter,Lively Nightlife Scene,True,Cultural Amenities,llama3-70b,urban studies,0.303
+Noise Pollution Hotspot,Toxic Waste Site,True,Environmental Quality,llama3-70b,urban studies,0.422
+Family-Oriented Neighborhood,Student Quarter,True,Neighborhood Demographics,llama3-70b,urban studies,0.296
+Disaster-Prone Region,Zoning Regulation,False,,llama3-70b,urban studies,0.258
+Police Patrol Zone,Commercial Hub,False,,llama3-70b,urban studies,0.259
+Police Patrol Zone,Historic Landmark,False,,llama3-70b,urban studies,0.199
+Recreational Space,Efficient Public Transit,False,,llama3-70b,urban studies,0.273
+Financial Hub,Post-War Bungalow,False,,llama3-70b,urban studies,0.208
+Art Deco Building,Decentralized Administration,False,,llama3-70b,urban studies,0.219
+Student Quarter,Noise Pollution Hotspot,False,,llama3-70b,urban studies,0.233
+Retiree Enclave,Commercial Hub,False,,llama3-70b,urban studies,0.302
+Toxic Waste Site,Lively Nightlife Scene,False,,llama3-70b,urban studies,0.182
+Waterway Access,Emergency Response Hub,False,,llama3-70b,urban studies,0.221
+Solenoid Coil,Bar Magnet,True,Magnetic Field,llama3-70b,physics,0.436
+Fiberglass,Reflective Insulation,True,Thermal Insulator,llama3-70b,physics,0.423
+Fixed Axis,Ideal Rigid Body,True,Kinematic Constraint,llama3-70b,physics,0.443
+Styrofoam,Vacuum Flask,True,Thermal Insulator,llama3-70b,physics,0.325
+Vacuum Flask,Ceramic Fiber,True,Thermal Insulator,llama3-70b,physics,0.31
+Prism,Water,True,Optical Medium,llama3-70b,physics,0.315
+Heat Engine,Refrigerator,True,Thermodynamic System,llama3-70b,physics,0.38
+X-Ray Tube,Laser Diode,True,Radiation Source,llama3-70b,physics,0.406
+Tidal Force,Gravitational Wave,True,Gravitational Field,llama3-70b,physics,0.517
+Tidal Force,Black Hole,True,Gravitational Field,llama3-70b,physics,0.416
+Vibrating Diaphragm,Bar Magnet,False,,llama3-70b,physics,0.314
+Prism,Reflective Insulation,False,,llama3-70b,physics,0.277
+Air,Ideal Rigid Body,False,,llama3-70b,physics,0.224
+Gold Plating,Vacuum Flask,False,,llama3-70b,physics,0.195
+Gold Plating,Ideal Gas,False,,llama3-70b,physics,0.23
+Guitar String,Ceramic Fiber,False,,llama3-70b,physics,0.245
+Laser Diode,Water,False,,llama3-70b,physics,0.188
+Radio Wave,Refrigerator,False,,llama3-70b,physics,0.275
+Ceramic Fiber,Laser Diode,False,,llama3-70b,physics,0.297
+Prism,Gravitational Wave,False,,llama3-70b,physics,0.274
+Sleepwalker,Nap Lover,True,Sleep Pattern,llama3-70b,health,0.409
+Athletic Build,Underweight,True,Body Mass Index,llama3-70b,health,0.352
+Flexitarian,Omnivore,True,Diet Type,llama3-70b,health,0.455
+Factory Worker,Office Worker,True,Occupational Hazards,llama3-70b,health,0.671
+Office Worker,Farmer,True,Occupational Hazards,llama3-70b,health,0.379
+Obese,Underweight,True,Body Mass Index,llama3-70b,health,0.501
+Factory Worker,Construction Worker,True,Occupational Hazards,llama3-70b,health,0.684
+Firefighter,Healthcare Professional,True,Occupational Hazards,llama3-70b,health,0.343
+Healthcare Professional,Factory Worker,True,Occupational Hazards,llama3-70b,health,0.318
+Vegetarian,Pescatarian,True,Diet Type,llama3-70b,health,0.635
+Prescription Follower,Nap Lover,False,,llama3-70b,health,0.297
+Factory Worker,Underweight,False,,llama3-70b,health,0.197
+Dose Adjuster,Omnivore,False,,llama3-70b,health,0.202
+Flexitarian,Mountain Dweller,False,,llama3-70b,health,0.215
+Chain Smoker,Office Worker,False,,llama3-70b,health,0.245
+Non Smoker,Farmer,False,,llama3-70b,health,0.302
+Prescription Follower,Underweight,False,,llama3-70b,health,0.212
+Healthy Family,Construction Worker,False,,llama3-70b,health,0.161
+Light Sleeper,Healthcare Professional,False,,llama3-70b,health,0.216
+Desert Resident,Factory Worker,False,,llama3-70b,health,0.256
+Deep Ultraviolet,Extreme Ultraviolet,True,Lithography Wavelength,llama3-70b,semiconductor manufacturing,0.75
+Silicon Carbide,Silicon on Insulator,True,Type of Wafer Material,llama3-70b,semiconductor manufacturing,0.593
+High-K Dielectric,Silicon Nitride,True,Dielectric Material Used,llama3-70b,semiconductor manufacturing,0.407
+Flip Chip,System-in-Package,True,Packaging Technology,llama3-70b,semiconductor manufacturing,0.419
+Nanowire,Gate-All-Around,True,Pattern of Transistor Gate,llama3-70b,semiconductor manufacturing,0.294
+Silicon Dioxide,Low-K Dielectric,True,Dielectric Material Used,llama3-70b,semiconductor manufacturing,0.349
+Gold,Tungsten,True,Type of Interconnect Metal,llama3-70b,semiconductor manufacturing,0.377
+Low-K Dielectric,High-K Dielectric,True,Dielectric Material Used,llama3-70b,semiconductor manufacturing,0.833
+Dry Etching,Plasma Etching,True,Type of Etching Process,llama3-70b,semiconductor manufacturing,0.724
+KrF Excimer Laser,Argon Fluoride,True,Lithography Wavelength,llama3-70b,semiconductor manufacturing,0.536
+System-in-Package,Extreme Ultraviolet,False,,llama3-70b,semiconductor manufacturing,0.198
+Wet Etching,Silicon on Insulator,False,,llama3-70b,semiconductor manufacturing,0.354
+Wire Bonding,Silicon Dioxide,False,,llama3-70b,semiconductor manufacturing,0.265
+Chemical Vapor Deposition,Silicon Nitride,False,,llama3-70b,semiconductor manufacturing,0.408
+Deep Ultraviolet,System-in-Package,False,,llama3-70b,semiconductor manufacturing,0.193
+Copper,Gate-All-Around,False,,llama3-70b,semiconductor manufacturing,0.143
+Class 1000,High-K Dielectric,False,,llama3-70b,semiconductor manufacturing,0.293
+Bulk Silicon,Low-K Dielectric,False,,llama3-70b,semiconductor manufacturing,0.342
+Copper,Plasma Etching,False,,llama3-70b,semiconductor manufacturing,0.228
+Argon Fluoride,Reactive Ion Etching,False,,llama3-70b,semiconductor manufacturing,0.371
+Denial of Service Attack,Ransomware Malware,True,Cybersecurity Threat,llama3-70b,computer science,0.37
+Queue Data Type,Graph Theory Application,True,Data Structure,llama3-70b,computer science,0.219
+Linear Time Complexity,Logarithmic Space Complexity,True,Computational Complexity,llama3-70b,computer science,0.572
+Lean Software Development,Agile Project Management,True,Software Development Methodology,llama3-70b,computer science,0.563
+Graph Theory Application,Tree Traversal Algorithm,True,Data Structure,llama3-70b,computer science,0.427
+Linked List Implementation,Graph Theory Application,True,Data Structure,llama3-70b,computer science,0.262
+Stack Overflow Handling,Tree Traversal Algorithm,True,Data Structure,llama3-70b,computer science,0.216
+SQL Injection Attack,Denial of Service Attack,True,Cybersecurity Threat,llama3-70b,computer science,0.463
+Harvard Architecture,Cache Memory Hierarchy,True,Computer Architecture,llama3-70b,computer science,0.408
+Cache Memory Hierarchy,Von Neumann Architecture,True,Computer Architecture,llama3-70b,computer science,0.389
+Deep Learning Neural Network,Graph Theory Application,False,,llama3-70b,computer science,0.278
+Graph Theory Application,Logarithmic Space Complexity,False,,llama3-70b,computer science,0.259
+RISC Instruction Set,Agile Project Management,False,,llama3-70b,computer science,0.122
+RISC Instruction Set,Tree Traversal Algorithm,False,,llama3-70b,computer science,0.148
+SMTP Email Protocol,Polynomial Time Algorithm,False,,llama3-70b,computer science,0.151
+Cloud-Based Database,Graph Theory Application,False,,llama3-70b,computer science,0.193
+Linear Time Complexity,Tree Traversal Algorithm,False,,llama3-70b,computer science,0.391
+Deep Learning Neural Network,Denial of Service Attack,False,,llama3-70b,computer science,0.177
+Augmented Reality Interface,Cache Memory Hierarchy,False,,llama3-70b,computer science,0.207
+Python Syntax,Von Neumann Architecture,False,,llama3-70b,computer science,0.13
+Couch Potato,Outdoor Adventurer,True,Leisure Activity,llama3-70b,sociology,0.29
+Entrepreneur,Blue Collar Worker,True,Occupational Status,llama3-70b,sociology,0.283
+Nuclear Family,Extended Family,True,Family Structure,llama3-70b,sociology,0.556
+Sports Enthusiast,Outdoor Adventurer,True,Leisure Activity,llama3-70b,sociology,0.45
+Ethnic Minority,Immigrant Community,True,Cultural Identity,llama3-70b,sociology,0.459
+Close-Knit Community,Loose Acquaintances,True,Social Network,llama3-70b,sociology,0.326
+Long-Term Resident,Recent Migrant,True,Residential Mobility,llama3-70b,sociology,0.408
+Single Parent Household,Nuclear Family,True,Family Structure,llama3-70b,sociology,0.539
+Bachelor's Degree,Master's Degree,True,Education Level,llama3-70b,sociology,0.696
+Online Network,Isolated Individual,True,Social Network,llama3-70b,sociology,0.276
+Counterculture,Outdoor Adventurer,False,,llama3-70b,sociology,0.208
+Isolated Individual,Extended Family,False,,llama3-70b,sociology,0.325
+Unemployed,Outdoor Adventurer,False,,llama3-70b,sociology,0.252
+Artistic Pursuits,Poverty Line,False,,llama3-70b,sociology,0.108
+Socialist,Immigrant Community,False,,llama3-70b,sociology,0.221
+White Collar Worker,Recent Migrant,False,,llama3-70b,sociology,0.259
+Socialist,Couch Potato,False,,llama3-70b,sociology,0.257
+Suburban Area,Nuclear Family,False,,llama3-70b,sociology,0.279
+Frequent Mover,Single Parent Household,False,,llama3-70b,sociology,0.24
+Isolated Individual,Entrepreneur,False,,llama3-70b,sociology,0.293
+Introverted Thinker,Intuitive Perceiver,True,Personality Type,llama3-70b,psychology,0.577
+Extrinsically Motivated,Achievement-Oriented,True,Motivation,llama3-70b,psychology,0.473
+Avoidantly Attached,Securely Attached,True,Attachment Style,llama3-70b,psychology,0.674
+Setback Recoverer,Crisis Handler,True,Resilience,llama3-70b,psychology,0.382
+Emotional Suppressor,Emotional Expresser,True,Emotional Regulation,llama3-70b,psychology,0.631
+Rationalizer,Suppressor,True,Coping Mechanism,llama3-70b,psychology,0.366
+Auditory Learner,Visual Learner,True,Learning Style,llama3-70b,psychology,0.653
+Self-Doubter,Overachiever,True,Self-Esteem,llama3-70b,psychology,0.429
+Reading-Writing Learner,Kinesthetic Learner,True,Learning Style,llama3-70b,psychology,0.51
+Intrinsically Motivated,Socially Driven,True,Motivation,llama3-70b,psychology,0.373
+Crisis Handler,Insecure Person,False,,llama3-70b,psychology,0.316
+Large Family Circle,Intuitive Perceiver,False,,llama3-70b,psychology,0.182
+Emotional Avoider,Achievement-Oriented,False,,llama3-70b,psychology,0.299
+Fear-Driven,Crisis Handler,False,,llama3-70b,psychology,0.303
+Close-Knit Friend Group,Emotional Expresser,False,,llama3-70b,psychology,0.24
+Intrinsically Motivated,Crisis Handler,False,,llama3-70b,psychology,0.106
+Setback Recoverer,Visual Learner,False,,llama3-70b,psychology,0.17
+Large Family Circle,Securely Attached,False,,llama3-70b,psychology,0.287
+Introverted Thinker,Overachiever,False,,llama3-70b,psychology,0.333
+Introverted Thinker,Kinesthetic Learner,False,,llama3-70b,psychology,0.355
+Bullish Trend,Bearish Trend,True,Market Sentiment,llama3-70b,finance,0.812
+Bearish Trend,Market Volatility,True,Market Sentiment,llama3-70b,finance,0.41
+Bearish Trend,Economic Uncertainty,True,Market Sentiment,llama3-70b,finance,0.359
+Market Penetration,Cost Leadership Strategy,True,Growth Strategy,llama3-70b,finance,0.388
+Retail Business,Technology Sector,True,Industry Type,llama3-70b,finance,0.378
+Low Debt Ratio,High Debt Ratio,True,Financial Leverage,llama3-70b,finance,0.83
+Turnaround Expertise,Seasoned Leadership,True,Management Experience,llama3-70b,finance,0.452
+Manufacturing Firm,Technology Sector,True,Industry Type,llama3-70b,finance,0.392
+Economic Boom,Stagflation,True,Macroeconomic Conditions,llama3-70b,finance,0.412
+Inflationary Pressure,Stagflation,True,Macroeconomic Conditions,llama3-70b,finance,0.499
+Cost Leadership Strategy,Developed Economy,False,,llama3-70b,finance,0.201
+Cost Leadership Strategy,Duopoly Market,False,,llama3-70b,finance,0.304
+Small Cap,Bearish Trend,False,,llama3-70b,finance,0.327
+Organic Growth,Bearish Trend,False,,llama3-70b,finance,0.204
+Deflationary Environment,Market Volatility,False,,llama3-70b,finance,0.412
+Industry-Specific Laws,Cost Leadership Strategy,False,,llama3-70b,finance,0.161
+Trade Agreements,Technology Sector,False,,llama3-70b,finance,0.244
+Family Owned Business,High Debt Ratio,False,,llama3-70b,finance,0.194
+Bearish Trend,Technology Sector,False,,llama3-70b,finance,0.237
+Large Cap,Technology Sector,False,,llama3-70b,finance,0.364
+minimal sustainability efforts,leading sustainability practices,True,Environmental Sustainability,mixtral-8x22b-instruct,urban studies,0.52
+limited natural features,barren landscape,True,Natural Landscape,mixtral-8x22b-instruct,urban studies,0.449
+apartment complexes,townhouses,True,Housing Types,mixtral-8x22b-instruct,urban studies,0.521
+megacity,urban core,True,Population Density,mixtral-8x22b-instruct,urban studies,0.495
+megacity,high-rise district,True,Population Density,mixtral-8x22b-instruct,urban studies,0.39
+airport hub,bike lanes,True,Transportation Infrastructure,mixtral-8x22b-instruct,urban studies,0.244
+limited cultural diversity,moderate cultural diversity,True,Cultural Diversity,mixtral-8x22b-instruct,urban studies,0.745
+world heritage site,moderate historical significance,True,Historical Significance,mixtral-8x22b-instruct,urban studies,0.238
+moderate sustainability efforts,minimal sustainability efforts,True,Environmental Sustainability,mixtral-8x22b-instruct,urban studies,0.705
+sparse settlements,high-rise district,True,Population Density,mixtral-8x22b-instruct,urban studies,0.295
+sparse settlements,leading sustainability practices,False,,mixtral-8x22b-instruct,urban studies,0.192
+no historical significance,barren landscape,False,,mixtral-8x22b-instruct,urban studies,0.239
+minimal sustainability efforts,townhouses,False,,mixtral-8x22b-instruct,urban studies,0.168
+industrial zone,urban core,False,,mixtral-8x22b-instruct,urban studies,0.439
+public transit system,knowledge economy,False,,mixtral-8x22b-instruct,urban studies,0.156
+pedestrian-friendly streets,high-rise district,False,,mixtral-8x22b-instruct,urban studies,0.32
+limited cultural diversity,bike lanes,False,,mixtral-8x22b-instruct,urban studies,0.174
+minimal sustainability efforts,high-rise district,False,,mixtral-8x22b-instruct,urban studies,0.149
+basic public services,minimal sustainability efforts,False,,mixtral-8x22b-instruct,urban studies,0.39
+world-class public services,high-rise district,False,,mixtral-8x22b-instruct,urban studies,0.251
+Frequency of a gamma ray,Frequency of a radio wave,True,Frequency of a wave,mixtral-8x22b-instruct,physics,0.656
+Absolute zero,Room temperature,True,Temperature of a gas,mixtral-8x22b-instruct,physics,0.468
+Charge of a proton,Charge of a capacitor,True,Electric charge,mixtral-8x22b-instruct,physics,0.569
+Magnetic field of Jupiter,Magnetic field of a refrigerator magnet,True,Magnetic field strength,mixtral-8x22b-instruct,physics,0.549
+Frequency of visible light,Frequency of a cosmic ray,True,Frequency of a wave,mixtral-8x22b-instruct,physics,0.523
+Magnetic field of a neutron star,Magnetic field of Jupiter,True,Magnetic field strength,mixtral-8x22b-instruct,physics,0.563
+Magnetic field of Earth,Magnetic field of Jupiter,True,Magnetic field strength,mixtral-8x22b-instruct,physics,0.638
+Magnetic field of Earth,Magnetic field of a neodymium magnet,True,Magnetic field strength,mixtral-8x22b-instruct,physics,0.658
+Height of a human,Diameter of a hydrogen atom,True,Length of an object,mixtral-8x22b-instruct,physics,0.364
+Lifespan of a mayfly,Age of the Universe,True,Time duration,mixtral-8x22b-instruct,physics,0.196
+Pressure at the top of Mount Everest,Frequency of a radio wave,False,,mixtral-8x22b-instruct,physics,0.175
+Energy of a supernova,Charge of a capacitor,False,,mixtral-8x22b-instruct,physics,0.269
+Charge of a capacitor,Speed of sound,False,,mixtral-8x22b-instruct,physics,0.28
+Mass of a car,Magnetic field of a refrigerator magnet,False,,mixtral-8x22b-instruct,physics,0.234
+Diameter of a hydrogen atom,Frequency of a cosmic ray,False,,mixtral-8x22b-instruct,physics,0.3
+Pressure inside a hot air balloon,Magnetic field of Jupiter,False,,mixtral-8x22b-instruct,physics,0.229
+Frequency of visible light,Magnetic field of Jupiter,False,,mixtral-8x22b-instruct,physics,0.202
+Mass of an electron,Pressure inside a nuclear reactor,False,,mixtral-8x22b-instruct,physics,0.196
+Planck length,Magnetic field of a neodymium magnet,False,,mixtral-8x22b-instruct,physics,0.204
+Charge of a capacitor,Kinetic energy of a bullet,False,,mixtral-8x22b-instruct,physics,0.25
+Sound sleeper,Insomniac,True,Sleep quality,mixtral-8x22b-instruct,health,0.537
+Light drinker,Heavy drinker,True,Alcohol consumption,mixtral-8x22b-instruct,health,0.714
+No mental illness,Severe mental illness,True,Mental health status,mixtral-8x22b-instruct,health,0.572
+Lightly active,Very active,True,Physical activity level,mixtral-8x22b-instruct,health,0.6
+Excessive sun exposure,No sun exposure,True,Sun exposure,mixtral-8x22b-instruct,health,0.692
+Genetic protection,Mild genetic predisposition,True,Genetic predisposition,mixtral-8x22b-instruct,health,0.473
+Minimal sun exposure,Excessive sun exposure,True,Sun exposure,mixtral-8x22b-instruct,health,0.636
+Low pollution,Minimal pollution,True,Environmental pollution,mixtral-8x22b-instruct,health,0.9
+Minimal pollution,No pollution,True,Environmental pollution,mixtral-8x22b-instruct,health,0.839
+Genetic protection,No genetic predisposition,True,Genetic predisposition,mixtral-8x22b-instruct,health,0.474
+Limited sun exposure,Insomniac,False,,mixtral-8x22b-instruct,health,0.216
+Non-smoker,Heavy drinker,False,,mixtral-8x22b-instruct,health,0.467
+Social smoker,Severe mental illness,False,,mixtral-8x22b-instruct,health,0.201
+Excessive sun exposure,Insomniac,False,,mixtral-8x22b-instruct,health,0.198
+High-protein,No sun exposure,False,,mixtral-8x22b-instruct,health,0.199
+High pollution,Mild genetic predisposition,False,,mixtral-8x22b-instruct,health,0.182
+Moderate pollution,Excessive sun exposure,False,,mixtral-8x22b-instruct,health,0.253
+No pollution,Excessive sun exposure,False,,mixtral-8x22b-instruct,health,0.163
+Moderate genetic predisposition,Minimal pollution,False,,mixtral-8x22b-instruct,health,0.243
+Limited sun exposure,No pollution,False,,mixtral-8x22b-instruct,health,0.295
+silicon carbide,germanium,True,Type of substrate,mixtral-8x22b-instruct,semiconductor manufacturing,0.491
+trace amount,moderate concentration,True,Doping concentration,mixtral-8x22b-instruct,semiconductor manufacturing,0.215
+boiling point of water,room temperature,True,Temperature of the furnace,mixtral-8x22b-instruct,semiconductor manufacturing,0.366
+fast spin,idle,True,Rotation speed of the wafer,mixtral-8x22b-instruct,semiconductor manufacturing,0.284
+heartbeat,blink of an eye,True,Duration of the process,mixtral-8x22b-instruct,semiconductor manufacturing,0.358
+Blu-ray disc,CD,True,Thickness of the wafer,mixtral-8x22b-instruct,semiconductor manufacturing,0.396
+melting point of silicon,room temperature,True,Temperature of the furnace,mixtral-8x22b-instruct,semiconductor manufacturing,0.278
+argon,hydrogen,True,Type of gas used,mixtral-8x22b-instruct,semiconductor manufacturing,0.427
+flood,trickle,True,Flow rate of the gas,mixtral-8x22b-instruct,semiconductor manufacturing,0.387
+credit card,paper thin,True,Thickness of the wafer,mixtral-8x22b-instruct,semiconductor manufacturing,0.247
+fast spin,boiling point of silicon,False,,mixtral-8x22b-instruct,semiconductor manufacturing,0.127
+stream,heartbeat,False,,mixtral-8x22b-instruct,semiconductor manufacturing,0.312
+boiling point of silicon,germanium,False,,mixtral-8x22b-instruct,semiconductor manufacturing,0.347
+oxygen,silicon,False,,mixtral-8x22b-instruct,semiconductor manufacturing,0.384
+boiling point of water,heartbeat,False,,mixtral-8x22b-instruct,semiconductor manufacturing,0.139
+phosphorus,moderate concentration,False,,mixtral-8x22b-instruct,semiconductor manufacturing,0.209
+high concentration,room temperature,False,,mixtral-8x22b-instruct,semiconductor manufacturing,0.284
+pressure in outer space,boiling point of water,False,,mixtral-8x22b-instruct,semiconductor manufacturing,0.252
+maximum spin,moderate concentration,False,,mixtral-8x22b-instruct,semiconductor manufacturing,0.256
+minute,CD,False,,mixtral-8x22b-instruct,semiconductor manufacturing,0.273
+MariaDB,Cassandra,True,Database Management System,mixtral-8x22b-instruct,computer science,0.39
+Buddy,Jenkins,True,CI/CD Tool,mixtral-8x22b-instruct,computer science,0.276
+Linux,Fedora,True,Operating System,mixtral-8x22b-instruct,computer science,0.416
+Redis,Cassandra,True,Database Management System,mixtral-8x22b-instruct,computer science,0.382
+Rancher,CoreOS,True,Containerization Platform,mixtral-8x22b-instruct,computer science,0.324
+Laravel,Ruby on Rails,True,Web Framework,mixtral-8x22b-instruct,computer science,0.486
+Django,React,True,Web Framework,mixtral-8x22b-instruct,computer science,0.29
+ASP.NET,Flask,True,Web Framework,mixtral-8x22b-instruct,computer science,0.269
+Oracle VM VirtualBox,Red Hat Virtualization,True,Virtualization Platform,mixtral-8x22b-instruct,computer science,0.519
+Rackspace,Alibaba Cloud,True,Cloud Service Provider,mixtral-8x22b-instruct,computer science,0.471
+Kubernetes,Cassandra,False,,mixtral-8x22b-instruct,computer science,0.318
+Microsoft Hyper-V,CoreOS,False,,mixtral-8x22b-instruct,computer science,0.387
+Fossil,Jenkins,False,,mixtral-8x22b-instruct,computer science,0.134
+Express.js,Fedora,False,,mixtral-8x22b-instruct,computer science,0.175
+Sublime Text,Cassandra,False,,mixtral-8x22b-instruct,computer science,0.234
+CircleCI,Ruby on Rails,False,,mixtral-8x22b-instruct,computer science,0.365
+Eclipse,React,False,,mixtral-8x22b-instruct,computer science,0.27
+Visual Studio Code,Flask,False,,mixtral-8x22b-instruct,computer science,0.279
+Citrix Hypervisor,Alibaba Cloud,False,,mixtral-8x22b-instruct,computer science,0.296
+Rancher,GitLab CI,False,,mixtral-8x22b-instruct,computer science,0.234
+Child,Senior citizen,True,Age,mixtral-8x22b-instruct,sociology,0.273
+Lower-middle class,Below poverty line,True,Income level,mixtral-8x22b-instruct,sociology,0.484
+Blue-collar worker,White-collar worker,True,Occupation,mixtral-8x22b-instruct,sociology,0.696
+Libertarian,Anarchist,True,Political ideology,mixtral-8x22b-instruct,sociology,0.62
+Rural area,Suburban area,True,Geographic location,mixtral-8x22b-instruct,sociology,0.651
+Entrepreneur,Professional,True,Occupation,mixtral-8x22b-instruct,sociology,0.423
+Nuclear family,Single individual,True,Family structure,mixtral-8x22b-instruct,sociology,0.362
+Child,Middle-aged adult,True,Age,mixtral-8x22b-instruct,sociology,0.333
+African American,Hispanic,True,Ethnicity,mixtral-8x22b-instruct,sociology,0.511
+Upper class,Upper-middle class,True,Income level,mixtral-8x22b-instruct,sociology,0.771
+Genderqueer,Senior citizen,False,,mixtral-8x22b-instruct,sociology,0.134
+Primary school graduate,Below poverty line,False,,mixtral-8x22b-instruct,sociology,0.277
+Libertarian,White-collar worker,False,,mixtral-8x22b-instruct,sociology,0.245
+Extended family,Anarchist,False,,mixtral-8x22b-instruct,sociology,0.124
+Master's degree holder,Suburban area,False,,mixtral-8x22b-instruct,sociology,0.18
+Rural area,Professional,False,,mixtral-8x22b-instruct,sociology,0.223
+Female,Single individual,False,,mixtral-8x22b-instruct,sociology,0.376
+Single-parent household,Middle-aged adult,False,,mixtral-8x22b-instruct,sociology,0.3
+Master's degree holder,Hispanic,False,,mixtral-8x22b-instruct,sociology,0.219
+Master's degree holder,Below poverty line,False,,mixtral-8x22b-instruct,sociology,0.223
+drive,initiative,True,Motivation,mixtral-8x22b-instruct,psychology,0.381
+dutifulness,achievement-striving,True,Conscientiousness,mixtral-8x22b-instruct,psychology,0.285
+self-worth,self-confidence,True,Self-Esteem,mixtral-8x22b-instruct,psychology,0.604
+initiative,goal-directed behavior,True,Motivation,mixtral-8x22b-instruct,psychology,0.283
+vulnerability,anger,True,Neuroticism,mixtral-8x22b-instruct,psychology,0.26
+enthusiasm,excitement-seeking,True,Extraversion,mixtral-8x22b-instruct,psychology,0.442
+intellectual curiosity,aesthetic sensitivity,True,Openness to Experience,mixtral-8x22b-instruct,psychology,0.324
+activity level,gregariousness,True,Extraversion,mixtral-8x22b-instruct,psychology,0.231
+persistence,drive,True,Motivation,mixtral-8x22b-instruct,psychology,0.331
+orderliness,competence,True,Conscientiousness,mixtral-8x22b-instruct,psychology,0.318
+stress tolerance,initiative,False,,mixtral-8x22b-instruct,psychology,0.169
+perspective-taking,achievement-striving,False,,mixtral-8x22b-instruct,psychology,0.351
+competence,self-confidence,False,,mixtral-8x22b-instruct,psychology,0.523
+future-mindedness,goal-directed behavior,False,,mixtral-8x22b-instruct,psychology,0.391
+aesthetic sensitivity,emotional regulation,False,,mixtral-8x22b-instruct,psychology,0.253
+flexibility,anger,False,,mixtral-8x22b-instruct,psychology,0.188
+future-mindedness,excitement-seeking,False,,mixtral-8x22b-instruct,psychology,0.313
+creativity,gregariousness,False,,mixtral-8x22b-instruct,psychology,0.248
+activity level,drive,False,,mixtral-8x22b-instruct,psychology,0.299
+self-worth,competence,False,,mixtral-8x22b-instruct,psychology,0.382
+bear market,bull market,True,Stock Market Performance,mixtral-8x22b-instruct,finance,0.729
+stable rates,negative rates,True,Interest Rates,mixtral-8x22b-instruct,finance,0.553
+market rally,bull market,True,Stock Market Performance,mixtral-8x22b-instruct,finance,0.734
+quantitative easing,restrictive policy,True,Monetary Policy,mixtral-8x22b-instruct,finance,0.288
+accommodative policy,neutral policy,True,Monetary Policy,mixtral-8x22b-instruct,finance,0.498
+appreciation,stable exchange rate,True,Currency Exchange Rates,mixtral-8x22b-instruct,finance,0.244
+severe unemployment,low unemployment,True,Unemployment Rate,mixtral-8x22b-instruct,finance,0.619
+low confidence,rising confidence,True,Consumer Confidence,mixtral-8x22b-instruct,finance,0.625
+deflation,creeping inflation,True,Inflation,mixtral-8x22b-instruct,finance,0.427
+full employment,severe unemployment,True,Unemployment Rate,mixtral-8x22b-instruct,finance,0.522
+appreciation,bull market,False,,mixtral-8x22b-instruct,finance,0.245
+restrictive policy,negative rates,False,,mixtral-8x22b-instruct,finance,0.342
+market rally,severe unemployment,False,,mixtral-8x22b-instruct,finance,0.19
+balanced budget,bull market,False,,mixtral-8x22b-instruct,finance,0.258
+stable exchange rate,restrictive policy,False,,mixtral-8x22b-instruct,finance,0.354
+declining confidence,neutral policy,False,,mixtral-8x22b-instruct,finance,0.244
+bankruptcy,recession,False,,mixtral-8x22b-instruct,finance,0.413
+fiscal deficit,tightening,False,,mixtral-8x22b-instruct,finance,0.173
+market crash,rising rates,False,,mixtral-8x22b-instruct,finance,0.361
+hyperinflation,low unemployment,False,,mixtral-8x22b-instruct,finance,0.318
+Tech startups hub,Manufacturing district,True,Economic activity,gpt-3.5-turbo,urban studies,0.308
+Community parks,Botanical gardens,True,Green space availability,gpt-3.5-turbo,urban studies,0.385
+Mobile medical units,State-of-the-art hospitals,True,Healthcare access,gpt-3.5-turbo,urban studies,0.393
+Financial services center,Manufacturing district,True,Economic activity,gpt-3.5-turbo,urban studies,0.288
+High burglary areas,Low crime neighborhoods,True,Crime rate,gpt-3.5-turbo,urban studies,0.575
+International cuisine restaurants,Multicultural festivals,True,Cultural diversity,gpt-3.5-turbo,urban studies,0.436
+Suburban neighborhoods with single-family homes,Sparse residential areas,True,Population density,gpt-3.5-turbo,urban studies,0.478
+Mixed-use developments,Revitalization of waterfront areas,True,Urban renewal projects,gpt-3.5-turbo,urban studies,0.464
+Multicultural festivals,Ethnic enclaves,True,Cultural diversity,gpt-3.5-turbo,urban studies,0.408
+Community health clinics,State-of-the-art hospitals,True,Healthcare access,gpt-3.5-turbo,urban studies,0.41
+Luxury condominiums,Manufacturing district,False,,gpt-3.5-turbo,urban studies,0.288
+Mixed-use developments,Botanical gardens,False,,gpt-3.5-turbo,urban studies,0.207
+Community health clinics,Historic preservation initiatives,False,,gpt-3.5-turbo,urban studies,0.237
+Historic preservation initiatives,State-of-the-art hospitals,False,,gpt-3.5-turbo,urban studies,0.207
+Violent crime hotspots,Manufacturing district,False,,gpt-3.5-turbo,urban studies,0.203
+Tech startups hub,Low crime neighborhoods,False,,gpt-3.5-turbo,urban studies,0.218
+Urban core with high-rise buildings,International cuisine restaurants,False,,gpt-3.5-turbo,urban studies,0.229
+Revitalization of waterfront areas,Multicultural festivals,False,,gpt-3.5-turbo,urban studies,0.287
+Financial services center,Sparse residential areas,False,,gpt-3.5-turbo,urban studies,0.2
+Revitalization of waterfront areas,High burglary areas,False,,gpt-3.5-turbo,urban studies,0.281
+Vacuum fluctuations,Quantum chromodynamics,True,Quantum field theory,gpt-3.5-turbo,physics,0.402
+Kinetic energy,Potential energy,True,Energy of motion,gpt-3.5-turbo,physics,0.668
+Electric field,Magnetic field,True,Electromagnetic interactions,gpt-3.5-turbo,physics,0.698
+Mechanical energy,Thermal energy,True,Energy of motion,gpt-3.5-turbo,physics,0.606
+Muon,Lepton,True,Fundamental particles,gpt-3.5-turbo,physics,0.416
+Heat transfer,Adiabatic expansion,True,Thermodynamic processes,gpt-3.5-turbo,physics,0.38
+Resonance,Interference,True,Wave phenomena,gpt-3.5-turbo,physics,0.387
+Electromagnetic radiation,Electric field,True,Electromagnetic interactions,gpt-3.5-turbo,physics,0.469
+Work done,Entropy change,True,Thermodynamic processes,gpt-3.5-turbo,physics,0.283
+Quantum electrodynamics,Feynman diagrams,True,Quantum field theory,gpt-3.5-turbo,physics,0.539
+Entanglement,Potential energy,False,,gpt-3.5-turbo,physics,0.246
+Dispersion,Magnetic field,False,,gpt-3.5-turbo,physics,0.253
+Renormalization,Lepton,False,,gpt-3.5-turbo,physics,0.236
+Wave-particle duality,Adiabatic expansion,False,,gpt-3.5-turbo,physics,0.175
+Gluon,Quantum electrodynamics,False,,gpt-3.5-turbo,physics,0.407
+Decoherence,Interference,False,,gpt-3.5-turbo,physics,0.42
+Photon,Electric field,False,,gpt-3.5-turbo,physics,0.324
+Kinetic energy,Entropy change,False,,gpt-3.5-turbo,physics,0.373
+Potential energy,Length contraction,False,,gpt-3.5-turbo,physics,0.205
+Electric field,Fusion,False,,gpt-3.5-turbo,physics,0.179
+Adequately Hydrated,Thirsty,True,Hydration Status,gpt-3.5-turbo,health,0.478
+Teetotaler,Social Drinker,True,Alcohol Consumption,gpt-3.5-turbo,health,0.441
+Dehydrated,Over-hydrated,True,Hydration Status,gpt-3.5-turbo,health,0.661
+Heavy Drinker,Teetotaler,True,Alcohol Consumption,gpt-3.5-turbo,health,0.461
+Regular Gym Goer,Yoga Practitioner,True,Physical Activity Level,gpt-3.5-turbo,health,0.424
+Vegan,Mediterranean,True,Dietary Preference,gpt-3.5-turbo,health,0.348
+Friendship Circle,Family-Centric,True,Social Support,gpt-3.5-turbo,health,0.408
+Tanned,Sunscreen User,True,Sun Exposure,gpt-3.5-turbo,health,0.421
+Paleo,Fast Food Lover,True,Dietary Preference,gpt-3.5-turbo,health,0.287
+Insomniac,Napper,True,Sleep Quality,gpt-3.5-turbo,health,0.387
+Screen Addict,Thirsty,False,,gpt-3.5-turbo,health,0.249
+Chain Smoker,Social Drinker,False,,gpt-3.5-turbo,health,0.356
+Tanned,Adequately Hydrated,False,,gpt-3.5-turbo,health,0.3
+Exercise,Over-hydrated,False,,gpt-3.5-turbo,health,0.188
+Insomniac,Teetotaler,False,,gpt-3.5-turbo,health,0.271
+Limited User,Yoga Practitioner,False,,gpt-3.5-turbo,health,0.301
+Meditation,Mediterranean,False,,gpt-3.5-turbo,health,0.447
+Screen Addict,Dehydrated,False,,gpt-3.5-turbo,health,0.2
+Tech Detoxer,Family-Centric,False,,gpt-3.5-turbo,health,0.189
+Marathon Runner,Friendship Circle,False,,gpt-3.5-turbo,health,0.171
+Temperature Mapping,Stable Temperature,True,Temperature Control,gpt-3.5-turbo,semiconductor manufacturing,0.472
+Reworked Wafers,Defect-Free Wafers,True,Process Yield,gpt-3.5-turbo,semiconductor manufacturing,0.567
+Scheduled Maintenance,Continuous Operation,True,Equipment Utilization,gpt-3.5-turbo,semiconductor manufacturing,0.428
+Continuous Operation,Tool Calibration,True,Equipment Utilization,gpt-3.5-turbo,semiconductor manufacturing,0.275
+Under Etching,Uniform Etching,True,Etch Rate,gpt-3.5-turbo,semiconductor manufacturing,0.686
+Scrapped Wafers,Reworked Wafers,True,Process Yield,gpt-3.5-turbo,semiconductor manufacturing,0.781
+Flat Wafers,Convex Wafers,True,Wafer Bow,gpt-3.5-turbo,semiconductor manufacturing,0.721
+Chemical Contamination,Particle Contamination,True,Cleanroom Contamination,gpt-3.5-turbo,semiconductor manufacturing,0.678
+Flat Wafers,Concave Wafers,True,Wafer Bow,gpt-3.5-turbo,semiconductor manufacturing,0.764
+Over Etching,Uniform Etching,True,Etch Rate,gpt-3.5-turbo,semiconductor manufacturing,0.653
+Uniform Etching,Stable Temperature,False,,gpt-3.5-turbo,semiconductor manufacturing,0.248
+Particle Contamination,Defect-Free Wafers,False,,gpt-3.5-turbo,semiconductor manufacturing,0.354
+Flat Wafers,Continuous Operation,False,,gpt-3.5-turbo,semiconductor manufacturing,0.203
+Over-Dose,Edge Exclusion,False,,gpt-3.5-turbo,semiconductor manufacturing,0.197
+Scrapped Wafers,Uniform Etching,False,,gpt-3.5-turbo,semiconductor manufacturing,0.295
+Defect-Free Wafers,Over Etching,False,,gpt-3.5-turbo,semiconductor manufacturing,0.319
+Over-Dose,Strong Adhesion,False,,gpt-3.5-turbo,semiconductor manufacturing,0.15
+Stable Temperature,Reworked Wafers,False,,gpt-3.5-turbo,semiconductor manufacturing,0.165
+Temperature Mapping,Convex Wafers,False,,gpt-3.5-turbo,semiconductor manufacturing,0.184
+Thickness Variability,Particle Contamination,False,,gpt-3.5-turbo,semiconductor manufacturing,0.263
+Logarithmic Time,Linear Time,True,Algorithm Complexity,gpt-3.5-turbo,computer science,0.686
+Key-Value,NoSQL,True,Database Model,gpt-3.5-turbo,computer science,0.384
+Ransomware,Social Engineering,True,Cybersecurity Threat,gpt-3.5-turbo,computer science,0.211
+Scrum,Agile,True,Software Development Methodology,gpt-3.5-turbo,computer science,0.601
+Agile,DevOps,True,Software Development Methodology,gpt-3.5-turbo,computer science,0.459
+Real-Time,Distributed,True,Operating System,gpt-3.5-turbo,computer science,0.378
+Queue,Tree,True,Data Structure,gpt-3.5-turbo,computer science,0.367
+Distributed,Embedded,True,Operating System,gpt-3.5-turbo,computer science,0.308
+FaaS,DaaS,True,Cloud Computing Service Model,gpt-3.5-turbo,computer science,0.5
+DaaS,PaaS,True,Cloud Computing Service Model,gpt-3.5-turbo,computer science,0.506
+UDP,NoSQL,False,,gpt-3.5-turbo,computer science,0.229
+Embedded,Social Engineering,False,,gpt-3.5-turbo,computer science,0.24
+Functional,Agile,False,,gpt-3.5-turbo,computer science,0.328
+Constant Time,DevOps,False,,gpt-3.5-turbo,computer science,0.228
+Linked List,Distributed,False,,gpt-3.5-turbo,computer science,0.232
+Malware,Scripting,False,,gpt-3.5-turbo,computer science,0.269
+TCP/IP,Tree,False,,gpt-3.5-turbo,computer science,0.205
+SMTP,Embedded,False,,gpt-3.5-turbo,computer science,0.251
+Compiled,DaaS,False,,gpt-3.5-turbo,computer science,0.199
+Linked List,Real-Time,False,,gpt-3.5-turbo,computer science,0.191
+Centrist,Libertarian,True,Political Ideology,gpt-3.5-turbo,sociology,0.471
+Trade school graduate,Bachelor's degree recipient,True,Educational Attainment,gpt-3.5-turbo,sociology,0.491
+Socialist,Centrist,True,Political Ideology,gpt-3.5-turbo,sociology,0.441
+Transgender woman,Genderqueer person,True,Gender Identity,gpt-3.5-turbo,sociology,0.543
+Married,Divorced,True,Marital Status,gpt-3.5-turbo,sociology,0.652
+Bachelor's degree recipient,Ph.D. holder,True,Educational Attainment,gpt-3.5-turbo,sociology,0.535
+Devout Catholic,Practicing Muslim,True,Religious Affiliation,gpt-3.5-turbo,sociology,0.505
+Genderfluid individual,Cisgender man,True,Gender Identity,gpt-3.5-turbo,sociology,0.478
+Blended family,Single-parent household,True,Family Structure,gpt-3.5-turbo,sociology,0.475
+Single-parent household,Nuclear family,True,Family Structure,gpt-3.5-turbo,sociology,0.54
+Genderfluid individual,Artist,False,,gpt-3.5-turbo,sociology,0.277
+Blended family,Libertarian,False,,gpt-3.5-turbo,sociology,0.125
+Never married,Bachelor's degree recipient,False,,gpt-3.5-turbo,sociology,0.315
+Anarchist,Green card holder,False,,gpt-3.5-turbo,sociology,0.182
+Wealthy entrepreneur,Genderqueer person,False,,gpt-3.5-turbo,sociology,0.144
+Undocumented immigrant,Ph.D. holder,False,,gpt-3.5-turbo,sociology,0.194
+Cisgender man,Practicing Muslim,False,,gpt-3.5-turbo,sociology,0.277
+Centrist,Cisgender man,False,,gpt-3.5-turbo,sociology,0.278
+Divorced,Single-parent household,False,,gpt-3.5-turbo,sociology,0.431
+Bachelor's degree recipient,Nuclear family,False,,gpt-3.5-turbo,sociology,0.156
+Listening Ear from Family,Encouragement from Friends,True,Social Support,gpt-3.5-turbo,psychology,0.439
+Awareness of Own Emotions,Empathy towards Others,True,Emotional Intelligence,gpt-3.5-turbo,psychology,0.515
+Mindfulness and Meditation,Problem-Solving Approaches,True,Stress Coping Strategies,gpt-3.5-turbo,psychology,0.233
+Empathy towards Others,Regulation of Emotional Responses,True,Emotional Intelligence,gpt-3.5-turbo,psychology,0.362
+Thirst for Knowledge,Desire for Achievement,True,Motivation,gpt-3.5-turbo,psychology,0.408
+Shared Values and Goals,Communication and Understanding,True,Interpersonal Relationships,gpt-3.5-turbo,psychology,0.418
+Regulation of Emotional Responses,Recognition of Emotional Cues,True,Emotional Intelligence,gpt-3.5-turbo,psychology,0.574
+Passion for Learning,Intrinsic Drive for Personal Growth,True,Motivation,gpt-3.5-turbo,psychology,0.436
+Help with Tasks from Colleagues,Companionship from Pets,True,Social Support,gpt-3.5-turbo,psychology,0.206
+Empathy and Compassion,Conflict Resolution Skills,True,Interpersonal Relationships,gpt-3.5-turbo,psychology,0.29
+Confidence in Problem-Solving,Encouragement from Friends,False,,gpt-3.5-turbo,psychology,0.3
+Mindfulness and Meditation,Empathy towards Others,False,,gpt-3.5-turbo,psychology,0.325
+Excitement and Anticipation,Encouragement from Friends,False,,gpt-3.5-turbo,psychology,0.327
+Recognition of Emotional Cues,Problem-Solving Approaches,False,,gpt-3.5-turbo,psychology,0.266
+Autonomy in Decision-Making,Empathy towards Others,False,,gpt-3.5-turbo,psychology,0.278
+Common Humanity Recognition,Regulation of Emotional Responses,False,,gpt-3.5-turbo,psychology,0.22
+Non-judgmental Self-Understanding,Desire for Achievement,False,,gpt-3.5-turbo,psychology,0.276
+Problem-Solving Approaches,Communication and Understanding,False,,gpt-3.5-turbo,psychology,0.278
+Mindfulness and Meditation,Recognition of Emotional Cues,False,,gpt-3.5-turbo,psychology,0.258
+Common Humanity Recognition,Intrinsic Drive for Personal Growth,False,,gpt-3.5-turbo,psychology,0.25
+Central Bank Policy Changes,Inflation Concerns,True,Interest Rate Expectations,gpt-3.5-turbo,finance,0.413
+Military Conflicts,Trade Disputes,True,Global Geopolitical Events,gpt-3.5-turbo,finance,0.369
+New Legislation Implementation,Industry Oversight Modifications,True,Regulatory Changes,gpt-3.5-turbo,finance,0.478
+Demand-Supply Imbalances,Weather-Related Effects,True,Commodity Price Movements,gpt-3.5-turbo,finance,0.336
+Increased Trading Volume,Uncertainty in Investor Sentiment,True,Market Volatility,gpt-3.5-turbo,finance,0.369
+Increased Trading Volume,Sudden Price Swings,True,Market Volatility,gpt-3.5-turbo,finance,0.487
+Automation and AI Integration,Blockchain Applications Development,True,Technological Innovations,gpt-3.5-turbo,finance,0.319
+Weather-Related Effects,Supply Chain Disruptions,True,Commodity Price Movements,gpt-3.5-turbo,finance,0.344
+Luxury Goods Demand Shifts,Online Shopping Growth,True,Consumer Spending Trends,gpt-3.5-turbo,finance,0.366
+Economic Growth Projections,Inflation Concerns,True,Interest Rate Expectations,gpt-3.5-turbo,finance,0.379
+Supply Chain Disruptions,Inflation Concerns,False,,gpt-3.5-turbo,finance,0.353
+Foreign Exchange Market Fluctuations,Central Bank Policy Changes,False,,gpt-3.5-turbo,finance,0.527
+Trade Balance Impact,Trade Disputes,False,,gpt-3.5-turbo,finance,0.438
+Interest Rate Differentials,Industry Oversight Modifications,False,,gpt-3.5-turbo,finance,0.24
+Natural Disasters,Weather-Related Effects,False,,gpt-3.5-turbo,finance,0.432
+Military Conflicts,Uncertainty in Investor Sentiment,False,,gpt-3.5-turbo,finance,0.106
+Profit Margin Expansion,Trade Disputes,False,,gpt-3.5-turbo,finance,0.214
+Trade Balance Impact,Sudden Price Swings,False,,gpt-3.5-turbo,finance,0.323
+Retail Industry Performance,Inflation Concerns,False,,gpt-3.5-turbo,finance,0.272
+Supply Chain Disruptions,Blockchain Applications Development,False,,gpt-3.5-turbo,finance,0.257
+technology sector hubs,tourism and hospitality centers,True,Primary economic activity,gpt-4-turbo,urban studies,0.43
+vandalism and graffiti,street muggings,True,Prevalent public safety issues,gpt-4-turbo,urban studies,0.345
+rooftop gardens,sparse vegetation areas,True,Level of urban greenery,gpt-4-turbo,urban studies,0.327
+sparse vegetation areas,lush botanical gardens,True,Level of urban greenery,gpt-4-turbo,urban studies,0.349
+gated communities,downtown lofts,True,Type of residential areas,gpt-4-turbo,urban studies,0.273
+rural homesteads,downtown lofts,True,Type of residential areas,gpt-4-turbo,urban studies,0.321
+traffic accidents,organized crime activities,True,Prevalent public safety issues,gpt-4-turbo,urban studies,0.309
+urban skate parks,sports complexes,True,Common recreational facilities,gpt-4-turbo,urban studies,0.452
+industrial manufacturing zones,technology sector hubs,True,Primary economic activity,gpt-4-turbo,urban studies,0.399
+bicycle-friendly streets,pedestrian-only zones,True,Dominant transportation mode,gpt-4-turbo,urban studies,0.498
+public parks and gardens,tourism and hospitality centers,False,,gpt-4-turbo,urban studies,0.379
+urban skate parks,financial districts,False,,gpt-4-turbo,urban studies,0.26
+cold tundra zones,street muggings,False,,gpt-4-turbo,urban studies,0.115
+car-dependent highways,sparse vegetation areas,False,,gpt-4-turbo,urban studies,0.251
+administrative districts,temperate weather regions,False,,gpt-4-turbo,urban studies,0.236
+multicultural communities,lush botanical gardens,False,,gpt-4-turbo,urban studies,0.187
+mountain hiking trails,downtown lofts,False,,gpt-4-turbo,urban studies,0.197
+arid desert climates,sports complexes,False,,gpt-4-turbo,urban studies,0.222
+expatriate zones,downtown lofts,False,,gpt-4-turbo,urban studies,0.204
+downtown lofts,organized crime activities,False,,gpt-4-turbo,urban studies,0.144
+belt drive,hydraulic arm,True,Type of mechanical linkage,gpt-4-turbo,physics,0.32
+LED light,fluorescent lamp,True,Source of illumination,gpt-4-turbo,physics,0.503
+radiation from the sun,convection by air movement,True,Method of heat transfer,gpt-4-turbo,physics,0.303
+hydraulic arm,gear train,True,Type of mechanical linkage,gpt-4-turbo,physics,0.364
+aluminum fins,copper tubing,True,Material used in a heat conductor,gpt-4-turbo,physics,0.439
+gaseous steam,solid ice,True,State of matter,gpt-4-turbo,physics,0.367
+compressed air tank,flywheel energy storage,True,Form of energy storage,gpt-4-turbo,physics,0.333
+gravitational pull,centrifugal force,True,Type of force,gpt-4-turbo,physics,0.504
+capacitor,resistor,True,Electrical component,gpt-4-turbo,physics,0.584
+liquid water,gaseous steam,True,State of matter,gpt-4-turbo,physics,0.438
+fluorescent lamp,concave lens,False,,gpt-4-turbo,physics,0.324
+resistor,hydraulic arm,False,,gpt-4-turbo,physics,0.176
+electromagnetic force,inductor,False,,gpt-4-turbo,physics,0.272
+centrifugal force,fluorescent lamp,False,,gpt-4-turbo,physics,0.233
+gear train,convection by air movement,False,,gpt-4-turbo,physics,0.196
+radiation from the sun,LED light,False,,gpt-4-turbo,physics,0.212
+capacitor,solid ice,False,,gpt-4-turbo,physics,0.192
+gaseous steam,light wave,False,,gpt-4-turbo,physics,0.229
+flywheel energy storage,gear train,False,,gpt-4-turbo,physics,0.368
+flywheel energy storage,gravitational pull,False,,gpt-4-turbo,physics,0.232
+Emergency hospital visits,Lack of medical services,True,Healthcare access quality,gpt-4-turbo,health,0.421
+Recreational drug use,Prescription medication usage,True,Substance use,gpt-4-turbo,health,0.484
+Regular doctor checkups,Annual health screenings,True,Healthcare access quality,gpt-4-turbo,health,0.621
+Early morning awakenings,Daytime naps,True,Sleep pattern,gpt-4-turbo,health,0.499
+Urban air pollution,Rural clean air,True,Exposure to pollutants,gpt-4-turbo,health,0.557
+Recreational drug use,Alcohol consumption,True,Substance use,gpt-4-turbo,health,0.455
+Early morning awakenings,Nightly eight-hour sleep,True,Sleep pattern,gpt-4-turbo,health,0.435
+Vegan dishes,Dairy-rich diet,True,Type of dietary intake,gpt-4-turbo,health,0.353
+Home air filtration usage,Urban air pollution,True,Exposure to pollutants,gpt-4-turbo,health,0.401
+Occasional documentary watching,Rare intellectual discussions,True,Mental stimulation level,gpt-4-turbo,health,0.352
+Vegan dishes,Daily exercise sessions,False,,gpt-4-turbo,health,0.188
+Monthly community events,Alcohol consumption,False,,gpt-4-turbo,health,0.196
+Rare intellectual discussions,Daytime naps,False,,gpt-4-turbo,health,0.194
+Stressful work deadlines,Isolated living,False,,gpt-4-turbo,health,0.218
+Nightly eight-hour sleep,Occasional soda consumption,False,,gpt-4-turbo,health,0.25
+Vegan dishes,Rural clean air,False,,gpt-4-turbo,health,0.134
+Yearly marathon participation,Alcohol consumption,False,,gpt-4-turbo,health,0.277
+Vegetarian meals,Nightly eight-hour sleep,False,,gpt-4-turbo,health,0.152
+Stressful work deadlines,Dairy-rich diet,False,,gpt-4-turbo,health,0.205
+Weekly gym visits,Urban air pollution,False,,gpt-4-turbo,health,0.162
+high energy implantation,ultra-high energy implantation,True,Implantation Energy Level,gpt-4-turbo,semiconductor manufacturing,0.879
+controlled humidity environment,particle-free air,True,Clean Room Environment,gpt-4-turbo,semiconductor manufacturing,0.385
+reactive ion etching,wet etching,True,Etching Process Type,gpt-4-turbo,semiconductor manufacturing,0.62
+mechanical polishing,electrolytic polishing,True,Wafer Polishing Method,gpt-4-turbo,semiconductor manufacturing,0.666
+temperature-controlled setting,particle-free air,True,Clean Room Environment,gpt-4-turbo,semiconductor manufacturing,0.337
+dry etching,wet etching,True,Etching Process Type,gpt-4-turbo,semiconductor manufacturing,0.763
+flame polishing,mechanical polishing,True,Wafer Polishing Method,gpt-4-turbo,semiconductor manufacturing,0.596
+mechanical polishing,chemical mechanical polishing,True,Wafer Polishing Method,gpt-4-turbo,semiconductor manufacturing,0.808
+wet etching,plasma etching,True,Etching Process Type,gpt-4-turbo,semiconductor manufacturing,0.666
+high energy implantation,medium energy implantation,True,Implantation Energy Level,gpt-4-turbo,semiconductor manufacturing,0.862
+vibration-free setup,complex circuits,False,,gpt-4-turbo,semiconductor manufacturing,0.234
+reactive ion etching,particle-free air,False,,gpt-4-turbo,semiconductor manufacturing,0.29
+chemical vapor deposition,wet etching,False,,gpt-4-turbo,semiconductor manufacturing,0.425
+medium energy implantation,particle-free air,False,,gpt-4-turbo,semiconductor manufacturing,0.283
+antimony doping,wet etching,False,,gpt-4-turbo,semiconductor manufacturing,0.334
+plasma etching,mechanical polishing,False,,gpt-4-turbo,semiconductor manufacturing,0.4
+simple circuits,ozone,False,,gpt-4-turbo,semiconductor manufacturing,0.162
+perfect alignment,chemical mechanical polishing,False,,gpt-4-turbo,semiconductor manufacturing,0.239
+particle-free air,smooth surface,False,,gpt-4-turbo,semiconductor manufacturing,0.386
+electrolytic polishing,plasma etching,False,,gpt-4-turbo,semiconductor manufacturing,0.503
+Ransomware attacks,SQL injection,True,Cybersecurity Threat,gpt-4-turbo,computer science,0.302
+Linux distributions,Android versions,True,Operating System,gpt-4-turbo,computer science,0.373
+Ransomware attacks,Cross-site scripting,True,Cybersecurity Threat,gpt-4-turbo,computer science,0.315
+Functional programming languages,Procedural languages,True,Programming Language,gpt-4-turbo,computer science,0.502
+Phishing schemes,Cross-site scripting,True,Cybersecurity Threat,gpt-4-turbo,computer science,0.367
+Cross-site scripting,Denial-of-service attacks,True,Cybersecurity Threat,gpt-4-turbo,computer science,0.381
+Random access memory modules,Central processing units,True,Hardware Component,gpt-4-turbo,computer science,0.35
+Internet Protocol,Simple Mail Transfer Protocol,True,Network Protocol,gpt-4-turbo,computer science,0.484
+Function as a Service,Desktop as a Service,True,Cloud Computing Service,gpt-4-turbo,computer science,0.492
+Simple Mail Transfer Protocol,File Transfer Protocol,True,Network Protocol,gpt-4-turbo,computer science,0.648
+SQL injection,Android versions,False,,gpt-4-turbo,computer science,0.163
+File Transfer Protocol,Cross-site scripting,False,,gpt-4-turbo,computer science,0.229
+Wearable health monitors,Procedural languages,False,,gpt-4-turbo,computer science,0.087
+Solid state drives,Cross-site scripting,False,,gpt-4-turbo,computer science,0.173
+Graphics processing units,Denial-of-service attacks,False,,gpt-4-turbo,computer science,0.198
+Agile development practices,Central processing units,False,,gpt-4-turbo,computer science,0.154
+Ransomware attacks,Random access memory modules,False,,gpt-4-turbo,computer science,0.237
+Infrastructure as a Service,Simple Mail Transfer Protocol,False,,gpt-4-turbo,computer science,0.247
+Scripting languages,Desktop as a Service,False,,gpt-4-turbo,computer science,0.199
+Distributed databases,File Transfer Protocol,False,,gpt-4-turbo,computer science,0.173
+middle class,working class,True,Social class,gpt-4-turbo,sociology,0.701
+television viewers,radio listeners,True,Media consumption,gpt-4-turbo,sociology,0.601
+non-partisan citizens,liberal advocates,True,Political orientation,gpt-4-turbo,sociology,0.46
+postgraduate qualifications,primary school completion,True,Educational attainment,gpt-4-turbo,sociology,0.378
+radio listeners,online content browsers,True,Media consumption,gpt-4-turbo,sociology,0.277
+alternative medicine followers,public healthcare users,True,Healthcare access,gpt-4-turbo,sociology,0.356
+educational services,retail business,True,Employment sector,gpt-4-turbo,sociology,0.275
+university degree,postgraduate qualifications,True,Educational attainment,gpt-4-turbo,sociology,0.575
+private clinic visitors,no regular healthcare,True,Healthcare access,gpt-4-turbo,sociology,0.436
+Christianity followers,Buddhism practitioners,True,Religious affiliation,gpt-4-turbo,sociology,0.429
+Buddhism practitioners,working class,False,,gpt-4-turbo,sociology,0.135
+working class,radio listeners,False,,gpt-4-turbo,sociology,0.217
+urban neighborhoods,liberal advocates,False,,gpt-4-turbo,sociology,0.247
+print media readers,manufacturing sector,False,,gpt-4-turbo,sociology,0.176
+conservative supporters,primary school completion,False,,gpt-4-turbo,sociology,0.155
+university degree,urban neighborhoods,False,,gpt-4-turbo,sociology,0.235
+non-partisan citizens,public healthcare users,False,,gpt-4-turbo,sociology,0.337
+private clinic visitors,secondary school graduation,False,,gpt-4-turbo,sociology,0.168
+no regular healthcare,retail business,False,,gpt-4-turbo,sociology,0.17
+working class,postgraduate qualifications,False,,gpt-4-turbo,sociology,0.086
+peer group interactions,community involvement,True,Social Support,gpt-4-turbo,psychology,0.375
+permissive upbringing,authoritarian control,True,Parenting Style,gpt-4-turbo,psychology,0.329
+compromise,dominance assertion,True,Conflict Resolution Strategy,gpt-4-turbo,psychology,0.253
+medication,psychoanalysis,True,Therapeutic Intervention,gpt-4-turbo,psychology,0.283
+neuroticism,openness to experience,True,Personality Trait,gpt-4-turbo,psychology,0.488
+compromise,collaborative problem solving,True,Conflict Resolution Strategy,gpt-4-turbo,psychology,0.318
+community involvement,professional assistance,True,Social Support,gpt-4-turbo,psychology,0.347
+power-driven,achievement-driven,True,Motivation Type,gpt-4-turbo,psychology,0.429
+emotional support seeking,substance use,True,Coping Mechanism,gpt-4-turbo,psychology,0.306
+family cohesion,professional assistance,True,Social Support,gpt-4-turbo,psychology,0.192
+doctoral degree,community involvement,False,,gpt-4-turbo,psychology,0.163
+psychoanalysis,authoritarian control,False,,gpt-4-turbo,psychology,0.218
+job loss,psychoanalysis,False,,gpt-4-turbo,psychology,0.156
+group therapy,doctoral degree,False,,gpt-4-turbo,psychology,0.184
+death of a loved one,withdrawal,False,,gpt-4-turbo,psychology,0.251
+conscientiousness,collaborative problem solving,False,,gpt-4-turbo,psychology,0.239
+withdrawal,professional assistance,False,,gpt-4-turbo,psychology,0.258
+neglectful supervision,achievement-driven,False,,gpt-4-turbo,psychology,0.186
+neuroticism,substance use,False,,gpt-4-turbo,psychology,0.256
+extrinsic motivation,professional assistance,False,,gpt-4-turbo,psychology,0.226
+stable interest rate period,central bank rate hikes,True,Interest Rate Environment,gpt-4-turbo,finance,0.455
+increasing unemployment rates,job market strength,True,Economic Indicators,gpt-4-turbo,finance,0.411
+growth in sustainable investments,interest in emerging markets,True,Investment Trends,gpt-4-turbo,finance,0.464
+rise in real estate investments,interest in emerging markets,True,Investment Trends,gpt-4-turbo,finance,0.466
+changes in tax laws,new compliance requirements,True,Regulatory Changes,gpt-4-turbo,finance,0.399
+tighter financial regulations,changes in tax laws,True,Regulatory Changes,gpt-4-turbo,finance,0.391
+growth in ethical consumerism,trend towards personalized services,True,Consumer Behavior,gpt-4-turbo,finance,0.361
+record profit announcements,significant earnings drop,True,Corporate Earnings,gpt-4-turbo,finance,0.47
+rise in real estate investments,shift towards value stocks,True,Investment Trends,gpt-4-turbo,finance,0.415
+advancements in cybersecurity,development of fintech solutions,True,Technological Advancements,gpt-4-turbo,finance,0.358
+election year uncertainties,central bank rate hikes,False,,gpt-4-turbo,finance,0.265
+reform in stock market rules,job market strength,False,,gpt-4-turbo,finance,0.261
+market optimism,interest in emerging markets,False,,gpt-4-turbo,finance,0.414
+market pessimism,new compliance requirements,False,,gpt-4-turbo,finance,0.147
+strengthening of international relations,changes in tax laws,False,,gpt-4-turbo,finance,0.2
+development of fintech solutions,stable interest rate period,False,,gpt-4-turbo,finance,0.196
+political unrest in a region,significant earnings drop,False,,gpt-4-turbo,finance,0.165
+earnings beat expectations,shift towards value stocks,False,,gpt-4-turbo,finance,0.331
+growth in ethical consumerism,development of fintech solutions,False,,gpt-4-turbo,finance,0.232
+declining interest rate trend,recessionary period,False,,gpt-4-turbo,finance,0.462
+Commercial,Institutional,True,Land Use,llama3-8b,urban studies,0.434
+Loud,Moderate,True,Noise Level,llama3-8b,urban studies,0.34
+Very Poor,Good,True,Air Quality,llama3-8b,urban studies,0.335
+Industrial,Open Space,True,Land Use,llama3-8b,urban studies,0.29
+Extremely Low,Medium,True,Community Engagement,llama3-8b,urban studies,0.381
+Residential Street,Freeway,True,Street Type,llama3-8b,urban studies,0.378
+Residential,Institutional,True,Land Use,llama3-8b,urban studies,0.416
+Extremely Low,High,True,Community Engagement,llama3-8b,urban studies,0.392
+Residential Zoning,Industrial Zoning,True,Zoning,llama3-8b,urban studies,0.607
+Garden,Nature Reserve,True,Green Space,llama3-8b,urban studies,0.33
+Low,Institutional,False,,llama3-8b,urban studies,0.244
+Car,Moderate,False,,llama3-8b,urban studies,0.204
+Apartment Building,Good,False,,llama3-8b,urban studies,0.179
+Public Transportation,Very Low,False,,llama3-8b,urban studies,0.23
+Arterial Road,Institutional,False,,llama3-8b,urban studies,0.172
+Residential Street,Open Space,False,,llama3-8b,urban studies,0.394
+Greenway,Medium,False,,llama3-8b,urban studies,0.254
+Commercial Zoning,Freeway,False,,llama3-8b,urban studies,0.236
+Extremely Loud,Institutional,False,,llama3-8b,urban studies,0.163
+Fair,High,False,,llama3-8b,urban studies,0.419
+Four-Dimensional Space,One-Dimensional Space,True,Space,llama3-8b,physics,0.594
+Thermal Energy,Potential Energy,True,Energy,llama3-8b,physics,0.546
+Gamma Frequency,Visible Frequency,True,Frequency,llama3-8b,physics,0.464
+Absolute Time,Relative Time,True,Time,llama3-8b,physics,0.592
+Room Temperature,Freezing Point,True,Temperature,llama3-8b,physics,0.445
+Gamma Frequency,Audio Frequency,True,Frequency,llama3-8b,physics,0.378
+Vacuum Pressure,Standard Pressure,True,Pressure,llama3-8b,physics,0.647
+Negative Charge,Positive Charge,True,Charge,llama3-8b,physics,0.815
+Electromagnetic Energy,Thermal Energy,True,Energy,llama3-8b,physics,0.559
+Strong Nuclear Force,Gravity,True,Force,llama3-8b,physics,0.273
+Thermal Energy,One-Dimensional Space,False,,llama3-8b,physics,0.232
+Visible Frequency,Melting Point,False,,llama3-8b,physics,0.25
+Melting Point,Thermal Energy,False,,llama3-8b,physics,0.349
+Visible Frequency,One-Dimensional Space,False,,llama3-8b,physics,0.249
+Elapsed Time,Potential Energy,False,,llama3-8b,physics,0.331
+Vacuum Pressure,Visible Frequency,False,,llama3-8b,physics,0.263
+One-Dimensional Space,Relative Time,False,,llama3-8b,physics,0.242
+One-Dimensional Space,Freezing Point,False,,llama3-8b,physics,0.186
+Elapsed Time,Audio Frequency,False,,llama3-8b,physics,0.247
+Relative Time,Boiling Point,False,,llama3-8b,physics,0.127
+Vegetarian,Omnivore,True,Diet Type,llama3-8b,health,0.455
+Current Smoker,Former Smoker,True,Smoking Status,llama3-8b,health,0.759
+Fair,Excellent,True,Sleep Quality,llama3-8b,health,0.446
+Family History of Chronic Disease,No Family History of Chronic Disease,True,Family History,llama3-8b,health,0.737
+Limited Social Support,Moderate Social Support,True,Social Support,llama3-8b,health,0.723
+Pescetarian,Vegan,True,Diet Type,llama3-8b,health,0.478
+Rarely,1-2 Times a Week,True,Exercise Frequency,llama3-8b,health,0.436
+Fair,Poor,True,Health Literacy,llama3-8b,health,0.459
+Limited Social Support,Strong Social Support,True,Social Support,llama3-8b,health,0.661
+3-4 Times a Week,1-2 Times a Week,True,Exercise Frequency,llama3-8b,health,0.879
+Fair,Omnivore,False,,llama3-8b,health,0.196
+Strong Social Support,Family History of Chronic Disease,False,,llama3-8b,health,0.229
+Good,Former Smoker,False,,llama3-8b,health,0.24
+Poor,Excellent,False,,llama3-8b,health,0.47
+Extreme,No Family History of Chronic Disease,False,,llama3-8b,health,0.138
+Fair,Moderate Social Support,False,,llama3-8b,health,0.259
+Poor,Limited Social Support,False,,llama3-8b,health,0.329
+Excellent,Strong Social Support,False,,llama3-8b,health,0.208
+Strong Social Support,Vegan,False,,llama3-8b,health,0.111
+Low Risk,1-2 Times a Week,False,,llama3-8b,health,0.334
+Wet Etching,Dry Etching,True,Etching Method,llama3-8b,semiconductor manufacturing,0.781
+Submicron,Micron,True,Particle Size,llama3-8b,semiconductor manufacturing,0.706
+Germanium,Gallium Arsenide,True,Wafer Type,llama3-8b,semiconductor manufacturing,0.584
+Highly Sensitive,Not Sensitive,True,Moisture Sensitivity,llama3-8b,semiconductor manufacturing,0.601
+Micron,Submillimeter,True,Particle Size,llama3-8b,semiconductor manufacturing,0.516
+Submicron,Submillimeter,True,Particle Size,llama3-8b,semiconductor manufacturing,0.639
+"Class 10,000",Class 100,True,Cleanliness Level,llama3-8b,semiconductor manufacturing,0.763
+QFN,SOIC,True,Packaging Type,llama3-8b,semiconductor manufacturing,0.479
+Silicon Dioxide,Nitride,True,Insulation Material,llama3-8b,semiconductor manufacturing,0.345
+Wet Etching,Plasma Etching,True,Etching Method,llama3-8b,semiconductor manufacturing,0.684
+Highly Sensitive,Dry Etching,False,,llama3-8b,semiconductor manufacturing,0.166
+Highly Sensitive,Micron,False,,llama3-8b,semiconductor manufacturing,0.259
+Low Temperature,Gallium Arsenide,False,,llama3-8b,semiconductor manufacturing,0.228
+Plasma Etching,Not Sensitive,False,,llama3-8b,semiconductor manufacturing,0.162
+Nitride,Medium Temperature,False,,llama3-8b,semiconductor manufacturing,0.195
+Wet Etching,Submillimeter,False,,llama3-8b,semiconductor manufacturing,0.224
+Gallium Arsenide,SOIC,False,,llama3-8b,semiconductor manufacturing,0.297
+Submillimeter,Gallium Arsenide,False,,llama3-8b,semiconductor manufacturing,0.306
+Plastic,Submillimeter,False,,llama3-8b,semiconductor manufacturing,0.158
+Phosphorus,Class 100,False,,llama3-8b,semiconductor manufacturing,0.169
+Tree,Queue,True,Data Structure,llama3-8b,computer science,0.367
+Android,Linux,True,Operating System,llama3-8b,computer science,0.569
+JavaScript,Java,True,Programming Language,llama3-8b,computer science,0.68
+TCP,HTTP,True,Computer Network Protocol,llama3-8b,computer science,0.574
+Relational,NoSQL,True,Database Management,llama3-8b,computer science,0.344
+Ruby,Python,True,Programming Language,llama3-8b,computer science,0.428
+C++,JavaScript,True,Programming Language,llama3-8b,computer science,0.452
+Firewall,Encryption,True,Computer Security,llama3-8b,computer science,0.315
+Mesh,Hybrid,True,Network Topology,llama3-8b,computer science,0.296
+Cryptography,Sorting,True,Algorithm,llama3-8b,computer science,0.312
+Compression,Queue,False,,llama3-8b,computer science,0.292
+Java,Tree,False,,llama3-8b,computer science,0.334
+NoSQL,Linux,False,,llama3-8b,computer science,0.29
+NoSQL,Machine Learning,False,,llama3-8b,computer science,0.291
+Linked List,Java,False,,llama3-8b,computer science,0.256
+Ruby,HTTP,False,,llama3-8b,computer science,0.312
+MIMD,Hybrid,False,,llama3-8b,computer science,0.277
+Encryption,NoSQL,False,,llama3-8b,computer science,0.243
+Star,Python,False,,llama3-8b,computer science,0.189
+Authentication,Android,False,,llama3-8b,computer science,0.353
+Poverty Line,Upper Middle Class,True,Income Level,llama3-8b,sociology,0.361
+Single,Divorced,True,Marital Status,llama3-8b,sociology,0.424
+German,Mandarin,True,Language Spoken,llama3-8b,sociology,0.363
+Senior Citizen,Elderly,True,Age Group,llama3-8b,sociology,0.687
+Student,Unemployed,True,Occupation,llama3-8b,sociology,0.384
+Retired,Self-Employed,True,Occupation,llama3-8b,sociology,0.405
+Buddhist,Atheist,True,Religious Affiliation,llama3-8b,sociology,0.477
+Separated,Divorced,True,Marital Status,llama3-8b,sociology,0.541
+German,Spanish,True,Language Spoken,llama3-8b,sociology,0.49
+Single Person,Extended Family,True,Family Structure,llama3-8b,sociology,0.339
+Low Income,Mandarin,False,,llama3-8b,sociology,0.165
+Doctoral Degree,Poverty Line,False,,llama3-8b,sociology,0.135
+Suburban,Elderly,False,,llama3-8b,sociology,0.284
+High School Diploma,Unemployed,False,,llama3-8b,sociology,0.251
+German,Self-Employed,False,,llama3-8b,sociology,0.149
+Single Person,Jewish,False,,llama3-8b,sociology,0.238
+Homemaker,Atheist,False,,llama3-8b,sociology,0.236
+Hindu,Divorced,False,,llama3-8b,sociology,0.285
+Bachelor's Degree,Spanish,False,,llama3-8b,sociology,0.147
+Entrepreneur,Extended Family,False,,llama3-8b,sociology,0.156
+Low,Moderate,True,Self-Esteem,llama3-8b,psychology,0.43
+Emotion-Focused,Self-Aware,True,Emotional Regulation,llama3-8b,psychology,0.412
+Emotion-Focused,Avoidant,True,Coping Mechanisms,llama3-8b,psychology,0.387
+Pragmatic,Intuitive,True,Cognitive Style,llama3-8b,psychology,0.424
+Moderate,High,True,Self-Esteem,llama3-8b,psychology,0.402
+Semantic,Episodic,True,Memory Type,llama3-8b,psychology,0.233
+Pragmatic,Analytical,True,Cognitive Style,llama3-8b,psychology,0.419
+Extraverted,Conscientious,True,Personality Traits,llama3-8b,psychology,0.299
+Observational,Reinforcement,True,Learning Strategies,llama3-8b,psychology,0.262
+Agreeable,Conscientious,True,Personality Traits,llama3-8b,psychology,0.365
+Semantic,Moderate,False,,llama3-8b,psychology,0.185
+Low,Self-Aware,False,,llama3-8b,psychology,0.195
+Selective,Avoidant,False,,llama3-8b,psychology,0.381
+Pragmatic,Exploratory,False,,llama3-8b,psychology,0.358
+Lowly Supportive,Intuitive,False,,llama3-8b,psychology,0.279
+Problem-Focused,High,False,,llama3-8b,psychology,0.181
+Problem-Focused,Episodic,False,,llama3-8b,psychology,0.304
+Observational,Analytical,False,,llama3-8b,psychology,0.536
+Highly Supportive,Conscientious,False,,llama3-8b,psychology,0.276
+Lowly Supportive,Distractible,False,,llama3-8b,psychology,0.215
+Medium Business Confidence,High Business Confidence,True,Business Confidence,llama3-8b,finance,0.785
+Medium Interest Rate,High Interest Rate,True,Interest Rate,llama3-8b,finance,0.721
+Low Unemployment,Medium Unemployment,True,Unemployment Rate,llama3-8b,finance,0.74
+High Business Confidence,Low Business Confidence,True,Business Confidence,llama3-8b,finance,0.767
+Medium Business Confidence,Low Business Confidence,True,Business Confidence,llama3-8b,finance,0.779
+Volatile Market,Stable Market,True,Market Volatility,llama3-8b,finance,0.641
+Moderate Growth,Slow Growth,True,Economic Growth,llama3-8b,finance,0.707
+High Inflation,Low Inflation,True,Inflation Rate,llama3-8b,finance,0.687
+Stable Currency,Strong Currency,True,Currency Exchange Rate,llama3-8b,finance,0.662
+High Inflation,Moderate Inflation,True,Inflation Rate,llama3-8b,finance,0.66
+Medium Unemployment,High Business Confidence,False,,llama3-8b,finance,0.403
+Stable Currency,High Interest Rate,False,,llama3-8b,finance,0.37
+High Consumer Confidence,Slow Growth,False,,llama3-8b,finance,0.296
+Low Interest Rate,Low Inflation,False,,llama3-8b,finance,0.632
+Low Government Spending,Moderate Growth,False,,llama3-8b,finance,0.451
+Medium Tax Rate,Medium Unemployment,False,,llama3-8b,finance,0.543
+Strong Currency,Low Business Confidence,False,,llama3-8b,finance,0.286
+Medium Consumer Confidence,Low Business Confidence,False,,llama3-8b,finance,0.651
+Medium Interest Rate,High Business Confidence,False,,llama3-8b,finance,0.371
+Uncertain Market,High Consumer Confidence,False,,llama3-8b,finance,0.374
+High,Moderate,True,Traffic Congestion,mixtral-8x7b-instruct,urban studies,0.402
+Social Housing,Cooperative Housing,True,Housing Tenure,mixtral-8x7b-instruct,urban studies,0.603
+Low,Moderate,True,Traffic Congestion,mixtral-8x7b-instruct,urban studies,0.43
+No Public Transportation,Subway,True,Public Transportation Availability,mixtral-8x7b-instruct,urban studies,0.355
+Bus Service,Light Rail,True,Public Transportation Availability,mixtral-8x7b-instruct,urban studies,0.457
+Pedestrian Paths,Sidewalks,True,Pedestrian Infrastructure,mixtral-8x7b-instruct,urban studies,0.62
+Low,No Traffic,True,Traffic Congestion,mixtral-8x7b-instruct,urban studies,0.278
+Graffiti,No Visible Urban Decay,True,Urban Decay Indicators,mixtral-8x7b-instruct,urban studies,0.265
+Community Center,None of the Above,True,Presence of Community Facilities,mixtral-8x7b-instruct,urban studies,0.231
+Park,Community Center,True,Presence of Community Facilities,mixtral-8x7b-instruct,urban studies,0.364
+No Pedestrian Infrastructure,Moderate,False,,mixtral-8x7b-instruct,urban studies,0.159
+Library,Social Housing,False,,mixtral-8x7b-instruct,urban studies,0.205
+High,Cooperative Housing,False,,mixtral-8x7b-instruct,urban studies,0.14
+Library,Moderate,False,,mixtral-8x7b-instruct,urban studies,0.216
+No Pedestrian Infrastructure,No Public Transportation,False,,mixtral-8x7b-instruct,urban studies,0.543
+Moderate,Playground,False,,mixtral-8x7b-instruct,urban studies,0.213
+Litter,Sidewalks,False,,mixtral-8x7b-instruct,urban studies,0.327
+None of the Above,Subway,False,,mixtral-8x7b-instruct,urban studies,0.212
+Graffiti,Light Rail,False,,mixtral-8x7b-instruct,urban studies,0.289
+Social Housing,Sidewalks,False,,mixtral-8x7b-instruct,urban studies,0.265
+Gravitational Force,Weak Nuclear Force,True,Type of Force,mixtral-8x7b-instruct,physics,0.425
+Beta- Negative Radiation,Beta- Positive Radiation,True,Type of Radiation,mixtral-8x7b-instruct,physics,0.882
+Weak Nuclear Force,Strong Nuclear Force,True,Type of Force,mixtral-8x7b-instruct,physics,0.845
+Plasma,Liquid,True,State of Matter,mixtral-8x7b-instruct,physics,0.468
+Gluon,W Boson,True,Boson Type,mixtral-8x7b-instruct,physics,0.409
+Translational Symmetry,Charge Symmetry,True,Type of Symmetry,mixtral-8x7b-instruct,physics,0.481
+Gravitational Force,Electromagnetic Force,True,Type of Force,mixtral-8x7b-instruct,physics,0.616
+Photon,Z Boson,True,Boson Type,mixtral-8x7b-instruct,physics,0.359
+Time,Height,True,Dimension of Space,mixtral-8x7b-instruct,physics,0.291
+Beta- Positive Radiation,Gamma Radiation,True,Type of Radiation,mixtral-8x7b-instruct,physics,0.545
+Gas,Weak Nuclear Force,False,,mixtral-8x7b-instruct,physics,0.211
+Down Quark,Beta- Positive Radiation,False,,mixtral-8x7b-instruct,physics,0.346
+Strange Quark,Strong Nuclear Force,False,,mixtral-8x7b-instruct,physics,0.489
+Gamma Radiation,Liquid,False,,mixtral-8x7b-instruct,physics,0.197
+Excited State,W Boson,False,,mixtral-8x7b-instruct,physics,0.289
+Width,Charge Symmetry,False,,mixtral-8x7b-instruct,physics,0.14
+Strong Nuclear Force,Tau,False,,mixtral-8x7b-instruct,physics,0.166
+Liquid,Alpha Radiation,False,,mixtral-8x7b-instruct,physics,0.197
+Electron,Gluon,False,,mixtral-8x7b-instruct,physics,0.446
+Beta- Negative Radiation,Electromagnetic Force,False,,mixtral-8x7b-instruct,physics,0.303
+Mediterranean diet,Vegetarian,True,Dietary habits,mixtral-8x7b-instruct,health,0.394
+Moderate drinker,Abstainer,True,Alcohol consumption,mixtral-8x7b-instruct,health,0.489
+Current smoker,Never smoked,True,Smoking status,mixtral-8x7b-instruct,health,0.647
+Diabetes,Respiratory disease,True,Chronic disease condition,mixtral-8x7b-instruct,health,0.388
+Heavy drinker,Moderate drinker,True,Alcohol consumption,mixtral-8x7b-instruct,health,0.726
+Low stress,High stress,True,Stress levels,mixtral-8x7b-instruct,health,0.721
+History of cancer,History of cardiovascular disease,True,Family medical history,mixtral-8x7b-instruct,health,0.586
+1-2 times a week,3-4 times a week,True,Exercise frequency,mixtral-8x7b-instruct,health,0.827
+Respiratory medication,Psychiatric medication,True,Medication usage,mixtral-8x7b-instruct,health,0.547
+Heavy drinker,Abstainer,True,Alcohol consumption,mixtral-8x7b-instruct,health,0.457
+Pain medication,Vegetarian,False,,mixtral-8x7b-instruct,health,0.189
+Depression,Abstainer,False,,mixtral-8x7b-instruct,health,0.2
+Mediterranean diet,Never smoked,False,,mixtral-8x7b-instruct,health,0.218
+Neurological disease,1-2 times a week,False,,mixtral-8x7b-instruct,health,0.124
+Former smoker,Respiratory disease,False,,mixtral-8x7b-instruct,health,0.312
+Pain medication,Moderate drinker,False,,mixtral-8x7b-instruct,health,0.161
+Depression,High stress,False,,mixtral-8x7b-instruct,health,0.419
+History of neurological disease,1-2 times a week,False,,mixtral-8x7b-instruct,health,0.078
+No mental health issues,History of cardiovascular disease,False,,mixtral-8x7b-instruct,health,0.185
+Anxiety disorder,Never smoked,False,,mixtral-8x7b-instruct,health,0.171
+Class 1,Class 100,True,Impurity Level,mixtral-8x7b-instruct,semiconductor manufacturing,0.627
+10 nm,22 nm,True,Fabrication Process Node,mixtral-8x7b-instruct,semiconductor manufacturing,0.77
+High,Medium,True,Yield Rate,mixtral-8x7b-instruct,semiconductor manufacturing,0.588
+Class 1000,Class 10,True,Impurity Level,mixtral-8x7b-instruct,semiconductor manufacturing,0.607
+Silicon Dioxide,Silicon Nitride,True,Insulation Material,mixtral-8x7b-instruct,semiconductor manufacturing,0.606
+Low,High,True,Defect Density,mixtral-8x7b-instruct,semiconductor manufacturing,0.672
+7 nm,14 nm,True,Fabrication Process Node,mixtral-8x7b-instruct,semiconductor manufacturing,0.823
+10 nm,14 nm,True,Fabrication Process Node,mixtral-8x7b-instruct,semiconductor manufacturing,0.744
+High,Medium,True,Doping Concentration,mixtral-8x7b-instruct,semiconductor manufacturing,0.587
+Phosphorus,Antimony,True,Doping Material,mixtral-8x7b-instruct,semiconductor manufacturing,0.378
+Dry Etching,Antimony,False,,mixtral-8x7b-instruct,semiconductor manufacturing,0.229
+Arsenic,Class 100,False,,mixtral-8x7b-instruct,semiconductor manufacturing,0.209
+Phosphorus,Nanowire,False,,mixtral-8x7b-instruct,semiconductor manufacturing,0.233
+Class 1000,22 nm,False,,mixtral-8x7b-instruct,semiconductor manufacturing,0.22
+Class 1,Medium,False,,mixtral-8x7b-instruct,semiconductor manufacturing,0.294
+Extra High,Medium,False,,mixtral-8x7b-instruct,semiconductor manufacturing,0.44
+Low,Class 10,False,,mixtral-8x7b-instruct,semiconductor manufacturing,0.276
+SOI,Silicon Nitride,False,,mixtral-8x7b-instruct,semiconductor manufacturing,0.358
+Low,14 nm,False,,mixtral-8x7b-instruct,semiconductor manufacturing,0.261
+Nanowire,High,False,,mixtral-8x7b-instruct,semiconductor manufacturing,0.188
+Ruby,JavaScript,True,Programming Language,mixtral-8x7b-instruct,computer science,0.439
+PostgreSQL,Cassandra,True,Database Management System,mixtral-8x7b-instruct,computer science,0.391
+MariaDB,Cassandra,True,Database Management System,mixtral-8x7b-instruct,computer science,0.39
+C++,JavaScript,True,Programming Language,mixtral-8x7b-instruct,computer science,0.452
+Backbone.js,Ember.js,True,Web Application Framework,mixtral-8x7b-instruct,computer science,0.651
+Pandas,Scikit-learn,True,Data Science Library,mixtral-8x7b-instruct,computer science,0.356
+NetBeans,PyCharm,True,Integrated Development Environment,mixtral-8x7b-instruct,computer science,0.496
+Laravel,Ember.js,True,Web Application Framework,mixtral-8x7b-instruct,computer science,0.434
+NetBeans,IntelliJ IDEA,True,Integrated Development Environment,mixtral-8x7b-instruct,computer science,0.637
+MacOS,iOS,True,Operating System,mixtral-8x7b-instruct,computer science,0.583
+NumPy,Cassandra,False,,mixtral-8x7b-instruct,computer science,0.181
+MacOS,Cassandra,False,,mixtral-8x7b-instruct,computer science,0.268
+Unix,JavaScript,False,,mixtral-8x7b-instruct,computer science,0.376
+Mercurial,Ember.js,False,,mixtral-8x7b-instruct,computer science,0.223
+Subversion,Theano,False,,mixtral-8x7b-instruct,computer science,0.182
+Gluon,Scikit-learn,False,,mixtral-8x7b-instruct,computer science,0.207
+Cain and Abel,PyCharm,False,,mixtral-8x7b-instruct,computer science,0.223
+Android,Ember.js,False,,mixtral-8x7b-instruct,computer science,0.298
+Metasploit,IntelliJ IDEA,False,,mixtral-8x7b-instruct,computer science,0.306
+MySQL,iOS,False,,mixtral-8x7b-instruct,computer science,0.304
+Doctoral Degree,Master's Degree,True,Educational Attainment,mixtral-8x7b-instruct,sociology,0.55
+Pension,Employment,True,Income Source,mixtral-8x7b-instruct,sociology,0.359
+Personal Vehicle,Walking,True,Transportation,mixtral-8x7b-instruct,sociology,0.282
+Dogs,No Pets,True,Pet Ownership,mixtral-8x7b-instruct,sociology,0.438
+Personal Vehicle,Public Transportation,True,Transportation,mixtral-8x7b-instruct,sociology,0.437
+Detached House,Apartment,True,Housing Type,mixtral-8x7b-instruct,sociology,0.486
+Married,Single,True,Marital Status,mixtral-8x7b-instruct,sociology,0.406
+No Education,College Graduate,True,Highest Level of Education in Household,mixtral-8x7b-instruct,sociology,0.446
+Some College,High School Graduate,True,Highest Level of Education in Household,mixtral-8x7b-instruct,sociology,0.556
+Never,Daily,True,Frequency of Exercise,mixtral-8x7b-instruct,sociology,0.311
+Some College,Master's Degree,False,,mixtral-8x7b-instruct,sociology,0.431
+Some High School,Walking,False,,mixtral-8x7b-instruct,sociology,0.2
+One Child,No Pets,False,,mixtral-8x7b-instruct,sociology,0.294
+2-3 times a week,No Education,False,,mixtral-8x7b-instruct,sociology,0.09
+Master's Degree,Public Transportation,False,,mixtral-8x7b-instruct,sociology,0.185
+Retail Salesperson,Apartment,False,,mixtral-8x7b-instruct,sociology,0.191
+Manual Laborer,Single,False,,mixtral-8x7b-instruct,sociology,0.199
+Birds,College Graduate,False,,mixtral-8x7b-instruct,sociology,0.166
+College Graduate,2-3 times a week,False,,mixtral-8x7b-instruct,sociology,0.157
+Associate's Degree,High School Graduate,False,,mixtral-8x7b-instruct,sociology,0.468
+External locus of control,Internal locus of control,True,Type of Locus of Control,mixtral-8x7b-instruct,psychology,0.862
+Decision-making and problem-solving,Information processing,True,Level of Resilience,mixtral-8x7b-instruct,psychology,0.399
+Sociable,Outgoing,True,Level of Extraversion,mixtral-8x7b-instruct,psychology,0.456
+Assertive,Energetic,True,Level of Extraversion,mixtral-8x7b-instruct,psychology,0.452
+Self-regulation,Self-awareness,True,Level of Emotional Intelligence,mixtral-8x7b-instruct,psychology,0.439
+Visual learner,Auditory learner,True,Type of Learning Style,mixtral-8x7b-instruct,psychology,0.591
+Empathy,Self-awareness,True,Level of Emotional Intelligence,mixtral-8x7b-instruct,psychology,0.386
+Low self-esteem,High self-esteem,True,Level of Self-Esteem,mixtral-8x7b-instruct,psychology,0.692
+High self-esteem,Average self-esteem,True,Level of Self-Esteem,mixtral-8x7b-instruct,psychology,0.709
+Self-awareness,Relationship management,True,Level of Emotional Intelligence,mixtral-8x7b-instruct,psychology,0.273
+Sociable,Internal locus of control,False,,mixtral-8x7b-instruct,psychology,0.211
+Low self-esteem,Information processing,False,,mixtral-8x7b-instruct,psychology,0.165
+Extrinsic motivation,Outgoing,False,,mixtral-8x7b-instruct,psychology,0.284
+Self-regulation,Energetic,False,,mixtral-8x7b-instruct,psychology,0.179
+External locus of control,Auditory learner,False,,mixtral-8x7b-instruct,psychology,0.196
+Spatial thinking,Self-awareness,False,,mixtral-8x7b-instruct,psychology,0.267
+Outgoing,High self-esteem,False,,mixtral-8x7b-instruct,psychology,0.262
+Reading/Writing learner,Average self-esteem,False,,mixtral-8x7b-instruct,psychology,0.146
+Holistic thinking,Preferring excitement,False,,mixtral-8x7b-instruct,psychology,0.214
+Reading/Writing learner,Relationship management,False,,mixtral-8x7b-instruct,psychology,0.237
+High Employee Turnover,Stable Employee Turnover,True,Employee Turnover Rate,mixtral-8x7b-instruct,finance,0.727
+Emerging Brand,Unknown Brand,True,Brand Recognition,mixtral-8x7b-instruct,finance,0.557
+Medium Debt to Equity,No Debt,True,Debt to Equity Ratio,mixtral-8x7b-instruct,finance,0.499
+Low Market Share,Dominant Market Share,True,Market Share,mixtral-8x7b-instruct,finance,0.694
+Diverse Product Lines,Single Product Line,True,Number of Product Lines,mixtral-8x7b-instruct,finance,0.657
+Iconic Brand,Emerging Brand,True,Brand Recognition,mixtral-8x7b-instruct,finance,0.594
+Non-Compliant,Industry Leader in Compliance,True,Regulatory Compliance,mixtral-8x7b-instruct,finance,0.515
+Low Investment,High Investment,True,Research and Development Investment,mixtral-8x7b-instruct,finance,0.749
+Partially Compliant,Fully Compliant,True,Regulatory Compliance,mixtral-8x7b-instruct,finance,0.735
+Very High Employee Turnover,Stable Employee Turnover,True,Employee Turnover Rate,mixtral-8x7b-instruct,finance,0.705
+Break Even,Steady Market Share,False,,mixtral-8x7b-instruct,finance,0.325
+Unknown Brand,Stable Employee Turnover,False,,mixtral-8x7b-instruct,finance,0.158
+Highly Profitable,Dominant Market Share,False,,mixtral-8x7b-instruct,finance,0.473
+Low Investment,No Debt,False,,mixtral-8x7b-instruct,finance,0.389
+No Product Lines,Dominant Market Share,False,,mixtral-8x7b-instruct,finance,0.319
+Increasing Market Share,Positive Revenue Growth,False,,mixtral-8x7b-instruct,finance,0.518
+Medium Investment,Industry Leader in Compliance,False,,mixtral-8x7b-instruct,finance,0.185
+Highly Profitable,Single Product Line,False,,mixtral-8x7b-instruct,finance,0.344
+Dominant Market Share,High Cash Reserves,False,,mixtral-8x7b-instruct,finance,0.362
+Low Employee Turnover,Emerging Brand,False,,mixtral-8x7b-instruct,finance,0.176
+Limited and Inefficient,Extensive and Efficient,True,Public Transport System: The availability and efficiency of public transportation in a city.,mistral-7b-instruct,urban studies,0.589
+Rural Population Majority,Urban Population Majority,True,Urbanization Rate: The percentage of a population living in urban areas.,mistral-7b-instruct,urban studies,0.744
+Unaffordable,Affordable,True,Housing Affordability: The proportion of income required to purchase or rent a home.,mistral-7b-instruct,urban studies,0.693
+Very High,Very Low,True,Crime Rate: The frequency of reported crimes in a city.,mistral-7b-instruct,urban studies,0.661
+High,Low,True,Social Cohesion: The degree of unity and harmony among different social groups in a city.,mistral-7b-instruct,urban studies,0.672
+Excellent,Poor,True,Education System: The quality and accessibility of educational institutions in a city.,mistral-7b-instruct,urban studies,0.47
+Scarce and Inaccessible,Abundant and Accessible,True,Green Spaces: The amount and accessibility of parks and other natural areas within a city.,mistral-7b-instruct,urban studies,0.608
+Poorly-Maintained and Limited,Well-Maintained and Accessible,True,"Infrastructure: The condition and availability of essential services and facilities such as water, electricity, and sanitation.",mistral-7b-instruct,urban studies,0.591
+Abundant and Diverse,Limited and Narrow,True,Employment Opportunities: The availability and diversity of job opportunities in a city.,mistral-7b-instruct,urban studies,0.366
+Excellent,Poor,True,"Air Quality: The level of pollutants in the air, affecting the health and comfort of city residents.",mistral-7b-instruct,urban studies,0.47
+Scarce and Inaccessible,Extensive and Efficient,False,,mistral-7b-instruct,urban studies,0.413
+Poor,Urban Population Majority,False,,mistral-7b-instruct,urban studies,0.238
+Well-Maintained and Accessible,Rural Population Majority,False,,mistral-7b-instruct,urban studies,0.158
+Limited and Narrow,Affordable,False,,mistral-7b-instruct,urban studies,0.267
+Low,Poorly-Maintained and Limited,False,,mistral-7b-instruct,urban studies,0.255
+Limited and Narrow,Extensive and Efficient,False,,mistral-7b-instruct,urban studies,0.423
+Scarce and Inaccessible,Rural Population Majority,False,,mistral-7b-instruct,urban studies,0.198
+Abundant and Accessible,Affordable,False,,mistral-7b-instruct,urban studies,0.501
+Scarce and Inaccessible,Unaffordable,False,,mistral-7b-instruct,urban studies,0.423
+Abundant and Accessible,Very Low,False,,mistral-7b-instruct,urban studies,0.284
+Surface wave (water waves),Electromagnetic wave (radio waves),True,The property of a wave that determines the amount of energy it transports per unit area.,mistral-7b-instruct,physics,0.537
+Audible frequency wave (music),High frequency wave (X-rays),True,The property of a wave that determines the number of oscillations per unit time.,mistral-7b-instruct,physics,0.48
+Plastic material (clay),Elastic material (rubber band),True,The property of a material that determines how easily it can be deformed or compressed.,mistral-7b-instruct,physics,0.485
+White body (snow),Emissive body (hot iron),True,The property of a material that determines its ability to emit energy.,mistral-7b-instruct,physics,0.461
+Transmitter (glass),Reflector (mirror),True,The property of a material that determines its ability to absorb energy.,mistral-7b-instruct,physics,0.446
+Low frequency wave (radio waves),Infrasound wave (earthquakes),True,The property of a wave that determines the number of oscillations per unit time.,mistral-7b-instruct,physics,0.58
+Infrasound wave (earthquakes),High frequency wave (X-rays),True,The property of a wave that determines the number of oscillations per unit time.,mistral-7b-instruct,physics,0.439
+Gravitational force (Earth's pull),Nuclear force (atomic bonding),True,The force that causes an object to move or stay at rest. It can be described as a push or a pull.,mistral-7b-instruct,physics,0.462
+White body (snow),Black body (coal),True,The property of a material that determines its ability to emit energy.,mistral-7b-instruct,physics,0.539
+Brittle material (glass),Plastic material (clay),True,The property of a material that determines how easily it can be deformed or compressed.,mistral-7b-instruct,physics,0.52
+Audible frequency wave (music),Electromagnetic wave (radio waves),False,,mistral-7b-instruct,physics,0.529
+Tensile material (wire),High frequency wave (X-rays),False,,mistral-7b-instruct,physics,0.298
+Electromagnetic force (magnetism),Elastic material (rubber band),False,,mistral-7b-instruct,physics,0.34
+Gravitational force (Earth's pull),Emissive body (hot iron),False,,mistral-7b-instruct,physics,0.258
+Poor thermal conductor (wood),Electromagnetic wave (radio waves),False,,mistral-7b-instruct,physics,0.222
+Emissive body (hot iron),Reflector (mirror),False,,mistral-7b-instruct,physics,0.437
+Emissive body (hot iron),Infrasound wave (earthquakes),False,,mistral-7b-instruct,physics,0.192
+Absorber (charcoal),High frequency wave (X-rays),False,,mistral-7b-instruct,physics,0.239
+Transverse wave (light),Black body (coal),False,,mistral-7b-instruct,physics,0.196
+Solid state (ice),Poor thermal conductor (wood),False,,mistral-7b-instruct,physics,0.357
+Current smoker,Non-smoker,True,Smoking Status,mistral-7b-instruct,health,0.737
+"Moderate Drinker (up to one drink per day for women, up to two drinks per day for men)","Heavy Drinker (more than one drink per day for women, more than two drinks per day for men)",True,Alcohol Consumption,mistral-7b-instruct,health,0.762
+High Environmental Exposure (significant exposure to pollutants),Low Environmental Exposure (minimal exposure to pollutants),True,Environmental Exposure,mistral-7b-instruct,health,0.752
+"Regular Exercise (30 minutes or more per day, five days a week)",Sedentary Lifestyle (less than 150 minutes of moderate-intensity or 75 minutes of vigorous-intensity activity per week),True,Physical Activity Level,mistral-7b-instruct,health,0.563
+Moderate Stress (moderate stress levels),Low Stress (manageable stress levels),True,Stress Level,mistral-7b-instruct,health,0.776
+"Healthy Diet (rich in fruits, vegetables, whole grains, lean proteins, and healthy fats)","Unhealthy Diet (high in processed foods, sugars, saturated and trans fats)",True,Dietary Pattern,mistral-7b-instruct,health,0.601
+Mild Genetic Predisposition,Significant Genetic Predisposition,True,Genetic Predisposition,mistral-7b-instruct,health,0.787
+No Known Genetic Conditions,Mild Genetic Predisposition,True,Genetic Predisposition,mistral-7b-instruct,health,0.535
+"Moderate Drinker (up to one drink per day for women, up to two drinks per day for men)",Non-drinker,True,Alcohol Consumption,mistral-7b-instruct,health,0.51
+Non-smoker,Former smoker,True,Smoking Status,mistral-7b-instruct,health,0.737
+Low Environmental Exposure (minimal exposure to pollutants),Non-smoker,False,,mistral-7b-instruct,health,0.369
+High Environmental Exposure (significant exposure to pollutants),"Regular Exercise (30 minutes or more per day, five days a week)",False,,mistral-7b-instruct,health,0.381
+Good Sleep (7-9 hours of uninterrupted sleep per night),"Heavy Drinker (more than one drink per day for women, more than two drinks per day for men)",False,,mistral-7b-instruct,health,0.325
+Sedentary Lifestyle (less than 150 minutes of moderate-intensity or 75 minutes of vigorous-intensity activity per week),Mild Mental Health Concerns (mild anxiety or depression),False,,mistral-7b-instruct,health,0.332
+Mixed Diet,Low Environmental Exposure (minimal exposure to pollutants),False,,mistral-7b-instruct,health,0.248
+No Known Genetic Conditions,Sedentary Lifestyle (less than 150 minutes of moderate-intensity or 75 minutes of vigorous-intensity activity per week),False,,mistral-7b-instruct,health,0.184
+Good Sleep (7-9 hours of uninterrupted sleep per night),Low Stress (manageable stress levels),False,,mistral-7b-instruct,health,0.444
+"Heavy Drinker (more than one drink per day for women, more than two drinks per day for men)","Unhealthy Diet (high in processed foods, sugars, saturated and trans fats)",False,,mistral-7b-instruct,health,0.352
+Current smoker,Significant Genetic Predisposition,False,,mistral-7b-instruct,health,0.261
+Good Sleep (7-9 hours of uninterrupted sleep per night),"Healthy Diet (rich in fruits, vegetables, whole grains, lean proteins, and healthy fats)",False,,mistral-7b-instruct,health,0.46
+Wet Oxidation,Dry Oxidation,True,"The type of oxidation used to create a thin layer of silicon dioxide on the semiconductor wafer, such as Wet Oxidation or Dry Oxidation.",mistral-7b-instruct,semiconductor manufacturing,0.725
+Imprint Lithography,Extreme Ultraviolet Lithography,True,"The type of lithography used to create the patterns on the semiconductor wafer, such as Extreme Ultraviolet Lithography or Imprint Lithography.",mistral-7b-instruct,semiconductor manufacturing,0.516
+Gallium Nitride Material,Gallium Arsenide Material,True,"The type of semiconductor material used in the manufacturing process, such as Silicon, Gallium Arsenide, or Gallium Nitride.",mistral-7b-instruct,semiconductor manufacturing,0.792
+Planar Design,FinFET Design,True,"The specific layout design of the integrated circuit, including the arrangement and interconnection of transistors and other components.",mistral-7b-instruct,semiconductor manufacturing,0.403
+Physical Vapor Deposition,Chemical Vapor Deposition,True,"The type of deposition used to add material to the semiconductor wafer, such as Chemical Vapor Deposition or Physical Vapor Deposition.",mistral-7b-instruct,semiconductor manufacturing,0.726
+Wet Etching,Dry Etching,True,"The type of etching used to remove unwanted material from the semiconductor wafer, such as Wet Etching or Dry Etching.",mistral-7b-instruct,semiconductor manufacturing,0.781
+SOI Design,FinFET Design,True,"The specific layout design of the integrated circuit, including the arrangement and interconnection of transistors and other components.",mistral-7b-instruct,semiconductor manufacturing,0.523
+Planar Design,SOI Design,True,"The specific layout design of the integrated circuit, including the arrangement and interconnection of transistors and other components.",mistral-7b-instruct,semiconductor manufacturing,0.489
+Silicon Material,Gallium Nitride Material,True,"The type of semiconductor material used in the manufacturing process, such as Silicon, Gallium Arsenide, or Gallium Nitride.",mistral-7b-instruct,semiconductor manufacturing,0.514
+Wafer-Level Process,Bulk Silicon Process,True,"The process used to create the semiconductor wafer, such as Bulk Silicon Process or Wafer-Level Process.",mistral-7b-instruct,semiconductor manufacturing,0.551
+Extreme Ultraviolet Lithography,Parametric Testing,False,,mistral-7b-instruct,semiconductor manufacturing,0.16
+RCA Cleaning,Dry Oxidation,False,,mistral-7b-instruct,semiconductor manufacturing,0.274
+Functional Testing,Extreme Ultraviolet Lithography,False,,mistral-7b-instruct,semiconductor manufacturing,0.149
+Phosphorus Doping,Functional Testing,False,,mistral-7b-instruct,semiconductor manufacturing,0.195
+Physical Vapor Deposition,Gallium Arsenide Material,False,,mistral-7b-instruct,semiconductor manufacturing,0.313
+Piranha Cleaning,FinFET Design,False,,mistral-7b-instruct,semiconductor manufacturing,0.173
+Silicon Material,Wet Etching,False,,mistral-7b-instruct,semiconductor manufacturing,0.342
+Piranha Cleaning,Chemical Vapor Deposition,False,,mistral-7b-instruct,semiconductor manufacturing,0.221
+Extreme Ultraviolet Lithography,Chemical Vapor Deposition,False,,mistral-7b-instruct,semiconductor manufacturing,0.331
+Parametric Testing,Wet Oxidation,False,,mistral-7b-instruct,semiconductor manufacturing,0.232
+Central Processing Unit (CPU): The brain of the computer,Random Access Memory (RAM): Temporary data storage,True,Hardware Component: A physical part of a computer system.,mistral-7b-instruct,computer science,0.429
+"Python: High-level, interpreted language","Java: Object-oriented, platform-independent language",True,Programming Language: A formal language designed for expressing instructions to a computer.,mistral-7b-instruct,computer science,0.416
+Bus Topology: All nodes connected to a single communication line,Mesh Topology: Each node connected to multiple other nodes,True,Network Topology: The arrangement of various elements (nodes and connecting lines) in a computer network.,mistral-7b-instruct,computer science,0.618
+"Python: High-level, interpreted language","C++: Object-oriented, compiled language",True,Programming Language: A formal language designed for expressing instructions to a computer.,mistral-7b-instruct,computer science,0.436
+DevOps: Continuous delivery and collaboration between development and operations teams,Agile Methodology: Iterative and incremental development,True,Software Development Methodology: A systematic approach to developing high-quality software.,mistral-7b-instruct,computer science,0.522
+RISC (Reduced Instruction Set Computer) Architecture: A simplified instruction set,Harvard Architecture: Separate memory for data and instructions,True,Computer Architecture: The design of a computer system.,mistral-7b-instruct,computer science,0.468
+Queue: A First-In-First-Out (FIFO) data structure,Stack: A Last-In-First-Out (LIFO) data structure,True,"Data Structure: A specialized format for organizing, storing, and retrieving data.",mistral-7b-instruct,computer science,0.738
+macOS,Microsoft Windows,True,Operating System: Software that manages computer hardware and software resources.,mistral-7b-instruct,computer science,0.479
+Third Normal Form (3NF),Second Normal Form (2NF),True,Database Normalization Form: A process to eliminate redundant data and dependencies among the tables in a database.,mistral-7b-instruct,computer science,0.884
+macOS,Linux,True,Operating System: Software that manages computer hardware and software resources.,mistral-7b-instruct,computer science,0.519
+Queue: A First-In-First-Out (FIFO) data structure,Random Access Memory (RAM): Temporary data storage,False,,mistral-7b-instruct,computer science,0.342
+Microsoft Windows,"Java: Object-oriented, platform-independent language",False,,mistral-7b-instruct,computer science,0.298
+"Object-Oriented Programming: Java, C++, Python",First Normal Form (1NF),False,,mistral-7b-instruct,computer science,0.07
+Microsoft Windows,Mesh Topology: Each node connected to multiple other nodes,False,,mistral-7b-instruct,computer science,0.16
+RISC (Reduced Instruction Set Computer) Architecture: A simplified instruction set,"C++: Object-oriented, compiled language",False,,mistral-7b-instruct,computer science,0.235
+Waterfall Model: Linear sequential development,Microsoft Windows,False,,mistral-7b-instruct,computer science,0.22
+"Python: High-level, interpreted language",Harvard Architecture: Separate memory for data and instructions,False,,mistral-7b-instruct,computer science,0.115
+Bus Topology: All nodes connected to a single communication line,macOS,False,,mistral-7b-instruct,computer science,0.109
+RISC (Reduced Instruction Set Computer) Architecture: A simplified instruction set,Microsoft Windows,False,,mistral-7b-instruct,computer science,0.2
+Linux,Harvard Architecture: Separate memory for data and instructions,False,,mistral-7b-instruct,computer science,0.146
+Intergenerational Mobility: The mobility of individuals from one generation to the next.,Horizontal Mobility: The movement of individuals or groups within the same social class.,True,Social Mobility: The ability of individuals or groups to move up or down the social hierarchy.,mistral-7b-instruct,sociology,0.639
+Friendship Network: The group of individuals with whom one has a close personal relationship.,Family Network: The group of individuals related by blood or marriage.,True,Social Networks: The set of social relationships among individuals or groups.,mistral-7b-instruct,sociology,0.675
+"Non-material Culture: The intangible aspects of a culture, such as language, music, and literature.","Subculture: A culture within a culture, characterized by distinct beliefs, values, and practices.",True,"Culture: The shared beliefs, values, customs, behaviors, and artifacts that characterize a group or society.",mistral-7b-instruct,sociology,0.452
+Religion: A social institution that provides a system of beliefs and practices related to the supernatural.,Education: A social institution that transmits knowledge and skills from one generation to the next.,True,Social Institutions: Enduring social structures that perform specific functions in a society.,mistral-7b-instruct,sociology,0.456
+Vertical Mobility: The movement of individuals or groups between different social classes.,Horizontal Mobility: The movement of individuals or groups within the same social class.,True,Social Mobility: The ability of individuals or groups to move up or down the social hierarchy.,mistral-7b-instruct,sociology,0.851
+Intergenerational Mobility: The mobility of individuals from one generation to the next.,Vertical Mobility: The movement of individuals or groups between different social classes.,True,Social Mobility: The ability of individuals or groups to move up or down the social hierarchy.,mistral-7b-instruct,sociology,0.665
+"Informal Socialization: Learning that occurs in unstructured settings, such as families and peer groups.","Formal Socialization: Learning that occurs in structured settings, such as schools and workplaces.",True,"Socialization: The process by which individuals learn the norms, values, and behaviors of a society or group.",mistral-7b-instruct,sociology,0.76
+Material Culture: The physical objects and artifacts that reflect a culture.,"Non-material Culture: The intangible aspects of a culture, such as language, music, and literature.",True,"Culture: The shared beliefs, values, customs, behaviors, and artifacts that characterize a group or society.",mistral-7b-instruct,sociology,0.536
+Material Culture: The physical objects and artifacts that reflect a culture.,"Subculture: A culture within a culture, characterized by distinct beliefs, values, and practices.",True,"Culture: The shared beliefs, values, customs, behaviors, and artifacts that characterize a group or society.",mistral-7b-instruct,sociology,0.432
+Structural Change: Change that affects the underlying structures of a society.,"Cultural Change: Change that affects the values, beliefs, and practices of a society.",True,"Social Change: The modification of social structures, institutions, and norms over time.",mistral-7b-instruct,sociology,0.684
+"Formal Socialization: Learning that occurs in structured settings, such as schools and workplaces.",Horizontal Mobility: The movement of individuals or groups within the same social class.,False,,mistral-7b-instruct,sociology,0.332
+Religion: A social institution that provides a system of beliefs and practices related to the supernatural.,Family Network: The group of individuals related by blood or marriage.,False,,mistral-7b-instruct,sociology,0.262
+Reformist Social Movements: Movements that seek to bring about gradual change within the existing social order.,Horizontal Mobility: The movement of individuals or groups within the same social class.,False,,mistral-7b-instruct,sociology,0.446
+"Non-material Culture: The intangible aspects of a culture, such as language, music, and literature.",Workplace Network: The group of individuals with whom one interacts in a professional setting.,False,,mistral-7b-instruct,sociology,0.194
+Incremental Change: Gradual change over an extended period.,Single-issue Social Movements: Movements that focus on a specific social issue.,False,,mistral-7b-instruct,sociology,0.277
+Material Culture: The physical objects and artifacts that reflect a culture.,Structural Change: Change that affects the underlying structures of a society.,False,,mistral-7b-instruct,sociology,0.291
+Secondary Socialization: Learning that occurs later in life.,"Subculture: A culture within a culture, characterized by distinct beliefs, values, and practices.",False,,mistral-7b-instruct,sociology,0.34
+Primary Socialization: Learning that occurs during childhood and adolescence.,Education: A social institution that transmits knowledge and skills from one generation to the next.,False,,mistral-7b-instruct,sociology,0.469
+Fashion Norms: Rules that govern what is considered stylish or fashionable.,Horizontal Mobility: The movement of individuals or groups within the same social class.,False,,mistral-7b-instruct,sociology,0.212
+Education: A social institution that transmits knowledge and skills from one generation to the next.,Vertical Mobility: The movement of individuals or groups between different social classes.,False,,mistral-7b-instruct,sociology,0.3
+Religious Values,Personal Values,True,A set of rules that a person follows to regulate their behavior and emotions.,mistral-7b-instruct,psychology,0.706
+Social Introversion,Ambivert,True,A personality trait characterized by a tendency to seek out and maintain social relationships.,mistral-7b-instruct,psychology,0.522
+Short-Term Memory,Long-Term Memory,True,A cognitive process that involves the storage and retrieval of information.,mistral-7b-instruct,psychology,0.645
+Working Memory,Short-Term Memory,True,A cognitive process that involves the storage and retrieval of information.,mistral-7b-instruct,psychology,0.701
+Moral Values,Personal Values,True,A set of rules that a person follows to regulate their behavior and emotions.,mistral-7b-instruct,psychology,0.714
+Problem Solving,Logical Reasoning,True,A cognitive process that involves the manipulation of symbols and concepts.,mistral-7b-instruct,psychology,0.488
+Curiosity,Exploratory Behavior,True,A personality trait characterized by a tendency to seek out new experiences and sensations.,mistral-7b-instruct,psychology,0.506
+Logical Reasoning,Creative Thinking,True,A cognitive process that involves the manipulation of symbols and concepts.,mistral-7b-instruct,psychology,0.434
+Perception of Colors,Perception of Tastes,True,A cognitive process that involves the interpretation and organization of sensory information in order to understand the environment and respond appropriately.,mistral-7b-instruct,psychology,0.611
+Perception of Tastes,Perception of Sounds,True,A cognitive process that involves the interpretation and organization of sensory information in order to understand the environment and respond appropriately.,mistral-7b-instruct,psychology,0.62
+Logical Reasoning,Personal Values,False,,mistral-7b-instruct,psychology,0.251
+Short-Term Memory,Ambivert,False,,mistral-7b-instruct,psychology,0.127
+Perception of Sounds,Long-Term Memory,False,,mistral-7b-instruct,psychology,0.191
+Long-Term Memory,Fear,False,,mistral-7b-instruct,psychology,0.185
+Self-efficacy Belief in Coping with Stress,Sadness,False,,mistral-7b-instruct,psychology,0.147
+Social Extraversion,Short-Term Memory,False,,mistral-7b-instruct,psychology,0.184
+Self-efficacy Belief in Coping with Stress,Personal Values,False,,mistral-7b-instruct,psychology,0.21
+Social Extraversion,Religious Values,False,,mistral-7b-instruct,psychology,0.159
+Mindfulness Meditation,Logical Reasoning,False,,mistral-7b-instruct,psychology,0.212
+Short-Term Memory,Religious Values,False,,mistral-7b-instruct,psychology,0.116
+Real Gross Domestic Product (RGDP): The nominal GDP adjusted for inflation.,"Gross National Product (GNP): The total market value of all goods and services produced by a country's citizens and businesses, regardless of their location in the world.",True,Economic Growth: The increase in the production of goods and services in an economy over a certain period of time.,mistral-7b-instruct,finance,0.487
+Producer Price Index (PPI): A measure of the average change over time in the selling prices received by domestic producers for their output.,Consumer Price Index (CPI): A measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services.,True,"Inflation: The rate at which the general level of prices for goods and services is rising, and subsequently, purchasing power is falling.",mistral-7b-instruct,finance,0.685
+Treasury Bonds: Direct obligations of the U.S. government.,Corporate Bonds: Debt securities issued by corporations.,True,Bonds: A type of investment in which an investor loans money to an entity (typically a government or corporation) which borrows the funds for a defined period of time at a variable or fixed interest rate.,mistral-7b-instruct,finance,0.548
+Mortgage Rates: The annual interest rate charged to borrowers for mortgages.,Prime Rate: A benchmark interest rate that a primary bank uses to price its own commercial and industrial loans.,True,"Interest Rates: The percentage rate charged, expressed as an annual percentage of principal, by a lender to a borrower for the use of assets.",mistral-7b-instruct,finance,0.464
+"U6 Unemployment Rate: A broader measure of labor underutilization that includes not only the unemployed, but also those who are underemployed or have given up looking for work.",Long-Term Unemployment Rate: The percentage of the unemployed who have been jobless for 27 weeks or more.,True,Unemployment Rate: The percentage of the labor force that is without work but available for and seeking employment.,mistral-7b-instruct,finance,0.495
+Dividend Payout Ratio: The percentage of earnings paid out as dividends.,Forward Dividend Yield: The next expected dividend payment divided by the current stock price.,True,Dividend Yield: A financial ratio that shows how much a company pays out in dividends each year relative to its stock price.,mistral-7b-instruct,finance,0.493
+"Current Ratio: The ratio of current assets to current liabilities, which measures a company's ability to pay its short-term obligations.",Long-Term Debt-to-Equity Ratio: The ratio of long-term debt to equity.,True,Debt-to-Equity Ratio: A financial ratio that shows the relationship between a company's total liabilities and its shareholder equity.,mistral-7b-instruct,finance,0.395
+Real Gross Domestic Product (RGDP): The nominal GDP adjusted for inflation.,Gross Domestic Product (GDP): The total monetary or market value of all the finished goods and services produced within a country's geographic borders in a specific time period.,True,Economic Growth: The increase in the production of goods and services in an economy over a certain period of time.,mistral-7b-instruct,finance,0.509
+Earnings Before Interest and Taxes to Interest Expense (EBIT/Int): A more comprehensive interest coverage ratio that considers both operating and non-operating income.,Cash Flow Coverage Ratio: A measure of a company's ability to meet its interest obligations using its cash flow from operations.,True,Interest Coverage Ratio: A financial ratio that indicates the number of times a company's earnings before interest and taxes (EBIT) can cover its interest expenses.,mistral-7b-instruct,finance,0.448
+Forward Dividend Yield: The next expected dividend payment divided by the current stock price.,Trailing Dividend Yield: The most recent dividend payment divided by the current stock price.,True,Dividend Yield: A financial ratio that shows how much a company pays out in dividends each year relative to its stock price.,mistral-7b-instruct,finance,0.725
+Corporate Bonds: Debt securities issued by corporations.,Consumer Price Index (CPI): A measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services.,False,,mistral-7b-instruct,finance,0.214
+NASDAQ Composite: A stock market index of the common stocks and similar securities listed on the NASDAQ stock market.,Corporate Bonds: Debt securities issued by corporations.,False,,mistral-7b-instruct,finance,0.304
+"Current Ratio: The ratio of current assets to current liabilities, which measures a company's ability to pay its short-term obligations.",Prime Rate: A benchmark interest rate that a primary bank uses to price its own commercial and industrial loans.,False,,mistral-7b-instruct,finance,0.258
+Price-to-Sales Ratio: A valuation ratio that compares a company's stock price to its revenue per share.,S&P 500: A market-capitalization-weighted index of 500 large companies having common stock listed on the NYSE or NASDAQ.,False,,mistral-7b-instruct,finance,0.283
+Prime Rate: A benchmark interest rate that a primary bank uses to price its own commercial and industrial loans.,Long-Term Unemployment Rate: The percentage of the unemployed who have been jobless for 27 weeks or more.,False,,mistral-7b-instruct,finance,0.243
+Treasury Bonds: Direct obligations of the U.S. government.,Forward Dividend Yield: The next expected dividend payment divided by the current stock price.,False,,mistral-7b-instruct,finance,0.159
+Forward Price-to-Earnings Ratio: The current share price divided by the estimated earnings per share for the next 12 months.,Consumer Price Index (CPI): A measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services.,False,,mistral-7b-instruct,finance,0.236
+"Gross National Product (GNP): The total market value of all goods and services produced by a country's citizens and businesses, regardless of their location in the world.",Mortgage Rates: The annual interest rate charged to borrowers for mortgages.,False,,mistral-7b-instruct,finance,0.135
+"Current Ratio: The ratio of current assets to current liabilities, which measures a company's ability to pay its short-term obligations.",Price-to-Sales Ratio: A valuation ratio that compares a company's stock price to its revenue per share.,False,,mistral-7b-instruct,finance,0.368
+Long-Term Unemployment Rate: The percentage of the unemployed who have been jobless for 27 weeks or more.,Long-Term Debt-to-Equity Ratio: The ratio of long-term debt to equity.,False,,mistral-7b-instruct,finance,0.452
