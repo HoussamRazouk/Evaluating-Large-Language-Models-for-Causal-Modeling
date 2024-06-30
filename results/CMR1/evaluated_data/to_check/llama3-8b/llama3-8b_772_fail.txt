@@ -1,7 +1,0 @@
-Text1                    Selective
-Text2                     Avoidant
-Same Causal Variable         False
-Variable Name                  NaN
-model Name               llama3-8b
-domain                  psychology
-Name: 772, dtype: object

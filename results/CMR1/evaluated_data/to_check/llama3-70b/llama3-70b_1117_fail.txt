@@ -1,7 +1,0 @@
-Text1                   Gross National Product (GNP): The total market...
-Text2                   Mortgage Rates: The annual interest rate charg...
-Same Causal Variable                                                False
-Variable Name                                                         NaN
-model Name                                            mistral-7b-instruct
-domain                                                            finance
-Name: 1117, dtype: object

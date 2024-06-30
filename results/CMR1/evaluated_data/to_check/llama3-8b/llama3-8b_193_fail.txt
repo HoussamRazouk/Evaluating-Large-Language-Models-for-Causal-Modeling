@@ -1,7 +1,0 @@
-Text1                                             Mass of a car
-Text2                   Magnetic field of a refrigerator magnet
-Same Causal Variable                                      False
-Variable Name                                               NaN
-model Name                               mixtral-8x22b-instruct
-domain                                                  physics
-Name: 193, dtype: object

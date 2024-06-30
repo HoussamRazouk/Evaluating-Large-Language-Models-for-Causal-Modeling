@@ -1,6 +1,0 @@
-Value                          Deadlock in database management system
-Variable definition    ['Database Management Systems', 'Concurrency']
-Interaction Value                                                True
-model Name                                        mistral-7b-instruct
-domain                                               computer science
-Name: 405, dtype: object

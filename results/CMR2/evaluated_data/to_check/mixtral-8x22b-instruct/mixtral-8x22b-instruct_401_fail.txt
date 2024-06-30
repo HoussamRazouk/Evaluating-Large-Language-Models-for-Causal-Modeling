@@ -1,6 +1,0 @@
-Value                    Race condition in real-time system
-Variable definition    ['Real-time Systems', 'Concurrency']
-Interaction Value                                      True
-model Name                              mistral-7b-instruct
-domain                                     computer science
-Name: 401, dtype: object
