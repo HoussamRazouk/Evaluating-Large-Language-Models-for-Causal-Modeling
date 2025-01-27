@@ -1,0 +1,225 @@
+Value,Variable definition,Interaction Value,model Name,domain
+Web application development,"['Application type', 'Development platform']",True,mixtral-8x22b-instruct,computer science
+Cultural Festivals,"['Cultural Identity', 'Social Integration']",True,llama3-70b,sociology
+Affordable Housing and Community Centers,"['Housing Market', 'Community Amenities']",True,mistral-7b-instruct,urban studies
+Political Instability and Ethnic Tensions,"['Political Climate', 'Ethnic Relations']",True,mistral-7b-instruct,sociology
+pediatric vaccination program,"['Preventive healthcare', 'Target demographic']",True,gpt-4-turbo,health
+Imposter syndrome,"['Striving for excellence', 'Reaction to mistakes']",False,mixtral-8x7b-instruct,psychology
+Thin film stress,"['Photolithography equipment condition', 'Wafer handling procedure']",False,mixtral-8x7b-instruct,semiconductor manufacturing
+Suburban diversity,"['Suburban area', 'Diversity level']",True,mixtral-8x22b-instruct,sociology
+Learning Disability,"['Cognitive Ability', 'Academic Achievement', 'Neuroplasticity']",True,llama3-70b,psychology
+Empathy and active listening,"['Mindfulness level', 'Emotional regulation ability']",False,mixtral-8x22b-instruct,psychology
+Share Buyback,"['Shareholder Returns', 'Company Financials']",True,mixtral-8x7b-instruct,finance
+Distributed Database System,"['Database System Type', 'Database System Architecture']",True,llama3-70b,computer science
+Metrology tool calibration,"['Process control accuracy', 'Device performance validation']",True,gpt-3.5-turbo,semiconductor manufacturing
+Historic preservation regulations,"['Cultural heritage', 'Regulatory frameworks']",True,gpt-4-turbo,urban studies
+Stock Market Crash and Recession,"['Stock Market', 'Economic Conditions']",True,mistral-7b-instruct,finance
+Divorce,"['Family Structure', 'Emotional Well-being']",False,llama3-8b,sociology
+Family Dynamics,"['Digital Literacy', 'Communication Patterns']",False,gpt-3.5-turbo,sociology
+Cognitive Impairment,"['Cognitive Function', 'Neurological Status']",True,llama3-70b,health
+Marriage Ceremony,"['Family Structure', 'Social Status']",True,llama3-8b,sociology
+Mental Health Literacy,"['Knowledge', 'Attitudes']",True,llama3-8b,psychology
+Neighborhood Watch,"['Community Cohesion', 'Crime Prevention']",True,llama3-70b,sociology
+Youth Mentorship,"['Cultural Expression', 'Social Cohesion']",False,llama3-70b,sociology
+Wave-Particle Duality,"['Frequency of Light', 'Electron Ejection']",False,gpt-3.5-turbo,physics
+Sedentary Lifestyle,"['Sleep Quality', 'Circadian Rhythms']",False,llama3-70b,health
+Education and Social Mobility,"['Urban Development', 'Environmental Quality']",False,mistral-7b-instruct,sociology
+Gender Equality,"['Workplace Discrimination', 'Household Responsibilities']",True,gpt-3.5-turbo,sociology
+diabetic diet plan,"['Treatment method', 'Health condition addressed']",False,gpt-4-turbo,health
+Quantum Foam,"['Spin of the particle', 'Distance between particles']",False,llama3-8b,physics
+Etching Process Optimization,"['Clean Room Class', 'Clean Room Temperature']",False,llama3-8b,semiconductor manufacturing
+Mergers and Acquisitions,"['Compliance Requirements', 'Risk Management', 'Industry Standards']",False,llama3-70b,finance
+diabetic diet plan,"['Disease management', 'Nutritional strategy']",True,gpt-4-turbo,health
+Neurotransmitter imbalance,"['Brain chemistry', 'Mood regulation']",True,gpt-3.5-turbo,health
+Migration and Ethnic Integration,"['Technological Progress', 'Employment Situation']",False,mistral-7b-instruct,sociology
+mindfulness meditation practice,"['Coping Mechanisms', 'Emotional Support']",False,gpt-4-turbo,psychology
+Gentrification,"['Socioeconomic Status', 'Housing Market']",True,gpt-3.5-turbo,urban studies
+Cybersecurity Threat Detection,"['Threat Detection Method', 'Threat Detection Type']",True,llama3-70b,computer science
+Presence of public art installations,"['Public space quality', 'Community engagement']",True,mixtral-8x7b-instruct,urban studies
+Smoking and Alcohol Consumption,"['Smoking Status', 'Alcohol Consumption']",True,mixtral-8x7b-instruct,health
+Database Query Optimization,"['Memory Usage', 'CPU Load']",False,llama3-8b,computer science
+Family Dynamics,"['Parenting Style', 'Household Roles']",True,gpt-3.5-turbo,sociology
+Coping Strategies,"['Anxiety', 'Resilience']",True,gpt-3.5-turbo,psychology
+Metrology tool calibration,"['Wet cleaning process effectiveness', 'Surface preparation quality']",False,gpt-3.5-turbo,semiconductor manufacturing
+Quantitative Easing and Currency War,"['Stock Market', 'Stock Market']",False,mistral-7b-instruct,finance
+Foreign Exchange Rate,"['Industry Disruption', 'Competitive Advantage']",False,gpt-3.5-turbo,finance
+Widespread use of smart city technologies,"['Climate change resilience', 'Liveability']",False,mixtral-8x7b-instruct,urban studies
+Single mother households,"['Marital status', 'Household type']",True,mixtral-8x7b-instruct,sociology
+Frequency and wavelength of a wave,"['Frequency', 'Energy']",False,mistral-7b-instruct,physics
+Natural Disaster,"['Geographic Location', 'Economic Indicator']",True,llama3-8b,finance
+Cloud-Based Data Storage,"['Data Analytics Speed', 'Data Analytics Type']",False,llama3-70b,computer science
+Electromagnetic Pulse,"['Intensity of the pulse', 'Duration of the pulse']",True,llama3-8b,physics
+Sustainable Energy Grids,"['Urban Design', 'Community Development']",False,llama3-8b,urban studies
+prenatal yoga classes,"['Healthcare intervention', 'Risk factor modification']",False,gpt-4-turbo,health
+Etching profile distortion,"['Doping material', 'Doping method']",False,mixtral-8x7b-instruct,semiconductor manufacturing
+Smart City Technology,"['Infrastructure', 'Data Management']",True,gpt-3.5-turbo,urban studies
+Social Isolation,"['Medication Compliance', 'Treatment Efficacy']",False,llama3-70b,health
+Small-cap value stocks,"['Stock type', 'Dividend policy']",False,mixtral-8x22b-instruct,finance
+Emerging market equities,"['Equity type', 'Market type']",True,mixtral-8x22b-instruct,finance
+Titanium Nitride Barrier Layer,"['Gate Dielectric Material', 'Gate Oxide Formation Method']",False,llama3-70b,semiconductor manufacturing
+Delamination,"['Current density', 'Temperature']",False,mixtral-8x7b-instruct,semiconductor manufacturing
+Alcohol consumption and liver disease,"['Physical activity level', 'Risk of osteoporosis']",False,mistral-7b-instruct,health
+Ultraviolet photolithography exposure,"['Lithography technique', 'Light source type']",True,gpt-4-turbo,semiconductor manufacturing
+Nuclear fission,"['Particle nature', 'Wave nature']",False,mixtral-8x22b-instruct,physics
+Business Failure,"['Occupational Status', 'Financial Security']",True,llama3-8b,sociology
+Green Infrastructure,"['Urbanization Pattern', 'Land Use']",False,mixtral-8x22b-instruct,urban studies
+Rapid thermal oxidation,"['Oxidation method', 'Process speed']",True,gpt-4-turbo,semiconductor manufacturing
+Long-term government bonds,"['Bond type', 'Bond maturity']",True,mixtral-8x22b-instruct,finance
+Digital Inclusion Initiatives,"['Digital Literacy', 'Community Outreach']",True,llama3-8b,urban studies
+Software version,"['Major release', 'Minor release']",True,mixtral-8x7b-instruct,computer science
+Smart City Technology,"['Cultural Heritage', 'Tourism']",False,gpt-3.5-turbo,urban studies
+Etching profile distortion,"['Etchant type', 'Pressure']",True,mixtral-8x7b-instruct,semiconductor manufacturing
+Launch of government-backed investment bonds,"['Government Policy', 'Investment Opportunity']",True,gpt-4-turbo,finance
+Neurotransmitter imbalance,"['Digestive health', 'Immune function']",False,gpt-3.5-turbo,health
+Public Transportation,"['Infrastructure', 'Emergency Response']",False,gpt-3.5-turbo,urban studies
+Low-pressure chemical vapor deposition,"['Deposition method', 'Ambient pressure condition']",True,gpt-4-turbo,semiconductor manufacturing
+Cosmic Microwave Background,"['Type of Random Variation', 'Source of Uncertainty']",False,llama3-70b,physics
+sustainable urban planning,"['Environmental Conservation', 'Urban Infrastructure', 'Quality of Life']",True,gpt-4-turbo,sociology
+Urban Renewal Projects,"['Infrastructure Development', 'Housing Market', 'Economic Development']",True,mistral-7b-instruct,urban studies
+Death of a Family Member,"['Cultural Identity', 'Social Integration']",False,llama3-8b,sociology
+urban gentrification,"['Urban Development', 'Economic Impact', 'Social Stratification']",True,gpt-4-turbo,sociology
+Nuclear Fusion,"['Temperature', 'Pressure']",True,gpt-3.5-turbo,physics
+Community policing initiatives,"['Public safety', 'Community engagement']",True,gpt-4-turbo,urban studies
+Community Policing,"['Crime Prevention', 'Community Relations']",True,gpt-3.5-turbo,urban studies
+Product Recall,"['Company Financials', 'Brand Reputation']",True,mixtral-8x7b-instruct,finance
+Fiscal Policy Changes,"['Monetary Policy', 'Economic Indicators', 'Financial Markets']",False,llama3-70b,finance
+Quantum Entanglement,"['Spin of the particle', 'Distance between particles']",True,llama3-8b,physics
+Urbanization and Environmental Degradation,"['Urban Development', 'Environmental Quality']",True,mistral-7b-instruct,sociology
+Social Support,"['Stress Level', 'Well-being']",True,gpt-3.5-turbo,psychology
+semiconductor doping,"['Material conductivity', 'Material composition']",True,gpt-4-turbo,physics
+Metabolic syndrome,"['Obesity', 'Insulin resistance']",True,gpt-3.5-turbo,health
+Community Policing,"['Cultural Heritage', 'Tourism']",False,gpt-3.5-turbo,urban studies
+Graduation,"['Education Level', 'Career Opportunities']",True,llama3-8b,sociology
+Green Spaces,"['Health and Well-being', 'Property Values']",True,gpt-3.5-turbo,urban studies
+System Update Failure,"['CPU Usage', 'Memory Allocation']",False,llama3-8b,computer science
+Public Art Installations,"['Urban Density', 'Transportation Infrastructure']",False,llama3-70b,urban studies
+Gravitational Lensing,"['Superposition', 'Spooky Action at a Distance']",False,gpt-3.5-turbo,physics
+Cognitive distortions and negative thinking,"['Empathy level', 'Active listening ability']",False,mixtral-8x22b-instruct,psychology
+Cybersecurity Breach,"['Company Name', 'Industry Sector']",False,llama3-8b,finance
+Wave-particle duality,"['Particle correlation', 'Measurement outcome']",False,mixtral-8x22b-instruct,physics
+Credit Rating Downgrade,"['Company Credit Rating', 'Bond Yield']",True,llama3-8b,finance
+Smart city technology implementation,"['Urban planning', 'Economic development']",False,gpt-4-turbo,urban studies
+Electromigration,"['Thermal expansion coefficient', 'Package design']",False,mixtral-8x7b-instruct,semiconductor manufacturing
+Regular medical check-ups and medication adherence,"['Healthcare utilization', 'Medication adherence']",True,mixtral-8x22b-instruct,health
+Widespread use of smart city technologies,"['Air quality', 'Social equity']",False,mixtral-8x7b-instruct,urban studies
+peer group discussions,"['Coping Mechanisms', 'Emotional Support']",False,gpt-4-turbo,psychology
+Gender Role Conflict and Family Dysfunction,"['Gender Roles', 'Family Structure']",True,mistral-7b-instruct,sociology
+Death of a Family Member,"['Family Size', 'Parenting Style']",False,llama3-8b,sociology
+Disk usage,"['Major release', 'Minor release']",False,mixtral-8x7b-instruct,computer science
+Social support and resilience,"['Social support level', 'Resilience level']",True,mixtral-8x22b-instruct,psychology
+Conservation of Momentum,"['Linear Momentum', 'Angular Momentum']",True,gpt-3.5-turbo,physics
+Infectious Disease Outbreak,"['Infection Status', 'Disease Transmission']",True,llama3-70b,health
+Family Reunions,"['Family Structure', 'Social Bonding']",True,llama3-70b,sociology
+Medication Non-Adherence,"['Mental Health Status', 'Coping Mechanisms']",False,llama3-70b,health
+Negative self-talk and low self-esteem,"['Stress level', 'Anxiety level']",False,mixtral-8x22b-instruct,psychology
+Education and Social Mobility,"['Educational Attainment', 'Social Status']",True,mistral-7b-instruct,sociology
+Social Media Addiction,"['Cognitive Biases', 'Emotional States']",False,llama3-8b,psychology
+Educational Attainment,"['Dietary Habits', 'Mental Well-being']",False,gpt-3.5-turbo,sociology
+Company Acquisition,"['Economic Indicator', 'Unemployment Rate']",False,llama3-8b,finance
+Efficient Code Execution,"['Interface Design', 'Accessibility Features']",False,gpt-3.5-turbo,computer science
+Resilience,"['Stress', 'Mental Health']",True,gpt-3.5-turbo,psychology
+Electromagnetic Pulse,"['Type of Radiation', 'Form of Electromagnetic Radiation']",True,llama3-70b,physics
+Chemical vapor deposition with silane gas,"['Planarization process', 'Planarization slurry']",False,mixtral-8x22b-instruct,semiconductor manufacturing
+semiconductor doping,"['High-energy astrophysical phenomena', 'Stellar evolution']",False,gpt-4-turbo,physics
+Deep ultraviolet stepper,"['Lithography equipment', 'Light wavelength']",True,gpt-4-turbo,semiconductor manufacturing
+civic participation,"['Educational Methods', 'Technology Utilization', 'Access to Education']",False,gpt-4-turbo,sociology
+Urban gentrification,"['Inner-city area', 'Segregation level']",False,mixtral-8x22b-instruct,sociology
+Quantum entanglement,"['Temperature', 'Energy conversion']",False,mixtral-8x22b-instruct,physics
+Stress and Coping Resources,"['Stress', 'Coping Resources']",True,mistral-7b-instruct,psychology
+Database Corruption,"['Network Traffic', 'Packet Loss']",False,llama3-8b,computer science
+Artificial Intelligence Decision Support,"['Decision Support Method', 'Decision Support Type']",True,llama3-70b,computer science
+solar wind interaction with Earth's magnetosphere,"['Material conductivity', 'Material composition']",False,gpt-4-turbo,physics
+prenatal yoga classes,"['Preventive healthcare', 'Target demographic']",False,gpt-4-turbo,health
+Urban inequality,"['Level of rurality', 'Education level']",False,mixtral-8x22b-instruct,sociology
+Empathy and active listening,"['Empathy level', 'Active listening ability']",True,mixtral-8x22b-instruct,psychology
+User-friendly Interface,"['Interface Design', 'Accessibility Features']",True,gpt-3.5-turbo,computer science
+Health Behavior,"['Identity Formation', 'Social Cohesion']",False,gpt-3.5-turbo,sociology
+Physical inactivity and osteoporosis,"['Physical activity level', 'Risk of osteoporosis']",True,mistral-7b-instruct,health
+Gate Oxide Formation,"['Barrier Layer Material', 'Diffusion Barrier Application']",False,llama3-70b,semiconductor manufacturing
+Launch of government-backed investment bonds,"['Economic Activity', 'Market Health']",False,gpt-4-turbo,finance
+Traumatic Experience,"['Social Influence', 'Risk Taking', 'Identity Formation']",False,llama3-70b,psychology
+Thermal oxidation with wet oxygen,"['Oxidation process', 'Oxidation environment']",True,mixtral-8x22b-instruct,semiconductor manufacturing
+workplace diversity,"['Corporate Culture', 'Social Equality', 'Economic Performance']",True,gpt-4-turbo,sociology
+High-yield corporate bonds,"['Bond type', 'Bond risk']",True,mixtral-8x22b-instruct,finance
+Mindfulness and emotional regulation,"['Self-compassion level', 'Self-forgiveness level']",False,mixtral-8x22b-instruct,psychology
+Mergers and Acquisitions,"['Corporate Strategy', 'Financial Performance', 'Market Trends']",True,llama3-70b,finance
+Medication Use and Liver Disease,"['Medication Use', 'Liver Health']",True,mixtral-8x7b-instruct,health
+Cloud-based data storage,"['Data Storage Type', 'Data Accessibility']",True,gpt-4-turbo,computer science
+Etching Process Optimization,"['Etching Gas', 'Etching Temperature']",True,llama3-8b,semiconductor manufacturing
+Emotional Intelligence,"['Social Support', 'Coping Mechanism', 'Mental Health']",False,llama3-70b,psychology
+intergenerational living,"['Political Engagement', 'Social Movements', 'Communication Technology']",False,gpt-4-turbo,sociology
+Government Policy,"['Tax Revenues', 'Regulatory Environment']",True,gpt-3.5-turbo,finance
+Doping concentration fluctuation,"['Doping material', 'Doping method']",True,mixtral-8x7b-instruct,semiconductor manufacturing
+Public transportation expansion,"['Infrastructure development', 'Environmental sustainability']",True,gpt-4-turbo,urban studies
+Currency Devaluation,"['Currency Exchange Rate', 'Economic Policy']",True,llama3-8b,finance
+Gender wage gap,"['Economic status', 'Age group']",False,mixtral-8x7b-instruct,sociology
+Wafer edge exclusion,"['Wafer yield optimization', 'Die placement strategy']",True,gpt-3.5-turbo,semiconductor manufacturing
+Man-in-the-middle attack on encrypted communication,"['Encrypted Communication', 'Network Security']",True,mistral-7b-instruct,computer science
+urban gentrification,"['Political Processes', 'Community Development', 'Social Cohesion']",False,gpt-4-turbo,sociology
+Health Behavior,"['Social Status', 'Consumer Behavior']",False,gpt-3.5-turbo,sociology
+Digital divide,"['Income group', 'Technology access']",True,mixtral-8x7b-instruct,sociology
+Mixed-Use Developments,"['Land Use Planning', 'Transportation Infrastructure']",True,mistral-7b-instruct,urban studies
+Adaptive Reuse,"['Urban Climate', 'Land Cover']",False,mixtral-8x22b-instruct,urban studies
+High-temperature annealing,"['Lithography technique', 'Light source type']",False,gpt-4-turbo,semiconductor manufacturing
+Natural Disaster,"['Company Name', 'Industry Sector']",False,llama3-8b,finance
+Mechanical stress during handling,"['Temperature control during semiconductor manufacturing', 'Temperature sensitivity of semiconductor materials']",False,mistral-7b-instruct,semiconductor manufacturing
+Laser Annealing,"['Photoresist Removal Method', 'Wafer Cleaning Method']",False,llama3-70b,semiconductor manufacturing
+Debt-to-Equity Swap and Corporate Restructuring,"['Financial Markets', 'Mortgage Market']",False,mistral-7b-instruct,finance
+SQL injection attack in web application,"['Network Protocols', 'Memory Management']",False,mistral-7b-instruct,computer science
+Poor Diet and Sedentary Lifestyle,"['Mental Health', 'Substance Abuse']",False,mixtral-8x7b-instruct,health
+GPU performance,"['Clock speed', 'Memory size']",True,mixtral-8x7b-instruct,computer science
+mental health support group,"['Healthcare intervention', 'Psychological condition management']",True,gpt-4-turbo,health
+System Resource Overload,"['CPU Usage', 'Memory Allocation']",True,llama3-8b,computer science
+Optical Fiber,"['Type of Gravitational Phenomenon', 'Ripple in Space-Time']",False,llama3-70b,physics
+Gravitational Wave,"['Type of Communication Medium', 'Method of Data Transmission']",False,llama3-70b,physics
+electron-proton collision,"['Astrophysical object', 'Mass concentration']",False,mixtral-8x7b-instruct,physics
+Peer Pressure,"['Brain Function', 'Self-Regulation', 'Cognitive Ability']",False,llama3-70b,psychology
+Nutrient Deficiency,"['Infection Status', 'Disease Transmission']",False,llama3-70b,health
+Cherenkov radiation,"['Electrical property', 'Temperature']",False,mixtral-8x7b-instruct,physics
+Empathy and active listening,"['Reinforcement type', 'Motivation level']",False,mixtral-8x22b-instruct,psychology
+superconductivity,"['Solar activity', 'Geomagnetic effects']",False,gpt-4-turbo,physics
+Energy and work,"['Energy', 'Work']",True,mistral-7b-instruct,physics
+Public Space Design,"['Infrastructure', 'Data Management']",False,gpt-3.5-turbo,urban studies
+Sustainable Agriculture and Urban Gardens,"['Housing Market', 'Community Amenities']",False,mistral-7b-instruct,urban studies
+Disaster-Prone Areas,"['Environmental Risks', 'Emergency Response']",True,llama3-70b,urban studies
+Real-time Data Processing,"['Code Performance', 'Resource Utilization']",False,gpt-3.5-turbo,computer science
+smoking cessation counseling,"['Diagnostic procedure', 'Health condition monitored']",False,gpt-4-turbo,health
+Attachment Styles and Emotional Regulation,"['Attachment Styles', 'Emotional Regulation']",True,mistral-7b-instruct,psychology
+Wafer Defect Detection,"['Wafer Defect Type', 'Defect Detection Method']",True,llama3-8b,semiconductor manufacturing
+Retirement,"['Family Size', 'Parenting Style']",False,llama3-8b,sociology
+Credit Rating Downgrade,"['Financial Regulation', 'Industry Sector']",False,llama3-8b,finance
+Hypertension Diagnosis,"['Symptoms', 'Cognitive Function']",False,llama3-8b,health
+Sedentary lifestyle and high-salt diet,"['Social engagement', 'Mental health status']",False,mixtral-8x22b-instruct,health
+Nutrient Deficiency,"['Environmental Exposure', 'Toxicant Levels']",False,llama3-70b,health
+Medication Use and Liver Disease,"['Age', 'Stress Levels']",False,mixtral-8x7b-instruct,health
+Cybersecurity threat detection,"['Security domain', 'Threat detection method']",True,mixtral-8x22b-instruct,computer science
+Laser Annealing,"['Dopant Activation Method', 'Thermal Budget Control']",True,llama3-70b,semiconductor manufacturing
+Automated system backups,"['Backup Type', 'Automation Level']",True,gpt-4-turbo,computer science
+Conservation of Momentum,"['Frequency of Light', 'Electron Ejection']",False,gpt-3.5-turbo,physics
+Bone mineral density,"['Cortisol levels', 'Mental health']",False,gpt-3.5-turbo,health
+Community Volunteering,"['Civic Engagement', 'Social Capital']",True,llama3-70b,sociology
+Suburban Sprawl,"['Urbanization Pattern', 'Land Use']",True,mixtral-8x22b-instruct,urban studies
+Rapid thermal oxidation,"['Lithography technique', 'Light source type']",False,gpt-4-turbo,semiconductor manufacturing
+Bone mineral density,"['Bone health', 'Calcium absorption']",True,gpt-3.5-turbo,health
+Power supply instability during operation,"['Cleanliness of semiconductor packaging process', 'Semiconductor device design']",False,mistral-7b-instruct,semiconductor manufacturing
+prenatal yoga classes,"['Healthcare intervention', 'Psychological condition management']",False,gpt-4-turbo,health
+Mental Health Disorders and Substance Abuse,"['Genetic Factors', 'Environmental Exposure']",False,mixtral-8x7b-instruct,health
+Code quality,"['Round-trip time', 'Packet loss']",False,mixtral-8x7b-instruct,computer science
+Rural migration,"['Inner-city area', 'Crime level']",False,mixtral-8x22b-instruct,sociology
+Healthy body weight and balanced nutrition,"['Body weight', 'Nutritional status']",True,mixtral-8x22b-instruct,health
+Social Support,"['Stress', 'Mental Health']",False,gpt-3.5-turbo,psychology
+Mask alignment accuracy,"['Etch selectivity', 'Uniformity of plasma processing']",False,gpt-3.5-turbo,semiconductor manufacturing
+Data visualization techniques,"['Data representation', 'Visualization method']",True,mixtral-8x22b-instruct,computer science
+Wafer Edge Bead Removal,"['Wafer Edge Treatment', 'Defect Reduction Method']",True,llama3-70b,semiconductor manufacturing
+Widespread use of smart city technologies,"['Urban heat island effect', 'Biodiversity']",False,mixtral-8x7b-instruct,urban studies
+Photoresist Strip and Clean,"['Photoresist Removal Method', 'Wafer Cleaning Method']",True,llama3-70b,semiconductor manufacturing
+Active social life and mental well-being,"['Body weight', 'Nutritional status']",False,mixtral-8x22b-instruct,health
+Buffer overflow in network protocol implementation,"['Network Protocols', 'Memory Management']",True,mistral-7b-instruct,computer science
+Pedestrian-Friendly Infrastructure,"['Environmental Risks', 'Emergency Response']",False,llama3-70b,urban studies
+Death of a Family Member,"['Family Structure', 'Emotional Well-being']",True,llama3-8b,sociology
+Silicon wafer backgrinding,"['Deposition method', 'Ambient pressure condition']",False,gpt-4-turbo,semiconductor manufacturing
+Global Trade Tensions,"['Tax Revenues', 'Regulatory Environment']",False,gpt-3.5-turbo,finance
+SQL injection attack in web application,"['Operating Systems', 'Security']",False,mistral-7b-instruct,computer science
+Mental Health Crisis,"['Symptoms', 'Cognitive Function']",True,llama3-8b,health
+Green Infrastructure,"['Housing Policy', 'Disaster Response']",False,llama3-8b,urban studies
+Social Media Addiction,"['Emotional Expression', 'Problem-Focused Coping']",False,llama3-8b,psychology

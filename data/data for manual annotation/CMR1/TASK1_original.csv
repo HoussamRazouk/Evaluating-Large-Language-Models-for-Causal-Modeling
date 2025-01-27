@@ -1,0 +1,225 @@
+Text1,Text2,Same Causal Variable,Variable Name,model Name,domain
+Redis,Cassandra,True,Database Management System,mixtral-8x22b-instruct,computer science
+Entrepreneur,Blue Collar Worker,True,Occupational Status,llama3-70b,sociology
+Very High,Very Low,True,Crime Rate: The frequency of reported crimes in a city.,mistral-7b-instruct,urban studies
+Friendship Network: The group of individuals with whom one has a close personal relationship.,Family Network: The group of individuals related by blood or marriage.,True,Social Networks: The set of social relationships among individuals or groups.,mistral-7b-instruct,sociology
+Regular doctor checkups,Annual health screenings,True,Healthcare access quality,gpt-4-turbo,health
+Outgoing,High self-esteem,False,,mixtral-8x7b-instruct,psychology
+Four-Dimensional Space,One-Dimensional Space,True,Space,llama3-8b,physics
+Entrepreneur,Professional,True,Occupation,mixtral-8x22b-instruct,sociology
+Reading-Writing Learner,Kinesthetic Learner,True,Learning Style,llama3-70b,psychology
+future-mindedness,excitement-seeking,False,,mixtral-8x22b-instruct,psychology
+Poverty Line,Upper Middle Class,True,Income Level,llama3-8b,sociology
+Harvard Architecture,Cache Memory Hierarchy,True,Computer Architecture,llama3-70b,computer science
+Temperature Mapping,Stable Temperature,True,Temperature Control,gpt-3.5-turbo,semiconductor manufacturing
+vandalism and graffiti,street muggings,True,Prevalent public safety issues,gpt-4-turbo,urban studies
+Forward Dividend Yield: The next expected dividend payment divided by the current stock price.,Trailing Dividend Yield: The most recent dividend payment divided by the current stock price.,True,Dividend Yield: A financial ratio that shows how much a company pays out in dividends each year relative to its stock price.,mistral-7b-instruct,finance
+stable interest rate period,central bank rate hikes,True,Interest Rate Environment,gpt-4-turbo,finance
+Never married,Bachelor's degree recipient,False,,gpt-3.5-turbo,sociology
+Office Worker,Farmer,True,Occupational Hazards,llama3-70b,health
+Relative Time,Boiling Point,False,,llama3-8b,physics
+Emotion-Focused,Self-Aware,True,Emotional Regulation,llama3-8b,psychology
+Online Network,Isolated Individual,True,Social Network,llama3-70b,sociology
+Artistic Pursuits,Poverty Line,False,,llama3-70b,sociology
+Dispersion,Magnetic field,False,,gpt-3.5-turbo,physics
+Prescription Follower,Underweight,False,,llama3-70b,health
+Religion: A social institution that provides a system of beliefs and practices related to the supernatural.,Family Network: The group of individuals related by blood or marriage.,False,,mistral-7b-instruct,sociology
+Bachelor's degree recipient,Ph.D. holder,True,Educational Attainment,gpt-3.5-turbo,sociology
+Stressful work deadlines,Isolated living,False,,gpt-4-turbo,health
+Elapsed Time,Audio Frequency,False,,llama3-8b,physics
+Library,Moderate,False,,mixtral-8x7b-instruct,urban studies
+Bearish Trend,Technology Sector,False,,llama3-70b,finance
+Early morning awakenings,Daytime naps,True,Sleep pattern,gpt-4-turbo,health
+Teetotaler,Social Drinker,True,Alcohol Consumption,gpt-3.5-turbo,health
+C++,JavaScript,True,Programming Language,llama3-8b,computer science
+neglectful supervision,achievement-driven,False,,gpt-4-turbo,psychology
+Multicultural festivals,Ethnic enclaves,True,Cultural diversity,gpt-3.5-turbo,urban studies
+Stack Overflow Handling,Tree Traversal Algorithm,True,Data Structure,llama3-70b,computer science
+Wafer-Level Process,Bulk Silicon Process,True,"The process used to create the semiconductor wafer, such as Bulk Silicon Process or Wafer-Level Process.",mistral-7b-instruct,semiconductor manufacturing
+Respiratory medication,Psychiatric medication,True,Medication usage,mixtral-8x7b-instruct,health
+Absorber (charcoal),High frequency wave (X-rays),False,,mistral-7b-instruct,physics
+Transgender woman,Genderqueer person,True,Gender Identity,gpt-3.5-turbo,sociology
+Passion for Learning,Intrinsic Drive for Personal Growth,True,Motivation,gpt-3.5-turbo,psychology
+Uniform Etching,Stable Temperature,False,,gpt-3.5-turbo,semiconductor manufacturing
+Price-to-Sales Ratio: A valuation ratio that compares a company's stock price to its revenue per share.,S&P 500: A market-capitalization-weighted index of 500 large companies having common stock listed on the NYSE or NASDAQ.,False,,mistral-7b-instruct,finance
+Supply Chain Disruptions,Blockchain Applications Development,False,,gpt-3.5-turbo,finance
+"Class 10,000",Class 100,True,Cleanliness Level,llama3-8b,semiconductor manufacturing
+Compression,Queue,False,,llama3-8b,computer science
+Tensile material (wire),High frequency wave (X-rays),False,,mistral-7b-instruct,physics
+Volatile Market,Stable Market,True,Market Volatility,llama3-8b,finance
+Linear Time Complexity,Tree Traversal Algorithm,False,,llama3-70b,computer science
+Negative Charge,Positive Charge,True,Charge,llama3-8b,physics
+High,Cooperative Housing,False,,mixtral-8x7b-instruct,urban studies
+Monthly community events,Alcohol consumption,False,,gpt-4-turbo,health
+RISC (Reduced Instruction Set Computer) Architecture: A simplified instruction set,"C++: Object-oriented, compiled language",False,,mistral-7b-instruct,computer science
+Community parks,Botanical gardens,True,Green space availability,gpt-3.5-turbo,urban studies
+Factory Worker,Underweight,False,,llama3-70b,health
+market crash,rising rates,False,,mixtral-8x22b-instruct,finance
+deflation,creeping inflation,True,Inflation,mixtral-8x22b-instruct,finance
+System-in-Package,Extreme Ultraviolet,False,,llama3-70b,semiconductor manufacturing
+Class 1000,22 nm,False,,mixtral-8x7b-instruct,semiconductor manufacturing
+Corporate Bonds: Debt securities issued by corporations.,Consumer Price Index (CPI): A measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services.,False,,mistral-7b-instruct,finance
+wet etching,plasma etching,True,Etching Process Type,gpt-4-turbo,semiconductor manufacturing
+Charge of a capacitor,Kinetic energy of a bullet,False,,mixtral-8x22b-instruct,physics
+Producer Price Index (PPI): A measure of the average change over time in the selling prices received by domestic producers for their output.,Consumer Price Index (CPI): A measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services.,True,"Inflation: The rate at which the general level of prices for goods and services is rising, and subsequently, purchasing power is falling.",mistral-7b-instruct,finance
+public transit system,knowledge economy,False,,mixtral-8x22b-instruct,urban studies
+reactive ion etching,wet etching,True,Etching Process Type,gpt-4-turbo,semiconductor manufacturing
+full employment,severe unemployment,True,Unemployment Rate,mixtral-8x22b-instruct,finance
+Extremely Low,Medium,True,Community Engagement,llama3-8b,urban studies
+PostgreSQL,Cassandra,True,Database Management System,mixtral-8x7b-instruct,computer science
+Mixed-use developments,Botanical gardens,False,,gpt-3.5-turbo,urban studies
+Low,High,True,Defect Density,mixtral-8x7b-instruct,semiconductor manufacturing
+Pain medication,Vegetarian,False,,mixtral-8x7b-instruct,health
+Chain Smoker,Social Drinker,False,,gpt-3.5-turbo,health
+Urban core with high-rise buildings,International cuisine restaurants,False,,gpt-3.5-turbo,urban studies
+high energy implantation,medium energy implantation,True,Implantation Energy Level,gpt-4-turbo,semiconductor manufacturing
+Prism,Reflective Insulation,False,,llama3-70b,physics
+alternative medicine followers,public healthcare users,True,Healthcare access,gpt-4-turbo,sociology
+Abundant and Diverse,Limited and Narrow,True,Employment Opportunities: The availability and diversity of job opportunities in a city.,mistral-7b-instruct,urban studies
+High School Diploma,Unemployed,False,,llama3-8b,sociology
+television viewers,radio listeners,True,Media consumption,gpt-4-turbo,sociology
+Muon,Lepton,True,Fundamental particles,gpt-3.5-turbo,physics
+rooftop gardens,sparse vegetation areas,True,Level of urban greenery,gpt-4-turbo,urban studies
+Financial services center,Manufacturing district,True,Economic activity,gpt-3.5-turbo,urban studies
+7 nm,14 nm,True,Fabrication Process Node,mixtral-8x7b-instruct,semiconductor manufacturing
+Trade Agreements,Technology Sector,False,,llama3-70b,finance
+Thermal Energy,Potential Energy,True,Energy,llama3-8b,physics
+Low Market Share,Dominant Market Share,True,Market Share,mixtral-8x7b-instruct,finance
+Shared Values and Goals,Communication and Understanding,True,Interpersonal Relationships,gpt-3.5-turbo,psychology
+aluminum fins,copper tubing,True,Material used in a heat conductor,gpt-4-turbo,physics
+Vegan,Mediterranean,True,Dietary Preference,gpt-3.5-turbo,health
+Historic preservation initiatives,State-of-the-art hospitals,False,,gpt-3.5-turbo,urban studies
+High Environmental Exposure (significant exposure to pollutants),Low Environmental Exposure (minimal exposure to pollutants),True,Environmental Exposure,mistral-7b-instruct,health
+Mixed-use developments,Revitalization of waterfront areas,True,Urban renewal projects,gpt-3.5-turbo,urban studies
+Java,Tree,False,,llama3-8b,computer science
+Disaster-Prone Region,Zoning Regulation,False,,llama3-70b,urban studies
+Gluon,Quantum electrodynamics,False,,gpt-3.5-turbo,physics
+competence,self-confidence,False,,mixtral-8x22b-instruct,psychology
+Scarce and Inaccessible,Extensive and Efficient,False,,mistral-7b-instruct,urban studies
+Charge of a capacitor,Speed of sound,False,,mixtral-8x22b-instruct,physics
+Medium Interest Rate,High Interest Rate,True,Interest Rate,llama3-8b,finance
+arid desert climates,sports complexes,False,,gpt-4-turbo,urban studies
+Low,Self-Aware,False,,llama3-8b,psychology
+Genetic protection,No genetic predisposition,True,Genetic predisposition,mixtral-8x22b-instruct,health
+None of the Above,Subway,False,,mixtral-8x7b-instruct,urban studies
+Good,Former Smoker,False,,llama3-8b,health
+Highly Sensitive,Not Sensitive,True,Moisture Sensitivity,llama3-8b,semiconductor manufacturing
+Low,Moderate,True,Self-Esteem,llama3-8b,psychology
+Gluon,Scikit-learn,False,,mixtral-8x7b-instruct,computer science
+orderliness,competence,True,Conscientiousness,mixtral-8x22b-instruct,psychology
+Electric field,Magnetic field,True,Electromagnetic interactions,gpt-3.5-turbo,physics
+Vegetarian,Pescatarian,True,Diet Type,llama3-70b,health
+Single Parent Household,Nuclear Family,True,Family Structure,llama3-70b,sociology
+Desert Resident,Factory Worker,False,,llama3-70b,health
+perspective-taking,achievement-striving,False,,mixtral-8x22b-instruct,psychology
+Retired,Self-Employed,True,Occupation,llama3-8b,sociology
+Lowly Supportive,Intuitive,False,,llama3-8b,psychology
+Genderfluid individual,Artist,False,,gpt-3.5-turbo,sociology
+Low Income,Mandarin,False,,llama3-8b,sociology
+Constant Time,DevOps,False,,gpt-3.5-turbo,computer science
+Help with Tasks from Colleagues,Companionship from Pets,True,Social Support,gpt-3.5-turbo,psychology
+Styrofoam,Vacuum Flask,True,Thermal Insulator,llama3-70b,physics
+stream,heartbeat,False,,mixtral-8x22b-instruct,semiconductor manufacturing
+centrifugal force,fluorescent lamp,False,,gpt-4-turbo,physics
+mechanical polishing,electrolytic polishing,True,Wafer Polishing Method,gpt-4-turbo,semiconductor manufacturing
+Buddhism practitioners,working class,False,,gpt-4-turbo,sociology
+Master's degree holder,Suburban area,False,,mixtral-8x22b-instruct,sociology
+Planck length,Magnetic field of a neodymium magnet,False,,mixtral-8x22b-instruct,physics
+Moral Values,Personal Values,True,A set of rules that a person follows to regulate their behavior and emotions.,mistral-7b-instruct,psychology
+Emerging Brand,Unknown Brand,True,Brand Recognition,mixtral-8x7b-instruct,finance
+Lean Software Development,Agile Project Management,True,Software Development Methodology,llama3-70b,computer science
+flywheel energy storage,gravitational pull,False,,gpt-4-turbo,physics
+Weekly gym visits,Urban air pollution,False,,gpt-4-turbo,health
+Extended family,Anarchist,False,,mixtral-8x22b-instruct,sociology
+intellectual curiosity,aesthetic sensitivity,True,Openness to Experience,mixtral-8x22b-instruct,psychology
+Real-Time,Distributed,True,Operating System,gpt-3.5-turbo,computer science
+Undocumented immigrant,Ph.D. holder,False,,gpt-3.5-turbo,sociology
+"Moderate Drinker (up to one drink per day for women, up to two drinks per day for men)","Heavy Drinker (more than one drink per day for women, more than two drinks per day for men)",True,Alcohol Consumption,mistral-7b-instruct,health
+Class 1000,High-K Dielectric,False,,llama3-70b,semiconductor manufacturing
+Medium Investment,Industry Leader in Compliance,False,,mixtral-8x7b-instruct,finance
+Introverted Thinker,Overachiever,False,,llama3-70b,psychology
+silicon carbide,germanium,True,Type of substrate,mixtral-8x22b-instruct,semiconductor manufacturing
+postgraduate qualifications,primary school completion,True,Educational attainment,gpt-4-turbo,sociology
+severe unemployment,low unemployment,True,Unemployment Rate,mixtral-8x22b-instruct,finance
+aesthetic sensitivity,emotional regulation,False,,mixtral-8x22b-instruct,psychology
+Bearish Trend,Market Volatility,True,Market Sentiment,llama3-70b,finance
+Apartment Building,Good,False,,llama3-8b,urban studies
+Random access memory modules,Central processing units,True,Hardware Component,gpt-4-turbo,computer science
+Micron,Submillimeter,True,Particle Size,llama3-8b,semiconductor manufacturing
+Introverted Thinker,Kinesthetic Learner,False,,llama3-70b,psychology
+print media readers,manufacturing sector,False,,gpt-4-turbo,sociology
+New Legislation Implementation,Industry Oversight Modifications,True,Regulatory Changes,gpt-3.5-turbo,finance
+Gravitational Force,Weak Nuclear Force,True,Type of Force,mixtral-8x7b-instruct,physics
+rural homesteads,downtown lofts,True,Type of residential areas,gpt-4-turbo,urban studies
+Education: A social institution that transmits knowledge and skills from one generation to the next.,Vertical Mobility: The movement of individuals or groups between different social classes.,False,,mistral-7b-instruct,sociology
+Some High School,Walking,False,,mixtral-8x7b-instruct,sociology
+Flat Wafers,Concave Wafers,True,Wafer Bow,gpt-3.5-turbo,semiconductor manufacturing
+"Python: High-level, interpreted language","Java: Object-oriented, platform-independent language",True,Programming Language: A formal language designed for expressing instructions to a computer.,mistral-7b-instruct,computer science
+no regular healthcare,retail business,False,,gpt-4-turbo,sociology
+Anarchist,Green card holder,False,,gpt-3.5-turbo,sociology
+Android,Linux,True,Operating System,llama3-8b,computer science
+Low Employee Turnover,Emerging Brand,False,,mixtral-8x7b-instruct,finance
+basic public services,minimal sustainability efforts,False,,mixtral-8x22b-instruct,urban studies
+perfect alignment,chemical mechanical polishing,False,,gpt-4-turbo,semiconductor manufacturing
+Limited Social Support,Strong Social Support,True,Social Support,llama3-8b,health
+Medium Business Confidence,High Business Confidence,True,Business Confidence,llama3-8b,finance
+Copper,Plasma Etching,False,,llama3-70b,semiconductor manufacturing
+RISC (Reduced Instruction Set Computer) Architecture: A simplified instruction set,Harvard Architecture: Separate memory for data and instructions,True,Computer Architecture: The design of a computer system.,mistral-7b-instruct,computer science
+Queue: A First-In-First-Out (FIFO) data structure,Random Access Memory (RAM): Temporary data storage,False,,mistral-7b-instruct,computer science
+Photon,Z Boson,True,Boson Type,mixtral-8x7b-instruct,physics
+Laravel,Ember.js,True,Web Application Framework,mixtral-8x7b-instruct,computer science
+Vegan dishes,Dairy-rich diet,True,Type of dietary intake,gpt-4-turbo,health
+JavaScript,Java,True,Programming Language,llama3-8b,computer science
+Prism,Gravitational Wave,False,,llama3-70b,physics
+Vibrating Diaphragm,Bar Magnet,False,,llama3-70b,physics
+Transverse wave (light),Black body (coal),False,,mistral-7b-instruct,physics
+Setback Recoverer,Visual Learner,False,,llama3-70b,psychology
+Chain Smoker,Office Worker,False,,llama3-70b,health
+Gamma Radiation,Liquid,False,,mixtral-8x7b-instruct,physics
+self-worth,competence,False,,mixtral-8x22b-instruct,psychology
+gear train,convection by air movement,False,,gpt-4-turbo,physics
+Audible frequency wave (music),High frequency wave (X-rays),True,The property of a wave that determines the number of oscillations per unit time.,mistral-7b-instruct,physics
+Violent crime hotspots,Manufacturing district,False,,gpt-3.5-turbo,urban studies
+Perception of Colors,Perception of Tastes,True,A cognitive process that involves the interpretation and organization of sensory information in order to understand the environment and respond appropriately.,mistral-7b-instruct,psychology
+Bike-Friendly Roads,Efficient Public Transit,True,Transportation Infrastructure,llama3-70b,urban studies
+Embedded,Social Engineering,False,,gpt-3.5-turbo,computer science
+Stressful work deadlines,Dairy-rich diet,False,,gpt-4-turbo,health
+Logical Reasoning,Creative Thinking,True,A cognitive process that involves the manipulation of symbols and concepts.,mistral-7b-instruct,psychology
+Liquid,Alpha Radiation,False,,mixtral-8x7b-instruct,physics
+Hindu,Divorced,False,,llama3-8b,sociology
+Park,Community Center,True,Presence of Community Facilities,mixtral-8x7b-instruct,urban studies
+Personal Vehicle,Walking,True,Transportation,mixtral-8x7b-instruct,sociology
+Limited sun exposure,Insomniac,False,,mixtral-8x22b-instruct,health
+Light Sleeper,Healthcare Professional,False,,llama3-70b,health
+Real Gross Domestic Product (RGDP): The nominal GDP adjusted for inflation.,"Gross National Product (GNP): The total market value of all goods and services produced by a country's citizens and businesses, regardless of their location in the world.",True,Economic Growth: The increase in the production of goods and services in an economy over a certain period of time.,mistral-7b-instruct,finance
+Rancher,CoreOS,True,Containerization Platform,mixtral-8x22b-instruct,computer science
+Flip Chip,System-in-Package,True,Packaging Technology,llama3-70b,semiconductor manufacturing
+Function as a Service,Desktop as a Service,True,Cloud Computing Service,gpt-4-turbo,computer science
+Electric field,Fusion,False,,gpt-3.5-turbo,physics
+Screen Addict,Dehydrated,False,,gpt-3.5-turbo,health
+Couch Potato,Outdoor Adventurer,True,Leisure Activity,llama3-70b,sociology
+moderate sustainability efforts,minimal sustainability efforts,True,Environmental Sustainability,mixtral-8x22b-instruct,urban studies
+reactive ion etching,particle-free air,False,,gpt-4-turbo,semiconductor manufacturing
+Tanned,Sunscreen User,True,Sun Exposure,gpt-3.5-turbo,health
+Parametric Testing,Wet Oxidation,False,,mistral-7b-instruct,semiconductor manufacturing
+Yearly marathon participation,Alcohol consumption,False,,gpt-4-turbo,health
+2-3 times a week,No Education,False,,mixtral-8x7b-instruct,sociology
+NumPy,Cassandra,False,,mixtral-8x7b-instruct,computer science
+Single-parent household,Middle-aged adult,False,,mixtral-8x22b-instruct,sociology
+Minimal pollution,No pollution,True,Environmental pollution,mixtral-8x22b-instruct,health
+Problem-Solving Approaches,Communication and Understanding,False,,gpt-3.5-turbo,psychology
+Scrapped Wafers,Uniform Etching,False,,gpt-3.5-turbo,semiconductor manufacturing
+ASP.NET,Flask,True,Web Framework,mixtral-8x22b-instruct,computer science
+Gold,Tungsten,True,Type of Interconnect Metal,llama3-70b,semiconductor manufacturing
+Manual Laborer,Single,False,,mixtral-8x7b-instruct,sociology
+Low-K Dielectric,High-K Dielectric,True,Dielectric Material Used,llama3-70b,semiconductor manufacturing
+Moderate genetic predisposition,Minimal pollution,False,,mixtral-8x22b-instruct,health
+"Python: High-level, interpreted language","C++: Object-oriented, compiled language",True,Programming Language: A formal language designed for expressing instructions to a computer.,mistral-7b-instruct,computer science
+Police Patrol Zone,Historic Landmark,False,,llama3-70b,urban studies
+Neurological disease,1-2 times a week,False,,mixtral-8x7b-instruct,health
+particle-free air,smooth surface,False,,gpt-4-turbo,semiconductor manufacturing
+Retail Industry Performance,Inflation Concerns,False,,gpt-3.5-turbo,finance
+Nanowire,High,False,,mixtral-8x7b-instruct,semiconductor manufacturing
+political unrest in a region,significant earnings drop,False,,gpt-4-turbo,finance
+Low stress,High stress,True,Stress levels,mixtral-8x7b-instruct,health
+Selective,Avoidant,False,,llama3-8b,psychology

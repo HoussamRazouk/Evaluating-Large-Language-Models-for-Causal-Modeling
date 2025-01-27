@@ -46,5 +46,9 @@ python src/CMR2/CMR2_Experiment.py
 To get the cosine similarity  
 ```bash
 python src/CMR2/get_cos_sim.py
+```
+To get some data for manual evaluation of the generated data 
+```bash
+python data/data for manual annotation/data sampling for manual evaluation.py
 
 
