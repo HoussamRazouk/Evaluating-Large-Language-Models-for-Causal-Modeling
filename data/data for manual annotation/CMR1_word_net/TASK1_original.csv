@@ -1,0 +1,46 @@
+Text1,Text2,Variable,Word,Definition,Domain
+Incarnation,Hard_times,Time,time.n.03,an indefinite period (usually marked by specific attributes or activities),physics
+Occasion,High_time,Time,time.n.04,a suitable moment,physics
+Future,Present,Time,time.n.05,the continuum of experience in which events pass from the future through the present to the past,physics
+Prime_time,Hour,Time,clock_time.n.01,a reading of a point in time as given by a clock,physics
+Hard_time,Life_sentence,Time,prison_term.n.01,the period of time a prisoner is imprisoned,physics
+Tankage,Porterage,Charge,charge.n.03,the price charged for some article or service,physics
+Positive_charge,Electrostatic_charge,Charge,charge.n.04,the quantity of unbalanced electricity in a body (either positive or negative) and construed as an excess or deficiency of electrons,physics
+Slight_care,Due_care,Charge,care.n.05,attention and management implying responsibility for safety,physics
+Suicide_mission,Mission_impossible,Charge,mission.n.03,a special assignment that is given to a person or group,physics
+Levy,Assessment,Charge,charge.n.08,financial liabilities (such as a tax),physics
+Annulet,Ordinary,Charge,charge.n.14,heraldry consisting of a design or image depicted on a shield,physics
+Rocket_fuel,Undercharge,Charge,charge.n.15,a quantity of explosive to be set off at one time,physics
+Radiation_pressure,Vapor_pressure,Pressure,pressure.n.01,the force applied to a unit area of surface; measured in pascals (SI unit) or in dynes (cgs unit),physics
+Impression,Compression,Pressure,press.n.09,the act of pressing; the exertion of pressure,physics
+Barometric_pressure,Compartment_pressure,Pressure,atmospheric_pressure.n.01,the pressure exerted by the atmosphere,physics
+Sampling_frequency,Attendance,Frequency,frequency.n.01,the number of occurrences within a given time period,physics
+Demand-pull_inflation,Cost-pull_inflation,Inflation,inflation.n.01,a general and progressive increase in prices,finance
+Rational_motive,Ethical_motive,Motivation,motivation.n.01,the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior,psychology
+Air_transportation_system,Short_line,Transportation,transportation_system.n.01,a facility consisting of the means and equipment necessary for the movement of passengers or goods,sociology
+Connection,Airlift,Transportation,transportation.n.02,the act of moving something from one location to another,sociology
+Train_fare,Airfare,Transportation,fare.n.02,the sum charged for riding in a public conveyance,sociology
+Hauling,Express,Transportation,transportation.n.05,the commercial enterprise of moving goods and materials,sociology
+Newness,Oldness,Age,age.n.01,how long something has existed,sociology
+Antiquity,Golden_age,Age,historic_period.n.01,an era of history having some distinctive feature,sociology
+Minority,Voting_age,Age,age.n.03,a time of life (usually defined in years) at which some particular qualification or power arises,sociology
+Year_dot,Eon,Age,long_time.n.01,a prolonged period of time,sociology
+Hysteria,Anxiety_neurosis,Neuroticism,neurosis.n.01,a mental or personality disturbance not attributable to any known neurological or organic dysfunction,psychology
+Duress,Heartbeat,Force,force.n.01,a powerful effect or influence,physics
+Reaction,Stress,Force,force.n.02,(physics) the influence that produces a change in a physical quantity,physics
+Brunt,Energy,Force,force.n.03,physical energy or intensity,physics
+Line_personnel,Management_personnel,Force,force.n.04,group of people willing to obey orders,physics
+Headquarters,Legion,Force,military_unit.n.01,a unit that is part of some military service,physics
+Road_rage,Domestic_violence,Force,violence.n.01,an act of aggression (as one against a person who resists),physics
+Influence,Moloch,Force,power.n.05,one possessing or exercising power or influence or authority,physics
+Trade,Accountancy,Occupation,occupation.n.01,the principal activity in your life that you do to earn money,sociology
+Stemmer,Sorting_algorithm,Algorithm,algorithm.n.01,a precise rule (or set of rules) specifying how to solve some problem,computer science
+Diligence,Strictness,Conscientiousness,conscientiousness.n.02,the trait of being painstaking and careful,psychology
+Body_temperature,Mercury,Temperature,temperature.n.01,the degree of hotness or coldness of a body or environment (corresponding to its molecular activity),physics
+Heat,Cold,Temperature,temperature.n.02,the somatic sensation of cold or heat,physics
+Absolute_space,Mathematical_space,Space,space.n.01,the unlimited expanse in which everything is located,physics
+Enclosure,Expanse,Space,space.n.02,an empty area (usually bounded in some way between things),physics
+Separation,Terreplein,Space,space.n.03,an area reserved for some particular purpose,physics
+Indentation,Margin,Space,space.n.07,a blank area,physics
+Work,Mechanical_energy,Energy,energy.n.01,(physics) a thermodynamic quantity equivalent to the capacity of a physical system to do work; the units of energy are joules or ergs,physics
+Qi,Juice,Energy,energy.n.05,a healthy capacity for vigorous activity,physics
