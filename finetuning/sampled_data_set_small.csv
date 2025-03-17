@@ -1,0 +1,20 @@
+Text1,Text2,Same Causal Variable,Variable Name,model Name,domain
+Smart Growth Initiative,Zoning Regulation,True,Urban Planning Policy,llama3-70b,urban studies
+Recreational Space,Commercial Hub,True,Land Use Pattern,llama3-70b,urban studies
+Post-War Bungalow,Historic Landmark,True,Building Architecture,llama3-70b,urban studies
+Bike-Friendly Roads,Efficient Public Transit,True,Transportation Infrastructure,llama3-70b,urban studies
+Art Deco Building,Post-War Bungalow,True,Building Architecture,llama3-70b,urban studies
+Public-Private Partnership,Decentralized Administration,True,Urban Governance,llama3-70b,urban studies
+Green Space Oasis,Noise Pollution Hotspot,True,Environmental Quality,llama3-70b,urban studies
+Historic Museum Quarter,Lively Nightlife Scene,True,Cultural Amenities,llama3-70b,urban studies
+Noise Pollution Hotspot,Toxic Waste Site,True,Environmental Quality,llama3-70b,urban studies
+Family-Oriented Neighborhood,Student Quarter,True,Neighborhood Demographics,llama3-70b,urban studies
+Disaster-Prone Region,Zoning Regulation,False,,llama3-70b,urban studies
+Police Patrol Zone,Commercial Hub,False,,llama3-70b,urban studies
+Police Patrol Zone,Historic Landmark,False,,llama3-70b,urban studies
+Recreational Space,Efficient Public Transit,False,,llama3-70b,urban studies
+Financial Hub,Post-War Bungalow,False,,llama3-70b,urban studies
+Art Deco Building,Decentralized Administration,False,,llama3-70b,urban studies
+Student Quarter,Noise Pollution Hotspot,False,,llama3-70b,urban studies
+Retiree Enclave,Commercial Hub,False,,llama3-70b,urban studies
+Toxic Waste Site,Lively Nightlife Scene,False,,llama3-70b,urban studies
