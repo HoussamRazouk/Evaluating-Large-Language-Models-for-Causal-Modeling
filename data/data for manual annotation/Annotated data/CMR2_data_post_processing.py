@@ -231,10 +231,16 @@ AA_anno1_WN=Anno1_WN_Trues/(Anno1_WN_Trues+Anno1_WN_False)
 AA_anno2_WN=Anno2_WN_Trues/(Anno2_WN_Trues+Anno2_WN_False)
 AA_anno3_WN=Anno3_WN_Trues/(Anno3_WN_Trues+Anno3_WN_False)
 AA_unified_annotation_WN=unified_annotation_WN_Trues/(unified_annotation_WN_Trues+unified_annotation_WN_False)
+avg_AA_anno_WN=round((AA_anno1_WN+AA_anno2_WN+AA_anno3_WN)/3,2)*100
+
+
 
 print(f"AA ANNOTATORs 1 & Word net = {AA_anno1_WN}")
 print(f"AA ANNOTATORs 2 & Word net = {AA_anno2_WN}")
 print(f"AA ANNOTATORs 3 & Word net = {AA_anno3_WN}")
+print(f"AA ANNOTATORs avg & Word net = {avg_AA_anno_WN}")
+
+
 print(f"AA Unified ANNOTATORs & Word net = {AA_unified_annotation_WN}")
 
 

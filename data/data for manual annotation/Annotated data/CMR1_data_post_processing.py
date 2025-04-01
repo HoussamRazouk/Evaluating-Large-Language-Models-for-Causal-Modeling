@@ -235,9 +235,14 @@ AA_anno2_WN=Anno2_WN_Trues/(Anno2_WN_Trues+Anno2_WN_False)
 AA_anno3_WN=Anno3_WN_Trues/(Anno3_WN_Trues+Anno3_WN_False)
 AA_unified_annotation_WN=unified_annotation_WN_Trues/(unified_annotation_WN_Trues+unified_annotation_WN_False)
 
+
+avg_AA_anno_WN=round((AA_anno1_WN+AA_anno2_WN+AA_anno3_WN)/3,2)*100
+
 print(f"AA ANNOTATORs 1 & Word net = {AA_anno1_WN}")
 print(f"AA ANNOTATORs 2 & Word net = {AA_anno2_WN}")
 print(f"AA ANNOTATORs 3 & Word net = {AA_anno3_WN}")
+print(f"AA ANNOTATORs avg & Word net = {avg_AA_anno_WN}")
+
 print(f"AA Unified ANNOTATORs & Word net = {AA_unified_annotation_WN}")
 
 ## getting the data predicted by llama3_70B and comparing to the different annotators 
@@ -361,5 +366,42 @@ print(f"IAA ANNOTATOR 1 & Predicted data by  llama3_8b = {IAA_anno1_llama3_8b}")
 print(f"IAA ANNOTATOR 2 & Predicted data by  llama3_8b = {IAA_anno2_llama3_8b}")
 print(f"IAA ANNOTATOR 3 & Predicted data by  llama3_8b = {IAA_anno3_llama3_8b}")
 print(f"IAA ANNOTATOR avg & Predicted data by  llama3_8b = {avg_IAA_anno_llama3_8b}")
+
+
+
+
+LLM_prediction_path='results/CMR1/evaluated_data/mixtral-8x22b-instruct_model_prediction_large.csv'
+
+mixtral_8x22b_predictions=Getting_annotated_items_from_LLM_predictions(Generated_Data_df,LLM_prediction_path)
+
+
+filtered_DS1,filtered_DS2=getting_the_overlapped_between_two_annotated_data_set(
+    Anno1_df['Same Causal Variable_processed'][WN_index:].reset_index(drop=True),
+    mixtral_8x22b_predictions['Same Causal Variable']
+)
+
+IAA_anno1_mixtral_8x22b=round(cohen_kappa_score(filtered_DS1,filtered_DS2),2)*100
+
+
+filtered_DS1,filtered_DS2=getting_the_overlapped_between_two_annotated_data_set(
+    Anno2_df['Same Causal Variable_processed'][WN_index:].reset_index(drop=True),
+    mixtral_8x22b_predictions['Same Causal Variable']
+)
+
+IAA_anno2_mixtral_8x22b=round(cohen_kappa_score(filtered_DS1,filtered_DS2),2)*100
+
+
+filtered_DS1,filtered_DS2=getting_the_overlapped_between_two_annotated_data_set(
+    Anno3_df['Same Causal Variable_processed'][WN_index:].reset_index(drop=True),
+    mixtral_8x22b_predictions['Same Causal Variable']
+)
+
+IAA_anno3_mixtral_8x22b=round(cohen_kappa_score(filtered_DS1,filtered_DS2),2)*100 
+avg_IAA_anno_mixtral_8x22b=round((IAA_anno1_mixtral_8x22b+IAA_anno2_mixtral_8x22b+IAA_anno3_mixtral_8x22b)/3,0)
+print(f"IAA ANNOTATOR 1 & Predicted data by  mixtral_8x22b = {IAA_anno1_mixtral_8x22b}")
+print(f"IAA ANNOTATOR 2 & Predicted data by  mixtral_8x22b = {IAA_anno2_mixtral_8x22b}")
+print(f"IAA ANNOTATOR 3 & Predicted data by  mixtral_8x22b = {IAA_anno3_mixtral_8x22b}")
+print(f"IAA ANNOTATOR avg & Predicted data by  mixtral_8x22b = {avg_IAA_anno_mixtral_8x22b}")
+
 
 

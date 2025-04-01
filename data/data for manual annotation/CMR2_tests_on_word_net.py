@@ -54,6 +54,8 @@ for val in df_list:
                 row['Variable definition']=str(Examples)    
                 row["Value"]=val
                 Dictionaries.append(row)
+                
+counter_of_values_found_in_wordnet
 if False:            
     len(df_list)-1
     Dictionaries=[]
@@ -101,5 +103,5 @@ print(results)
 '''Value,Variable definition,Interaction Value,model Name,domain'''
 if len(results)>0:
     results=results[['Value','Variable definition','Domain']]       
-    results.to_csv('data/data for manual annotation/CMR2_word_net/TASK2_original.csv',index=False)
-    results[['Value','Variable definition','Domain']].to_csv('data/data for manual annotation/CMR2_word_net/TASK2_anonymized.csv',index=False)
+    #results.to_csv('data/data for manual annotation/CMR2_word_net/TASK2_original.csv',index=False)
+    #results[['Value','Variable definition','Domain']].to_csv('data/data for manual annotation/CMR2_word_net/TASK2_anonymized.csv',index=False)

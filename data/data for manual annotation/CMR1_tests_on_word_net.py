@@ -11,7 +11,7 @@ We assume that the hyponyms of a text entity representing a causal variable coul
 
 # Initialize the NLTK WordNet interface
 nltk.download('wordnet')
-
+print(wordnet.get_version())
 df=pd.read_csv("results\CMR1\sampled_data\sampled_data_set_large.csv")
 i=0
 df_list=list(set(df['Variable Name'].tolist()))

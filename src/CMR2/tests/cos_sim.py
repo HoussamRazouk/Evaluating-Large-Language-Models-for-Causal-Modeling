@@ -61,9 +61,9 @@ for model in models:
 
 
 
-for j in range(15): ## iterate over the threshold 
+for j in range(17): ## iterate over the threshold 
     
-    threshold=(0.05*j)+0.2
+    threshold=(0.05*j)+0.1
     thresholds.append(threshold)
     
     embedding_cos_sim_df['threshold']=embedding_cos_sim_df.apply(lambda row: row['text1_text2_cos_sim_text-embedding-3-large']>(threshold),axis=1)
