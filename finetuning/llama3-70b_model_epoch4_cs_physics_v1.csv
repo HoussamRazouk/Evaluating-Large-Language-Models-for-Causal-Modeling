@@ -1,0 +1,1121 @@
+Text1,Text2,Generated Same Causal Variable,Predicted Same Causal Variable,Generated Variable Name,Predicted Variable Name,Data Generation Model,Prediction Model,Domain,Explanation
+Smart Growth Initiative,Zoning Regulation,True,True,Urban Planning Policy,Urban Planning,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Recreational Space,Commercial Hub,True,True,Land Use Pattern,Land Use,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Post-War Bungalow,Historic Landmark,True,True,Building Architecture,Building Type,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Bike-Friendly Roads,Efficient Public Transit,True,True,Transportation Infrastructure,Transportation Infrastructure,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Art Deco Building,Post-War Bungalow,True,True,Building Architecture,Architectural Style,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Public-Private Partnership,Decentralized Administration,True,True,Urban Governance,Administrative Structure,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Green Space Oasis,Noise Pollution Hotspot,True,True,Environmental Quality,Urban Environmental Quality,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Historic Museum Quarter,Lively Nightlife Scene,True,True,Cultural Amenities,Urban Character,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Noise Pollution Hotspot,Toxic Waste Site,True,True,Environmental Quality,Environmental Hazard,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Family-Oriented Neighborhood,Student Quarter,True,True,Neighborhood Demographics,Neighborhood Character,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Disaster-Prone Region,Zoning Regulation,False,False,,,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Police Patrol Zone,Commercial Hub,False,True,,Neighborhood,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Police Patrol Zone,Historic Landmark,False,False,,,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Recreational Space,Efficient Public Transit,False,True,,Urban Planning,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Financial Hub,Post-War Bungalow,False,False,,,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Art Deco Building,Decentralized Administration,False,False,,,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Student Quarter,Noise Pollution Hotspot,False,False,,,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Retiree Enclave,Commercial Hub,False,True,,Urban Morphology,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Toxic Waste Site,Lively Nightlife Scene,False,False,,,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Waterway Access,Emergency Response Hub,False,False,,,llama3-70b,lora_70b_en_v1_v2,urban studies,None
+Solenoid Coil,Bar Magnet,True,True,Magnetic Field,Magnetic Field,llama3-70b,lora_70b_en_v1_v2,physics,None
+Fiberglass,Reflective Insulation,True,True,Thermal Insulator,Thermal Insulator,llama3-70b,lora_70b_en_v1_v2,physics,None
+Fixed Axis,Ideal Rigid Body,True,True,Kinematic Constraint,Kinematic Constraints,llama3-70b,lora_70b_en_v1_v2,physics,None
+Styrofoam,Vacuum Flask,True,True,Thermal Insulator,Thermal Insulator,llama3-70b,lora_70b_en_v1_v2,physics,None
+Vacuum Flask,Ceramic Fiber,True,True,Thermal Insulator,Thermal Insulator,llama3-70b,lora_70b_en_v1_v2,physics,None
+Prism,Water,True,True,Optical Medium,Optical Medium,llama3-70b,lora_70b_en_v1_v2,physics,None
+Heat Engine,Refrigerator,True,True,Thermodynamic System,Thermodynamic System,llama3-70b,lora_70b_en_v1_v2,physics,None
+X-Ray Tube,Laser Diode,True,True,Radiation Source,Radiation Source,llama3-70b,lora_70b_en_v1_v2,physics,None
+Tidal Force,Gravitational Wave,True,True,Gravitational Field,Gravitational Field,llama3-70b,lora_70b_en_v1_v2,physics,None
+Tidal Force,Black Hole,True,True,Gravitational Field,Gravitational Field,llama3-70b,lora_70b_en_v1_v2,physics,None
+Vibrating Diaphragm,Bar Magnet,False,False,,,llama3-70b,lora_70b_en_v1_v2,physics,None
+Prism,Reflective Insulation,False,False,,,llama3-70b,lora_70b_en_v1_v2,physics,None
+Air,Ideal Rigid Body,False,False,,,llama3-70b,lora_70b_en_v1_v2,physics,None
+Gold Plating,Vacuum Flask,False,False,,,llama3-70b,lora_70b_en_v1_v2,physics,None
+Gold Plating,Ideal Gas,False,False,,,llama3-70b,lora_70b_en_v1_v2,physics,None
+Guitar String,Ceramic Fiber,False,False,,,llama3-70b,lora_70b_en_v1_v2,physics,None
+Laser Diode,Water,False,False,,,llama3-70b,lora_70b_en_v1_v2,physics,None
+Radio Wave,Refrigerator,False,False,,,llama3-70b,lora_70b_en_v1_v2,physics,None
+Ceramic Fiber,Laser Diode,False,False,,,llama3-70b,lora_70b_en_v1_v2,physics,None
+Prism,Gravitational Wave,False,False,,,llama3-70b,lora_70b_en_v1_v2,physics,None
+Sleepwalker,Nap Lover,True,True,Sleep Pattern,Sleep Pattern,llama3-70b,lora_70b_en_v1_v2,health,None
+Athletic Build,Underweight,True,True,Body Mass Index,Body Mass Index,llama3-70b,lora_70b_en_v1_v2,health,None
+Flexitarian,Omnivore,True,True,Diet Type,Diet,llama3-70b,lora_70b_en_v1_v2,health,None
+Factory Worker,Office Worker,True,True,Occupational Hazards,Occupation,llama3-70b,lora_70b_en_v1_v2,health,None
+Office Worker,Farmer,True,True,Occupational Hazards,Occupation,llama3-70b,lora_70b_en_v1_v2,health,None
+Obese,Underweight,True,True,Body Mass Index,Body Mass Index,llama3-70b,lora_70b_en_v1_v2,health,None
+Factory Worker,Construction Worker,True,True,Occupational Hazards,Occupation,llama3-70b,lora_70b_en_v1_v2,health,None
+Firefighter,Healthcare Professional,True,True,Occupational Hazards,Occupation,llama3-70b,lora_70b_en_v1_v2,health,None
+Healthcare Professional,Factory Worker,True,True,Occupational Hazards,Occupation,llama3-70b,lora_70b_en_v1_v2,health,None
+Vegetarian,Pescatarian,True,True,Diet Type,Diet,llama3-70b,lora_70b_en_v1_v2,health,None
+Prescription Follower,Nap Lover,False,False,,,llama3-70b,lora_70b_en_v1_v2,health,None
+Factory Worker,Underweight,False,False,,,llama3-70b,lora_70b_en_v1_v2,health,None
+Dose Adjuster,Omnivore,False,False,,,llama3-70b,lora_70b_en_v1_v2,health,None
+Flexitarian,Mountain Dweller,False,False,,,llama3-70b,lora_70b_en_v1_v2,health,None
+Chain Smoker,Office Worker,False,False,,,llama3-70b,lora_70b_en_v1_v2,health,None
+Non Smoker,Farmer,False,False,,,llama3-70b,lora_70b_en_v1_v2,health,None
+Prescription Follower,Underweight,False,False,,,llama3-70b,lora_70b_en_v1_v2,health,None
+Healthy Family,Construction Worker,False,False,,,llama3-70b,lora_70b_en_v1_v2,health,None
+Light Sleeper,Healthcare Professional,False,False,,,llama3-70b,lora_70b_en_v1_v2,health,None
+Desert Resident,Factory Worker,False,False,,,llama3-70b,lora_70b_en_v1_v2,health,None
+Deep Ultraviolet,Extreme Ultraviolet,True,True,Lithography Wavelength,Lithography Wavelength,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Silicon Carbide,Silicon on Insulator,True,True,Type of Wafer Material,Semiconductor Material,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+High-K Dielectric,Silicon Nitride,True,True,Dielectric Material Used,Gate Dielectric Material,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Flip Chip,System-in-Package,True,True,Packaging Technology,Packaging Type,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Nanowire,Gate-All-Around,True,True,Pattern of Transistor Gate,Transistor Structure,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Silicon Dioxide,Low-K Dielectric,True,True,Dielectric Material Used,Gate Insulator,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Gold,Tungsten,True,True,Type of Interconnect Metal,Material,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Low-K Dielectric,High-K Dielectric,True,True,Dielectric Material Used,Dielectric Constant,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Dry Etching,Plasma Etching,True,True,Type of Etching Process,Etching Method,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+KrF Excimer Laser,Argon Fluoride,True,True,Lithography Wavelength,Etching Gas,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+System-in-Package,Extreme Ultraviolet,False,False,,,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Wet Etching,Silicon on Insulator,False,False,,,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Wire Bonding,Silicon Dioxide,False,False,,,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Chemical Vapor Deposition,Silicon Nitride,False,True,,Dielectric Material,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Deep Ultraviolet,System-in-Package,False,False,,,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Copper,Gate-All-Around,False,False,,,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Class 1000,High-K Dielectric,False,False,,,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Bulk Silicon,Low-K Dielectric,False,False,,,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Copper,Plasma Etching,False,False,,,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Argon Fluoride,Reactive Ion Etching,False,False,,,llama3-70b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Denial of Service Attack,Ransomware Malware,True,True,Cybersecurity Threat,Cybersecurity Threat,llama3-70b,lora_70b_en_v1_v2,computer science,None
+Queue Data Type,Graph Theory Application,True,False,Data Structure,,llama3-70b,lora_70b_en_v1_v2,computer science,None
+Linear Time Complexity,Logarithmic Space Complexity,True,True,Computational Complexity,Computational Complexity,llama3-70b,lora_70b_en_v1_v2,computer science,None
+Lean Software Development,Agile Project Management,True,True,Software Development Methodology,Software Development Methodology,llama3-70b,lora_70b_en_v1_v2,computer science,None
+Graph Theory Application,Tree Traversal Algorithm,True,True,Data Structure,Data Structure,llama3-70b,lora_70b_en_v1_v2,computer science,None
+Linked List Implementation,Graph Theory Application,True,True,Data Structure,Data Structure,llama3-70b,lora_70b_en_v1_v2,computer science,None
+Stack Overflow Handling,Tree Traversal Algorithm,True,True,Data Structure,Data Structure,llama3-70b,lora_70b_en_v1_v2,computer science,None
+SQL Injection Attack,Denial of Service Attack,True,True,Cybersecurity Threat,Cybersecurity Threat,llama3-70b,lora_70b_en_v1_v2,computer science,None
+Harvard Architecture,Cache Memory Hierarchy,True,True,Computer Architecture,Computer Architecture,llama3-70b,lora_70b_en_v1_v2,computer science,None
+Cache Memory Hierarchy,Von Neumann Architecture,True,True,Computer Architecture,Computer Architecture,llama3-70b,lora_70b_en_v1_v2,computer science,None
+Deep Learning Neural Network,Graph Theory Application,False,False,,,llama3-70b,lora_70b_en_v1_v2,computer science,None
+Graph Theory Application,Logarithmic Space Complexity,False,False,,,llama3-70b,lora_70b_en_v1_v2,computer science,None
+RISC Instruction Set,Agile Project Management,False,False,,,llama3-70b,lora_70b_en_v1_v2,computer science,None
+RISC Instruction Set,Tree Traversal Algorithm,False,False,,,llama3-70b,lora_70b_en_v1_v2,computer science,None
+SMTP Email Protocol,Polynomial Time Algorithm,False,False,,,llama3-70b,lora_70b_en_v1_v2,computer science,None
+Cloud-Based Database,Graph Theory Application,False,False,,,llama3-70b,lora_70b_en_v1_v2,computer science,None
+Linear Time Complexity,Tree Traversal Algorithm,False,False,,,llama3-70b,lora_70b_en_v1_v2,computer science,None
+Deep Learning Neural Network,Denial of Service Attack,False,False,,,llama3-70b,lora_70b_en_v1_v2,computer science,None
+Augmented Reality Interface,Cache Memory Hierarchy,False,False,,,llama3-70b,lora_70b_en_v1_v2,computer science,None
+Python Syntax,Von Neumann Architecture,False,False,,,llama3-70b,lora_70b_en_v1_v2,computer science,None
+Couch Potato,Outdoor Adventurer,True,True,Leisure Activity,Lifestyle,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Entrepreneur,Blue Collar Worker,True,True,Occupational Status,Occupation,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Nuclear Family,Extended Family,True,True,Family Structure,Family Structure,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Sports Enthusiast,Outdoor Adventurer,True,True,Leisure Activity,Lifestyle,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Ethnic Minority,Immigrant Community,True,True,Cultural Identity,Social Identity,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Close-Knit Community,Loose Acquaintances,True,True,Social Network,Social Cohesion,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Long-Term Resident,Recent Migrant,True,True,Residential Mobility,Immigrant Status,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Single Parent Household,Nuclear Family,True,True,Family Structure,Family Structure,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Bachelor's Degree,Master's Degree,True,True,Education Level,Education Level,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Online Network,Isolated Individual,True,True,Social Network,Social Integration,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Counterculture,Outdoor Adventurer,False,True,,Lifestyle,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Isolated Individual,Extended Family,False,True,,Family Structure,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Unemployed,Outdoor Adventurer,False,False,,,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Artistic Pursuits,Poverty Line,False,False,,,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Socialist,Immigrant Community,False,False,,,llama3-70b,lora_70b_en_v1_v2,sociology,None
+White Collar Worker,Recent Migrant,False,False,,,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Socialist,Couch Potato,False,False,,,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Suburban Area,Nuclear Family,False,False,,,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Frequent Mover,Single Parent Household,False,False,,,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Isolated Individual,Entrepreneur,False,False,,,llama3-70b,lora_70b_en_v1_v2,sociology,None
+Introverted Thinker,Intuitive Perceiver,True,True,Personality Type,Personality Type,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Extrinsically Motivated,Achievement-Oriented,True,True,Motivation,Motivation,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Avoidantly Attached,Securely Attached,True,True,Attachment Style,Attachment Style,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Setback Recoverer,Crisis Handler,True,True,Resilience,Coping Style,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Emotional Suppressor,Emotional Expresser,True,True,Emotional Regulation,Emotional Regulation,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Rationalizer,Suppressor,True,True,Coping Mechanism,Defense Mechanism,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Auditory Learner,Visual Learner,True,True,Learning Style,Learning Style,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Self-Doubter,Overachiever,True,True,Self-Esteem,Personality,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Reading-Writing Learner,Kinesthetic Learner,True,True,Learning Style,Learning Style,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Intrinsically Motivated,Socially Driven,True,True,Motivation,Motivation,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Crisis Handler,Insecure Person,False,True,,Coping Style,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Large Family Circle,Intuitive Perceiver,False,False,,,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Emotional Avoider,Achievement-Oriented,False,False,,,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Fear-Driven,Crisis Handler,False,False,,,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Close-Knit Friend Group,Emotional Expresser,False,False,,,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Intrinsically Motivated,Crisis Handler,False,False,,,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Setback Recoverer,Visual Learner,False,False,,,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Large Family Circle,Securely Attached,False,True,,Attachment Style,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Introverted Thinker,Overachiever,False,False,,,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Introverted Thinker,Kinesthetic Learner,False,False,,,llama3-70b,lora_70b_en_v1_v2,psychology,None
+Bullish Trend,Bearish Trend,True,True,Market Sentiment,Market Sentiment,llama3-70b,lora_70b_en_v1_v2,finance,None
+Bearish Trend,Market Volatility,True,False,Market Sentiment,,llama3-70b,lora_70b_en_v1_v2,finance,None
+Bearish Trend,Economic Uncertainty,True,False,Market Sentiment,,llama3-70b,lora_70b_en_v1_v2,finance,None
+Market Penetration,Cost Leadership Strategy,True,True,Growth Strategy,Business Strategy,llama3-70b,lora_70b_en_v1_v2,finance,None
+Retail Business,Technology Sector,True,True,Industry Type,Industry,llama3-70b,lora_70b_en_v1_v2,finance,None
+Low Debt Ratio,High Debt Ratio,True,True,Financial Leverage,Financial Leverage,llama3-70b,lora_70b_en_v1_v2,finance,None
+Turnaround Expertise,Seasoned Leadership,True,True,Management Experience,Management Experience,llama3-70b,lora_70b_en_v1_v2,finance,None
+Manufacturing Firm,Technology Sector,True,True,Industry Type,Industry,llama3-70b,lora_70b_en_v1_v2,finance,None
+Economic Boom,Stagflation,True,True,Macroeconomic Conditions,Economic Conditions,llama3-70b,lora_70b_en_v1_v2,finance,None
+Inflationary Pressure,Stagflation,True,True,Macroeconomic Conditions,Economic Conditions,llama3-70b,lora_70b_en_v1_v2,finance,None
+Cost Leadership Strategy,Developed Economy,False,False,,,llama3-70b,lora_70b_en_v1_v2,finance,None
+Cost Leadership Strategy,Duopoly Market,False,False,,,llama3-70b,lora_70b_en_v1_v2,finance,None
+Small Cap,Bearish Trend,False,False,,,llama3-70b,lora_70b_en_v1_v2,finance,None
+Organic Growth,Bearish Trend,False,False,,,llama3-70b,lora_70b_en_v1_v2,finance,None
+Deflationary Environment,Market Volatility,False,False,,,llama3-70b,lora_70b_en_v1_v2,finance,None
+Industry-Specific Laws,Cost Leadership Strategy,False,False,,,llama3-70b,lora_70b_en_v1_v2,finance,None
+Trade Agreements,Technology Sector,False,False,,,llama3-70b,lora_70b_en_v1_v2,finance,None
+Family Owned Business,High Debt Ratio,False,False,,,llama3-70b,lora_70b_en_v1_v2,finance,None
+Bearish Trend,Technology Sector,False,False,,,llama3-70b,lora_70b_en_v1_v2,finance,None
+Large Cap,Technology Sector,False,False,,,llama3-70b,lora_70b_en_v1_v2,finance,None
+minimal sustainability efforts,leading sustainability practices,True,True,Environmental Sustainability,Sustainability,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+limited natural features,barren landscape,True,True,Natural Landscape,Environmental quality,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+apartment complexes,townhouses,True,True,Housing Types,Housing Type,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+megacity,urban core,True,True,Population Density,Urban Agglomeration,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+megacity,high-rise district,True,True,Population Density,Urban morphology,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+airport hub,bike lanes,True,False,Transportation Infrastructure,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+limited cultural diversity,moderate cultural diversity,True,True,Cultural Diversity,Cultural diversity,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+world heritage site,moderate historical significance,True,True,Historical Significance,Historical Significance,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+moderate sustainability efforts,minimal sustainability efforts,True,True,Environmental Sustainability,Sustainability efforts,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+sparse settlements,high-rise district,True,True,Population Density,Urban density,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+sparse settlements,leading sustainability practices,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+no historical significance,barren landscape,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+minimal sustainability efforts,townhouses,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+industrial zone,urban core,False,True,,Urban Morphology,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+public transit system,knowledge economy,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+pedestrian-friendly streets,high-rise district,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+limited cultural diversity,bike lanes,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+minimal sustainability efforts,high-rise district,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+basic public services,minimal sustainability efforts,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+world-class public services,high-rise district,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,urban studies,None
+Frequency of a gamma ray,Frequency of a radio wave,True,True,Frequency of a wave,Frequency of a wave,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Absolute zero,Room temperature,True,True,Temperature of a gas,Temperature,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Charge of a proton,Charge of a capacitor,True,True,Electric charge,Electric charge,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Magnetic field of Jupiter,Magnetic field of a refrigerator magnet,True,True,Magnetic field strength,Magnetic field strength,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Frequency of visible light,Frequency of a cosmic ray,True,True,Frequency of a wave,Frequency of a wave,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Magnetic field of a neutron star,Magnetic field of Jupiter,True,True,Magnetic field strength,Magnetic field strength,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Magnetic field of Earth,Magnetic field of Jupiter,True,True,Magnetic field strength,Magnetic field strength,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Magnetic field of Earth,Magnetic field of a neodymium magnet,True,True,Magnetic field strength,Magnetic field strength,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Height of a human,Diameter of a hydrogen atom,True,True,Length of an object,Length of an object,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Lifespan of a mayfly,Age of the Universe,True,True,Time duration,Time,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Pressure at the top of Mount Everest,Frequency of a radio wave,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Energy of a supernova,Charge of a capacitor,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Charge of a capacitor,Speed of sound,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Mass of a car,Magnetic field of a refrigerator magnet,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Diameter of a hydrogen atom,Frequency of a cosmic ray,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Pressure inside a hot air balloon,Magnetic field of Jupiter,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Frequency of visible light,Magnetic field of Jupiter,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Mass of an electron,Pressure inside a nuclear reactor,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Planck length,Magnetic field of a neodymium magnet,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Charge of a capacitor,Kinetic energy of a bullet,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,physics,None
+Sound sleeper,Insomniac,True,True,Sleep quality,Sleep quality,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+Light drinker,Heavy drinker,True,True,Alcohol consumption,Alcohol consumption,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+No mental illness,Severe mental illness,True,True,Mental health status,Mental health,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+Lightly active,Very active,True,True,Physical activity level,Physical activity level,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+Excessive sun exposure,No sun exposure,True,True,Sun exposure,Sun exposure,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+Genetic protection,Mild genetic predisposition,True,True,Genetic predisposition,Genetic predisposition,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+Minimal sun exposure,Excessive sun exposure,True,True,Sun exposure,Sun exposure,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+Low pollution,Minimal pollution,True,True,Environmental pollution,Air quality,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+Minimal pollution,No pollution,True,True,Environmental pollution,Environmental pollution,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+Genetic protection,No genetic predisposition,True,True,Genetic predisposition,Genetic predisposition,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+Limited sun exposure,Insomniac,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+Non-smoker,Heavy drinker,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+Social smoker,Severe mental illness,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+Excessive sun exposure,Insomniac,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+High-protein,No sun exposure,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+High pollution,Mild genetic predisposition,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+Moderate pollution,Excessive sun exposure,False,True,,Environmental factors,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+No pollution,Excessive sun exposure,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+Moderate genetic predisposition,Minimal pollution,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+Limited sun exposure,No pollution,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,health,None
+silicon carbide,germanium,True,True,Type of substrate,Semiconductor material,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+trace amount,moderate concentration,True,True,Doping concentration,Doping concentration,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+boiling point of water,room temperature,True,True,Temperature of the furnace,Temperature,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+fast spin,idle,True,True,Rotation speed of the wafer,Spin Speed,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+heartbeat,blink of an eye,True,True,Duration of the process,Time,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Blu-ray disc,CD,True,True,Thickness of the wafer,Type of optical storage,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+melting point of silicon,room temperature,True,True,Temperature of the furnace,Temperature,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+argon,hydrogen,True,True,Type of gas used,Gas,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+flood,trickle,True,True,Flow rate of the gas,Flow rate,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+credit card,paper thin,True,False,Thickness of the wafer,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+fast spin,boiling point of silicon,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+stream,heartbeat,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+boiling point of silicon,germanium,False,True,,Semiconductor material,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+oxygen,silicon,False,True,,Dopant,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+boiling point of water,heartbeat,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+phosphorus,moderate concentration,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+high concentration,room temperature,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+pressure in outer space,boiling point of water,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+maximum spin,moderate concentration,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+minute,CD,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+MariaDB,Cassandra,True,True,Database Management System,Database Management System,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Buddy,Jenkins,True,True,CI/CD Tool,CI/CD Tool,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Linux,Fedora,True,True,Operating System,Operating System,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Redis,Cassandra,True,True,Database Management System,Database Management System,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Rancher,CoreOS,True,True,Containerization Platform,Operating System,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Laravel,Ruby on Rails,True,True,Web Framework,Web Application Framework,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Django,React,True,True,Web Framework,Web Framework,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+ASP.NET,Flask,True,True,Web Framework,Web Application Framework,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Oracle VM VirtualBox,Red Hat Virtualization,True,True,Virtualization Platform,Virtualization Platform,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Rackspace,Alibaba Cloud,True,True,Cloud Service Provider,Cloud Service Provider,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Kubernetes,Cassandra,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Microsoft Hyper-V,CoreOS,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Fossil,Jenkins,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Express.js,Fedora,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Sublime Text,Cassandra,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+CircleCI,Ruby on Rails,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Eclipse,React,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Visual Studio Code,Flask,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Citrix Hypervisor,Alibaba Cloud,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Rancher,GitLab CI,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,computer science,None
+Child,Senior citizen,True,True,Age,Age,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Lower-middle class,Below poverty line,True,True,Income level,Socioeconomic Status,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Blue-collar worker,White-collar worker,True,True,Occupation,Occupation,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Libertarian,Anarchist,True,True,Political ideology,Political Ideology,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Rural area,Suburban area,True,True,Geographic location,Urbanization,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Entrepreneur,Professional,True,True,Occupation,Occupation,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Nuclear family,Single individual,True,True,Family structure,Family Structure,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Child,Middle-aged adult,True,True,Age,Age,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+African American,Hispanic,True,True,Ethnicity,Race,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Upper class,Upper-middle class,True,True,Income level,Social class,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Genderqueer,Senior citizen,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Primary school graduate,Below poverty line,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Libertarian,White-collar worker,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Extended family,Anarchist,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Master's degree holder,Suburban area,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Rural area,Professional,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Female,Single individual,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Single-parent household,Middle-aged adult,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Master's degree holder,Hispanic,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+Master's degree holder,Below poverty line,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,sociology,None
+drive,initiative,True,True,Motivation,Motivation,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+dutifulness,achievement-striving,True,True,Conscientiousness,Conscientiousness,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+self-worth,self-confidence,True,True,Self-Esteem,Self-Esteem,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+initiative,goal-directed behavior,True,True,Motivation,Motivation,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+vulnerability,anger,True,False,Neuroticism,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+enthusiasm,excitement-seeking,True,True,Extraversion,Extraversion,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+intellectual curiosity,aesthetic sensitivity,True,True,Openness to Experience,Openness to experience,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+activity level,gregariousness,True,False,Extraversion,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+persistence,drive,True,True,Motivation,Motivation,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+orderliness,competence,True,True,Conscientiousness,Conscientiousness,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+stress tolerance,initiative,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+perspective-taking,achievement-striving,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+competence,self-confidence,False,True,,Self-Efficacy,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+future-mindedness,goal-directed behavior,False,True,,Motivation,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+aesthetic sensitivity,emotional regulation,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+flexibility,anger,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+future-mindedness,excitement-seeking,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+creativity,gregariousness,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+activity level,drive,False,True,,Extraversion,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+self-worth,competence,False,True,,Self-Esteem,mixtral-8x22b-instruct,lora_70b_en_v1_v2,psychology,None
+bear market,bull market,True,True,Stock Market Performance,Market Trend,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+stable rates,negative rates,True,True,Interest Rates,Monetary Policy,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+market rally,bull market,True,True,Stock Market Performance,Market Trend,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+quantitative easing,restrictive policy,True,True,Monetary Policy,Monetary Policy,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+accommodative policy,neutral policy,True,True,Monetary Policy,Monetary Policy,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+appreciation,stable exchange rate,True,True,Currency Exchange Rates,Exchange Rate,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+severe unemployment,low unemployment,True,True,Unemployment Rate,Economic Conditions,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+low confidence,rising confidence,True,True,Consumer Confidence,Market sentiment,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+deflation,creeping inflation,True,True,Inflation,Inflation,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+full employment,severe unemployment,True,True,Unemployment Rate,Economic Conditions,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+appreciation,bull market,False,True,,Stock Market Trend,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+restrictive policy,negative rates,False,True,,Monetary Policy,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+market rally,severe unemployment,False,True,,Economic Conditions,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+balanced budget,bull market,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+stable exchange rate,restrictive policy,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+declining confidence,neutral policy,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+bankruptcy,recession,False,True,,Economic downturn,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+fiscal deficit,tightening,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+market crash,rising rates,False,True,,Economic downturn,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+hyperinflation,low unemployment,False,False,,,mixtral-8x22b-instruct,lora_70b_en_v1_v2,finance,None
+Tech startups hub,Manufacturing district,True,True,Economic activity,Industry,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Community parks,Botanical gardens,True,True,Green space availability,Urban green space,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Mobile medical units,State-of-the-art hospitals,True,True,Healthcare access,Healthcare Infrastructure,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Financial services center,Manufacturing district,True,True,Economic activity,Land use,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+High burglary areas,Low crime neighborhoods,True,True,Crime rate,Crime Rate,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+International cuisine restaurants,Multicultural festivals,True,True,Cultural diversity,Cultural diversity,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Suburban neighborhoods with single-family homes,Sparse residential areas,True,True,Population density,Urban density,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Mixed-use developments,Revitalization of waterfront areas,True,True,Urban renewal projects,Urban Renewal,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Multicultural festivals,Ethnic enclaves,True,True,Cultural diversity,Cultural diversity,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Community health clinics,State-of-the-art hospitals,True,True,Healthcare access,Healthcare infrastructure,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Luxury condominiums,Manufacturing district,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Mixed-use developments,Botanical gardens,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Community health clinics,Historic preservation initiatives,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Historic preservation initiatives,State-of-the-art hospitals,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Violent crime hotspots,Manufacturing district,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Tech startups hub,Low crime neighborhoods,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Urban core with high-rise buildings,International cuisine restaurants,False,True,,Urbanization,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Revitalization of waterfront areas,Multicultural festivals,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Financial services center,Sparse residential areas,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Revitalization of waterfront areas,High burglary areas,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,urban studies,None
+Vacuum fluctuations,Quantum chromodynamics,True,False,Quantum field theory,,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Kinetic energy,Potential energy,True,True,Energy of motion,Energy of motion,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Electric field,Magnetic field,True,True,Electromagnetic interactions,Electromagnetic field,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Mechanical energy,Thermal energy,True,True,Energy of motion,Energy,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Muon,Lepton,True,True,Fundamental particles,Type of particle,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Heat transfer,Adiabatic expansion,True,True,Thermodynamic processes,Thermodynamic processes,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Resonance,Interference,True,True,Wave phenomena,Wave Phenomenon,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Electromagnetic radiation,Electric field,True,True,Electromagnetic interactions,Electromagnetic interactions,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Work done,Entropy change,True,True,Thermodynamic processes,Thermodynamic processes,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Quantum electrodynamics,Feynman diagrams,True,True,Quantum field theory,Quantum field theory,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Entanglement,Potential energy,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Dispersion,Magnetic field,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Renormalization,Lepton,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Wave-particle duality,Adiabatic expansion,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Gluon,Quantum electrodynamics,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Decoherence,Interference,False,True,,Quantum coherence,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Photon,Electric field,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Kinetic energy,Entropy change,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Potential energy,Length contraction,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Electric field,Fusion,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,physics,None
+Adequately Hydrated,Thirsty,True,True,Hydration Status,Hydration Level,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Teetotaler,Social Drinker,True,True,Alcohol Consumption,Alcohol Consumption,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Dehydrated,Over-hydrated,True,True,Hydration Status,Hydration Level,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Heavy Drinker,Teetotaler,True,True,Alcohol Consumption,Alcohol Consumption,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Regular Gym Goer,Yoga Practitioner,True,True,Physical Activity Level,Exercise,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Vegan,Mediterranean,True,True,Dietary Preference,Diet,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Friendship Circle,Family-Centric,True,True,Social Support,Social Support,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Tanned,Sunscreen User,True,True,Sun Exposure,Sun Exposure,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Paleo,Fast Food Lover,True,True,Dietary Preference,Diet,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Insomniac,Napper,True,True,Sleep Quality,Sleep Pattern,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Screen Addict,Thirsty,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Chain Smoker,Social Drinker,False,True,,Lifestyle,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Tanned,Adequately Hydrated,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Exercise,Over-hydrated,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Insomniac,Teetotaler,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Limited User,Yoga Practitioner,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Meditation,Mediterranean,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Screen Addict,Dehydrated,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Tech Detoxer,Family-Centric,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Marathon Runner,Friendship Circle,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,health,None
+Temperature Mapping,Stable Temperature,True,True,Temperature Control,Temperature,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Reworked Wafers,Defect-Free Wafers,True,True,Process Yield,Wafer Quality,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Scheduled Maintenance,Continuous Operation,True,True,Equipment Utilization,Operating Mode,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Continuous Operation,Tool Calibration,True,False,Equipment Utilization,,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Under Etching,Uniform Etching,True,True,Etch Rate,Etching,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Scrapped Wafers,Reworked Wafers,True,True,Process Yield,Wafer Status,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Flat Wafers,Convex Wafers,True,True,Wafer Bow,Wafer Shape,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Chemical Contamination,Particle Contamination,True,True,Cleanroom Contamination,Type of Contamination,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Flat Wafers,Concave Wafers,True,True,Wafer Bow,Wafer Shape,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Over Etching,Uniform Etching,True,True,Etch Rate,Etching Profile,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Uniform Etching,Stable Temperature,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Particle Contamination,Defect-Free Wafers,False,True,,Wafer Cleanliness,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Flat Wafers,Continuous Operation,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Over-Dose,Edge Exclusion,False,True,,Lithography,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Scrapped Wafers,Uniform Etching,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Defect-Free Wafers,Over Etching,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Over-Dose,Strong Adhesion,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Stable Temperature,Reworked Wafers,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Temperature Mapping,Convex Wafers,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Thickness Variability,Particle Contamination,False,True,,Wafer Quality,gpt-3.5-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Logarithmic Time,Linear Time,True,True,Algorithm Complexity,Time Complexity,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+Key-Value,NoSQL,True,True,Database Model,Database Model,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+Ransomware,Social Engineering,True,True,Cybersecurity Threat,Cybersecurity Threat,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+Scrum,Agile,True,True,Software Development Methodology,Software Development Methodology,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+Agile,DevOps,True,True,Software Development Methodology,Software Development Methodology,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+Real-Time,Distributed,True,True,Operating System,Operating System,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+Queue,Tree,True,True,Data Structure,Data Structure,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+Distributed,Embedded,True,True,Operating System,Operating System,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+FaaS,DaaS,True,True,Cloud Computing Service Model,Cloud Computing Service Model,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+DaaS,PaaS,True,True,Cloud Computing Service Model,Cloud Computing Service Model,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+UDP,NoSQL,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+Embedded,Social Engineering,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+Functional,Agile,False,True,,Software Development Methodology,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+Constant Time,DevOps,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+Linked List,Distributed,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+Malware,Scripting,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+TCP/IP,Tree,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+SMTP,Embedded,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+Compiled,DaaS,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+Linked List,Real-Time,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,computer science,None
+Centrist,Libertarian,True,True,Political Ideology,Political Ideology,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Trade school graduate,Bachelor's degree recipient,True,True,Educational Attainment,Education Level,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Socialist,Centrist,True,True,Political Ideology,Political Ideology,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Transgender woman,Genderqueer person,True,True,Gender Identity,Gender Identity,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Married,Divorced,True,True,Marital Status,Marital Status,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Bachelor's degree recipient,Ph.D. holder,True,True,Educational Attainment,Education Level,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Devout Catholic,Practicing Muslim,True,True,Religious Affiliation,Religious Affiliation,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Genderfluid individual,Cisgender man,True,True,Gender Identity,Gender Identity,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Blended family,Single-parent household,True,True,Family Structure,Family Structure,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Single-parent household,Nuclear family,True,True,Family Structure,Family Structure,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Genderfluid individual,Artist,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Blended family,Libertarian,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Never married,Bachelor's degree recipient,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Anarchist,Green card holder,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Wealthy entrepreneur,Genderqueer person,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Undocumented immigrant,Ph.D. holder,False,True,,Socioeconomic status,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Cisgender man,Practicing Muslim,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Centrist,Cisgender man,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Divorced,Single-parent household,False,True,,Family Structure,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Bachelor's degree recipient,Nuclear family,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,sociology,None
+Listening Ear from Family,Encouragement from Friends,True,True,Social Support,Social Support,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Awareness of Own Emotions,Empathy towards Others,True,True,Emotional Intelligence,Emotional Intelligence,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Mindfulness and Meditation,Problem-Solving Approaches,True,False,Stress Coping Strategies,,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Empathy towards Others,Regulation of Emotional Responses,True,True,Emotional Intelligence,Emotional Intelligence,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Thirst for Knowledge,Desire for Achievement,True,True,Motivation,Motivation,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Shared Values and Goals,Communication and Understanding,True,True,Interpersonal Relationships,Interpersonal Trust,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Regulation of Emotional Responses,Recognition of Emotional Cues,True,True,Emotional Intelligence,Emotional Intelligence,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Passion for Learning,Intrinsic Drive for Personal Growth,True,True,Motivation,Motivation,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Help with Tasks from Colleagues,Companionship from Pets,True,True,Social Support,Social Support,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Empathy and Compassion,Conflict Resolution Skills,True,True,Interpersonal Relationships,Interpersonal Skills,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Confidence in Problem-Solving,Encouragement from Friends,False,True,,Motivation,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Mindfulness and Meditation,Empathy towards Others,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Excitement and Anticipation,Encouragement from Friends,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Recognition of Emotional Cues,Problem-Solving Approaches,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Autonomy in Decision-Making,Empathy towards Others,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Common Humanity Recognition,Regulation of Emotional Responses,False,True,,Emotional Intelligence,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Non-judgmental Self-Understanding,Desire for Achievement,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Problem-Solving Approaches,Communication and Understanding,False,True,,Cognitive Skills,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Mindfulness and Meditation,Recognition of Emotional Cues,False,True,,Emotional Intelligence,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Common Humanity Recognition,Intrinsic Drive for Personal Growth,False,True,,Motivation,gpt-3.5-turbo,lora_70b_en_v1_v2,psychology,None
+Central Bank Policy Changes,Inflation Concerns,True,True,Interest Rate Expectations,Monetary Policy,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Military Conflicts,Trade Disputes,True,True,Global Geopolitical Events,International Tensions,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+New Legislation Implementation,Industry Oversight Modifications,True,True,Regulatory Changes,Regulatory Environment,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Demand-Supply Imbalances,Weather-Related Effects,True,False,Commodity Price Movements,,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Increased Trading Volume,Uncertainty in Investor Sentiment,True,True,Market Volatility,Market Volatility,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Increased Trading Volume,Sudden Price Swings,True,True,Market Volatility,Market Volatility,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Automation and AI Integration,Blockchain Applications Development,True,True,Technological Innovations,Digitalization,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Weather-Related Effects,Supply Chain Disruptions,True,True,Commodity Price Movements,Risk of Supply Chain Disruption,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Luxury Goods Demand Shifts,Online Shopping Growth,True,False,Consumer Spending Trends,,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Economic Growth Projections,Inflation Concerns,True,True,Interest Rate Expectations,Monetary Policy,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Supply Chain Disruptions,Inflation Concerns,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Foreign Exchange Market Fluctuations,Central Bank Policy Changes,False,True,,Monetary Policy,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Trade Balance Impact,Trade Disputes,False,True,,Trade Policy,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Interest Rate Differentials,Industry Oversight Modifications,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Natural Disasters,Weather-Related Effects,False,True,,Weather,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Military Conflicts,Uncertainty in Investor Sentiment,False,True,,Economic Uncertainty,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Profit Margin Expansion,Trade Disputes,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Trade Balance Impact,Sudden Price Swings,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Retail Industry Performance,Inflation Concerns,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+Supply Chain Disruptions,Blockchain Applications Development,False,False,,,gpt-3.5-turbo,lora_70b_en_v1_v2,finance,None
+technology sector hubs,tourism and hospitality centers,True,True,Primary economic activity,Economic Sector,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+vandalism and graffiti,street muggings,True,True,Prevalent public safety issues,Crime,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+rooftop gardens,sparse vegetation areas,True,True,Level of urban greenery,Urban green spaces,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+sparse vegetation areas,lush botanical gardens,True,True,Level of urban greenery,Urban green space,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+gated communities,downtown lofts,True,True,Type of residential areas,Neighborhood Type,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+rural homesteads,downtown lofts,True,True,Type of residential areas,Urban vs. Rural Location,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+traffic accidents,organized crime activities,True,True,Prevalent public safety issues,Urban Safety,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+urban skate parks,sports complexes,True,True,Common recreational facilities,Recreational Facilities,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+industrial manufacturing zones,technology sector hubs,True,True,Primary economic activity,Land use,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+bicycle-friendly streets,pedestrian-only zones,True,True,Dominant transportation mode,Urban transportation infrastructure,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+public parks and gardens,tourism and hospitality centers,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+urban skate parks,financial districts,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+cold tundra zones,street muggings,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+car-dependent highways,sparse vegetation areas,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+administrative districts,temperate weather regions,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+multicultural communities,lush botanical gardens,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+mountain hiking trails,downtown lofts,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+arid desert climates,sports complexes,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+expatriate zones,downtown lofts,False,True,,Urban Housing,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+downtown lofts,organized crime activities,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,urban studies,None
+belt drive,hydraulic arm,True,True,Type of mechanical linkage,Type of mechanical linkage,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+LED light,fluorescent lamp,True,True,Source of illumination,Light source,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+radiation from the sun,convection by air movement,True,True,Method of heat transfer,Method of heat transfer,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+hydraulic arm,gear train,True,True,Type of mechanical linkage,Type of mechanical linkage,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+aluminum fins,copper tubing,True,True,Material used in a heat conductor,The material of a conductor.,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+gaseous steam,solid ice,True,True,State of matter,State of matter,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+compressed air tank,flywheel energy storage,True,True,Form of energy storage,Energy Storage,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+gravitational pull,centrifugal force,True,True,Type of force,Type of force,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+capacitor,resistor,True,True,Electrical component,Electrical component,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+liquid water,gaseous steam,True,True,State of matter,State of matter,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+fluorescent lamp,concave lens,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+resistor,hydraulic arm,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+electromagnetic force,inductor,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+centrifugal force,fluorescent lamp,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+gear train,convection by air movement,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+radiation from the sun,LED light,False,True,,The type of electromagnetic radiation.,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+capacitor,solid ice,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+gaseous steam,light wave,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+flywheel energy storage,gear train,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+flywheel energy storage,gravitational pull,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,physics,None
+Emergency hospital visits,Lack of medical services,True,True,Healthcare access quality,Access to healthcare,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Recreational drug use,Prescription medication usage,True,True,Substance use,Substance use,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Regular doctor checkups,Annual health screenings,True,True,Healthcare access quality,Healthcare Utilization,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Early morning awakenings,Daytime naps,True,True,Sleep pattern,Sleep Patterns,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Urban air pollution,Rural clean air,True,True,Exposure to pollutants,Air quality,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Recreational drug use,Alcohol consumption,True,True,Substance use,Substance abuse,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Early morning awakenings,Nightly eight-hour sleep,True,True,Sleep pattern,Sleep Quality,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Vegan dishes,Dairy-rich diet,True,True,Type of dietary intake,Diet,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Home air filtration usage,Urban air pollution,True,True,Exposure to pollutants,Air quality,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Occasional documentary watching,Rare intellectual discussions,True,False,Mental stimulation level,,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Vegan dishes,Daily exercise sessions,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Monthly community events,Alcohol consumption,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Rare intellectual discussions,Daytime naps,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Stressful work deadlines,Isolated living,False,True,,Psychological stress,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Nightly eight-hour sleep,Occasional soda consumption,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Vegan dishes,Rural clean air,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Yearly marathon participation,Alcohol consumption,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Vegetarian meals,Nightly eight-hour sleep,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Stressful work deadlines,Dairy-rich diet,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+Weekly gym visits,Urban air pollution,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,health,None
+high energy implantation,ultra-high energy implantation,True,True,Implantation Energy Level,Ion Implantation Energy,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+controlled humidity environment,particle-free air,True,True,Clean Room Environment,Cleanliness of the environment,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+reactive ion etching,wet etching,True,True,Etching Process Type,Etching Method,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+mechanical polishing,electrolytic polishing,True,True,Wafer Polishing Method,Polishing Method,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+temperature-controlled setting,particle-free air,True,True,Clean Room Environment,Cleanliness of the environment,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+dry etching,wet etching,True,True,Etching Process Type,Etching Method,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+flame polishing,mechanical polishing,True,True,Wafer Polishing Method,Wafer Polishing Method,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+mechanical polishing,chemical mechanical polishing,True,True,Wafer Polishing Method,Wafer cleaning method,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+wet etching,plasma etching,True,True,Etching Process Type,Etching Method,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+high energy implantation,medium energy implantation,True,True,Implantation Energy Level,Ion Implantation Energy,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+vibration-free setup,complex circuits,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+reactive ion etching,particle-free air,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+chemical vapor deposition,wet etching,False,True,,Thin film deposition method,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+medium energy implantation,particle-free air,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+antimony doping,wet etching,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+plasma etching,mechanical polishing,False,True,,Wafer preparation method,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+simple circuits,ozone,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+perfect alignment,chemical mechanical polishing,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+particle-free air,smooth surface,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+electrolytic polishing,plasma etching,False,True,,Semiconductor manufacturing process,gpt-4-turbo,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Ransomware attacks,SQL injection,True,True,Cybersecurity Threat,Cybersecurity Threat,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Linux distributions,Android versions,True,True,Operating System,Operating System,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Ransomware attacks,Cross-site scripting,True,True,Cybersecurity Threat,Cybersecurity Threat,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Functional programming languages,Procedural languages,True,True,Programming Language,Programming Language,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Phishing schemes,Cross-site scripting,True,True,Cybersecurity Threat,Cybersecurity Threat,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Cross-site scripting,Denial-of-service attacks,True,True,Cybersecurity Threat,Cybersecurity Threat,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Random access memory modules,Central processing units,True,True,Hardware Component,Hardware Component,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Internet Protocol,Simple Mail Transfer Protocol,True,True,Network Protocol,Network Protocol,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Function as a Service,Desktop as a Service,True,True,Cloud Computing Service,Cloud Computing Service Model,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Simple Mail Transfer Protocol,File Transfer Protocol,True,True,Network Protocol,Network Protocol,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+SQL injection,Android versions,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+File Transfer Protocol,Cross-site scripting,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Wearable health monitors,Procedural languages,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Solid state drives,Cross-site scripting,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Graphics processing units,Denial-of-service attacks,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Agile development practices,Central processing units,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Ransomware attacks,Random access memory modules,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Infrastructure as a Service,Simple Mail Transfer Protocol,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Scripting languages,Desktop as a Service,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+Distributed databases,File Transfer Protocol,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,computer science,None
+middle class,working class,True,True,Social class,Social Class,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+television viewers,radio listeners,True,True,Media consumption,Media Consumers,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+non-partisan citizens,liberal advocates,True,True,Political orientation,Political Orientation,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+postgraduate qualifications,primary school completion,True,True,Educational attainment,Education Level,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+radio listeners,online content browsers,True,True,Media consumption,Audience,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+alternative medicine followers,public healthcare users,True,True,Healthcare access,Healthcare System,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+educational services,retail business,True,False,Employment sector,,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+university degree,postgraduate qualifications,True,True,Educational attainment,Education,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+private clinic visitors,no regular healthcare,True,True,Healthcare access,Healthcare Accessibility,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+Christianity followers,Buddhism practitioners,True,True,Religious affiliation,Religion,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+Buddhism practitioners,working class,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+working class,radio listeners,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+urban neighborhoods,liberal advocates,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+print media readers,manufacturing sector,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+conservative supporters,primary school completion,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+university degree,urban neighborhoods,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+non-partisan citizens,public healthcare users,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+private clinic visitors,secondary school graduation,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+no regular healthcare,retail business,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+working class,postgraduate qualifications,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,sociology,None
+peer group interactions,community involvement,True,True,Social Support,Social Support,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+permissive upbringing,authoritarian control,True,True,Parenting Style,Parenting Style,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+compromise,dominance assertion,True,True,Conflict Resolution Strategy,Conflict Resolution Style,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+medication,psychoanalysis,True,True,Therapeutic Intervention,Therapy,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+neuroticism,openness to experience,True,True,Personality Trait,Personality,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+compromise,collaborative problem solving,True,True,Conflict Resolution Strategy,Conflict Resolution,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+community involvement,professional assistance,True,True,Social Support,Social Support,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+power-driven,achievement-driven,True,True,Motivation Type,Motivation,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+emotional support seeking,substance use,True,False,Coping Mechanism,,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+family cohesion,professional assistance,True,False,Social Support,,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+doctoral degree,community involvement,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+psychoanalysis,authoritarian control,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+job loss,psychoanalysis,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+group therapy,doctoral degree,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+death of a loved one,withdrawal,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+conscientiousness,collaborative problem solving,False,True,,Personality,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+withdrawal,professional assistance,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+neglectful supervision,achievement-driven,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+neuroticism,substance use,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+extrinsic motivation,professional assistance,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,psychology,None
+stable interest rate period,central bank rate hikes,True,True,Interest Rate Environment,Monetary Policy,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+increasing unemployment rates,job market strength,True,True,Economic Indicators,Labor Market Conditions,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+growth in sustainable investments,interest in emerging markets,True,False,Investment Trends,,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+rise in real estate investments,interest in emerging markets,True,False,Investment Trends,,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+changes in tax laws,new compliance requirements,True,True,Regulatory Changes,Regulatory Environment,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+tighter financial regulations,changes in tax laws,True,True,Regulatory Changes,Government Policy,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+growth in ethical consumerism,trend towards personalized services,True,False,Consumer Behavior,,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+record profit announcements,significant earnings drop,True,True,Corporate Earnings,Earnings Surprise,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+rise in real estate investments,shift towards value stocks,True,True,Investment Trends,Investor sentiment,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+advancements in cybersecurity,development of fintech solutions,True,True,Technological Advancements,Financial Technology,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+election year uncertainties,central bank rate hikes,False,True,,Economic Uncertainty,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+reform in stock market rules,job market strength,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+market optimism,interest in emerging markets,False,True,,Investor sentiment,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+market pessimism,new compliance requirements,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+strengthening of international relations,changes in tax laws,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+development of fintech solutions,stable interest rate period,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+political unrest in a region,significant earnings drop,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+earnings beat expectations,shift towards value stocks,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+growth in ethical consumerism,development of fintech solutions,False,False,,,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+declining interest rate trend,recessionary period,False,True,,Economic Conditions,gpt-4-turbo,lora_70b_en_v1_v2,finance,None
+Commercial,Institutional,True,True,Land Use,Land Use,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Loud,Moderate,True,True,Noise Level,Noise Level,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Very Poor,Good,True,True,Air Quality,Quality of Life,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Industrial,Open Space,True,False,Land Use,,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Extremely Low,Medium,True,True,Community Engagement,The degree to which a city's infrastructure is designed to be accessible and usable by people with disabilities.,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Residential Street,Freeway,True,True,Street Type,Road Type,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Residential,Institutional,True,True,Land Use,Land Use,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Extremely Low,High,True,True,Community Engagement,The degree to which a city's infrastructure is designed to be accessible and usable by people with disabilities.,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Residential Zoning,Industrial Zoning,True,True,Zoning,Land Use,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Garden,Nature Reserve,True,True,Green Space,Urban Green Space,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Low,Institutional,False,False,,,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Car,Moderate,False,False,,,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Apartment Building,Good,False,False,,,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Public Transportation,Very Low,False,False,,,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Arterial Road,Institutional,False,False,,,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Residential Street,Open Space,False,True,,Land Use,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Greenway,Medium,False,False,,,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Commercial Zoning,Freeway,False,False,,,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Extremely Loud,Institutional,False,False,,,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Fair,High,False,True,,The degree to which a place is pleasant or enjoyable.,llama3-8b,lora_70b_en_v1_v2,urban studies,None
+Four-Dimensional Space,One-Dimensional Space,True,True,Space,The number of independent coordinates required to specify a point in a space.,llama3-8b,lora_70b_en_v1_v2,physics,None
+Thermal Energy,Potential Energy,True,True,Energy,Energy,llama3-8b,lora_70b_en_v1_v2,physics,None
+Gamma Frequency,Visible Frequency,True,True,Frequency,Frequency,llama3-8b,lora_70b_en_v1_v2,physics,None
+Absolute Time,Relative Time,True,True,Time,Time,llama3-8b,lora_70b_en_v1_v2,physics,None
+Room Temperature,Freezing Point,True,True,Temperature,Temperature,llama3-8b,lora_70b_en_v1_v2,physics,None
+Gamma Frequency,Audio Frequency,True,True,Frequency,Frequency,llama3-8b,lora_70b_en_v1_v2,physics,None
+Vacuum Pressure,Standard Pressure,True,True,Pressure,Pressure,llama3-8b,lora_70b_en_v1_v2,physics,None
+Negative Charge,Positive Charge,True,True,Charge,Charge,llama3-8b,lora_70b_en_v1_v2,physics,None
+Electromagnetic Energy,Thermal Energy,True,True,Energy,Energy,llama3-8b,lora_70b_en_v1_v2,physics,None
+Strong Nuclear Force,Gravity,True,True,Force,Type of Force,llama3-8b,lora_70b_en_v1_v2,physics,None
+Thermal Energy,One-Dimensional Space,False,False,,,llama3-8b,lora_70b_en_v1_v2,physics,None
+Visible Frequency,Melting Point,False,False,,,llama3-8b,lora_70b_en_v1_v2,physics,None
+Melting Point,Thermal Energy,False,False,,,llama3-8b,lora_70b_en_v1_v2,physics,None
+Visible Frequency,One-Dimensional Space,False,False,,,llama3-8b,lora_70b_en_v1_v2,physics,None
+Elapsed Time,Potential Energy,False,False,,,llama3-8b,lora_70b_en_v1_v2,physics,None
+Vacuum Pressure,Visible Frequency,False,False,,,llama3-8b,lora_70b_en_v1_v2,physics,None
+One-Dimensional Space,Relative Time,False,False,,,llama3-8b,lora_70b_en_v1_v2,physics,None
+One-Dimensional Space,Freezing Point,False,False,,,llama3-8b,lora_70b_en_v1_v2,physics,None
+Elapsed Time,Audio Frequency,False,False,,,llama3-8b,lora_70b_en_v1_v2,physics,None
+Relative Time,Boiling Point,False,False,,,llama3-8b,lora_70b_en_v1_v2,physics,None
+Vegetarian,Omnivore,True,True,Diet Type,Diet,llama3-8b,lora_70b_en_v1_v2,health,None
+Current Smoker,Former Smoker,True,True,Smoking Status,Smoking Status,llama3-8b,lora_70b_en_v1_v2,health,None
+Fair,Excellent,True,True,Sleep Quality,Self-Rated Health,llama3-8b,lora_70b_en_v1_v2,health,None
+Family History of Chronic Disease,No Family History of Chronic Disease,True,True,Family History,Family History of Chronic Disease,llama3-8b,lora_70b_en_v1_v2,health,None
+Limited Social Support,Moderate Social Support,True,True,Social Support,Social Support,llama3-8b,lora_70b_en_v1_v2,health,None
+Pescetarian,Vegan,True,True,Diet Type,Diet,llama3-8b,lora_70b_en_v1_v2,health,None
+Rarely,1-2 Times a Week,True,True,Exercise Frequency,Frequency of Exercise,llama3-8b,lora_70b_en_v1_v2,health,None
+Fair,Poor,True,True,Health Literacy,Socioeconomic Status,llama3-8b,lora_70b_en_v1_v2,health,None
+Limited Social Support,Strong Social Support,True,True,Social Support,Social Support,llama3-8b,lora_70b_en_v1_v2,health,None
+3-4 Times a Week,1-2 Times a Week,True,True,Exercise Frequency,Frequency of Exercise,llama3-8b,lora_70b_en_v1_v2,health,None
+Fair,Omnivore,False,False,,,llama3-8b,lora_70b_en_v1_v2,health,None
+Strong Social Support,Family History of Chronic Disease,False,False,,,llama3-8b,lora_70b_en_v1_v2,health,None
+Good,Former Smoker,False,False,,,llama3-8b,lora_70b_en_v1_v2,health,None
+Poor,Excellent,False,True,,Physical Functioning,llama3-8b,lora_70b_en_v1_v2,health,None
+Extreme,No Family History of Chronic Disease,False,False,,,llama3-8b,lora_70b_en_v1_v2,health,None
+Fair,Moderate Social Support,False,False,,,llama3-8b,lora_70b_en_v1_v2,health,None
+Poor,Limited Social Support,False,False,,,llama3-8b,lora_70b_en_v1_v2,health,None
+Excellent,Strong Social Support,False,False,,,llama3-8b,lora_70b_en_v1_v2,health,None
+Strong Social Support,Vegan,False,False,,,llama3-8b,lora_70b_en_v1_v2,health,None
+Low Risk,1-2 Times a Week,False,False,,,llama3-8b,lora_70b_en_v1_v2,health,None
+Wet Etching,Dry Etching,True,True,Etching Method,Etching Method,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Submicron,Micron,True,True,Particle Size,The size of a semiconductor feature.,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Germanium,Gallium Arsenide,True,True,Wafer Type,Semiconductor Material,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Highly Sensitive,Not Sensitive,True,True,Moisture Sensitivity,Sensor Sensitivity,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Micron,Submillimeter,True,True,Particle Size,Wavelength,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Submicron,Submillimeter,True,True,Particle Size,The size of a semiconductor feature.,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+"Class 10,000",Class 100,True,True,Cleanliness Level,Cleanliness Level,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+QFN,SOIC,True,True,Packaging Type,Package Type,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Silicon Dioxide,Nitride,True,True,Insulation Material,Dielectric Material,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Wet Etching,Plasma Etching,True,True,Etching Method,Etching Method,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Highly Sensitive,Dry Etching,False,False,,,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Highly Sensitive,Micron,False,False,,,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Low Temperature,Gallium Arsenide,False,False,,,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Plasma Etching,Not Sensitive,False,False,,,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Nitride,Medium Temperature,False,False,,,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Wet Etching,Submillimeter,False,False,,,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Gallium Arsenide,SOIC,False,False,,,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Submillimeter,Gallium Arsenide,False,False,,,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Plastic,Submillimeter,False,False,,,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Phosphorus,Class 100,False,False,,,llama3-8b,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Tree,Queue,True,True,Data Structure,Data Structure,llama3-8b,lora_70b_en_v1_v2,computer science,None
+Android,Linux,True,True,Operating System,Operating System,llama3-8b,lora_70b_en_v1_v2,computer science,None
+JavaScript,Java,True,True,Programming Language,Programming Language,llama3-8b,lora_70b_en_v1_v2,computer science,None
+TCP,HTTP,True,True,Computer Network Protocol,Network Protocol,llama3-8b,lora_70b_en_v1_v2,computer science,None
+Relational,NoSQL,True,True,Database Management,Database Management,llama3-8b,lora_70b_en_v1_v2,computer science,None
+Ruby,Python,True,True,Programming Language,Programming Language,llama3-8b,lora_70b_en_v1_v2,computer science,None
+C++,JavaScript,True,True,Programming Language,Programming Language,llama3-8b,lora_70b_en_v1_v2,computer science,None
+Firewall,Encryption,True,True,Computer Security,Cybersecurity,llama3-8b,lora_70b_en_v1_v2,computer science,None
+Mesh,Hybrid,True,True,Network Topology,Network Topology,llama3-8b,lora_70b_en_v1_v2,computer science,None
+Cryptography,Sorting,True,True,Algorithm,Algorithm,llama3-8b,lora_70b_en_v1_v2,computer science,None
+Compression,Queue,False,False,,,llama3-8b,lora_70b_en_v1_v2,computer science,None
+Java,Tree,False,False,,,llama3-8b,lora_70b_en_v1_v2,computer science,None
+NoSQL,Linux,False,False,,,llama3-8b,lora_70b_en_v1_v2,computer science,None
+NoSQL,Machine Learning,False,False,,,llama3-8b,lora_70b_en_v1_v2,computer science,None
+Linked List,Java,False,False,,,llama3-8b,lora_70b_en_v1_v2,computer science,None
+Ruby,HTTP,False,False,,,llama3-8b,lora_70b_en_v1_v2,computer science,None
+MIMD,Hybrid,False,True,,Computer Architecture,llama3-8b,lora_70b_en_v1_v2,computer science,None
+Encryption,NoSQL,False,False,,,llama3-8b,lora_70b_en_v1_v2,computer science,None
+Star,Python,False,False,,,llama3-8b,lora_70b_en_v1_v2,computer science,None
+Authentication,Android,False,False,,,llama3-8b,lora_70b_en_v1_v2,computer science,None
+Poverty Line,Upper Middle Class,True,True,Income Level,Socioeconomic Status,llama3-8b,lora_70b_en_v1_v2,sociology,None
+Single,Divorced,True,True,Marital Status,Marital Status,llama3-8b,lora_70b_en_v1_v2,sociology,None
+German,Mandarin,True,True,Language Spoken,Language,llama3-8b,lora_70b_en_v1_v2,sociology,None
+Senior Citizen,Elderly,True,True,Age Group,Age,llama3-8b,lora_70b_en_v1_v2,sociology,None
+Student,Unemployed,True,True,Occupation,Occupation,llama3-8b,lora_70b_en_v1_v2,sociology,None
+Retired,Self-Employed,True,True,Occupation,Occupation,llama3-8b,lora_70b_en_v1_v2,sociology,None
+Buddhist,Atheist,True,True,Religious Affiliation,Religious Affiliation,llama3-8b,lora_70b_en_v1_v2,sociology,None
+Separated,Divorced,True,True,Marital Status,Marital Status,llama3-8b,lora_70b_en_v1_v2,sociology,None
+German,Spanish,True,True,Language Spoken,Language,llama3-8b,lora_70b_en_v1_v2,sociology,None
+Single Person,Extended Family,True,True,Family Structure,Family Structure,llama3-8b,lora_70b_en_v1_v2,sociology,None
+Low Income,Mandarin,False,False,,,llama3-8b,lora_70b_en_v1_v2,sociology,None
+Doctoral Degree,Poverty Line,False,False,,,llama3-8b,lora_70b_en_v1_v2,sociology,None
+Suburban,Elderly,False,False,,,llama3-8b,lora_70b_en_v1_v2,sociology,None
+High School Diploma,Unemployed,False,False,,,llama3-8b,lora_70b_en_v1_v2,sociology,None
+German,Self-Employed,False,False,,,llama3-8b,lora_70b_en_v1_v2,sociology,None
+Single Person,Jewish,False,False,,,llama3-8b,lora_70b_en_v1_v2,sociology,None
+Homemaker,Atheist,False,False,,,llama3-8b,lora_70b_en_v1_v2,sociology,None
+Hindu,Divorced,False,False,,,llama3-8b,lora_70b_en_v1_v2,sociology,None
+Bachelor's Degree,Spanish,False,False,,,llama3-8b,lora_70b_en_v1_v2,sociology,None
+Entrepreneur,Extended Family,False,False,,,llama3-8b,lora_70b_en_v1_v2,sociology,None
+Low,Moderate,True,True,Self-Esteem,The degree to which a person is able to control the outcome of a situation.,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Emotion-Focused,Self-Aware,True,True,Emotional Regulation,Therapeutic Approach,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Emotion-Focused,Avoidant,True,True,Coping Mechanisms,Coping Style,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Pragmatic,Intuitive,True,True,Cognitive Style,Cognitive Style,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Moderate,High,True,True,Self-Esteem,The degree to which a person is motivated to achieve a goal.,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Semantic,Episodic,True,True,Memory Type,Memory,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Pragmatic,Analytical,True,True,Cognitive Style,Cognitive Style,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Extraverted,Conscientious,True,True,Personality Traits,Personality,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Observational,Reinforcement,True,True,Learning Strategies,Learning,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Agreeable,Conscientious,True,True,Personality Traits,Personality,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Semantic,Moderate,False,False,,,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Low,Self-Aware,False,False,,,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Selective,Avoidant,False,True,,Attachment Style,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Pragmatic,Exploratory,False,True,,Cognitive Style,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Lowly Supportive,Intuitive,False,False,,,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Problem-Focused,High,False,False,,,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Problem-Focused,Episodic,False,False,,,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Observational,Analytical,False,True,,Cognitive Style,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Highly Supportive,Conscientious,False,False,,,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Lowly Supportive,Distractible,False,False,,,llama3-8b,lora_70b_en_v1_v2,psychology,None
+Medium Business Confidence,High Business Confidence,True,True,Business Confidence,Business Confidence,llama3-8b,lora_70b_en_v1_v2,finance,None
+Medium Interest Rate,High Interest Rate,True,True,Interest Rate,Interest Rate,llama3-8b,lora_70b_en_v1_v2,finance,None
+Low Unemployment,Medium Unemployment,True,True,Unemployment Rate,Unemployment Rate,llama3-8b,lora_70b_en_v1_v2,finance,None
+High Business Confidence,Low Business Confidence,True,True,Business Confidence,Business Confidence,llama3-8b,lora_70b_en_v1_v2,finance,None
+Medium Business Confidence,Low Business Confidence,True,True,Business Confidence,Business Confidence,llama3-8b,lora_70b_en_v1_v2,finance,None
+Volatile Market,Stable Market,True,True,Market Volatility,Market Conditions,llama3-8b,lora_70b_en_v1_v2,finance,None
+Moderate Growth,Slow Growth,True,True,Economic Growth,Economic Growth,llama3-8b,lora_70b_en_v1_v2,finance,None
+High Inflation,Low Inflation,True,True,Inflation Rate,Inflation Rate,llama3-8b,lora_70b_en_v1_v2,finance,None
+Stable Currency,Strong Currency,True,True,Currency Exchange Rate,Currency Strength,llama3-8b,lora_70b_en_v1_v2,finance,None
+High Inflation,Moderate Inflation,True,True,Inflation Rate,Inflation Rate,llama3-8b,lora_70b_en_v1_v2,finance,None
+Medium Unemployment,High Business Confidence,False,False,,,llama3-8b,lora_70b_en_v1_v2,finance,None
+Stable Currency,High Interest Rate,False,True,,Monetary Policy,llama3-8b,lora_70b_en_v1_v2,finance,None
+High Consumer Confidence,Slow Growth,False,False,,,llama3-8b,lora_70b_en_v1_v2,finance,None
+Low Interest Rate,Low Inflation,False,True,,Monetary Policy,llama3-8b,lora_70b_en_v1_v2,finance,None
+Low Government Spending,Moderate Growth,False,False,,,llama3-8b,lora_70b_en_v1_v2,finance,None
+Medium Tax Rate,Medium Unemployment,False,False,,,llama3-8b,lora_70b_en_v1_v2,finance,None
+Strong Currency,Low Business Confidence,False,False,,,llama3-8b,lora_70b_en_v1_v2,finance,None
+Medium Consumer Confidence,Low Business Confidence,False,True,,Business Confidence,llama3-8b,lora_70b_en_v1_v2,finance,None
+Medium Interest Rate,High Business Confidence,False,False,,,llama3-8b,lora_70b_en_v1_v2,finance,None
+Uncertain Market,High Consumer Confidence,False,False,,,llama3-8b,lora_70b_en_v1_v2,finance,None
+High,Moderate,True,True,Traffic Congestion,The degree to which a city's infrastructure is designed to accommodate a large volume of traffic.,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Social Housing,Cooperative Housing,True,True,Housing Tenure,Housing Type,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Low,Moderate,True,True,Traffic Congestion,The degree to which a city's infrastructure is designed to be accessible and usable by people with disabilities.,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+No Public Transportation,Subway,True,True,Public Transportation Availability,Availability of Public Transportation,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Bus Service,Light Rail,True,True,Public Transportation Availability,Public Transportation,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Pedestrian Paths,Sidewalks,True,True,Pedestrian Infrastructure,Urban Infrastructure,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Low,No Traffic,True,True,Traffic Congestion,Traffic Volume,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Graffiti,No Visible Urban Decay,True,True,Urban Decay Indicators,Urban Decay,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Community Center,None of the Above,True,False,Presence of Community Facilities,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Park,Community Center,True,True,Presence of Community Facilities,Public Space,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+No Pedestrian Infrastructure,Moderate,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Library,Social Housing,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+High,Cooperative Housing,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Library,Moderate,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+No Pedestrian Infrastructure,No Public Transportation,False,True,,Urban Planning,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Moderate,Playground,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Litter,Sidewalks,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+None of the Above,Subway,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Graffiti,Light Rail,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Social Housing,Sidewalks,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Gravitational Force,Weak Nuclear Force,True,True,Type of Force,Type of Force,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Beta- Negative Radiation,Beta- Positive Radiation,True,True,Type of Radiation,Type of Radiation,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Weak Nuclear Force,Strong Nuclear Force,True,True,Type of Force,Type of Force,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Plasma,Liquid,True,True,State of Matter,State of Matter,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Gluon,W Boson,True,True,Boson Type,Boson Type,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Translational Symmetry,Charge Symmetry,True,True,Type of Symmetry,Type of Symmetry,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Gravitational Force,Electromagnetic Force,True,True,Type of Force,Type of Force,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Photon,Z Boson,True,True,Boson Type,Boson Type,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Time,Height,True,False,Dimension of Space,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Beta- Positive Radiation,Gamma Radiation,True,True,Type of Radiation,Type of Radiation,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Gas,Weak Nuclear Force,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Down Quark,Beta- Positive Radiation,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Strange Quark,Strong Nuclear Force,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Gamma Radiation,Liquid,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Excited State,W Boson,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Width,Charge Symmetry,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Strong Nuclear Force,Tau,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Liquid,Alpha Radiation,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Electron,Gluon,False,True,,Type of particle,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Beta- Negative Radiation,Electromagnetic Force,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,physics,None
+Mediterranean diet,Vegetarian,True,True,Dietary habits,Diet,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+Moderate drinker,Abstainer,True,True,Alcohol consumption,Alcohol consumption,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+Current smoker,Never smoked,True,True,Smoking status,Smoking status,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+Diabetes,Respiratory disease,True,True,Chronic disease condition,Chronic disease,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+Heavy drinker,Moderate drinker,True,True,Alcohol consumption,Alcohol consumption,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+Low stress,High stress,True,True,Stress levels,Stress,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+History of cancer,History of cardiovascular disease,True,True,Family medical history,Medical History,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+1-2 times a week,3-4 times a week,True,True,Exercise frequency,Frequency of exercise,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+Respiratory medication,Psychiatric medication,True,True,Medication usage,Medication,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+Heavy drinker,Abstainer,True,True,Alcohol consumption,Alcohol consumption,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+Pain medication,Vegetarian,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+Depression,Abstainer,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+Mediterranean diet,Never smoked,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+Neurological disease,1-2 times a week,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+Former smoker,Respiratory disease,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+Pain medication,Moderate drinker,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+Depression,High stress,False,True,,Mental Health,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+History of neurological disease,1-2 times a week,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+No mental health issues,History of cardiovascular disease,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+Anxiety disorder,Never smoked,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,health,None
+Class 1,Class 100,True,True,Impurity Level,Wafer Classification,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+10 nm,22 nm,True,True,Fabrication Process Node,Gate Length,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+High,Medium,True,True,Yield Rate,The level of a property or quality that is present in a particular amount.,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Class 1000,Class 10,True,True,Impurity Level,Cleanliness Level,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Silicon Dioxide,Silicon Nitride,True,True,Insulation Material,Dielectric Material,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Low,High,True,True,Defect Density,The amount of energy required to remove an electron from a semiconductor material.,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+7 nm,14 nm,True,True,Fabrication Process Node,Lithography Node,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+10 nm,14 nm,True,True,Fabrication Process Node,Lithography Node,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+High,Medium,True,True,Doping Concentration,The level of a property or quality that is present in a particular amount.,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Phosphorus,Antimony,True,True,Doping Material,Dopant,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Dry Etching,Antimony,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Arsenic,Class 100,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Phosphorus,Nanowire,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Class 1000,22 nm,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Class 1,Medium,False,True,,Defect Type,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Extra High,Medium,False,True,,The amount of energy required to remove an electron from a semiconductor material.,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Low,Class 10,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+SOI,Silicon Nitride,False,True,,Dielectric Material,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Low,14 nm,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Nanowire,High,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Ruby,JavaScript,True,True,Programming Language,Programming Language,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+PostgreSQL,Cassandra,True,True,Database Management System,Database Management System,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+MariaDB,Cassandra,True,True,Database Management System,Database Management System,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+C++,JavaScript,True,True,Programming Language,Programming Language,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+Backbone.js,Ember.js,True,True,Web Application Framework,Web Application Framework,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+Pandas,Scikit-learn,True,True,Data Science Library,Data Science Library,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+NetBeans,PyCharm,True,True,Integrated Development Environment,Integrated Development Environment,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+Laravel,Ember.js,True,True,Web Application Framework,Web Application Framework,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+NetBeans,IntelliJ IDEA,True,True,Integrated Development Environment,Integrated Development Environment,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+MacOS,iOS,True,True,Operating System,Operating System,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+NumPy,Cassandra,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+MacOS,Cassandra,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+Unix,JavaScript,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+Mercurial,Ember.js,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+Subversion,Theano,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+Gluon,Scikit-learn,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+Cain and Abel,PyCharm,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+Android,Ember.js,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+Metasploit,IntelliJ IDEA,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+MySQL,iOS,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,computer science,None
+Doctoral Degree,Master's Degree,True,True,Educational Attainment,Education Level,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+Pension,Employment,True,True,Income Source,Occupation,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+Personal Vehicle,Walking,True,True,Transportation,Mode of Transportation,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+Dogs,No Pets,True,True,Pet Ownership,Pet Ownership,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+Personal Vehicle,Public Transportation,True,True,Transportation,Mode of Transportation,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+Detached House,Apartment,True,True,Housing Type,Type of Residence,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+Married,Single,True,True,Marital Status,Marital Status,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+No Education,College Graduate,True,True,Highest Level of Education in Household,Education Level,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+Some College,High School Graduate,True,True,Highest Level of Education in Household,Education Level,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+Never,Daily,True,True,Frequency of Exercise,Frequency of Exercise,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+Some College,Master's Degree,False,True,,Education Level,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+Some High School,Walking,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+One Child,No Pets,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+2-3 times a week,No Education,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+Master's Degree,Public Transportation,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+Retail Salesperson,Apartment,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+Manual Laborer,Single,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+Birds,College Graduate,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+College Graduate,2-3 times a week,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+Associate's Degree,High School Graduate,False,True,,Education Level,mixtral-8x7b-instruct,lora_70b_en_v1_v2,sociology,None
+External locus of control,Internal locus of control,True,True,Type of Locus of Control,Locus of control,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Decision-making and problem-solving,Information processing,True,True,Level of Resilience,Cognitive Ability,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Sociable,Outgoing,True,True,Level of Extraversion,Extraversion,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Assertive,Energetic,True,True,Level of Extraversion,Extraversion,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Self-regulation,Self-awareness,True,True,Level of Emotional Intelligence,Self-control,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Visual learner,Auditory learner,True,True,Type of Learning Style,Learning Style,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Empathy,Self-awareness,True,True,Level of Emotional Intelligence,Personality,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Low self-esteem,High self-esteem,True,True,Level of Self-Esteem,Self-esteem,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+High self-esteem,Average self-esteem,True,True,Level of Self-Esteem,Self-esteem,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Self-awareness,Relationship management,True,True,Level of Emotional Intelligence,Emotional Intelligence,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Sociable,Internal locus of control,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Low self-esteem,Information processing,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Extrinsic motivation,Outgoing,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Self-regulation,Energetic,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+External locus of control,Auditory learner,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Spatial thinking,Self-awareness,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Outgoing,High self-esteem,False,True,,Extraversion,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Reading/Writing learner,Average self-esteem,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Holistic thinking,Preferring excitement,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+Reading/Writing learner,Relationship management,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,psychology,None
+High Employee Turnover,Stable Employee Turnover,True,True,Employee Turnover Rate,Employee Turnover,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Emerging Brand,Unknown Brand,True,True,Brand Recognition,Brand Recognition,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Medium Debt to Equity,No Debt,True,True,Debt to Equity Ratio,Financial Leverage,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Low Market Share,Dominant Market Share,True,True,Market Share,Market Share,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Diverse Product Lines,Single Product Line,True,True,Number of Product Lines,Product Line Strategy,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Iconic Brand,Emerging Brand,True,True,Brand Recognition,Brand Type,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Non-Compliant,Industry Leader in Compliance,True,True,Regulatory Compliance,Compliance with Regulations,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Low Investment,High Investment,True,True,Research and Development Investment,Investment Level,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Partially Compliant,Fully Compliant,True,True,Regulatory Compliance,Compliance with Regulations,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Very High Employee Turnover,Stable Employee Turnover,True,True,Employee Turnover Rate,Employee Turnover,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Break Even,Steady Market Share,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Unknown Brand,Stable Employee Turnover,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Highly Profitable,Dominant Market Share,False,True,,Competitive Advantage,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Low Investment,No Debt,False,True,,Financial Leverage,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+No Product Lines,Dominant Market Share,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Increasing Market Share,Positive Revenue Growth,False,True,,Business Performance,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Medium Investment,Industry Leader in Compliance,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Highly Profitable,Single Product Line,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Dominant Market Share,High Cash Reserves,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Low Employee Turnover,Emerging Brand,False,False,,,mixtral-8x7b-instruct,lora_70b_en_v1_v2,finance,None
+Limited and Inefficient,Extensive and Efficient,True,True,Public Transport System: The availability and efficiency of public transportation in a city.,Public Transportation System,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Rural Population Majority,Urban Population Majority,True,True,Urbanization Rate: The percentage of a population living in urban areas.,Urbanization,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Unaffordable,Affordable,True,True,Housing Affordability: The proportion of income required to purchase or rent a home.,Housing Cost,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Very High,Very Low,True,True,Crime Rate: The frequency of reported crimes in a city.,The degree to which a city's infrastructure is designed to accommodate a large number of people.,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+High,Low,True,True,Social Cohesion: The degree of unity and harmony among different social groups in a city.,Population Density,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Excellent,Poor,True,True,Education System: The quality and accessibility of educational institutions in a city.,Quality of Life,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Scarce and Inaccessible,Abundant and Accessible,True,True,Green Spaces: The amount and accessibility of parks and other natural areas within a city.,Availability of Public Transportation,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Poorly-Maintained and Limited,Well-Maintained and Accessible,True,True,"Infrastructure: The condition and availability of essential services and facilities such as water, electricity, and sanitation.",Infrastructure Quality,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Abundant and Diverse,Limited and Narrow,True,True,Employment Opportunities: The availability and diversity of job opportunities in a city.,The variety of goods and services available to consumers in a given market.,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Excellent,Poor,True,True,"Air Quality: The level of pollutants in the air, affecting the health and comfort of city residents.",Quality of Life,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Scarce and Inaccessible,Extensive and Efficient,False,True,,Public Transportation,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Poor,Urban Population Majority,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Well-Maintained and Accessible,Rural Population Majority,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Limited and Narrow,Affordable,False,True,,Housing Cost,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Low,Poorly-Maintained and Limited,False,True,,Quality of Public Transportation,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Limited and Narrow,Extensive and Efficient,False,True,,Transportation Infrastructure,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Scarce and Inaccessible,Rural Population Majority,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Abundant and Accessible,Affordable,False,True,,Housing Affordability,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Scarce and Inaccessible,Unaffordable,False,True,,Housing Affordability,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Abundant and Accessible,Very Low,False,True,,The availability of a particular resource or service in a given area.,mistral-7b-instruct,lora_70b_en_v1_v2,urban studies,None
+Surface wave (water waves),Electromagnetic wave (radio waves),True,True,The property of a wave that determines the amount of energy it transports per unit area.,The property of a wave that determines the amount of energy it transports per unit area.,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Audible frequency wave (music),High frequency wave (X-rays),True,True,The property of a wave that determines the number of oscillations per unit time.,The property of a wave that determines the number of oscillations per unit time.,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Plastic material (clay),Elastic material (rubber band),True,True,The property of a material that determines how easily it can be deformed or compressed.,The property of a material that determines how easily it can be compressed.,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+White body (snow),Emissive body (hot iron),True,True,The property of a material that determines its ability to emit energy.,The property of a material that determines the amount of energy it emits or absorbs.,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Transmitter (glass),Reflector (mirror),True,True,The property of a material that determines its ability to absorb energy.,Optical Property,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Low frequency wave (radio waves),Infrasound wave (earthquakes),True,True,The property of a wave that determines the number of oscillations per unit time.,The property of a wave that determines the number of oscillations per unit time.,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Infrasound wave (earthquakes),High frequency wave (X-rays),True,True,The property of a wave that determines the number of oscillations per unit time.,The property of a wave that determines the number of oscillations per unit time.,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Gravitational force (Earth's pull),Nuclear force (atomic bonding),True,True,The force that causes an object to move or stay at rest. It can be described as a push or a pull.,The force that causes an object to change its motion.,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+White body (snow),Black body (coal),True,True,The property of a material that determines its ability to emit energy.,The property of a material that determines the amount of radiation it emits or absorbs.,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Brittle material (glass),Plastic material (clay),True,True,The property of a material that determines how easily it can be deformed or compressed.,The property of a material that determines how easily it can be compressed.,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Audible frequency wave (music),Electromagnetic wave (radio waves),False,True,,The property of a wave that determines the number of oscillations per unit time.,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Tensile material (wire),High frequency wave (X-rays),False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Electromagnetic force (magnetism),Elastic material (rubber band),False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Gravitational force (Earth's pull),Emissive body (hot iron),False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Poor thermal conductor (wood),Electromagnetic wave (radio waves),False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Emissive body (hot iron),Reflector (mirror),False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Emissive body (hot iron),Infrasound wave (earthquakes),False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Absorber (charcoal),High frequency wave (X-rays),False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Transverse wave (light),Black body (coal),False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Solid state (ice),Poor thermal conductor (wood),False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,physics,None
+Current smoker,Non-smoker,True,True,Smoking Status,Smoking status,mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+"Moderate Drinker (up to one drink per day for women, up to two drinks per day for men)","Heavy Drinker (more than one drink per day for women, more than two drinks per day for men)",True,True,Alcohol Consumption,Alcohol Consumption,mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+High Environmental Exposure (significant exposure to pollutants),Low Environmental Exposure (minimal exposure to pollutants),True,True,Environmental Exposure,Environmental Exposure (the amount of pollutants in the environment that an individual is exposed to),mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+"Regular Exercise (30 minutes or more per day, five days a week)",Sedentary Lifestyle (less than 150 minutes of moderate-intensity or 75 minutes of vigorous-intensity activity per week),True,True,Physical Activity Level,Physical Activity Level,mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+Moderate Stress (moderate stress levels),Low Stress (manageable stress levels),True,True,Stress Level,Stress (the amount of pressure or tension experienced by an individual),mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+"Healthy Diet (rich in fruits, vegetables, whole grains, lean proteins, and healthy fats)","Unhealthy Diet (high in processed foods, sugars, saturated and trans fats)",True,True,Dietary Pattern,Diet,mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+Mild Genetic Predisposition,Significant Genetic Predisposition,True,True,Genetic Predisposition,Genetic Predisposition,mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+No Known Genetic Conditions,Mild Genetic Predisposition,True,True,Genetic Predisposition,Genetic Predisposition,mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+"Moderate Drinker (up to one drink per day for women, up to two drinks per day for men)",Non-drinker,True,True,Alcohol Consumption,Alcohol Consumption,mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+Non-smoker,Former smoker,True,True,Smoking Status,Smoking Status,mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+Low Environmental Exposure (minimal exposure to pollutants),Non-smoker,False,True,,Lifestyle,mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+High Environmental Exposure (significant exposure to pollutants),"Regular Exercise (30 minutes or more per day, five days a week)",False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+Good Sleep (7-9 hours of uninterrupted sleep per night),"Heavy Drinker (more than one drink per day for women, more than two drinks per day for men)",False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+Sedentary Lifestyle (less than 150 minutes of moderate-intensity or 75 minutes of vigorous-intensity activity per week),Mild Mental Health Concerns (mild anxiety or depression),False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+Mixed Diet,Low Environmental Exposure (minimal exposure to pollutants),False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+No Known Genetic Conditions,Sedentary Lifestyle (less than 150 minutes of moderate-intensity or 75 minutes of vigorous-intensity activity per week),False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+Good Sleep (7-9 hours of uninterrupted sleep per night),Low Stress (manageable stress levels),False,True,,Lifestyle (patterns of behavior and daily habits that can impact health),mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+"Heavy Drinker (more than one drink per day for women, more than two drinks per day for men)","Unhealthy Diet (high in processed foods, sugars, saturated and trans fats)",False,True,,Unhealthy Lifestyle,mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+Current smoker,Significant Genetic Predisposition,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+Good Sleep (7-9 hours of uninterrupted sleep per night),"Healthy Diet (rich in fruits, vegetables, whole grains, lean proteins, and healthy fats)",False,True,,Healthy Lifestyle (a pattern of behavior that promotes overall well-being),mistral-7b-instruct,lora_70b_en_v1_v2,health,None
+Wet Oxidation,Dry Oxidation,True,True,"The type of oxidation used to create a thin layer of silicon dioxide on the semiconductor wafer, such as Wet Oxidation or Dry Oxidation.",Oxidation Method,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Imprint Lithography,Extreme Ultraviolet Lithography,True,True,"The type of lithography used to create the patterns on the semiconductor wafer, such as Extreme Ultraviolet Lithography or Imprint Lithography.",Lithography Technique,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Gallium Nitride Material,Gallium Arsenide Material,True,True,"The type of semiconductor material used in the manufacturing process, such as Silicon, Gallium Arsenide, or Gallium Nitride.",Semiconductor Material,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Planar Design,FinFET Design,True,True,"The specific layout design of the integrated circuit, including the arrangement and interconnection of transistors and other components.",Transistor Structure,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Physical Vapor Deposition,Chemical Vapor Deposition,True,True,"The type of deposition used to add material to the semiconductor wafer, such as Chemical Vapor Deposition or Physical Vapor Deposition.",Thin Film Deposition Method,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Wet Etching,Dry Etching,True,True,"The type of etching used to remove unwanted material from the semiconductor wafer, such as Wet Etching or Dry Etching.",Etching Method,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+SOI Design,FinFET Design,True,True,"The specific layout design of the integrated circuit, including the arrangement and interconnection of transistors and other components.",Transistor Structure,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Planar Design,SOI Design,True,True,"The specific layout design of the integrated circuit, including the arrangement and interconnection of transistors and other components.",Transistor Structure,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Silicon Material,Gallium Nitride Material,True,True,"The type of semiconductor material used in the manufacturing process, such as Silicon, Gallium Arsenide, or Gallium Nitride.",Semiconductor Material,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Wafer-Level Process,Bulk Silicon Process,True,True,"The process used to create the semiconductor wafer, such as Bulk Silicon Process or Wafer-Level Process.",Semiconductor Manufacturing Process,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Extreme Ultraviolet Lithography,Parametric Testing,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+RCA Cleaning,Dry Oxidation,False,True,,Wafer Cleaning Method,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Functional Testing,Extreme Ultraviolet Lithography,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Phosphorus Doping,Functional Testing,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Physical Vapor Deposition,Gallium Arsenide Material,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Piranha Cleaning,FinFET Design,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Silicon Material,Wet Etching,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Piranha Cleaning,Chemical Vapor Deposition,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Extreme Ultraviolet Lithography,Chemical Vapor Deposition,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Parametric Testing,Wet Oxidation,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,semiconductor manufacturing,None
+Central Processing Unit (CPU): The brain of the computer,Random Access Memory (RAM): Temporary data storage,True,True,Hardware Component: A physical part of a computer system.,Hardware Component: A physical part of a computer system.,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+"Python: High-level, interpreted language","Java: Object-oriented, platform-independent language",True,True,Programming Language: A formal language designed for expressing instructions to a computer.,Programming Language: A formal language designed for expressing instructions to a computer.,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+Bus Topology: All nodes connected to a single communication line,Mesh Topology: Each node connected to multiple other nodes,True,True,Network Topology: The arrangement of various elements (nodes and connecting lines) in a computer network.,Network Topology: The arrangement of nodes and connections in a network.,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+"Python: High-level, interpreted language","C++: Object-oriented, compiled language",True,True,Programming Language: A formal language designed for expressing instructions to a computer.,Programming Language: A formal language designed for expressing instructions to a computer.,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+DevOps: Continuous delivery and collaboration between development and operations teams,Agile Methodology: Iterative and incremental development,True,True,Software Development Methodology: A systematic approach to developing high-quality software.,Software Development Methodology: A systematic approach to developing high-quality software.,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+RISC (Reduced Instruction Set Computer) Architecture: A simplified instruction set,Harvard Architecture: Separate memory for data and instructions,True,True,Computer Architecture: The design of a computer system.,Computer Architecture: The design of a computer's internal components and their interactions.,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+Queue: A First-In-First-Out (FIFO) data structure,Stack: A Last-In-First-Out (LIFO) data structure,True,True,"Data Structure: A specialized format for organizing, storing, and retrieving data.",Data Structure: A specific way to organize and store data in a computer.,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+macOS,Microsoft Windows,True,True,Operating System: Software that manages computer hardware and software resources.,Operating System,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+Third Normal Form (3NF),Second Normal Form (2NF),True,True,Database Normalization Form: A process to eliminate redundant data and dependencies among the tables in a database.,Database Normalization,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+macOS,Linux,True,True,Operating System: Software that manages computer hardware and software resources.,Operating System,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+Queue: A First-In-First-Out (FIFO) data structure,Random Access Memory (RAM): Temporary data storage,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+Microsoft Windows,"Java: Object-oriented, platform-independent language",False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+"Object-Oriented Programming: Java, C++, Python",First Normal Form (1NF),False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+Microsoft Windows,Mesh Topology: Each node connected to multiple other nodes,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+RISC (Reduced Instruction Set Computer) Architecture: A simplified instruction set,"C++: Object-oriented, compiled language",False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+Waterfall Model: Linear sequential development,Microsoft Windows,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+"Python: High-level, interpreted language",Harvard Architecture: Separate memory for data and instructions,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+Bus Topology: All nodes connected to a single communication line,macOS,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+RISC (Reduced Instruction Set Computer) Architecture: A simplified instruction set,Microsoft Windows,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+Linux,Harvard Architecture: Separate memory for data and instructions,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,computer science,None
+Intergenerational Mobility: The mobility of individuals from one generation to the next.,Horizontal Mobility: The movement of individuals or groups within the same social class.,True,True,Social Mobility: The ability of individuals or groups to move up or down the social hierarchy.,Social Mobility: The movement of individuals or groups from one social class or status to another.,mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+Friendship Network: The group of individuals with whom one has a close personal relationship.,Family Network: The group of individuals related by blood or marriage.,True,True,Social Networks: The set of social relationships among individuals or groups.,Social Network: The group of individuals with whom one has a personal relationship.,mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+"Non-material Culture: The intangible aspects of a culture, such as language, music, and literature.","Subculture: A culture within a culture, characterized by distinct beliefs, values, and practices.",True,True,"Culture: The shared beliefs, values, customs, behaviors, and artifacts that characterize a group or society.","Culture: The shared values, beliefs, and practices of a group of people.",mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+Religion: A social institution that provides a system of beliefs and practices related to the supernatural.,Education: A social institution that transmits knowledge and skills from one generation to the next.,True,True,Social Institutions: Enduring social structures that perform specific functions in a society.,"Social Institution: A structured social organization that provides a system of rules, norms, and values that guide human behavior.",mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+Vertical Mobility: The movement of individuals or groups between different social classes.,Horizontal Mobility: The movement of individuals or groups within the same social class.,True,True,Social Mobility: The ability of individuals or groups to move up or down the social hierarchy.,Social Mobility: The movement of individuals or groups from one social position to another.,mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+Intergenerational Mobility: The mobility of individuals from one generation to the next.,Vertical Mobility: The movement of individuals or groups between different social classes.,True,True,Social Mobility: The ability of individuals or groups to move up or down the social hierarchy.,Social Mobility: The movement of individuals or groups from one social position to another.,mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+"Informal Socialization: Learning that occurs in unstructured settings, such as families and peer groups.","Formal Socialization: Learning that occurs in structured settings, such as schools and workplaces.",True,True,"Socialization: The process by which individuals learn the norms, values, and behaviors of a society or group.","Socialization: The process of learning and internalizing the norms, values, and behaviors of a society.",mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+Material Culture: The physical objects and artifacts that reflect a culture.,"Non-material Culture: The intangible aspects of a culture, such as language, music, and literature.",True,True,"Culture: The shared beliefs, values, customs, behaviors, and artifacts that characterize a group or society.","Culture: The shared values, norms, and practices of a group of people.",mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+Material Culture: The physical objects and artifacts that reflect a culture.,"Subculture: A culture within a culture, characterized by distinct beliefs, values, and practices.",True,True,"Culture: The shared beliefs, values, customs, behaviors, and artifacts that characterize a group or society.","Culture: The values, beliefs, and practices that are shared by a group of people.",mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+Structural Change: Change that affects the underlying structures of a society.,"Cultural Change: Change that affects the values, beliefs, and practices of a society.",True,True,"Social Change: The modification of social structures, institutions, and norms over time.",Type of Social Change: The nature of a change that affects a society.,mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+"Formal Socialization: Learning that occurs in structured settings, such as schools and workplaces.",Horizontal Mobility: The movement of individuals or groups within the same social class.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+Religion: A social institution that provides a system of beliefs and practices related to the supernatural.,Family Network: The group of individuals related by blood or marriage.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+Reformist Social Movements: Movements that seek to bring about gradual change within the existing social order.,Horizontal Mobility: The movement of individuals or groups within the same social class.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+"Non-material Culture: The intangible aspects of a culture, such as language, music, and literature.",Workplace Network: The group of individuals with whom one interacts in a professional setting.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+Incremental Change: Gradual change over an extended period.,Single-issue Social Movements: Movements that focus on a specific social issue.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+Material Culture: The physical objects and artifacts that reflect a culture.,Structural Change: Change that affects the underlying structures of a society.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+Secondary Socialization: Learning that occurs later in life.,"Subculture: A culture within a culture, characterized by distinct beliefs, values, and practices.",False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+Primary Socialization: Learning that occurs during childhood and adolescence.,Education: A social institution that transmits knowledge and skills from one generation to the next.,False,True,,"Socialization: The process of learning and internalizing the norms, values, and behaviors of a society.",mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+Fashion Norms: Rules that govern what is considered stylish or fashionable.,Horizontal Mobility: The movement of individuals or groups within the same social class.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+Education: A social institution that transmits knowledge and skills from one generation to the next.,Vertical Mobility: The movement of individuals or groups between different social classes.,False,True,,"Social Stratification: The hierarchical arrangement of individuals or groups in a society based on their access to resources, power, and prestige.",mistral-7b-instruct,lora_70b_en_v1_v2,sociology,None
+Religious Values,Personal Values,True,True,A set of rules that a person follows to regulate their behavior and emotions.,Value Orientation,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Social Introversion,Ambivert,True,True,A personality trait characterized by a tendency to seek out and maintain social relationships.,Extraversion,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Short-Term Memory,Long-Term Memory,True,True,A cognitive process that involves the storage and retrieval of information.,Memory,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Working Memory,Short-Term Memory,True,True,A cognitive process that involves the storage and retrieval of information.,Memory,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Moral Values,Personal Values,True,True,A set of rules that a person follows to regulate their behavior and emotions.,Value Orientation,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Problem Solving,Logical Reasoning,True,True,A cognitive process that involves the manipulation of symbols and concepts.,Cognitive Ability,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Curiosity,Exploratory Behavior,True,True,A personality trait characterized by a tendency to seek out new experiences and sensations.,Intrinsic Motivation,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Logical Reasoning,Creative Thinking,True,True,A cognitive process that involves the manipulation of symbols and concepts.,Cognitive Ability,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Perception of Colors,Perception of Tastes,True,True,A cognitive process that involves the interpretation and organization of sensory information in order to understand the environment and respond appropriately.,Sensory Perception,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Perception of Tastes,Perception of Sounds,True,True,A cognitive process that involves the interpretation and organization of sensory information in order to understand the environment and respond appropriately.,Sensory Perception,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Logical Reasoning,Personal Values,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Short-Term Memory,Ambivert,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Perception of Sounds,Long-Term Memory,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Long-Term Memory,Fear,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Self-efficacy Belief in Coping with Stress,Sadness,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Social Extraversion,Short-Term Memory,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Self-efficacy Belief in Coping with Stress,Personal Values,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Social Extraversion,Religious Values,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Mindfulness Meditation,Logical Reasoning,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Short-Term Memory,Religious Values,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,psychology,None
+Real Gross Domestic Product (RGDP): The nominal GDP adjusted for inflation.,"Gross National Product (GNP): The total market value of all goods and services produced by a country's citizens and businesses, regardless of their location in the world.",True,True,Economic Growth: The increase in the production of goods and services in an economy over a certain period of time.,Economic Output: The total value of goods and services produced by a country's economy.,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+Producer Price Index (PPI): A measure of the average change over time in the selling prices received by domestic producers for their output.,Consumer Price Index (CPI): A measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services.,True,True,"Inflation: The rate at which the general level of prices for goods and services is rising, and subsequently, purchasing power is falling.",Inflation: A sustained increase in the general price level of goods and services in an economy over a period of time.,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+Treasury Bonds: Direct obligations of the U.S. government.,Corporate Bonds: Debt securities issued by corporations.,True,True,Bonds: A type of investment in which an investor loans money to an entity (typically a government or corporation) which borrows the funds for a defined period of time at a variable or fixed interest rate.,Type of Bond: The type of bond issued by a borrower to a lender.,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+Mortgage Rates: The annual interest rate charged to borrowers for mortgages.,Prime Rate: A benchmark interest rate that a primary bank uses to price its own commercial and industrial loans.,True,True,"Interest Rates: The percentage rate charged, expressed as an annual percentage of principal, by a lender to a borrower for the use of assets.",Interest Rate: The percentage rate at which interest is paid on a loan or investment.,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+"U6 Unemployment Rate: A broader measure of labor underutilization that includes not only the unemployed, but also those who are underemployed or have given up looking for work.",Long-Term Unemployment Rate: The percentage of the unemployed who have been jobless for 27 weeks or more.,True,True,Unemployment Rate: The percentage of the labor force that is without work but available for and seeking employment.,"Labor Market Conditions: The state of the labor market, including the availability of jobs, the number of people looking for work, and the ease of finding employment.",mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+Dividend Payout Ratio: The percentage of earnings paid out as dividends.,Forward Dividend Yield: The next expected dividend payment divided by the current stock price.,True,True,Dividend Yield: A financial ratio that shows how much a company pays out in dividends each year relative to its stock price.,Dividend Policy: The strategy a company uses to decide how much of its earnings it will distribute to shareholders.,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+"Current Ratio: The ratio of current assets to current liabilities, which measures a company's ability to pay its short-term obligations.",Long-Term Debt-to-Equity Ratio: The ratio of long-term debt to equity.,True,True,Debt-to-Equity Ratio: A financial ratio that shows the relationship between a company's total liabilities and its shareholder equity.,Liquidity: The ability of a company to meet its short-term financial obligations.,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+Real Gross Domestic Product (RGDP): The nominal GDP adjusted for inflation.,Gross Domestic Product (GDP): The total monetary or market value of all the finished goods and services produced within a country's geographic borders in a specific time period.,True,True,Economic Growth: The increase in the production of goods and services in an economy over a certain period of time.,Economic Output: The total value of goods and services produced within a country's geographic borders in a specific time period.,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+Earnings Before Interest and Taxes to Interest Expense (EBIT/Int): A more comprehensive interest coverage ratio that considers both operating and non-operating income.,Cash Flow Coverage Ratio: A measure of a company's ability to meet its interest obligations using its cash flow from operations.,True,True,Interest Coverage Ratio: A financial ratio that indicates the number of times a company's earnings before interest and taxes (EBIT) can cover its interest expenses.,Interest Coverage Ratio: A measure of a company's ability to meet its interest obligations.,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+Forward Dividend Yield: The next expected dividend payment divided by the current stock price.,Trailing Dividend Yield: The most recent dividend payment divided by the current stock price.,True,True,Dividend Yield: A financial ratio that shows how much a company pays out in dividends each year relative to its stock price.,Dividend Yield: The ratio of the annual dividend payment to the stock's current price.,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+Corporate Bonds: Debt securities issued by corporations.,Consumer Price Index (CPI): A measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+NASDAQ Composite: A stock market index of the common stocks and similar securities listed on the NASDAQ stock market.,Corporate Bonds: Debt securities issued by corporations.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+"Current Ratio: The ratio of current assets to current liabilities, which measures a company's ability to pay its short-term obligations.",Prime Rate: A benchmark interest rate that a primary bank uses to price its own commercial and industrial loans.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+Price-to-Sales Ratio: A valuation ratio that compares a company's stock price to its revenue per share.,S&P 500: A market-capitalization-weighted index of 500 large companies having common stock listed on the NYSE or NASDAQ.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+Prime Rate: A benchmark interest rate that a primary bank uses to price its own commercial and industrial loans.,Long-Term Unemployment Rate: The percentage of the unemployed who have been jobless for 27 weeks or more.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+Treasury Bonds: Direct obligations of the U.S. government.,Forward Dividend Yield: The next expected dividend payment divided by the current stock price.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+Forward Price-to-Earnings Ratio: The current share price divided by the estimated earnings per share for the next 12 months.,Consumer Price Index (CPI): A measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+"Gross National Product (GNP): The total market value of all goods and services produced by a country's citizens and businesses, regardless of their location in the world.",Mortgage Rates: The annual interest rate charged to borrowers for mortgages.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+"Current Ratio: The ratio of current assets to current liabilities, which measures a company's ability to pay its short-term obligations.",Price-to-Sales Ratio: A valuation ratio that compares a company's stock price to its revenue per share.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
+Long-Term Unemployment Rate: The percentage of the unemployed who have been jobless for 27 weeks or more.,Long-Term Debt-to-Equity Ratio: The ratio of long-term debt to equity.,False,False,,,mistral-7b-instruct,lora_70b_en_v1_v2,finance,None
