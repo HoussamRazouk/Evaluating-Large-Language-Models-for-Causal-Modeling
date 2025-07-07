@@ -1,0 +1,209 @@
+Text1,Text2,Same Causal Variable,domain,text1_text2_cos_sim_text-embedding-3-large
+mass killing,2nd degree murder,False,wiki_causal,0.374
+impeach,ministerial responsibility,True,wiki_causal,0.227
+social issue,conflict,False,wiki_causal,0.4
+impeachment,impeachment process,True,wiki_causal,0.784
+dissent,misfortune,False,wiki_causal,0.288
+impeachment,ministerial responsibility,True,wiki_causal,0.276
+air accident,school shooting,False,wiki_causal,0.303
+"Communicable Diseases, Emerging",emerging communicable disease,True,wiki_causal,0.785
+Infectious Diseases and Manifestations,attack,False,wiki_causal,0.146
+"Communicable Diseases, Emerging",emerging infectious disease,True,wiki_causal,0.689
+mass killing,affair,False,wiki_causal,0.208
+emerging communicable disease,emerging infectious disease,True,wiki_causal,0.829
+fire-raising,impeach,False,wiki_causal,0.209
+despoliation,ransack,True,wiki_causal,0.453
+murder,disease outbreak,False,wiki_causal,0.253
+looting,ransack,True,wiki_causal,0.51
+shortage,hostilities,False,wiki_causal,0.254
+ransack,sack,True,wiki_causal,0.48
+disease by infectious agent,bombing,False,wiki_causal,0.128
+eruption,volcanic eruption,True,wiki_causal,0.722
+fraud,impeachment,False,wiki_causal,0.359
+volcanic eruption,volcano eruption,True,wiki_causal,0.905
+disagreement,homicide,False,wiki_causal,0.227
+eruption,volcano eruption,True,wiki_causal,0.725
+financial crisis,slaughter,False,wiki_causal,0.132
+statute law,statutory law,True,wiki_causal,0.87
+impeachment process,emerging communicable disease,False,wiki_causal,0.149
+economic crisis,economic decline,True,wiki_causal,0.71
+thievery,impeachment in the United States,False,wiki_causal,0.194
+economical crisis,economy crisis,True,wiki_causal,0.869
+volcanic eruption,Clinical Infection,False,wiki_causal,0.14
+economical crisis,financial crisis,True,wiki_causal,0.727
+aeroplane crash,risk factor,False,wiki_causal,0.157
+economic crisis,financial crisis,True,wiki_causal,0.865
+energy crisis,ID,False,wiki_causal,0.112
+arson,incendiarism,True,wiki_causal,0.657
+impeachment in the United States,mass executions,False,wiki_causal,0.205
+arson,arsonry,True,wiki_causal,0.821
+attack,outbreak,False,wiki_causal,0.431
+fire-raising,incendiarism,True,wiki_causal,0.679
+financial crisis,emerging infectious disease,False,wiki_causal,0.253
+epidemic,outbreak,True,wiki_causal,0.656
+riot,temblor,False,wiki_causal,0.202
+aeroplane crash,air crash,True,wiki_causal,0.759
+occupational accident,armed conflict,False,wiki_causal,0.29
+aeroplane crash,helicopter crash,True,wiki_causal,0.655
+fraud,demand surplus,False,wiki_causal,0.196
+aircraft crash,helicopter crash,True,wiki_causal,0.711
+putsch,riot,False,wiki_causal,0.272
+Clinical Infection,Infectious Diseases and Manifestations,True,wiki_causal,0.541
+misadventure,affair,False,wiki_causal,0.445
+ID,pestilence,True,wiki_causal,0.16
+scandal,mass shooting,False,wiki_causal,0.217
+Infectious,infection,True,wiki_causal,0.57
+workplace accident,temblor,False,wiki_causal,0.162
+affair,scandal,True,wiki_causal,0.535
+bombing,economic crisis,False,wiki_causal,0.288
+disease outbreak,outbreak,True,wiki_causal,0.765
+helicopter crash,dissents,False,wiki_causal,0.116
+"Accidents, Occupational",occupational accident,True,wiki_causal,0.72
+school shooting,2nd degree murder,False,wiki_causal,0.31
+occupational accident,work accident,True,wiki_causal,0.805
+epidemic,fraud,False,wiki_causal,0.284
+accident at work,workplace accident,True,wiki_causal,0.828
+looting,fraud,False,wiki_causal,0.386
+industrial accident,industrial disaster,True,wiki_causal,0.8
+murder,school shooting,False,wiki_causal,0.406
+industrial accident,industrial incident,True,wiki_causal,0.833
+ministerial responsibility,risk factor,False,wiki_causal,0.174
+industrial disaster,industrial incident,True,wiki_causal,0.795
+social problems,civil strife,False,wiki_causal,0.377
+heist,thieving,True,wiki_causal,0.581
+conflict of power,industrial accident,False,wiki_causal,0.175
+theft,thieving,True,wiki_causal,0.723
+mass killing,social ill,False,wiki_causal,0.307
+stealing,thievery,True,wiki_causal,0.709
+natural hazard,air crash,False,wiki_causal,0.349
+juloos,procession,True,wiki_causal,0.164
+emerging communicable disease,attack,False,wiki_causal,0.197
+bomb attack,bombing,True,wiki_causal,0.742
+murder,social ill,False,wiki_causal,0.281
+quake,temblor,True,wiki_causal,0.555
+riots,outbreak,False,wiki_causal,0.404
+earth quake,tremor,True,wiki_causal,0.468
+iced,catastrophe,False,wiki_causal,0.21
+earth quake,temblor,True,wiki_causal,0.556
+attack,catastrophe,False,wiki_causal,0.348
+armed conflict,military conflict,True,wiki_causal,0.773
+self-killing,impeach,False,wiki_causal,0.171
+conflict,military conflict,True,wiki_causal,0.635
+bomb attack,mass killings,False,wiki_causal,0.334
+armed conflict,conflict,True,wiki_causal,0.58
+calamity,airplane crash,False,wiki_causal,0.291
+War,military conflict,True,wiki_causal,0.472
+excess demand,school shooting,False,wiki_causal,0.119
+War,hostilities,True,wiki_causal,0.387
+fraud,procession,False,wiki_causal,0.208
+conflict,military conflict,True,wiki_causal,0.635
+golpe,attack,False,wiki_causal,0.401
+economic shortage,excess demand,True,wiki_causal,0.516
+overthrow,riots,False,wiki_causal,0.348
+demand surplus,shortage,True,wiki_causal,0.482
+impeachment in the United States,emerging infectious disease,False,wiki_causal,0.144
+excess demand,shortage,True,wiki_causal,0.562
+hazard,scandal,False,wiki_causal,0.356
+mass execution,massacre,True,wiki_causal,0.671
+quake,fraud,False,wiki_causal,0.216
+mass executions,massacre,True,wiki_causal,0.643
+impeachment in the United States,attack,False,wiki_causal,0.165
+massacres,slaughter,True,wiki_causal,0.558
+civil unrest,social ill,False,wiki_causal,0.434
+mass killings,mass murder,True,wiki_causal,0.827
+communicable disease,outbreak,False,wiki_causal,0.395
+mass killing,soree murders,True,wiki_causal,0.418
+civil strife,armed conflict,False,wiki_causal,0.524
+mass murder,spree murder,True,wiki_causal,0.654
+impeach,bomb attack,False,wiki_causal,0.255
+aviation accident,plane crash,True,wiki_causal,0.669
+mass shooting,school shooting,False,wiki_causal,0.739
+air accident,aircraft accident,True,wiki_causal,0.839
+mass shooting,affair,False,wiki_causal,0.185
+aircraft accident,aviation accident,True,wiki_causal,0.862
+heist,statutory law,False,wiki_causal,0.086
+misadventure,mishap,True,wiki_causal,0.736
+economy crisis,school shooting,False,wiki_causal,0.216
+misfortune,mishap,True,wiki_causal,0.614
+volcano eruption,homicide,False,wiki_causal,0.25
+accident,misfortune,True,wiki_causal,0.476
+impeachment in the United States,eruption,False,wiki_causal,0.184
+coup,overthrow,True,wiki_causal,0.512
+murder,industrial disaster,False,wiki_causal,0.248
+coup,golpe,True,wiki_causal,0.542
+murder,street protest,False,wiki_causal,0.212
+coups,coups d'état,True,wiki_causal,0.716
+economic crisis,hazard,False,wiki_causal,0.227
+political regime change,revolution,True,wiki_causal,0.415
+incendiarism,mass shooting,False,wiki_causal,0.255
+Regime change,change of political regime,True,wiki_causal,0.761
+statutory law,tsunami,False,wiki_causal,0.138
+regime change,revolution,True,wiki_causal,0.453
+excess demand,risk factor,False,wiki_causal,0.187
+self-killing,suicide,True,wiki_causal,0.689
+suicide,disasters,False,wiki_causal,0.315
+self-killing,self-murder,True,wiki_causal,0.841
+workplace accident,self-murder,False,wiki_causal,0.251
+killed by self,suicide,True,wiki_causal,0.601
+misfortune,energy crisis,False,wiki_causal,0.242
+civil disorder,social unrest,True,wiki_causal,0.659
+change of political regime,energy crisis,False,wiki_causal,0.278
+civil strife,social unrest,True,wiki_causal,0.618
+demand surplus,earth quake,False,wiki_causal,0.182
+civil disorder,civil strife,True,wiki_causal,0.653
+aircraft crash,emerging communicable disease,False,wiki_causal,0.172
+demonstration,protest,True,wiki_causal,0.54
+conflict,fire-raising,False,wiki_causal,0.228
+rally,street protest,True,wiki_causal,0.403
+incendiarism,epidemic,False,wiki_causal,0.217
+demonstration,street protest,True,wiki_causal,0.437
+mass shooting,outbreak,False,wiki_causal,0.357
+demonstration,protest,True,wiki_causal,0.54
+mass shooting,energy crisis,False,wiki_causal,0.215
+demonstration,dissents,True,wiki_causal,0.248
+outbreak,fraud,False,wiki_causal,0.274
+power conflict,protest movements,True,wiki_causal,0.347
+economic crisis,dissent,False,wiki_causal,0.191
+natural calamity,natural disaster,True,wiki_causal,0.781
+fraud,economic crisis,False,wiki_causal,0.262
+natural calamity,natural hazard,True,wiki_causal,0.651
+bomb attack,energy crisis,False,wiki_causal,0.281
+natural disaster,natural hazard,True,wiki_causal,0.718
+energy crisis,social problems,False,wiki_causal,0.318
+calamity,catastrophe,True,wiki_causal,0.703
+air accident,incendiarism,False,wiki_causal,0.241
+calamity,disasters,True,wiki_causal,0.561
+volcanic eruption,military conflict,False,wiki_causal,0.291
+catastrophe,disasters,True,wiki_causal,0.663
+offence,"Communicable Diseases, Emerging",False,wiki_causal,0.085
+social ill,social problems,True,wiki_causal,0.659
+statutory law,ID,False,wiki_causal,0.095
+social ill,social problem,True,wiki_causal,0.668
+military conflict,change of regime,False,wiki_causal,0.363
+social issue,social problem,True,wiki_causal,0.79
+juloos,infection,False,wiki_causal,0.193
+crime,criminal offense,True,wiki_causal,0.582
+"Communicable Diseases, Emerging",change of political regime,False,wiki_causal,0.081
+hoodlum,offence,True,wiki_causal,0.236
+excess demand,statute law,False,wiki_causal,0.121
+crime,criminal offence,True,wiki_causal,0.559
+homicide,epidemic,False,wiki_causal,0.293
+murder 2,murders,True,wiki_causal,0.616
+quake,occupational accident,False,wiki_causal,0.196
+murder,murder two,True,wiki_causal,0.722
+offence,demand surplus,False,wiki_causal,0.117
+aggravated murder [Illinois],murders,True,wiki_causal,0.467
+ID,school shooting,False,wiki_causal,0.149
+homicide,murder,True,wiki_causal,0.671
+risk factor,disease outbreak,False,wiki_causal,0.31
+burst,explosion,True,wiki_causal,0.521
+statute law,street protest,False,wiki_causal,0.247
+bang,blast,True,wiki_causal,0.474
+hazard,murders,False,wiki_causal,0.196
+boom,explosion,True,wiki_causal,0.49
+demonstrations,economic shortage,False,wiki_causal,0.197
+conflict,dispute,True,wiki_causal,0.616
+incendiarism,outbreak,False,wiki_causal,0.241
+conflict (psychological),psychological conflict,True,wiki_causal,0.86
+disease outbreak,mass shooting,False,wiki_causal,0.348
+"conflict, psychological",psychological conflict,True,wiki_causal,0.847

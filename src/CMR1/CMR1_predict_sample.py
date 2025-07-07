@@ -49,7 +49,7 @@ def CMR1_predict_sample(row,client,model):
             f.write('Generated Interaction value: '+str(row['Same Causal Variable'])+'\n')
             f.write('Data Generation Model: '+str(row['model Name'])+'\n')
             f.write('Domain: '+str(domain)+'\n')
-       
+    print(response)   
     response['Prediction Model']=model
     response['Generated Same Causal Variable']=row['Same Causal Variable']
     response['Data Generation Model']=row['model Name']
