@@ -8,7 +8,8 @@ import itertools
 import editdistance
 import random
 from random import randrange
-
+from tqdm.auto import tqdm
+tqdm.pandas()
 
 file_path="data/data for manual annotation/enwiki-20220901-kg_v6-corpus_v4.jsonl"
 
@@ -45,6 +46,8 @@ for i in range(len(df_label_labels['labels'])):
                 print(combination[1])
                 print(combination)
                 edited=True
+                break
+                
             
    
             
@@ -131,7 +134,29 @@ for i in range(len(negative_samples)):
        'domain':domain       
     })
     
-pd.DataFrame(sampled_data).to_csv('data/data for manual annotation/positive_negative_examples_enwiki-20220901-kg_v6-corpus_v4.jsonl.csv',index=False)     
+sampled_data_df=pd.DataFrame(sampled_data)
+
+
+
+import sys
+sys.path.append('.')
+from src.CMR1.get_cos_sim import get_cos_sim
+import pandas as pd
+from src.CMR2.config import conf_init
+from src.init import init
+import openai
+from openai import OpenAI
+config=conf_init()
+
+
+
+embeddings_model='text-embedding-3-large'
+
+emb_text2=emb_text2=openai.embeddings.create(input = '[text2]', model=embeddings_model).data[0].embedding
+sampled_data_df[f'text1_text2_cos_sim_{embeddings_model}']=sampled_data_df.progress_apply(lambda row: get_cos_sim(row['Text1'],row['Text2'],embeddings_model),axis=1)
+sampled_data_df.to_csv('data/data for manual annotation/positive_negative_examples_enwiki-20220901-kg_v6-corpus_v4.jsonl.csv',index=False)    
+
+ 
         
         
         
