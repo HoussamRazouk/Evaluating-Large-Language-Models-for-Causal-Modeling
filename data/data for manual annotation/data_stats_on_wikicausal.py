@@ -146,6 +146,7 @@ from src.CMR2.config import conf_init
 from src.init import init, init_lama
 import openai
 from openai import OpenAI
+from sklearn.metrics import cohen_kappa_score
 config=conf_init()
 
 import os
