@@ -2,4 +2,4 @@ src/init.py
 src/play ground.py
 backup/*
 to ignore/*
-data/data for manual annotation/enwiki-20220901-kg_v6-corpus_v4.jsonl
+data/wikicausal/enwiki-20220901-kg_v6-corpus_v4.jsonl

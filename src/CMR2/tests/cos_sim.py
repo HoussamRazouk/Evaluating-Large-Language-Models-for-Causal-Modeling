@@ -196,3 +196,30 @@ plt.legend()
 plt.savefig(input_path+"figs/CMR2 Large Agreement based cosine similarity and generated data by models.png", dpi=600)
 # Show the plot
 plt.show()
+
+
+## get the baseline results for the CMR2
+import sys
+sys.path.append('.')
+import pandas as pd
+from sklearn.metrics import cohen_kappa_score,f1_score,precision_score,recall_score,accuracy_score
+
+Results=pd.read_csv('results/CMR2/evaluated_data/cos_sim_text-embedding-3-large_large.csv')
+threshold=0.7#
+Results['threshold']=Results.apply(lambda row: row['text1_text2_cos_sim_text-embedding-3-large']>(threshold),axis=1)
+    
+
+y_test=Results['Interaction Value'].tolist()
+y_pred=Results['threshold']
+
+precision = round(precision_score(y_test, y_pred,zero_division=0),2)
+recall = round(recall_score(y_test, y_pred,zero_division=0),2)
+f1 = round(f1_score(y_test, y_pred,zero_division=0),2)
+kappa= round(cohen_kappa_score(y_test, y_pred),2)
+
+kappa
+f1
+
+recall
+
+precision
