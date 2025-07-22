@@ -27,11 +27,15 @@ def CMR1_predict_sample(row,client,model):
                   Your task is to assess if the following two texts belong to the same causal variable. 
                         - If the two texts belong to the same causal variable, provide the variable name.
                         - If the two texts are similar but do not belong to the same variable set the variable name to '', provide your explanation.
-                    Structure your answer as a JSON object including string 'Text1', string 'Text2', boolean 'Predicted Same Causal Variable', string 'Predicted Variable Name', and string 'Explanation'.
-                    
+                  
+                  The texts are as follows:
+                  
                     First text: ```{First_text}```
-                    Second text: ```{Second_text}```       
-                    """}
+                    Second text: ```{Second_text}``` 
+                    
+                  Remember to structure your answer as a JSON object including string 'Text1', string 'Text2', boolean 'Predicted Same Causal Variable', string 'Predicted Variable Name', and string 'Explanation'.     
+                  Return only the JSON object without any additional text or explanation.
+                  """}
                   ],
                   response_format={ "type": "json_object" }
                   ,
@@ -43,13 +47,16 @@ def CMR1_predict_sample(row,client,model):
       response=json.loads(response)
         
     except:
-       with open('to_check.txt','w') as f:
+      with open('to_check.txt','w') as f:
             f.write(str(response)+'\n')
             f.write('Prediction Model: '+str(model)+'\n')
             f.write('Generated Interaction value: '+str(row['Same Causal Variable'])+'\n')
             f.write('Data Generation Model: '+str(row['model Name'])+'\n')
             f.write('Domain: '+str(domain)+'\n')
-    print(response)   
+        
+      raise ValueError(f"Response is not a valid JSON object: {response}")
+            
+    #print(response)   
     response['Prediction Model']=model
     response['Generated Same Causal Variable']=row['Same Causal Variable']
     response['Data Generation Model']=row['model Name']

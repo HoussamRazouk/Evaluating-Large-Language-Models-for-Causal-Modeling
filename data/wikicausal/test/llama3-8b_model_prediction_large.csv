@@ -1,0 +1,209 @@
+Text1,Text2,Generated Same Causal Variable,Predicted Same Causal Variable,Generated Variable Name,Predicted Variable Name,Data Generation Model,Prediction Model,Domain,Explanation
+mass killing,2nd degree murder,False,False,,,wikicausal,llama3-8b,wiki_causal,"Although both texts describe violent or harmful actions, they belong to different categories and are not related to the same causal variable."
+impeach,ministerial responsibility,True,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'impeach' is a political term related to removing a person from office, while 'ministerial responsibility' is a term related to government and administration. They do not belong to the same causal variable."
+social issue,conflict,False,True,,Social Conflict,wikicausal,llama3-8b,wiki_causal,
+impeachment,impeachment process,True,True,,impeachment,wikicausal,llama3-8b,wiki_causal,
+dissent,misfortune,False,False,,,wikicausal,llama3-8b,wiki_causal,The words 'dissent' and 'misfortune' describe different concepts and do not belong to the same causal variable.
+impeachment,ministerial responsibility,True,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'impeachment' refers to the process of formally charging a public official, usually a politician, with misconduct, while 'ministerial responsibility' refers to the accountability of a minister or a high-ranking government official. They do not belong to the same causal variable."
+air accident,school shooting,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different types of events, 'air accident' and 'school shooting', which are not related to the same causal variable."
+"Communicable Diseases, Emerging",emerging communicable disease,True,True,,Communicable Disease,wikicausal,llama3-8b,wiki_causal,
+Infectious Diseases and Manifestations,attack,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable. 'Infectious Diseases and Manifestations' is a concept, while 'attack' is a specific event or action."
+"Communicable Diseases, Emerging",emerging infectious disease,True,True,,Causal Variable: Disease Emergence,wikicausal,llama3-8b,wiki_causal,
+mass killing,affair,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable. 'mass killing' and 'affair' are unrelated concepts, and therefore, they do not belong to the same causal variable."
+emerging communicable disease,emerging infectious disease,True,True,,emerging disease,wikicausal,llama3-8b,wiki_causal,
+fire-raising,impeach,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable. 'fire-raising' and 'impeach' are not related to the same concept, therefore they do not belong to the same causal variable."
+despoliation,ransack,True,True,,looting,wikicausal,llama3-8b,wiki_causal,
+murder,disease outbreak,False,False,,,wikicausal,llama3-8b,wiki_causal,The two texts describe different values of a causal variable. 'murder' and 'disease outbreak' are distinct concepts and do not belong to the same variable set.
+looting,ransack,True,True,,theft,wikicausal,llama3-8b,wiki_causal,
+shortage,hostilities,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'shortage' and 'hostilities', which do not belong to the same causal variable."
+ransack,sack,True,True,,Violence,wikicausal,llama3-8b,wiki_causal,
+disease by infectious agent,bombing,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'disease by infectious agent' is a causal relationship between a disease and an infectious agent, while 'bombing' is a different concept, therefore they do not belong to the same causal variable."
+eruption,volcanic eruption,True,True,,eruption,wikicausal,llama3-8b,wiki_causal,
+fraud,impeachment,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'fraud' is a type of illegal activity, while 'impeachment' is a political process, therefore they do not belong to the same causal variable."
+volcanic eruption,volcano eruption,True,True,,Eruption,wikicausal,llama3-8b,wiki_causal,
+disagreement,homicide,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable, 'disagreement' and 'homicide', which are not related to each other."
+eruption,volcano eruption,True,True,,eruption,wikicausal,llama3-8b,wiki_causal,
+financial crisis,slaughter,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'financial crisis' is an economic term, while 'slaughter' is a term related to violence or mass killing. They do not belong to the same causal variable."
+statute law,statutory law,True,True,,Legal Framework,wikicausal,llama3-8b,wiki_causal,
+impeachment process,emerging communicable disease,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'impeachment process' is related to politics and 'emerging communicable disease' is related to health, they do not belong to the same causal variable."
+economic crisis,economic decline,True,True,,Economic Condition,wikicausal,llama3-8b,wiki_causal,
+thievery,impeachment in the United States,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'thievery' is a form of criminal activity, while 'impeachment in the United States' is a political process, they do not belong to the same causal variable."
+economical crisis,economy crisis,True,True,,Economic Crisis,wikicausal,llama3-8b,wiki_causal,
+volcanic eruption,Clinical Infection,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'volcanic eruption' is a geological phenomenon, while 'Clinical Infection' is a medical condition, they do not belong to the same causal variable."
+economical crisis,financial crisis,True,True,,Economic Crisis,wikicausal,llama3-8b,wiki_causal,
+aeroplane crash,risk factor,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'aeroplane crash' is an event, while 'risk factor' is a concept related to probability, they do not belong to the same causal variable."
+economic crisis,financial crisis,True,True,,Economic Condition,wikicausal,llama3-8b,wiki_causal,
+energy crisis,ID,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'energy crisis' is a situation or event, while 'ID' is a unique identifier, they do not belong to the same causal variable."
+arson,incendiarism,True,True,,Fire-related damage,wikicausal,llama3-8b,wiki_causal,
+impeachment in the United States,mass executions,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'impeachment' and 'mass executions', which are not related to the same causal variable."
+arson,arsonry,True,True,,arson,wikicausal,llama3-8b,wiki_causal,
+attack,outbreak,False,True,,War or Conflict,wikicausal,llama3-8b,wiki_causal,
+fire-raising,incendiarism,True,True,,Fire,wikicausal,llama3-8b,wiki_causal,
+financial crisis,emerging infectious disease,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'financial crisis' and 'emerging infectious disease', which are not related to the same causal variable."
+epidemic,outbreak,True,True,,Health Crisis,wikicausal,llama3-8b,wiki_causal,
+riot,temblor,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable, 'riot' and 'temblor', which are not the same, indicating they do not belong to the same causal variable."
+aeroplane crash,air crash,True,True,,Crash,wikicausal,llama3-8b,wiki_causal,
+occupational accident,armed conflict,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'occupational accident' and 'armed conflict', which are not related to the same causal variable."
+aeroplane crash,helicopter crash,True,False,,,wikicausal,llama3-8b,wiki_causal,"The texts describe different types of aircraft, indicating different values of the same causal variable, which is 'aircraft type'."
+fraud,demand surplus,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'fraud' is a type of financial crime, while 'demand surplus' is an economic concept. They do not belong to the same causal variable."
+aircraft crash,helicopter crash,True,True,,Crash,wikicausal,llama3-8b,wiki_causal,
+putsch,riot,False,True,,Social Unrest,wikicausal,llama3-8b,wiki_causal,
+Clinical Infection,Infectious Diseases and Manifestations,True,True,,Disease,wikicausal,llama3-8b,wiki_causal,
+misadventure,affair,False,True,,Romantic Misstep,wikicausal,llama3-8b,wiki_causal,
+ID,pestilence,True,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'ID' is a unique identifier, while 'pestilence' is a disease or a plague, they do not belong to the same causal variable."
+scandal,mass shooting,False,False,,,wikicausal,llama3-8b,wiki_causal,The two texts describe different values of a causal variable. 'Scandal' and 'mass shooting' are two distinct concepts that cannot be mapped to the same causal variable.
+Infectious,infection,True,True,,Infection,wikicausal,llama3-8b,wiki_causal,
+workplace accident,temblor,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different events, 'workplace accident' and 'temblor' which are not related to the same causal variable."
+affair,scandal,True,True,,Social Scandal,wikicausal,llama3-8b,wiki_causal,
+bombing,economic crisis,False,False,,,wikicausal,llama3-8b,wiki_causal,The two texts describe different values of a causal variable. 'Bombing' and 'Economic Crisis' are two distinct concepts that cannot be attributed to the same causal variable.
+disease outbreak,outbreak,True,True,,disease,wikicausal,llama3-8b,wiki_causal,
+helicopter crash,dissents,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'helicopter crash' is an event, while 'dissents' is a concept in a judicial context, they do not belong to the same causal variable."
+"Accidents, Occupational",occupational accident,True,True,,Accidents,wikicausal,llama3-8b,wiki_causal,
+school shooting,2nd degree murder,False,False,,,wikicausal,llama3-8b,wiki_causal,These two texts describe different concepts and do not belong to the same causal variable.
+occupational accident,work accident,True,True,,Accident,wikicausal,llama3-8b,wiki_causal,
+epidemic,fraud,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'epidemic' refers to a widespread outbreak of disease, while 'fraud' refers to intentional deception or misrepresentation. They do not belong to the same causal variable."
+accident at work,workplace accident,True,True,,Workplace Accident,wikicausal,llama3-8b,wiki_causal,
+looting,fraud,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable, 'looting' and 'fraud', which are not the same, indicating they do not belong to the same variable set."
+industrial accident,industrial disaster,True,True,,Industrial Accident,wikicausal,llama3-8b,wiki_causal,
+murder,school shooting,False,True,,Homicide,wikicausal,llama3-8b,wiki_causal,
+industrial accident,industrial incident,True,True,,Industrial Accident/Incident,wikicausal,llama3-8b,wiki_causal,
+ministerial responsibility,risk factor,False,False,,,wikicausal,llama3-8b,wiki_causal,"These two texts describe different concepts, 'ministerial responsibility' is a concept in government and politics, while 'risk factor' is a concept in statistics and probability, they do not belong to the same causal variable."
+industrial disaster,industrial incident,True,True,,Industrial Accident,wikicausal,llama3-8b,wiki_causal,
+social problems,civil strife,False,True,,Social Unrest,wikicausal,llama3-8b,wiki_causal,
+heist,thieving,True,True,,Crime,wikicausal,llama3-8b,wiki_causal,
+conflict of power,industrial accident,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'conflict of power' and 'industrial accident', which do not belong to the same causal variable."
+theft,thieving,True,True,,crime,wikicausal,llama3-8b,wiki_causal,
+mass killing,social ill,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'mass killing' refers to a specific type of violence, while 'social ill' is a broader term for a societal problem. They do not belong to the same causal variable."
+stealing,thievery,True,True,,crime,wikicausal,llama3-8b,wiki_causal,
+natural hazard,air crash,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different types of events, 'natural hazard' and 'air crash', which are not related to the same causal variable."
+juloos,procession,True,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'juloos' is a type of traditional Indian incense stick, while 'procession' is a sequence of people or vehicles moving in an orderly fashion. They do not belong to the same causal variable."
+emerging communicable disease,attack,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'emerging communicable disease' is a type of health threat, while 'attack' is a type of military or cyber attack. They do not belong to the same causal variable."
+bomb attack,bombing,True,True,,Attack,wikicausal,llama3-8b,wiki_causal,
+murder,social ill,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'murder' is a specific type of crime, while 'social ill' is a broader term for a societal problem. They do not belong to the same causal variable."
+quake,temblor,True,True,,seismic event,wikicausal,llama3-8b,wiki_causal,
+riots,outbreak,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable. 'Riots' and 'outbreak' are distinct concepts, and they do not belong to the same variable set."
+earth quake,tremor,True,True,,Seismic Activity,wikicausal,llama3-8b,wiki_causal,
+iced,catastrophe,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable, 'iced' and 'catastrophe', which are not related to each other."
+earth quake,temblor,True,True,,Seismic Event,wikicausal,llama3-8b,wiki_causal,
+attack,catastrophe,False,False,,,wikicausal,llama3-8b,wiki_causal,"Although the words 'attack' and 'catastrophe' are related to negative events, they describe different types of events and are not interchangeable. Therefore, they do not belong to the same causal variable."
+armed conflict,military conflict,True,True,,conflict,wikicausal,llama3-8b,wiki_causal,
+self-killing,impeach,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable. 'self-killing' and 'impeach' are not related to the same concept, 'self-killing' is a phrase used to describe a form of self-destruction, while 'impeach' is a verb that means to formally accuse someone of a serious crime or wrongdoing."
+conflict,military conflict,True,True,,conflict,wikicausal,llama3-8b,wiki_causal,
+bomb attack,mass killings,False,True,,Violence,wikicausal,llama3-8b,wiki_causal,
+armed conflict,conflict,True,True,,armed conflict,wikicausal,llama3-8b,wiki_causal,
+calamity,airplane crash,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable. 'Calamity' is a broader term that can refer to various types of disasters, while 'airplane crash' is a specific type of disaster. They do not belong to the same variable set."
+War,military conflict,True,True,,War,wikicausal,llama3-8b,wiki_causal,
+excess demand,school shooting,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'excess demand' is an economic term, while 'school shooting' is a social issue, they do not belong to the same causal variable."
+War,hostilities,True,True,,Conflict,wikicausal,llama3-8b,wiki_causal,
+fraud,procession,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable, 'fraud' and 'procession', which are not related to each other."
+conflict,military conflict,True,True,,conflict,wikicausal,llama3-8b,wiki_causal,
+golpe,attack,False,True,,Military Action,wikicausal,llama3-8b,wiki_causal,
+economic shortage,excess demand,True,True,,Demand,wikicausal,llama3-8b,wiki_causal,"Both texts describe the same causal variable, 'Demand', as 'economic shortage' and 'excess demand' are related to the same concept of unmet demand."
+overthrow,riots,False,True,,Social Unrest,wikicausal,llama3-8b,wiki_causal,
+demand surplus,shortage,True,True,,Economic Shortfall,wikicausal,llama3-8b,wiki_causal,
+impeachment in the United States,emerging infectious disease,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, impeachment being a political process and emerging infectious disease being a medical concept, therefore they do not belong to the same causal variable."
+excess demand,shortage,True,True,,Demand,wikicausal,llama3-8b,wiki_causal,
+hazard,scandal,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable, 'hazard' and 'scandal', which are not the same, indicating they do not belong to the same causal variable."
+mass execution,massacre,True,True,,Violence,wikicausal,llama3-8b,wiki_causal,
+quake,fraud,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable, 'quake' and 'fraud', which are not the same, indicating they do not belong to the same variable set."
+mass executions,massacre,True,True,,Violence,wikicausal,llama3-8b,wiki_causal,
+impeachment in the United States,attack,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'impeachment' and 'attack', which are not related to the same causal variable."
+massacres,slaughter,True,True,,Violence,wikicausal,llama3-8b,wiki_causal,
+civil unrest,social ill,False,True,,Social Unrest,wikicausal,llama3-8b,wiki_causal,
+mass killings,mass murder,True,True,,Mass Homicide,wikicausal,llama3-8b,wiki_causal,
+communicable disease,outbreak,False,True,,Disease,wikicausal,llama3-8b,wiki_causal,
+mass killing,soree murders,True,True,,Violence,wikicausal,llama3-8b,wiki_causal,
+civil strife,armed conflict,False,True,,Social Unrest,wikicausal,llama3-8b,wiki_causal,
+mass murder,spree murder,True,True,,Homicide,wikicausal,llama3-8b,wiki_causal,
+impeach,bomb attack,False,False,,,wikicausal,llama3-8b,wiki_causal,The two texts describe different values of a causal variable. 'Impeach' and 'bomb attack' are unrelated concepts and do not belong to the same variable set.
+aviation accident,plane crash,True,True,,Accident,wikicausal,llama3-8b,wiki_causal,
+mass shooting,school shooting,False,True,,gun violence,wikicausal,llama3-8b,wiki_causal,
+air accident,aircraft accident,True,True,,Accident,wikicausal,llama3-8b,wiki_causal,
+mass shooting,affair,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable. 'mass shooting' and 'affair' are unrelated concepts, and they do not belong to the same variable set."
+aircraft accident,aviation accident,True,True,,Accident,wikicausal,llama3-8b,wiki_causal,
+heist,statutory law,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'heist' is a type of crime, while 'statutory law' is a type of legislation, they do not belong to the same causal variable."
+misadventure,mishap,True,True,,Accident,wikicausal,llama3-8b,wiki_causal,
+economy crisis,school shooting,False,False,,,wikicausal,llama3-8b,wiki_causal,The two texts describe different events and do not share a common causal variable.
+misfortune,mishap,True,True,,Adverse Event,wikicausal,llama3-8b,wiki_causal,
+volcano eruption,homicide,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'volcano eruption' is a geological event, while 'homicide' is a criminal act, they do not belong to the same causal variable."
+accident,misfortune,True,True,,Adverse Event,wikicausal,llama3-8b,wiki_causal,
+impeachment in the United States,eruption,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'impeachment' and 'eruption', which are not related to the same causal variable."
+coup,overthrow,True,True,,Political Upheaval,wikicausal,llama3-8b,wiki_causal,
+murder,industrial disaster,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different types of events, 'murder' and 'industrial disaster', which are not related to the same causal variable."
+coup,golpe,True,True,,military coup,wikicausal,llama3-8b,wiki_causal,
+murder,street protest,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable. 'murder' and 'street protest' are not related to the same concept, and therefore, they do not belong to the same causal variable."
+coups,coups d'état,True,True,,coups,wikicausal,llama3-8b,wiki_causal,
+economic crisis,hazard,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'economic crisis' is a type of economic event, while 'hazard' is a type of risk or danger. They do not belong to the same causal variable."
+political regime change,revolution,True,True,,Political Change,wikicausal,llama3-8b,wiki_causal,
+incendiarism,mass shooting,False,False,,,wikicausal,llama3-8b,wiki_causal,"Incendiarism and mass shooting are different types of violent acts, therefore they do not belong to the same causal variable."
+Regime change,change of political regime,True,True,,Regime,wikicausal,llama3-8b,wiki_causal,
+statutory law,tsunami,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'statutory law' is a type of law, while 'tsunami' is a natural disaster, they do not belong to the same causal variable."
+regime change,revolution,True,True,,Political Change,wikicausal,llama3-8b,wiki_causal,
+excess demand,risk factor,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'excess demand' is a concept in economics, while 'risk factor' is a concept in medicine, they do not belong to the same causal variable."
+self-killing,suicide,True,True,,Mental Health,wikicausal,llama3-8b,wiki_causal,
+suicide,disasters,False,False,,,wikicausal,llama3-8b,wiki_causal,The two texts describe different values of a causal variable. 'suicide' and 'disasters' are distinct concepts and do not belong to the same variable set.
+self-killing,self-murder,True,True,,Mortality,wikicausal,llama3-8b,wiki_causal,
+workplace accident,self-murder,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'workplace accident' refers to an occupational injury, while 'self-murder' is a form of suicide. They do not belong to the same causal variable."
+killed by self,suicide,True,True,,Mortality,wikicausal,llama3-8b,wiki_causal,
+misfortune,energy crisis,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'misfortune' is a general term for unfortunate events, while 'energy crisis' is a specific type of crisis related to energy supply and demand. They do not belong to the same causal variable."
+civil disorder,social unrest,True,True,,Social Unrest,wikicausal,llama3-8b,wiki_causal,
+change of political regime,energy crisis,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'change of political regime' is related to politics and 'energy crisis' is related to energy, they do not belong to the same causal variable."
+civil strife,social unrest,True,True,,Social Unrest,wikicausal,llama3-8b,wiki_causal,
+demand surplus,earth quake,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'demand surplus' is an economic term, while 'earth quake' is a geological phenomenon, they do not belong to the same causal variable."
+civil disorder,civil strife,True,True,,Social Unrest,wikicausal,llama3-8b,wiki_causal,
+aircraft crash,emerging communicable disease,False,False,,,wikicausal,llama3-8b,wiki_causal,These two texts describe different concepts and do not belong to the same causal variable.
+demonstration,protest,True,True,,Social Movement,wikicausal,llama3-8b,wiki_causal,
+conflict,fire-raising,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'conflict' and 'fire-raising', which are not related to the same causal variable."
+rally,street protest,True,True,,Public Demonstration,wikicausal,llama3-8b,wiki_causal,
+incendiarism,epidemic,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'incendiarism' refers to a type of arson, while 'epidemic' refers to a widespread outbreak of disease. They do not belong to the same causal variable."
+demonstration,street protest,True,True,,Social Unrest,wikicausal,llama3-8b,wiki_causal,
+mass shooting,outbreak,False,True,,Violence,wikicausal,llama3-8b,wiki_causal,
+demonstration,protest,True,True,,Social Movement,wikicausal,llama3-8b,wiki_causal,
+mass shooting,energy crisis,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'mass shooting' is a type of violent event, while 'energy crisis' is a type of economic or environmental issue, they do not belong to the same causal variable."
+demonstration,dissents,True,True,,Disagreement,wikicausal,llama3-8b,wiki_causal,
+outbreak,fraud,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable, 'outbreak' and 'fraud', which are not the same, indicating they do not belong to the same causal variable set."
+power conflict,protest movements,True,False,,,wikicausal,llama3-8b,wiki_causal,"Although the words 'power conflict' and 'protest movements' are related to social and political issues, they describe different concepts and do not belong to the same causal variable."
+economic crisis,dissent,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'economic crisis' is a type of economic event, while 'dissent' is a type of social or political behavior. They do not belong to the same causal variable."
+natural calamity,natural disaster,True,True,,Natural Hazard,wikicausal,llama3-8b,wiki_causal,
+fraud,economic crisis,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'fraud' is a type of illegal activity, while 'economic crisis' is a broader economic phenomenon, they do not belong to the same causal variable."
+natural calamity,natural hazard,True,True,,Natural Disaster,wikicausal,llama3-8b,wiki_causal,
+bomb attack,energy crisis,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'bomb attack' is a type of violent act, while 'energy crisis' is a type of economic or environmental issue, they do not belong to the same causal variable."
+natural disaster,natural hazard,True,True,,Environmental Hazard,wikicausal,llama3-8b,wiki_causal,
+energy crisis,social problems,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'energy crisis' and 'social problems', which are not related to the same causal variable."
+calamity,catastrophe,True,True,,Disaster,wikicausal,llama3-8b,wiki_causal,
+air accident,incendiarism,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'air accident' refers to a type of aviation incident, while 'incendiarism' refers to the act of setting fire to something. They do not belong to the same causal variable."
+calamity,disasters,True,True,,Natural Disasters,wikicausal,llama3-8b,wiki_causal,
+volcanic eruption,military conflict,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different types of events, which suggests they belong to different causal variables."
+catastrophe,disasters,True,True,,Natural Disasters,wikicausal,llama3-8b,wiki_causal,
+offence,"Communicable Diseases, Emerging",False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'offence' is a type of crime, while 'Communicable Diseases, Emerging' is a type of health issue, they do not belong to the same causal variable."
+social ill,social problems,True,True,,Social Issues,wikicausal,llama3-8b,wiki_causal,
+statutory law,ID,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'statutory law' refers to a type of law, while 'ID' is likely referring to an identifier, such as an identifier in a database or a unique identifier. They do not belong to the same causal variable."
+social ill,social problem,True,True,,Social Issue,wikicausal,llama3-8b,wiki_causal,
+military conflict,change of regime,False,False,,,wikicausal,llama3-8b,wiki_causal,"These texts describe different concepts, 'military conflict' refers to a type of conflict, while 'change of regime' refers to a change in the government or leadership. They do not belong to the same causal variable."
+social issue,social problem,True,True,,Social Issue,wikicausal,llama3-8b,wiki_causal,
+juloos,infection,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'juloos' is a type of traditional Indian instrument, while 'infection' is a medical term, they do not belong to the same causal variable."
+crime,criminal offense,True,True,,crime,wikicausal,llama3-8b,wiki_causal,
+"Communicable Diseases, Emerging",change of political regime,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'Communicable Diseases, Emerging' is related to health and medicine, while 'change of political regime' is related to politics and governance, they do not belong to the same causal variable."
+hoodlum,offence,True,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable, 'offence' and 'hoodlum', which are not the same, indicating they do not belong to the same variable set."
+excess demand,statute law,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'excess demand' is an economic term, while 'statute law' is a legal term, they do not belong to the same causal variable."
+crime,criminal offence,True,True,,crime,wikicausal,llama3-8b,wiki_causal,
+homicide,epidemic,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'homicide' is a type of crime, while 'epidemic' is a widespread outbreak of disease. They do not belong to the same causal variable."
+murder 2,murders,True,True,,murder,wikicausal,llama3-8b,wiki_causal,
+quake,occupational accident,False,False,,,wikicausal,llama3-8b,wiki_causal,The two texts describe different values of a causal variable. 'Quake' and 'occupational accident' are distinct concepts and do not belong to the same variable set.
+murder,murder two,True,True,,murder,wikicausal,llama3-8b,wiki_causal,
+offence,demand surplus,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'offence' and 'demand surplus', which are not related to the same causal variable."
+aggravated murder [Illinois],murders,True,True,,murder,wikicausal,llama3-8b,wiki_causal,
+ID,school shooting,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different values of a causal variable. 'ID' is a unique identifier, while 'school shooting' is an event. They do not belong to the same variable set."
+homicide,murder,True,True,,Homicide/Murder,wikicausal,llama3-8b,wiki_causal,
+risk factor,disease outbreak,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'risk factor' is a general term related to health, while 'disease outbreak' is a specific event, they do not belong to the same causal variable."
+burst,explosion,True,True,,Accidental Release of Energy,wikicausal,llama3-8b,wiki_causal,
+statute law,street protest,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'statute law' refers to a type of legislation, while 'street protest' refers to a form of public demonstration, indicating they belong to different causal variables."
+bang,blast,True,True,,Explosive Force,wikicausal,llama3-8b,wiki_causal,
+hazard,murders,False,True,,Risk,wikicausal,llama3-8b,wiki_causal,"Both 'hazard' and 'murders' describe the concept of risk or danger, indicating that they belong to the same causal variable, 'Risk'."
+boom,explosion,True,True,,Sound,wikicausal,llama3-8b,wiki_causal,
+demonstrations,economic shortage,False,False,,,wikicausal,llama3-8b,wiki_causal,"The two texts describe different concepts, 'demonstrations' and 'economic shortage', which are not related to the same causal variable."
+conflict,dispute,True,True,,Conflict,wikicausal,llama3-8b,wiki_causal,
+incendiarism,outbreak,False,False,,,wikicausal,llama3-8b,wiki_causal,The two texts describe different values of a causal variable. 'Incendiarism' and 'outbreak' are related to different types of disasters or emergencies.
+conflict (psychological),psychological conflict,True,True,,conflict,wikicausal,llama3-8b,wiki_causal,
+disease outbreak,mass shooting,False,False,,,wikicausal,llama3-8b,wiki_causal,"These two texts describe different types of events, which are not related to the same causal variable."
+"conflict, psychological",psychological conflict,True,True,,psychological conflict,wikicausal,llama3-8b,wiki_causal,
