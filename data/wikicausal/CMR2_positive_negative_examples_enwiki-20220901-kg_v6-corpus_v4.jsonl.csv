@@ -1,0 +1,10 @@
+Value,Variable definition,Interaction Value
+"conflict, psychological","['conflict', 'infectious disease']",False
+pestilence,"['conflict', 'infectious disease']",False
+despoiling,"['looting', 'demonstration', 'protest']",False
+demonstration,"['looting', 'demonstration', 'protest']",False
+workplace accident,"['work accident', 'regime change']",False
+revolution,"['work accident', 'regime change']",False
+military conflict,"['armed conflict', 'war']",True
+helicopter crash,"['aircraft crash', 'aviation accident']",True
+outbreak,"['epidemic', 'disease outbreak']",True
