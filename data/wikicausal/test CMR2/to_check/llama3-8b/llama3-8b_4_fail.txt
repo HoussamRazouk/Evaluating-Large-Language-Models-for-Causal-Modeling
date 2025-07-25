@@ -5,7 +5,3 @@
 "Variables values": ["workplace accident", ''],
 "Explanation": "The text 'workplace accident' does not belong to the variable 'regime change', so it's not an interaction value."
 }
-Prediction Model: llama3-8b
-Generated Interaction value: False
-Data Generation Model: wikicausal
-Domain: 

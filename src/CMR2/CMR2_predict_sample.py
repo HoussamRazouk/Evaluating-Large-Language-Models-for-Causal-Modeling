@@ -30,10 +30,16 @@ def CMR2_predict_sample(row,client,model):
                         - Provide variables values.
                         - If the text does not belong to all causal variables, variables values to '',
                         - Provide your explanation.
-                    Structure your answer as a JSON object including string 'Text', boolean 'Predicted Interaction value', string 'Variables', string 'Variables values', and string 'Explanation'.
+                    
+                    The Text  and the Variables are as follows:
                     
                     Text: ```{Value}```
-                    Variables: ```{Variable_definition}```       
+                    Variables: ```{Variable_definition}```  
+                    
+                    Remember to structure your answer as a JSON object including string 'Text', boolean 'Predicted Interaction value', string 'Variables', string 'Variables values', and string 'Explanation'.
+                    Return only the JSON object without any additional text or explanation with no additional break lines.
+                    
+                         
                     """}
                   ],
                   response_format={ "type": "json_object" }

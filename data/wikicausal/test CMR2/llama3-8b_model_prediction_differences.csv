@@ -1,0 +1,9 @@
+Text,Variables,Generated Interaction value,Predicted Interaction value,Data Generation Model,Prediction Model,Domain,Explanation
+"conflict, psychological","['conflict', 'infectious disease']",False,False,wikicausal,llama3-8b,,"The text does not belong to all causal variables, specifically 'infectious disease' which is not mentioned in the text."
+pestilence,"['conflict', 'infectious disease']",False,True,wikicausal,llama3-8b,,The text 'pestilence' describes the simultaneous occurrence of values of both causal variables 'conflict' and 'infectious disease'.
+despoiling,"['looting', 'demonstration', 'protest']",False,False,wikicausal,llama3-8b,,"The text 'despoiling' does not belong to all causal variables. The variables 'looting', 'demonstration', and 'protest' are not related to 'despoiling'."
+demonstration,"['looting', 'demonstration', 'protest']",False,True,wikicausal,llama3-8b,,"The text 'demonstration' belongs to the variable 'demonstration' which is one of the provided variables, making it an interaction value."
+revolution,"['work accident', 'regime change']",False,True,wikicausal,llama3-8b,,"The text 'revolution' belongs to both causal variables 'work accident' and 'regime change', indicating a simultaneous occurrence of different values of multiple causal variables."
+military conflict,"['armed conflict', 'war']",True,True,wikicausal,llama3-8b,,"The text 'military conflict' belongs to all causal variables 'armed conflict' and 'war', indicating an interaction value."
+helicopter crash,"['aircraft crash', 'aviation accident']",True,True,wikicausal,llama3-8b,,"The text 'helicopter crash' belongs to both variables 'aircraft crash' and 'aviation accident', indicating an interaction value."
+outbreak,"['epidemic', 'disease outbreak']",True,True,wikicausal,llama3-8b,,"The text 'outbreak' belongs to both variables 'epidemic' and 'disease outbreak', indicating a simultaneous occurrence of values for multiple causal variables."

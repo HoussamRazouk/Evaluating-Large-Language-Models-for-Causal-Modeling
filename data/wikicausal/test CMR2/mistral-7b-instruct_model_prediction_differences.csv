@@ -1,0 +1,10 @@
+Text,Variables,Generated Interaction value,Predicted Interaction value,Data Generation Model,Prediction Model,Domain,Explanation
+"conflict, psychological","['conflict', 'infectious disease']",False,False,wikicausal,mistral-7b-instruct,,The text only mentions 'conflict' and not 'infectious disease'.
+pestilence,"['conflict', 'infectious disease']",False,False,wikicausal,mistral-7b-instruct,,"The text 'pestilence' does not indicate a conflict, it refers to an infectious disease."
+despoiling,"['looting', 'demonstration', 'protest']",False,False,wikicausal,mistral-7b-instruct,,"The term 'despoiling' does not directly relate to 'looting', 'demonstration', or 'protest'."
+demonstration,"['looting', 'demonstration', 'protest']",False,False,wikicausal,mistral-7b-instruct,,The text 'demonstration' only contains one variable out of the three provided. It does not indicate a simultaneous occurrence of 'looting' and 'protest'.
+workplace accident,"['work accident', 'regime change']",False,False,wikicausal,mistral-7b-instruct,,The text 'workplace accident' does not describe a 'regime change'.
+revolution,"['work accident', 'regime change']",False,false,wikicausal,mistral-7b-instruct,,The text 'revolution' does not describe a work accident or a regime change.
+military conflict,"['armed conflict', 'war']",True,False,wikicausal,mistral-7b-instruct,,"The text 'military conflict' only refers to 'armed conflict' and 'war', but not both in an interactional sense. It is a specific type of 'armed conflict' or 'war'."
+helicopter crash,"['aircraft crash', 'aviation accident']",True,False,wikicausal,mistral-7b-instruct,,"The text 'helicopter crash' only describes a specific type of 'aircraft crash', but it does not necessarily imply an 'aviation accident' as it could be a non-fatal crash or an accident that does not involve multiple aircraft."
+outbreak,"['epidemic', 'disease outbreak']",True,True,wikicausal,mistral-7b-instruct,,
