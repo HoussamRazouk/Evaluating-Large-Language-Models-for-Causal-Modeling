@@ -31,6 +31,17 @@ def run_model_on_wikicausal(model,sampled_data_df,client):
         os.makedirs(output_path+f'to_check/{model}')
     except:
         print(output_path+f'to_check/{model} already exists')
+        dir_path=output_path+f'to_check/{model}'
+        for filename in os.listdir(dir_path):
+            # Construct the full file path
+            file_path = os.path.join(dir_path, filename)
+            
+            # Check if the file is a regular file (not a directory)
+            if os.path.isfile(file_path):
+                # Delete the file
+                os.remove(file_path)
+                print(f"Deleted file: {filename}")
+        
     
     model_thread(sampled_data_df, model, client, output_path)
     
@@ -69,9 +80,6 @@ def main():
     
     models=[
             "llama3-8b",
-            "mixtral-8x22b-instruct",
-            "mixtral-8x7b-instruct",
-            "mistral-7b-instruct",
             ]
     
     

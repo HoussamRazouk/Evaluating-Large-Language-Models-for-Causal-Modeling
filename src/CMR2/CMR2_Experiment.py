@@ -25,7 +25,7 @@ def model_thread(test_data,model,client,output_path):
         #if True:
             response=CMR2_predict_sample(row,client,model)
             results.append(response)
-            print(f"Response for {index} is {response}")
+            #print(f"Response for {index} is {response}")
             df=pd.DataFrame(results)
             df=df[[
                 'Text',
