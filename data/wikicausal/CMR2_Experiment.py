@@ -79,7 +79,8 @@ def main():
             ]
     
     models=[
-            "llama3-8b",
+            "gpt-3.5-turbo",
+            "gpt-4-turbo",
             ]
     
     
@@ -107,7 +108,9 @@ def test():
             "mistral-7b-instruct",
             "embedding_cos_sim"
             ]
-    models=["llama3-70b",
+    models=["gpt-4-turbo",
+            "gpt-3.5-turbo",
+            "llama3-70b",
             "llama3-8b",
             "mixtral-8x22b-instruct",
             "mixtral-8x7b-instruct",
@@ -125,6 +128,6 @@ def test():
             results_file=pd.read_csv(f'data/wikicausal/test CMR2/{model}_model_prediction_differences.csv')
             get_metrics(results_file,model)
             
-main() 
+#main() 
 
 test()          
