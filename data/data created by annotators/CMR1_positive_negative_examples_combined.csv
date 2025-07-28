@@ -1,55 +1,55 @@
-Text1,Text2,Same Causal Variable,domain,Variable Name
-Torn ligaments,Ankle Sprains,False,annotators,
-The team is fired up,The team feels undervalued and unappreciated,True,annotators,Team Motivation
-Running Drills,No Connective Tissue Disorder,False,annotators,
-There is a lack of enthusiasm and excitement among players,The team feels undervalued and unappreciated,True,annotators,Team Motivation
-American football,Lunge,False,annotators,
-The team is holding their own,The team feels undervalued and unappreciated,True,annotators,Team Motivation
-Marfan Syndrome,Hamstring Strains,False,annotators,
-The athletes have a high level of endurance,Base phase,True,annotators,Fitness Level
-No  Injury,There is a lack of enthusiasm and excitement among players,False,annotators,
-The team is out of shape,Peaking,True,annotators,Fitness Level
-Peaking,Joint Hypermobility,False,annotators,
-The athletes have a high level of endurance,The team is in decent shape,True,annotators,Fitness Level
-Scleroderma,Soccer,False,annotators,
-Leg swings,No Warm Up Exercises,True,annotators,Warm Up Exercises
-ACTN3  impacts muscle fiber types affecting strength and power,Mixed Connective Tissue Disease (MCTD),False,annotators,
-Running,No Warm Up Exercises,True,annotators,Warm Up Exercises
-Diving,Joint Hypermobility,False,annotators,
-Running Drills,Functional Fitness,True,annotators,Warm Up Exercises
-Knee Injuries,The team is in decent shape,False,annotators,
-TNC Variants in these genes have been linked to an increased risk of Achilles tendon injury,FTO  is linked to increased body mass and weight gain but the effect can be mitigated by physical activity.,True,annotators,Genetics
-The team is holding their own,Rheumatoid Arthritis (RA),False,annotators,
-COL5A1 Variants in these genes have been linked to an increased risk of Achilles tendon injury,FTO  is linked to increased body mass and weight gain but the effect can be mitigated by physical activity.,True,annotators,Genetics
-Groin Strains,Joint Hypermobility,False,annotators,
-ACTN3  impacts muscle fiber types affecting strength and power,FTO  is linked to increased body mass and weight gain but the effect can be mitigated by physical activity.,True,annotators,Genetics
-Wrestling,The team is in decent shape,False,annotators,
-Fibromyalgia,Marfan Syndrome,True,annotators,Connective Tissue Disorder
-Water Polo,Multi-Joint Mobility,False,annotators,
-Scleroderma,Hypermobile Ehlers-Danlos Syndrome (EDS),True,annotators,Connective Tissue Disorder
-Hamstring Strains,The team is in top physical condition,False,annotators,
-Scleroderma,Rheumatoid Arthritis (RA),True,annotators,Connective Tissue Disorder
-Torn ligaments,Marfan Syndrome,False,annotators,
-Tennis,Gymnastics,True,annotators,Contact sport
-Base phase,Hamstring Strains,False,annotators,
-Basketball,Badminton,True,annotators,Contact sport
-Running,The team is fired up,False,annotators,
-Running,Water Polo,True,annotators,Contact sport
-Overtraining,Muscle pain or soreness,False,annotators,
-Joint Hypermobility,Skeletal Abnormalities,True,annotators,Tissue Weakness
-Running,Muscle cramps during exercise,False,annotators,
-Torn ligaments,Skeletal Abnormalities,True,annotators,Tissue Weakness
-FTO  is linked to increased body mass and weight gain but the effect can be mitigated by physical activity.,Basketball,False,annotators,
-Torn ligaments,Joint Hypermobility,True,annotators,Tissue Weakness
-Water Polo,No Neuromuscular Fatigue,False,annotators,
-Losing the ability to lift a weight,No Neuromuscular Fatigue,True,annotators,Neuromuscular Fatigue
-Overtraining,Skeletal Abnormalities,False,annotators,
-Muscle twitching,No Neuromuscular Fatigue,True,annotators,Neuromuscular Fatigue
-The team is in top physical condition,Osteogenesis Imperfecta,False,annotators,
-Muscle cramps during exercise,Muscle pain or soreness,True,annotators,Neuromuscular Fatigue
-Skeletal Abnormalities,The athletes have a high level of endurance,False,annotators,
-Knee Injuries,Groin Strains,True,annotators,Injury
-Losing the ability to lift a weight,Ice Hockey,False,annotators,
-Ankle Sprains,No  Injury,True,annotators,Injury
-No Tissue Weakness,The team is fired up,False,annotators,
-Torn ligaments,Groin Strains,True,annotators,Injury
+Text1,Text2,Same Causal Variable,domain,Variable Name,model Name,text1_text2_cos_sim_text-embedding-3-large
+Torn ligaments,Ankle Sprains,False,annotators,,annotators,0.526
+The team is fired up,The team feels undervalued and unappreciated,True,annotators,Team Motivation,annotators,0.463
+Running Drills,No Connective Tissue Disorder,False,annotators,,annotators,0.079
+There is a lack of enthusiasm and excitement among players,The team feels undervalued and unappreciated,True,annotators,Team Motivation,annotators,0.453
+American football,Lunge,False,annotators,,annotators,0.165
+The team is holding their own,The team feels undervalued and unappreciated,True,annotators,Team Motivation,annotators,0.435
+Marfan Syndrome,Hamstring Strains,False,annotators,,annotators,0.216
+The athletes have a high level of endurance,Base phase,True,annotators,Fitness Level,annotators,0.154
+No  Injury,There is a lack of enthusiasm and excitement among players,False,annotators,,annotators,0.204
+The team is out of shape,Peaking,True,annotators,Fitness Level,annotators,0.167
+Peaking,Joint Hypermobility,False,annotators,,annotators,0.128
+The athletes have a high level of endurance,The team is in decent shape,True,annotators,Fitness Level,annotators,0.342
+Scleroderma,Soccer,False,annotators,,annotators,0.184
+Leg swings,No Warm Up Exercises,True,annotators,Warm Up Exercises,annotators,0.333
+ACTN3  impacts muscle fiber types affecting strength and power,Mixed Connective Tissue Disease (MCTD),False,annotators,,annotators,0.148
+Running,No Warm Up Exercises,True,annotators,Warm Up Exercises,annotators,0.289
+Diving,Joint Hypermobility,False,annotators,,annotators,0.197
+Running Drills,Functional Fitness,True,annotators,Warm Up Exercises,annotators,0.301
+Knee Injuries,The team is in decent shape,False,annotators,,annotators,0.175
+TNC Variants in these genes have been linked to an increased risk of Achilles tendon injury,FTO  is linked to increased body mass and weight gain but the effect can be mitigated by physical activity.,True,annotators,Genetics,annotators,0.325
+The team is holding their own,Rheumatoid Arthritis (RA),False,annotators,,annotators,0.075
+COL5A1 Variants in these genes have been linked to an increased risk of Achilles tendon injury,FTO  is linked to increased body mass and weight gain but the effect can be mitigated by physical activity.,True,annotators,Genetics,annotators,0.264
+Groin Strains,Joint Hypermobility,False,annotators,,annotators,0.326
+ACTN3  impacts muscle fiber types affecting strength and power,FTO  is linked to increased body mass and weight gain but the effect can be mitigated by physical activity.,True,annotators,Genetics,annotators,0.368
+Wrestling,The team is in decent shape,False,annotators,,annotators,0.151
+Fibromyalgia,Marfan Syndrome,True,annotators,Connective Tissue Disorder,annotators,0.423
+Water Polo,Multi-Joint Mobility,False,annotators,,annotators,0.188
+Scleroderma,Hypermobile Ehlers-Danlos Syndrome (EDS),True,annotators,Connective Tissue Disorder,annotators,0.342
+Hamstring Strains,The team is in top physical condition,False,annotators,,annotators,0.194
+Scleroderma,Rheumatoid Arthritis (RA),True,annotators,Connective Tissue Disorder,annotators,0.446
+Torn ligaments,Marfan Syndrome,False,annotators,,annotators,0.298
+Tennis,Gymnastics,True,annotators,Contact sport,annotators,0.481
+Base phase,Hamstring Strains,False,annotators,,annotators,0.142
+Basketball,Badminton,True,annotators,Contact sport,annotators,0.562
+Running,The team is fired up,False,annotators,,annotators,0.204
+Running,Water Polo,True,annotators,Contact sport,annotators,0.264
+Overtraining,Muscle pain or soreness,False,annotators,,annotators,0.369
+Joint Hypermobility,Skeletal Abnormalities,True,annotators,Tissue Weakness,annotators,0.435
+Running,Muscle cramps during exercise,False,annotators,,annotators,0.181
+Torn ligaments,Skeletal Abnormalities,True,annotators,Tissue Weakness,annotators,0.322
+FTO  is linked to increased body mass and weight gain but the effect can be mitigated by physical activity.,Basketball,False,annotators,,annotators,0.078
+Torn ligaments,Joint Hypermobility,True,annotators,Tissue Weakness,annotators,0.402
+Water Polo,No Neuromuscular Fatigue,False,annotators,,annotators,0.132
+Losing the ability to lift a weight,No Neuromuscular Fatigue,True,annotators,Neuromuscular Fatigue,annotators,0.355
+Overtraining,Skeletal Abnormalities,False,annotators,,annotators,0.207
+Muscle twitching,No Neuromuscular Fatigue,True,annotators,Neuromuscular Fatigue,annotators,0.42
+The team is in top physical condition,Osteogenesis Imperfecta,False,annotators,,annotators,0.076
+Muscle cramps during exercise,Muscle pain or soreness,True,annotators,Neuromuscular Fatigue,annotators,0.477
+Skeletal Abnormalities,The athletes have a high level of endurance,False,annotators,,annotators,0.118
+Knee Injuries,Groin Strains,True,annotators,Injury,annotators,0.476
+Losing the ability to lift a weight,Ice Hockey,False,annotators,,annotators,0.116
+Ankle Sprains,No  Injury,True,annotators,Injury,annotators,0.31
+No Tissue Weakness,The team is fired up,False,annotators,,annotators,0.096
+Torn ligaments,Groin Strains,True,annotators,Injury,annotators,0.455

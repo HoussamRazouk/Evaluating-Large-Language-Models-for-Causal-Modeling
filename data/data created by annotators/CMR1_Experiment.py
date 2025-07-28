@@ -50,7 +50,7 @@ def main():
     
     config=conf_init()
     sampled_data_df=pd.read_csv('data/data created by annotators/CMR1_positive_negative_examples_combined.csv')
-    get_embedding_cos_sim_df(sampled_data_df, embeddings_model='text-embedding-3-large')
+    #get_embedding_cos_sim_df(sampled_data_df, embeddings_model='text-embedding-3-large')
     sampled_data_df['model Name']='annotators'
     
     
@@ -63,20 +63,23 @@ def main():
             "mistral-7b-instruct"
             ]
     
-    models=["gpt-3.5-turbo",
-            "gpt-4-turbo"]
+    models=["embedding_cos_sim"]
     
     
     for model in models:
         
-        if model in ['gpt-3.5-turbo','gpt-4-turbo']:
+        if model in ['gpt-3.5-turbo','gpt-4-turbo',"embedding_cos_sim"]:
             client = OpenAI()
         else:
             client=init_lama()
 
-        run_model_on_annotators_data(model,sampled_data_df,client)
-        results_file=pd.read_csv(f'data/data created by annotators/test CMR1/{model}_model_prediction_large.csv')
-        get_metrics(results_file,model)
+        if model == 'embedding_cos_sim':
+            get_embedding_cos_sim_df(sampled_data_df, embeddings_model='text-embedding-3-large')
+            
+        else:
+            run_model_on_annotators_data(model,sampled_data_df,client)
+            results_file=pd.read_csv(f'data/data created by annotators/test CMR1/{model}_model_prediction_large.csv')
+            get_metrics(results_file,model)
 def test():
     
     models=[
@@ -111,9 +114,9 @@ def test():
             results_file=pd.read_csv(f'data/data created by annotators/test CMR1/{model}_model_prediction_large.csv')
             get_metrics(results_file,model)
             
-#main() 
+main() 
 
-test()          
+#test()          
 
 
          

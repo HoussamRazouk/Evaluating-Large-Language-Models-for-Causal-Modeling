@@ -1,7 +1,7 @@
-Value,Variable definition,Interaction Value
-Fibromyalgia,"['Connective Tissue Disorder', 'Genetics']",False
-COL5A1 Variants in these genes have been linked to an increased risk of Achilles tendon injury,"['Connective Tissue Disorder', 'Genetics']",False
-Muscle twitching,"['Neuromuscular Fatigue', 'Genetics']",False
-FTO  is linked to increased body mass and weight gain but the effect can be mitigated by physical activity.,"['Neuromuscular Fatigue', 'Genetics']",False
-Running,"['Warm Up Exercises', 'Contact sport']",True
-Torn ligaments,"['Tissue Weakness', 'Injury']",True
+Value,Variable definition,Interaction Value,model Name,Variable Name,domain,text1_text2_cos_sim_text-embedding-3-large
+Fibromyalgia,"['Connective Tissue Disorder', 'Genetics']",False,data created by annotators,,,0.341
+COL5A1 Variants in these genes have been linked to an increased risk of Achilles tendon injury,"['Connective Tissue Disorder', 'Genetics']",False,data created by annotators,,,0.379
+Muscle twitching,"['Neuromuscular Fatigue', 'Genetics']",False,data created by annotators,,,0.352
+FTO  is linked to increased body mass and weight gain but the effect can be mitigated by physical activity.,"['Neuromuscular Fatigue', 'Genetics']",False,data created by annotators,,,0.285
+Running,"['Warm Up Exercises', 'Contact sport']",True,data created by annotators,,,0.304
+Torn ligaments,"['Tissue Weakness', 'Injury']",True,data created by annotators,,,0.395
