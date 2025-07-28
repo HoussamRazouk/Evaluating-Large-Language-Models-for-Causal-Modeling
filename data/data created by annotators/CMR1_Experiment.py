@@ -16,15 +16,15 @@ import os
 
 def get_embedding_cos_sim_df(sampled_data_df, embeddings_model='text-embedding-3-large'):
     sampled_data_df[f'text1_text2_cos_sim_{embeddings_model}']=sampled_data_df.progress_apply(lambda row: get_cos_sim(row['Text1'],row['Text2'],embeddings_model),axis=1)
-    sampled_data_df.to_csv('data/wikicausal/CMR1_positive_negative_examples_enwiki-20220901-kg_v6-corpus_v4.jsonl.csv',index=False)
+    sampled_data_df.to_csv('data/data created by annotators/CMR1_positive_negative_examples_combined.csv',index=False)
 
     #return sampled_data_df
 
 #emb_text2=emb_text2=openai.embeddings.create(input = '[text2]', model=embeddings_model).data[0].embedding
 
-def run_model_on_wikicausal(model,sampled_data_df,client):
+def run_model_on_annotators_data(model,sampled_data_df,client):
     
-    output_path='data/wikicausal/test CMR1/'
+    output_path='data/data created by annotators/test CMR1/'
     
     try:
         os.makedirs(output_path+f'to_check/{model}')
@@ -49,10 +49,10 @@ def get_metrics(results_file,model):
 def main():
     
     config=conf_init()
-    sampled_data_df=pd.read_csv('data/wikicausal/CMR1_positive_negative_examples_enwiki-20220901-kg_v6-corpus_v4.jsonl.csv')
+    sampled_data_df=pd.read_csv('data/data created by annotators/CMR1_positive_negative_examples_combined.csv')
     #sampled_data_df=get_embedding_cos_sim_df(sampled_data_df, embeddings_model='text-embedding-3-large')
-    sampled_data_df['model Name']='wikicausal'
-    sampled_data_df['Variable Name']=''
+    sampled_data_df['model Name']='annotators'
+    
     
     models=["llama3-70b",
             "mixtral-8x22b-instruct",
@@ -63,7 +63,10 @@ def main():
             "mistral-7b-instruct"
             ]
     
-    models=["mixtral-8x22b-instruct"]
+    models=["llama3-70b",
+            "llama3-8b",
+            "mixtral-8x7b-instruct",
+            "mistral-7b-instruct"]
     
     
     for model in models:
@@ -73,8 +76,8 @@ def main():
         else:
             client=init_lama()
 
-        run_model_on_wikicausal(model,sampled_data_df,client)
-        results_file=pd.read_csv(f'data/wikicausal/test/{model}_model_prediction_large.csv')
+        run_model_on_annotators_data(model,sampled_data_df,client)
+        results_file=pd.read_csv(f'data/data created by annotators/test CMR1/{model}_model_prediction_large.csv')
         get_metrics(results_file,model)
 def test():
     
@@ -89,23 +92,23 @@ def test():
             "embedding_cos_sim"
             ]
     models=[
-            "embedding_cos_sim"
+            "llama3-70b"
             ]
     
     
     for model in models:
         if model == 'embedding_cos_sim':
-            sampled_data_df=pd.read_csv('data/wikicausal/CMR1_positive_negative_examples_enwiki-20220901-kg_v6-corpus_v4.jsonl.csv')
+            sampled_data_df=pd.read_csv('data/data created by annotators/CMR1_positive_negative_examples_combined.csv')
             sampled_data_df["Generated Same Causal Variable"]= sampled_data_df["Same Causal Variable"]
             sampled_data_df["Predicted Same Causal Variable"]= sampled_data_df.apply(lambda row: row['text1_text2_cos_sim_text-embedding-3-large']>0.7,axis=1)
             get_metrics(sampled_data_df,model)
         else:
-            results_file=pd.read_csv(f'data/wikicausal/test/{model}_model_prediction_large.csv')
+            results_file=pd.read_csv(f'data/data created by annotators/test CMR1/{model}_model_prediction_large.csv')
             get_metrics(results_file,model)
             
-#main() 
+main() 
 
-test()          
+#test()          
 
 
          
