@@ -50,7 +50,7 @@ def main():
     
     config=conf_init()
     sampled_data_df=pd.read_csv('data/data created by annotators/CMR1_positive_negative_examples_combined.csv')
-    #sampled_data_df=get_embedding_cos_sim_df(sampled_data_df, embeddings_model='text-embedding-3-large')
+    get_embedding_cos_sim_df(sampled_data_df, embeddings_model='text-embedding-3-large')
     sampled_data_df['model Name']='annotators'
     
     
@@ -90,11 +90,18 @@ def test():
             "embedding_cos_sim"
             ]
     models=[
-            "llama3-70b"
+            "gpt-4-turbo",
+            "gpt-3.5-turbo",
+            "llama3-70b",
+            "llama3-8b",
+            "mixtral-8x22b-instruct",
+            "mixtral-8x7b-instruct",
+            "mistral-7b-instruct",
             ]
     
     
     for model in models:
+        print("#####################################################################")
         if model == 'embedding_cos_sim':
             sampled_data_df=pd.read_csv('data/data created by annotators/CMR1_positive_negative_examples_combined.csv')
             sampled_data_df["Generated Same Causal Variable"]= sampled_data_df["Same Causal Variable"]
@@ -104,9 +111,9 @@ def test():
             results_file=pd.read_csv(f'data/data created by annotators/test CMR1/{model}_model_prediction_large.csv')
             get_metrics(results_file,model)
             
-main() 
+#main() 
 
-#test()          
+test()          
 
 
          

@@ -16,7 +16,7 @@ import os
 
 def get_embedding_cos_sim_df(sampled_data_df, embeddings_model='text-embedding-3-large'):
     
-    sampled_data_df[f'text1_text2_cos_sim_{embeddings_model}']=sampled_data_df.progress_apply(lambda row: get_cos_sim(row['Text1'],row['Text2'],embeddings_model),axis=1)
+    sampled_data_df[f'text1_text2_cos_sim_{embeddings_model}']=sampled_data_df.progress_apply(lambda row: get_cos_sim(row['Value'],row['Variable definition'],embeddings_model),axis=1)
     sampled_data_df.to_csv('data/data created by annotators/CMR2_positive_negative_examples.csv',index=False)
 
     #return sampled_data_df
@@ -64,7 +64,7 @@ def main():
     
     config=conf_init()
     sampled_data_df=pd.read_csv('data/data created by annotators/CMR2_positive_negative_examples.csv')
-    #sampled_data_df=get_embedding_cos_sim_df(sampled_data_df, embeddings_model='text-embedding-3-large')
+    get_embedding_cos_sim_df(sampled_data_df, embeddings_model='text-embedding-3-large')
     sampled_data_df['model Name']='data created by annotators'
     sampled_data_df['Variable Name']=''
     sampled_data_df['domain']=''
@@ -119,6 +119,7 @@ def test():
     
     
     for model in models:
+        print("#####################################################################")
         if model == 'embedding_cos_sim':
             sampled_data_df=pd.read_csv('data/data created by annotators/CMR2_positive_negative_examples.csv')
             sampled_data_df["Generated Interaction value"]= sampled_data_df["Generated Interaction value"]
@@ -128,6 +129,6 @@ def test():
             results_file=pd.read_csv(f'data/data created by annotators/test CMR2/{model}_model_prediction_differences.csv')
             get_metrics(results_file,model)
             
-main() 
+#main() 
 
-#test()          
+test()          
