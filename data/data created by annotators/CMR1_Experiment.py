@@ -63,10 +63,8 @@ def main():
             "mistral-7b-instruct"
             ]
     
-    models=["llama3-70b",
-            "llama3-8b",
-            "mixtral-8x7b-instruct",
-            "mistral-7b-instruct"]
+    models=["gpt-3.5-turbo",
+            "gpt-4-turbo"]
     
     
     for model in models:
