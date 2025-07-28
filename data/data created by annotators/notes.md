@@ -1,0 +1,2 @@
+Team Motivation,"[ Position in League or Tournament',' Fanbase and Spectators']" ? these are causes which affects the team motivations not values 
+Injury,"['Level of Injury','Duration for Recovery']"? these are features of the injury (can be considered independent variables) the injury not values
