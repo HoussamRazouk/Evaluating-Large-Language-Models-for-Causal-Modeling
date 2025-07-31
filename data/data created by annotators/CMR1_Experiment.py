@@ -37,13 +37,14 @@ def get_metrics(results_file,model):
     y_test= test_df["Generated Same Causal Variable"].apply(bool)# Generated Same Causal Variable,Predicted Same Causal Variable
     y_pred= test_df["Predicted Same Causal Variable"].apply(bool)
     kappa= round(cohen_kappa_score(y_test, y_pred),2)
-    Precision= round(precision_score(y_test, y_pred),2)
-    Recall= round(recall_score(y_test, y_pred),2)
-    F1= round(f1_score(y_test, y_pred),2)
+    Precision= round(precision_score(y_test, y_pred,zero_division=0),2)
+    Recall= round(recall_score(y_test, y_pred,zero_division=0),2)
+    F1= round(f1_score(y_test, y_pred,zero_division=0),2)
+    print(f"Kappa for {model}: {kappa}")
     print(f"F1 for {model}: {F1}")
     print(f"Precision for {model}: {Precision}")
     print(f"Recall for {model}: {Recall}")
-    print(f"Kappa for {model}: {kappa}")
+
     
 
 def main():
@@ -92,15 +93,7 @@ def test():
             "mistral-7b-instruct",
             "embedding_cos_sim"
             ]
-    models=[
-            "gpt-4-turbo",
-            "gpt-3.5-turbo",
-            "llama3-70b",
-            "llama3-8b",
-            "mixtral-8x22b-instruct",
-            "mixtral-8x7b-instruct",
-            "mistral-7b-instruct",
-            ]
+
     
     
     for model in models:
@@ -114,9 +107,9 @@ def test():
             results_file=pd.read_csv(f'data/data created by annotators/test CMR1/{model}_model_prediction_large.csv')
             get_metrics(results_file,model)
             
-main() 
+#main() 
 
-#test()          
+test()          
 
 
          

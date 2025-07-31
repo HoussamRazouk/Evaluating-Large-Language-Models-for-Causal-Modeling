@@ -54,10 +54,11 @@ def get_metrics(results_file,model):
     Precision= round(precision_score(y_test, y_pred),2)
     Recall= round(recall_score(y_test, y_pred),2)
     F1= round(f1_score(y_test, y_pred),2)
+    print(f"Kappa for {model}: {kappa}")
     print(f"F1 for {model}: {F1}")
     print(f"Precision for {model}: {Precision}")
     print(f"Recall for {model}: {Recall}")
-    print(f"Kappa for {model}: {kappa}")
+    
     
 
 def main():
@@ -119,6 +120,7 @@ def test():
     
     
     for model in models:
+        print('###################################################################')
         if model == 'embedding_cos_sim':
             sampled_data_df=pd.read_csv('data/wikicausal/CMR2_positive_negative_examples_enwiki-20220901-kg_v6-corpus_v4.jsonl.csv')
             sampled_data_df["Generated Interaction value"]= sampled_data_df["Generated Interaction value"]

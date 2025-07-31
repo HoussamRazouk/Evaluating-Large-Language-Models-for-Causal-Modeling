@@ -51,13 +51,13 @@ def get_metrics(results_file,model):
     y_test= test_df["Generated Interaction value"].apply(bool)# Generated Same Causal Variable,Predicted Same Causal Variable
     y_pred= test_df["Predicted Interaction value"].apply(bool)
     kappa= round(cohen_kappa_score(y_test, y_pred),2)
-    Precision= round(precision_score(y_test, y_pred),2)
-    Recall= round(recall_score(y_test, y_pred),2)
-    F1= round(f1_score(y_test, y_pred),2)
+    Precision= round(precision_score(y_test, y_pred,zero_division=0),2)
+    Recall= round(recall_score(y_test, y_pred,zero_division=0),2)
+    F1= round(f1_score(y_test, y_pred,zero_division=0),2)
+    print(f"Kappa for {model}: {kappa}")
     print(f"F1 for {model}: {F1}")
     print(f"Precision for {model}: {Precision}")
     print(f"Recall for {model}: {Recall}")
-    print(f"Kappa for {model}: {kappa}")
     
 
 def main():
@@ -109,27 +109,19 @@ def test():
             "mistral-7b-instruct",
             "embedding_cos_sim"
             ]
-    models=["gpt-4-turbo",
-            "gpt-3.5-turbo",
-            "llama3-70b",
-            "llama3-8b",
-            "mixtral-8x22b-instruct",
-            "mixtral-8x7b-instruct",
-            "mistral-7b-instruct",
-            ]
     
     
     for model in models:
         print("#####################################################################")
         if model == 'embedding_cos_sim':
             sampled_data_df=pd.read_csv('data/data created by annotators/CMR2_positive_negative_examples.csv')
-            sampled_data_df["Generated Interaction value"]= sampled_data_df["Generated Interaction value"]
+            sampled_data_df["Generated Interaction value"]= sampled_data_df["Interaction Value"]
             sampled_data_df["Predicted Interaction value"]= sampled_data_df.apply(lambda row: row['text1_text2_cos_sim_text-embedding-3-large']>0.7,axis=1)
             get_metrics(sampled_data_df,model)
         else:
             results_file=pd.read_csv(f'data/data created by annotators/test CMR2/{model}_model_prediction_differences.csv')
             get_metrics(results_file,model)
             
-main() 
+#main() 
 
-#test()          
+test()          

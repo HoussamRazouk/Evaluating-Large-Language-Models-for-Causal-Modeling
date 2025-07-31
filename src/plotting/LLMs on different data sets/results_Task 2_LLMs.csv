@@ -1,0 +1,9 @@
+Model,F1,P,R,Kappa
+GPT-4-turbo,51,95,35,33  
+GPT-3.5-turbo,40,94,26,24 
+Llama3-70b,67,90,53,47   
+Llama3-8b,66,81,55,42  
+Mixtral-8×22b,77,92,65,60 
+Mixtral-8×7b,21,93,12,11   
+Mistral-7b,8,89,4,4   
+CosSim@70%,4,100,2,2   
