@@ -94,6 +94,8 @@ def test():
             "embedding_cos_sim"
             ]
 
+    models=["embedding_cos_sim"]
+
     
     
     for model in models:

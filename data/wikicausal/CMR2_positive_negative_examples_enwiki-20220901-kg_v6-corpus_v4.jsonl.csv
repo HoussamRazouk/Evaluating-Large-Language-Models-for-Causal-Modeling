@@ -1,10 +1,10 @@
-Value,Variable definition,Interaction Value
-"conflict, psychological","['conflict', 'infectious disease']",False
-pestilence,"['conflict', 'infectious disease']",False
-despoiling,"['looting', 'demonstration', 'protest']",False
-demonstration,"['looting', 'demonstration', 'protest']",False
-workplace accident,"['work accident', 'regime change']",False
-revolution,"['work accident', 'regime change']",False
-military conflict,"['armed conflict', 'war']",True
-helicopter crash,"['aircraft crash', 'aviation accident']",True
-outbreak,"['epidemic', 'disease outbreak']",True
+Value,Variable definition,Interaction Value,model Name,Variable Name,domain,text1_text2_cos_sim_text-embedding-3-large
+"conflict, psychological","['conflict', 'infectious disease']",False,wikicausal,,,0.464
+pestilence,"['conflict', 'infectious disease']",False,wikicausal,,,0.375
+despoiling,"['looting', 'demonstration', 'protest']",False,wikicausal,,,0.299
+demonstration,"['looting', 'demonstration', 'protest']",False,wikicausal,,,0.444
+workplace accident,"['work accident', 'regime change']",False,wikicausal,,,0.538
+revolution,"['work accident', 'regime change']",False,wikicausal,,,0.288
+military conflict,"['armed conflict', 'war']",True,wikicausal,,,0.588
+helicopter crash,"['aircraft crash', 'aviation accident']",True,wikicausal,,,0.49
+outbreak,"['epidemic', 'disease outbreak']",True,wikicausal,,,0.555
